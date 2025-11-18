@@ -30,7 +30,7 @@
   "mapViewEnabled": true,
   "mapViewParameters": {
     "darkMode": "false",
-    "defaultZoom": -2.8,
+    "defaultZoom": -1.5,
     "distanceMultiplier": 1,
     "drawColor": "#3388ff",
     "geojson": [],
@@ -53,7 +53,7 @@
     "markerFolder": [],
     "markerTag": [],
     "maxZoom": 1,
-    "minZoom": -2.8,
+    "minZoom": -1.5,
     "osmLayer": true,
     "overlay": [],
     "overlayColor": "blue",
@@ -65,8 +65,6 @@
     "zoomFeatures": false,
     "id": "Map",
     "recenter": true,
-    "lat": 3000,
-    "long": 8096,
     "darkmode": false,
     "filterTag": []
   },
