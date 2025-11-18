@@ -1,18 +1,7 @@
 {
 	"nodes":[
 		{"id":"cca9a8075ab0c14d","type":"text","text":"---\n\n---\n# Start","x":-680,"y":760,"width":330,"height":180},
-		{"id":"3690f34edf6d9239","type":"file","file":"2-Sessions/1 - Gefangen unter Tage.md","x":-350,"y":940,"width":460,"height":50},
-		{"id":"754dee4e0bb5bb0f","type":"file","file":"2-Sessions/2 - Auf zu Level 2.md","x":110,"y":940,"width":340,"height":50},
-		{"id":"25465a2456a363dc","type":"file","file":"2-Sessions/3 - Der Fluss ohne Wasser.md","x":480,"y":940,"width":460,"height":50},
-		{"id":"945716a2b8ee5a6b","type":"file","file":"2-Sessions/4 - Ein Kampf um Ähre.md","x":940,"y":940,"width":400,"height":50},
-		{"id":"e791726dfe02d141","type":"file","file":"2-Sessions/5 - Level 3 awaits.md","x":1360,"y":940,"width":335,"height":50},
-		{"id":"2fe54804dce326fe","type":"file","file":"2-Sessions/6 - Waldwanderung.md","x":1695,"y":940,"width":385,"height":50},
-		{"id":"889def03310e2c2b","type":"file","file":"2-Sessions/7 - Der geflügelte Gott (I).md","x":2080,"y":940,"width":480,"height":50},
-		{"id":"093afd5141c557e5","type":"file","file":"2-Sessions/8 - Tales of Ares.md","x":110,"y":1040,"width":2170,"height":50},
-		{"id":"9df0c5d4a6b84910","type":"file","file":"2-Sessions/9 - Der geflügelte Gott (II).md","x":2560,"y":940,"width":480,"height":50},
-		{"id":"e82e6b70e756935c","type":"file","file":"2-Sessions/10 - Intrigen der Zukunft.md","x":3047,"y":1040,"width":443,"height":50},
-		{"id":"e197a236930e8e3f","type":"text","text":"---\n\n---\n# Gegenwart","x":4360,"y":760,"width":360,"height":180},
-		{"id":"7eccc7632621c7ed","x":3600,"y":940,"width":400,"height":50,"type":"file","file":"2-Sessions/11 - Glut.md"}
+		{"id":"e197a236930e8e3f","type":"text","text":"---\n\n---\n# Gegenwart","x":4360,"y":760,"width":360,"height":180}
 	],
 	"edges":[
 		{"id":"05070ebdb0269046","fromNode":"cca9a8075ab0c14d","fromSide":"right","toNode":"e197a236930e8e3f","toSide":"left"}
