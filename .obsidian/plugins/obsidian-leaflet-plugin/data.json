@@ -37,14 +37,11 @@
     "geojsonColor": "#3388ff",
     "gpx": [],
     "gpxColor": "#3388ff",
-    "height": "1px",
-    "width": "2000px",
-    "image": "[[Silberquell - Map.jpg]]",
+    "height": "100%",
+    "width": "100%",
+    "image": "[[Map - Dalelands.jpeg]]",
     "imageOverlay": [],
     "isMapView": false,
-    "layers": [
-      "[[Map - Dalelands.jpeg]]"
-    ],
     "linksFrom": [],
     "linksTo": [],
     "marker": [],
@@ -74,9 +71,7 @@
         8192
       ]
     ],
-    "lat": 3000,
-    "long": 8096,
-    "recenter": false,
+    "recenter": true,
     "darkmode": false,
     "filterTag": []
   },
