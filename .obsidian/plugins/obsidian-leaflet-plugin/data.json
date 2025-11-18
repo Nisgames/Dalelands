@@ -64,17 +64,9 @@
     "zoomDelta": 0.5,
     "zoomFeatures": false,
     "id": "Map",
-    "bounds": [
-      [
-        0,
-        0
-      ],
-      [
-        8192,
-        8192
-      ]
-    ],
     "recenter": true,
+    "lat": 3000,
+    "long": 8096,
     "darkmode": false,
     "filterTag": []
   },
