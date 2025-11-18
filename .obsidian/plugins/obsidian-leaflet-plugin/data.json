@@ -37,11 +37,14 @@
     "geojsonColor": "#3388ff",
     "gpx": [],
     "gpxColor": "#3388ff",
-    "image": "[[Map - Dalelands.jpeg]]",
-    "height": "100px",
-    "width": "100px",
+    "height": "1px",
+    "width": "2000px",
+    "image": "[[Silberquell - Map.jpg]]",
     "imageOverlay": [],
-    "isMapView": true,
+    "isMapView": false,
+    "layers": [
+      "[[Käse.jpg]]"
+    ],
     "linksFrom": [],
     "linksTo": [],
     "marker": [],
@@ -60,8 +63,20 @@
     "verbose": false,
     "zoomDelta": 0.5,
     "zoomFeatures": false,
-    "id": "Dalelands-Map",
-    "recenter": true,
+    "id": "Silber-Map",
+    "bounds": [
+      [
+        0,
+        0
+      ],
+      [
+        8192,
+        8192
+      ]
+    ],
+    "lat": 3000,
+    "long": 8096,
+    "recenter": false,
     "darkmode": false,
     "filterTag": []
   },
