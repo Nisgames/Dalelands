@@ -39,11 +39,11 @@
     "gpxColor": "#3388ff",
     "height": "1px",
     "width": "2000px",
-    "image": "[[Silberquell - Map.jpg]]",
+    "image": "[[Map - Dalelands.jpeg]]",
     "imageOverlay": [],
-    "isMapView": false,
+    "isMapView": true,
     "layers": [
-      "[[Käse.jpg]]"
+      "[[Map - Dalelands.jpeg]]"
     ],
     "linksFrom": [],
     "linksTo": [],
@@ -63,7 +63,7 @@
     "verbose": false,
     "zoomDelta": 0.5,
     "zoomFeatures": false,
-    "id": "Silber-Map",
+    "id": "Map",
     "bounds": [
       [
         0,
@@ -74,9 +74,7 @@
         8192
       ]
     ],
-    "lat": 3000,
-    "long": 8096,
-    "recenter": false,
+    "recenter": true,
     "darkmode": false,
     "filterTag": []
   },
