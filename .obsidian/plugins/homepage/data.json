@@ -1,0 +1,28 @@
+{
+  "version": 4,
+  "homepages": {
+    "Main Homepage": {
+      "value": "3-DM/Allgemein/0 - Homepage",
+      "kind": "File",
+      "openOnStartup": true,
+      "openMode": "Replace all open notes",
+      "manualOpenMode": "Keep open notes",
+      "view": "Reading view",
+      "revertView": true,
+      "openWhenEmpty": true,
+      "refreshDataview": true,
+      "autoCreate": false,
+      "autoScroll": false,
+      "pin": false,
+      "commands": [
+        {
+          "id": "obsidian-5e-statblocks:parse-frontmatter",
+          "period": "Both"
+        }
+      ],
+      "alwaysApply": true,
+      "hideReleaseNotes": false
+    }
+  },
+  "separateMobile": false
+}

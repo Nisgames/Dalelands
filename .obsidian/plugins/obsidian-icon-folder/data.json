@@ -1,0 +1,103 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiFolder",
+      "LiView",
+      "LiListTodo",
+      "LiQuestionMarkGlyph",
+      "LiScanFace"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [
+      {
+        "rule": "3-DM/Bibliothek/Monster/",
+        "icon": "🐲",
+        "for": "everything",
+        "order": 0,
+        "useFilePath": true
+      },
+      {
+        "rule": "2-Sessions/",
+        "icon": "LiBackpack",
+        "for": "everything",
+        "order": 1,
+        "color": "#239f2b",
+        "useFilePath": true
+      },
+      {
+        "rule": "4-Âratûn/NPC/",
+        "icon": "🙍",
+        "for": "everything",
+        "order": 2,
+        "useFilePath": true
+      },
+      {
+        "rule": "4-Âratûn/Orte/",
+        "icon": "🌆",
+        "for": "everything",
+        "order": 3,
+        "useFilePath": true
+      },
+      {
+        "rule": "3-DM/Quests/",
+        "icon": "LiQuestionMarkGlyph",
+        "for": "everything",
+        "order": 4,
+        "useFilePath": true
+      }
+    ],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "2-Sessions": {
+    "iconName": "LiBackpack",
+    "iconColor": "#38ab30"
+  },
+  "3-DM": "LiFolder",
+  "4-Âratûn": "🏙",
+  "3-DM/Bibliothek/Items": {
+    "iconName": "LiSword",
+    "iconColor": "#575757"
+  },
+  "3-DM/Bibliothek/Regelwerke": "LiHammer",
+  "3-DM/Bibliothek/Resources": "LiFileStack",
+  "3-DM/Bibliothek/Spells": "LiExperiment",
+  "3-DM/Bibliothek/Templates": "LiBookTemplate",
+  "3-DM/Bibliothek": "LiBook",
+  "3-DM/Allgemein": "LiClipboardList",
+  "3-DM/Allgemein/Spieler": "👤",
+  "3-DM/Ideen": "LiLightbulb",
+  "3-DM/Tools": "LiHammer",
+  "4-Âratûn/Orte/Silberquell": "🏙",
+  "4-Âratûn/Orte/Nebelwald": "🏙",
+  "3-DM/Allgemein/Charaktere.md": "LiScanFace",
+  "3-DM/Quests": "LiQuestionMarkGlyph",
+  "3-DM/Allgemein/To-Do´s.md": "LiListTodo",
+  "3-DM/Allgemein/Sessions.md": "LiView",
+  "1-Planung": {
+    "iconName": "LiFolder",
+    "iconColor": "#5500bd"
+  }
+}

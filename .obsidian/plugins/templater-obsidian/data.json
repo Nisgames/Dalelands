@@ -1,0 +1,54 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "3-DM/Bibliothek/Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "4-Âratûn/NPC",
+      "template": "3-DM/Bibliothek/Templates/NPC.md"
+    },
+    {
+      "folder": "2-Sessions",
+      "template": "3-DM/Bibliothek/Templates/Session.md"
+    },
+    {
+      "folder": "4-Âratûn/Orte",
+      "template": "3-DM/Bibliothek/Templates/Ort.md"
+    },
+    {
+      "folder": "3-DM/Bibliothek/Monster",
+      "template": "3-DM/Bibliothek/Templates/Custom Monster.md"
+    },
+    {
+      "folder": "3-DM/Bibliothek/Items",
+      "template": "3-DM/Bibliothek/Templates/Item.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "intellisense_render": 1
+}
