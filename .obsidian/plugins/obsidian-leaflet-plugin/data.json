@@ -38,10 +38,10 @@
     "gpx": [],
     "gpxColor": "#3388ff",
     "image": "[[Map - Dalelands.jpeg]]",
-    "height": "100%",
-    "width": "100%",
+    "height": "100px",
+    "width": "100px",
     "imageOverlay": [],
-    "isMapView": false,
+    "isMapView": true,
     "linksFrom": [],
     "linksTo": [],
     "marker": [],
@@ -60,17 +60,7 @@
     "verbose": false,
     "zoomDelta": 0.5,
     "zoomFeatures": false,
-    "id": "Silber-Map",
-    "bounds": [
-      [
-        0,
-        0
-      ],
-      [
-        8192,
-        8192
-      ]
-    ],
+    "id": "Dalelands-Map",
     "recenter": true,
     "darkmode": false,
     "filterTag": []
