@@ -1,1 +1,3 @@
-- [x] 
+- [ ] BBEG Organisation entwerfen
+- [ ] Weltkarte "fertigstellen"
+- [ ] Cheatsheet
