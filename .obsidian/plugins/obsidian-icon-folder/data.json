@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🏙",
+      "LiBrain",
       "LiFolder",
       "LiView",
-      "LiListTodo",
-      "LiQuestionMarkGlyph",
-      "LiScanFace"
+      "LiListTodo"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -97,7 +97,8 @@
   "3-DM/Allgemein/To-Do´s.md": "LiListTodo",
   "3-DM/Allgemein/Sessions.md": "LiView",
   "1-Planung": {
-    "iconName": "LiFolder",
-    "iconColor": "#5500bd"
-  }
+    "iconName": "LiBrain",
+    "iconColor": "#9056e6"
+  },
+  "4-Faerûn": "🏙"
 }
