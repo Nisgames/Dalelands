@@ -6,5 +6,6 @@
     "3-DM/",
     "1-Planung/"
   ],
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "spellcheck": false
 }
