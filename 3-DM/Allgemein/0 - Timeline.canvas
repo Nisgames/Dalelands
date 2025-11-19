@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"cca9a8075ab0c14d","type":"text","text":"---\n\n---\n# Start","x":-680,"y":760,"width":330,"height":180},
-		{"id":"e197a236930e8e3f","type":"text","text":"---\n\n---\n# Gegenwart","x":4360,"y":760,"width":360,"height":180}
+		{"id":"e197a236930e8e3f","type":"text","text":"---\n\n---\n# Gegenwart","x":1120,"y":760,"width":360,"height":180}
 	],
 	"edges":[
 		{"id":"05070ebdb0269046","fromNode":"cca9a8075ab0c14d","fromSide":"right","toNode":"e197a236930e8e3f","toSide":"left"}

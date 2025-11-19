@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiTimer",
+      "LiHome",
       "🏙",
       "LiBrain",
-      "LiFolder",
-      "LiView",
-      "LiListTodo"
+      "LiFolder"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -100,5 +100,7 @@
     "iconName": "LiBrain",
     "iconColor": "#9056e6"
   },
-  "4-Faerûn": "🏙"
+  "4-Faerûn": "🏙",
+  "3-DM/Allgemein/0 - Homepage.md": "LiHome",
+  "3-DM/Allgemein/0 - Timeline.canvas": "LiTimer"
 }
