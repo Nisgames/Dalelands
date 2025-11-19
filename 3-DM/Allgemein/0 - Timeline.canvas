@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"cca9a8075ab0c14d","type":"text","text":"---\n\n---\n# Start","x":-160,"y":-200,"width":330,"height":100},
+		{"id":"cca9a8075ab0c14d","type":"text","text":"---\n\n---\n# Start","x":-160,"y":-200,"width":360,"height":100},
 		{"id":"e197a236930e8e3f","type":"text","text":"---\n\n---\n# Gegenwart","x":-160,"y":1680,"width":360,"height":100}
 	],
 	"edges":[
