@@ -477,23 +477,6 @@
             "timestamp": 5e-324,
             "order": ""
           }
-        },
-        {
-          "name": "Virtuelle Instrumente",
-          "description": null,
-          "date": {
-            "day": 2,
-            "month": 3,
-            "year": 1491
-          },
-          "id": "ID_9a09ca38dab9",
-          "note": "3-DM/Tools/Virtuelle Instrumente.md",
-          "category": "festivals",
-          "sort": {
-            "timestamp": 5e-324,
-            "order": ""
-          },
-          "type": "Date"
         }
       ],
       "id": "ID_7a0b0b2af848",

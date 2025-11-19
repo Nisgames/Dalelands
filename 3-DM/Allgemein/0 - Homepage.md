@@ -1,5 +1,5 @@
 ---
-Aktueller-Ort: "[[Silberquell]]"
+Aktueller-Ort:
 ---
 # 🧀 DnD Extreme
 
