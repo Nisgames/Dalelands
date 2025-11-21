@@ -33,6 +33,10 @@
     {
       "folder": "3-DM/Bibliothek/Items",
       "template": "3-DM/Bibliothek/Templates/Item.md"
+    },
+    {
+      "folder": "4-Faerûn/Gruppierungen",
+      "template": "3-DM/Bibliothek/Templates/Gruppierung.md"
     }
   ],
   "enable_file_templates": false,

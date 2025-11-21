@@ -3,7 +3,8 @@ tags:
   - Gruppierung
 Gesinnung: Böse
 Standorte:
-Relevanz:
+  - "[[Cormanthor]]"
+Relevanz: Hoch
 ---
 # `=this.file.name` 
 
