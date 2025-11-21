@@ -19,7 +19,7 @@
       "template": "3-DM/Bibliothek/Templates/Session.md"
     },
     {
-      "folder": "4-Âratûn/NPC",
+      "folder": "4-Faerûn/NPC",
       "template": "3-DM/Bibliothek/Templates/NPC.md"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "folder": "3-DM/Bibliothek/Monster",
-      "template": "mons"
+      "template": "3-DM/Bibliothek/Templates/Custom Monster.md"
     },
     {
       "folder": "3-DM/Bibliothek/Items",
