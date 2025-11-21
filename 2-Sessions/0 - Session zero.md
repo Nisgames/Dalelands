@@ -12,4 +12,6 @@ DM: "[[Jannis]]"
 - [ ] Jobs?
 
 - [ ] Was wünschen sich die Spieler?
-	- [ ] Roleplay? Kampf? 
+	- [ ] Roleplay? Kampf? Rätsel?
+- [ ] Wie doll soll ich sie guiden? -> Viel Freiheit?
+- [ ] Wie genau wollen wir Essen
