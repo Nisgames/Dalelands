@@ -1,3 +1,6 @@
 - Starten in [[Archendale]] 
 - Kennen sich schon vor dem Start
-- Begleiten gemeinsam eine Gruppe Holzfäller in den [[Arch Wood]], um sie vor Eulenbä
+- Begleiten gemeinsam eine Gruppe Holzfäller in den [[Arch Wood]], um sie vor Eulenbären und anderen Monstern zu beschützen
+- Zurück in [[Archendale]] werden sie informiert, dass sie sich als personelle Unterstützung nach [[Battledale]] begeben sollen
+- Aufgabe dort noch offen, aber viele Möglichkeiten
+	- 
