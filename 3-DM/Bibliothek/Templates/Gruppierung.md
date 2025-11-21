@@ -5,4 +5,10 @@ Gesinnung:
 Standorte:
 Relevanz:
 ---
-# `=this.file.title` 
+# `=this.file.name` 
+
+### Mitglieder
+
+```dataview
+LI
+```
