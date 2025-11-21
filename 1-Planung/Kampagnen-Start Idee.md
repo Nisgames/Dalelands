@@ -7,5 +7,5 @@
 	- Wege sichern
 	- Händler begleiten und schützen
 	- Magieseuchen entfernen
-		- Ursprung 
+		- Ursprung [[Cormanthor]] 
 - Bekommen regelmäßiges Gehalt aus [[Archendale]]?
