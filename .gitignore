@@ -6,12 +6,6 @@
 .obsidian/global-search.json
 .obsidian/starred.json
 
-# Privater Ordner
-1-Planung/
-!/1-Planung/.gitkeep
-
 /.obsidian/plugins/initiative-tracker/data.json
 
 /.obsidian/graph.json
-/1-Planung/
-/1-Planung/
