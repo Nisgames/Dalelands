@@ -7,7 +7,7 @@ Volk:
 Level:
 Fraktionen:
 Status: Tot
-Relevanz: Hoch
+Relevanz: Mittel
 ---
 # `=this.file.name`
 *Klasse/Beruf:* `=this.Klasse` 
