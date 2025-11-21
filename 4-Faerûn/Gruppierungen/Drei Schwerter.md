@@ -4,7 +4,7 @@ tags:
 Gesinnung:
 Standorte:
   - "[[Swordpoint]]"
-Relevanz:
+Relevanz: Hoch
 ---
 # `=this.file.name` 
 
