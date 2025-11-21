@@ -15,4 +15,5 @@ TABLE WITHOUT ID
 	Relevanz as Relevanz
 FROM #NPC 
 WHERE contains(Fraktionen, this.file.link)
+SORT Relevanz ASC
 ```
