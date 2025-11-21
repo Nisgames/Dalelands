@@ -28,7 +28,7 @@
     },
     {
       "folder": "3-DM/Bibliothek/Monster",
-      "template": "3-DM/Bibliothek/Templates/Custom Monster.md"
+      "template": "mons"
     },
     {
       "folder": "3-DM/Bibliothek/Items",
