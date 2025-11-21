@@ -3,4 +3,9 @@
 - Begleiten gemeinsam eine Gruppe Holzfäller in den [[Arch Wood]], um sie vor Eulenbären und anderen Monstern zu beschützen
 - Zurück in [[Archendale]] werden sie informiert, dass sie sich als personelle Unterstützung nach [[Battledale]] begeben sollen
 - Aufgabe dort noch offen, aber viele Möglichkeiten
-	- 
+	- Befestigungen von Monstern und Banditen befreien
+	- Wege sichern
+	- Händler begleiten und schützen
+	- Magieseuchen entfernen
+		- Ursprung 
+- Bekommen regelmäßiges Gehalt aus [[Archendale]]?
