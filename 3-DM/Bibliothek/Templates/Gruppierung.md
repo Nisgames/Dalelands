@@ -10,5 +10,9 @@ Relevanz:
 ### Mitglieder
 
 ```dataview
-LI
+TABLE WITHOUT ID
+	file.link as Mitglieder,
+	Relevanz as Relevanz
+FROM #NPC 
+WHERE contains(Fraktionen, this.file.link)
 ```
