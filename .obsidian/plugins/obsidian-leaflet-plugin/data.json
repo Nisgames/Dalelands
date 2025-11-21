@@ -64,7 +64,7 @@
     "zoomDelta": 0.5,
     "zoomFeatures": false,
     "id": "Map-Dalelands",
-    "recenter": false,
+    "recenter": true,
     "darkmode": false,
     "filterTag": []
   },
