@@ -4,6 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "Aktuelle-Stadt": "text",
-    "Auftragnehmer": "multitext"
+    "Auftragnehmer": "multitext",
+    "Standorte": "multitext"
   }
 }
