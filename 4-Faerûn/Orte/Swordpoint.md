@@ -11,5 +11,5 @@ TABLE WITHOUT ID
 	file.link as Name,
 	Relevanz as Relevanz
 from #NPC 
-where 
+where contains(Wohnort, this.file.link)
 ```
