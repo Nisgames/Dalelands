@@ -14,6 +14,6 @@ Erledigt: false
 
 **Auftraggeber:** `=this.Auftraggeber` 
 
-**Quest:** Ein 
+**Quest:** 
 
 **Belohnung:** `=this.Belohnung` 
