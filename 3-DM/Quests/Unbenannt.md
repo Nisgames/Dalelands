@@ -1,6 +1,7 @@
 ---
 tags:
   - Quest
+  - Encounter
 Gilde:
 Voraussetzungen:
 Belohnung:
