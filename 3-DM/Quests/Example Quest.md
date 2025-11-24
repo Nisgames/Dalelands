@@ -1,8 +1,8 @@
 ---
 tags:
   - Quest
-Gilde: "[[Flammenklinge]]"
-Benötigter Rang: Glut
+Gilde:
+Voraussetzungen: Level 3
 Belohnung: 1000 GM
 Auftraggeber: "[[Jannis]]"
 Auftragnehmer:

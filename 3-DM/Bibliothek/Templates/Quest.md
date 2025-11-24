@@ -1,8 +1,8 @@
 ---
 tags:
   - Quest
-Gilde: "[[Flammenklinge]]"
-Benötigter Rang:
+Gilde:
+Voraussetzungen:
 Belohnung:
 Auftraggeber:
 Auftragnehmer:
