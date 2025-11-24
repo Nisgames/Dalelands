@@ -14,6 +14,6 @@ Erledigt: false
 
 **Auftraggeber:** `=this.Auftraggeber` 
 
-**Quest:** 
+**Quest:** [[Odette Tumble]] 
 
 **Belohnung:** `=this.Belohnung` 
