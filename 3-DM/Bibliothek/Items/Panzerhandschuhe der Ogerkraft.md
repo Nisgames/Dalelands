@@ -13,4 +13,6 @@ Einstimmung: true
 **Wert:** `=this.Wert_in_GM` GM
 **Klassifikation:** `=this.Klassifikation` 
 **Schaden:** `=this.Schaden`
-**Beschreibung:** Dein Stärkerwert ist 19, wenn du di
+**Beschreibung:** Dein Stärkerwert ist 19, wenn du diese Panzerhandschuhe trägst. Sie haben keinen Effekt, wenn dein Wert ohne die Handschuhe bereits 19 oder höher ist.
+
+### Bild
