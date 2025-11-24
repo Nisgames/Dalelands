@@ -5,11 +5,12 @@ Magisch: true
 Seltenheit: Ungewöhnlich
 Wert_in_GM:
 Gewicht in KG:
-Klassifikation:
+Klassifikation: Wundersamer Gegenstand
 Schaden:
+Einstimmung: true
 ---
 **Seltenheit:** `=this.Seltenheit` 
 **Wert:** `=this.Wert_in_GM` GM
 **Klassifikation:** `=this.Klassifikation` 
 **Schaden:** `=this.Schaden`
-**Beschreibung:** 
+**Beschreibung:** Dein Stärkerwert ist 19, wenn du di

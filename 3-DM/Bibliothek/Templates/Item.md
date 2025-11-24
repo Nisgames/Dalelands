@@ -7,6 +7,7 @@ Wert_in_GM:
 Gewicht in KG:
 Klassifikation:
 Schaden:
+Einstimmung: false
 ---
 **Seltenheit:** `=this.Seltenheit` 
 **Wert:** `=this.Wert_in_GM` GM

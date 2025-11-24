@@ -5,6 +5,7 @@
     "tags": "tags",
     "Aktuelle-Stadt": "text",
     "Auftragnehmer": "multitext",
-    "Standorte": "multitext"
+    "Standorte": "multitext",
+    "Einstimmung": "checkbox"
   }
 }
