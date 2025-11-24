@@ -13,7 +13,7 @@ Relevanz: Niedrig
 *Klasse/Beruf:* `=this.Klasse` 
 *Volk:* `=this.Volk` 
 *Wohnort:* `=this.Wohnort` 
-*Aussehen:* 
+*Aussehen:* Alte Frau (72), 157cm groß, langes rotbraunes Haar
 *Charakterzug:* 
 *Sprechweise:* 
 
