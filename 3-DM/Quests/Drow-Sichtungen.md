@@ -13,6 +13,6 @@ Erledigt: false
 
 **Auftraggeber:** `=this.Auftraggeber` 
 
-**Quest:** 
+**Quest:** Es wurden mehrmals Drow des [[Haus Jaelre]] in der Nähe von [[Cormanthor]] gesehen
 
 **Belohnung:** `=this.Belohnung` 
