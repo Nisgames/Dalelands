@@ -7,5 +7,6 @@
     "1-Planung/"
   ],
   "showInlineTitle": true,
-  "spellcheck": false
+  "spellcheck": false,
+  "alwaysUpdateLinks": true
 }

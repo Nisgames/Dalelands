@@ -13,6 +13,6 @@ Erledigt: false
 
 **Auftraggeber:** `=this.Auftraggeber` 
 
-**Quest:** Das Familien-Amulett von [[Untitled]] in den Trümmern von [[Essembra]] finden
+**Quest:** Das Familien-Amulett von [[NEUER NPC]] in den Trümmern von [[Essembra]] finden
 
 **Belohnung:** `=this.Belohnung` 
