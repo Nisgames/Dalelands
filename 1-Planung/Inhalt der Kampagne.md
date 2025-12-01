@@ -18,7 +18,7 @@ tags:
 
 #### 1. Der Drachenkult (Nekromantie & Sprengstoff)
 - **Ziel:** Wollen einen **Dracolich** erwecken.
-- **Aktueller Plan:** Sie versuchen, das magisch versiegelte Grab von Aencar (dem Mantelkönig) in [[Battledale]] aufzubrechen.
+- **Aktueller Plan:** Sie experimentieren mit den [[Schattensplitter]]n herum, um sie möglicher Weise als Elexier für das Ritual
 - **Nutzung der Splitter:** Nutzen instabile Splitter als magische "Sprengladungen", um die Siegel zu knacken.
 - **Location:** [[Aencar's Manor]] (Dungeon Crawl).
 
