@@ -2,9 +2,9 @@
 tags:
   - Item
 Magisch: false
-Seltenheit:
-Wert_in_GM:
-Gewicht in KG:
+Seltenheit: Sehr selten
+Wert_in_GM: "1000"
+Gewicht in KG: Je nach Größe unterschiedlich
 Klassifikation:
 Schaden:
 Einstimmung: false
