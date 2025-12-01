@@ -1,9 +1,19 @@
-### **Wächter der Dalelands**
+---
+tags:
+  - Planung
+---
+# Einleitung: Wächter der Dalelands
 
-Es sind dunkle Zeiten für die Täler. Der fragile Frieden, der die **Dalelands** so lange geschützt hat, beginnt zu bröckeln.
+**Es ist das Jahr 1496 nach der Tal-Rechnung.**
 
-Eine schockierende Nachricht erschütterte vor einiger Zeit den Norden: **[[Randal Morn]]**, der rechtmäßige Herrscher von **[[Daggerdale]]** und Symbol des Widerstands, ist tot. Sein Fall hat ein Machtvakuum hinterlassen, das Feinde von innen und außen gierig zu füllen versuchen.
+Zehn Jahre sind vergangen, seit der Himmel über dem großen Wald brannte. Zehn Jahre, seit die fliegende Stadt der Schatten auf die Türme von Myth Drannor stürzte und beide in einem Mahlstrom aus wilder Magie vernichtete.
+Die Gelehrten sagten, die Ruhe würde zurückkehren.
+**Sie haben sich geirrt.**
 
-Im tiefen Schatten des **[[Cormanthor]]** regen sich uralte Gefahren. Die Drow des **[[Haus Jaelre]]** spinnen ihre Intrigen, während Riesenspinnen aus den **[[Spiderhaunt Woods]]** immer dreister in die Siedlungen vordringen. Gleichzeitig lauert im Verborgenen das **Schwarze Netzwerk der [[Zhentarim]]**, bereit, jede Schwäche gnadenlos auszunutzen.
+Die Wunden der Welt haben nicht aufgehört zu bluten. Im tiefen Forst von [[Cormanthor]] werden die Schatten länger, selbst wenn die Sonne am höchsten steht. Tiere fliehen aus dem Unterholz, gezeichnet von kristallinen Narben, und die Flüsse tragen das Flüstern alter, dunkler Götter in die Dörfer.
+Über [[Battledale]] zucken lautlose Blitze am wolkenlosen Himmel, und Händler berichten von Wegen, die über Nacht einfach verschwinden.
 
-Während die Angst wächst und die Täler zu zerbrechen drohen, richtet sich der Blick auf eine kleine Gruppe von Abenteurern. Welche Zukunft sie erwartet, steht noch in keinem Buche geschrieben und das Schicksal der Dalelands darf sich auf ihren Einfluss freuen...
+Während die Mächtigen der Welt zögern, liegt die Hoffnung der [[Dalelands]] nun auf jenen, die mutig – oder gierig – genug sind, sich in die Gefahr zu begeben.
+
+Ihr befindet euch in **Ashabenford**, der Hauptstadt von [[Mistledale]]. Hier, wo sich Handelsstraßen und Schicksale kreuzen, beginnt eure Reise. Doch seid gewarnt:
+In den Tälern ist nicht alles so, wie es scheint – und das, was im Wald schläft, beginnt zu erwachen.
