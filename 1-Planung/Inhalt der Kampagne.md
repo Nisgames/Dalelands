@@ -4,9 +4,9 @@ tags:
 ---
 # Inhalt der Kampagne: Wächter der Dalelands
 
-**Kern-Thema:** Die Folgen der Zerstörung von 1487 DR. "Schattensplitter" (Reste der fliegenden Stadt Thultanthar) tauchen in den Dales auf und sorgen für Chaos.
+**Kern-Thema:** Die Folgen der Zerstörung von 1487 DR. "Schattensplitter" (Reste der fliegenden Stadt Thultanthar bzw des Mythals von Myth Drannor) tauchen in den Dales auf und sorgen für Chaos.
 
-**Die "Währung" der Kampagne:** **Schattensplitter**
+**Die "Währung" der Kampagne:** **[[Schattensplitter]]**
 - Magisch hochreaktiv (Schattenfell-Energie & Wilde Magie).
 - Mutieren die Umgebung (Flora/Fauna).
 - Extrem wertvoll für Händler, extrem gefährlich für Unwissende.
