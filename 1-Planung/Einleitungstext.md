@@ -6,12 +6,11 @@ tags:
 
 **Es ist das Jahr 1496 nach der Tal-Rechnung.**
 
-Zehn Jahre sind vergangen, seit der Himmel über dem großen Wald brannte. Zehn Jahre, seit die fliegende Stadt der Schatten auf die Gebäude von Myth Drannor stürzte und beides in einem Mahlstrom aus wilder Magie vernichtete.
+Zehn Jahre sind vergangen, seit der Himmel über dem großen Wald brannte. Zehn Jahre, seit die fliegende Stadt der Schatten auf die Gebäude von [[Myth Drannor]] stürzte und alles in einer Explosion aus wilder Magie vernichtete.
 Die Gelehrten sagten, die Ruhe würde zurückkehren.
 **Sie haben sich geirrt.**
 
 Die Wunden der Welt haben nicht aufgehört zu bluten. Im tiefen Forst von [[Cormanthor]] werden die Schatten länger, selbst wenn die Sonne am höchsten steht. Tiere fliehen aus dem Unterholz, gezeichnet von kristallinen Narben, und die Flüsse tragen das Flüstern alter, dunkler Götter in die Dörfer.
-Über [[Battledale]] zucken lautlose Blitze am wolkenlosen Himmel, und Händler berichten von Wegen, die über Nacht einfach verschwinden.
 
 Während die Mächtigen der Welt zögern, liegt die Hoffnung der [[Dalelands]] nun auf jenen, die mutig – oder gierig – genug sind, sich in die Gefahr zu begeben.
 
