@@ -32,5 +32,6 @@ Egal wie sie sich entscheiden, sie hören von drei weiteren Problemen ("Leads"):
 - *"In [[Battledale]] blitzt es am helllichten Tag über **Aencar's Manor**. Der Kult treibt dort sein Unwesen."* (-> Plot A)
 - *"Händler verschwinden auf der Route nahe der **Spiderhaunt Woods**. Man sagt, die Sonne scheint dort nicht mehr."* (-> Plot B)
 - *"Der Fluss Ashaba trägt tote, mutierte Fische aus Richtung **Myth Drannor**. Irgendwas läuft da aus."* (-> Plot C)
+- Und noch irgendwas mit [[Zhentarim]] passiert
 
 **Ziel:** Die Spieler haben nun eine Ressource (Gold/Basis), ein Ziel (Splitterjagd) und die freie Wahl, wohin sie als Nächstes gehen.
