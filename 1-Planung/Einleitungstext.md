@@ -10,9 +10,9 @@ Zehn Jahre sind vergangen, seit der Himmel über dem großen Wald brannte. Zehn 
 Die Gelehrten sagten, die Ruhe würde zurückkehren...
 **Sie haben sich geirrt.**
 
-Die Wunden der Welt haben nicht aufgehört zu bluten. Im tiefen Forst von [[Cormanthor]] werden die Schatten länger, selbst wenn die Sonne am höchsten steht. Tiere fliehen aus dem Unterholz, gezeichnet von kristallinen Narben, und die Flüsse tragen das Flüstern alter, dunkler Götter in die Dörfer.
+Die Wunden der Welt haben nicht aufgehört zu bluten. Im tiefen Wald von [[Cormanthor]] werden die Schatten länger, selbst wenn die Sonne am höchsten steht. Tiere fliehen aus dem Unterholz, gezeichnet von kristallenen Narben, und die Flüsse tragen das Flüstern alter, dunkler Götter in die Dörfer.
 
-Während die Mächtigen der Welt zögern, liegt die Hoffnung der [[Dalelands]] nun auf jenen, die mutig – oder gierig – genug sind, sich in die Gefahr zu begeben.
+Während die Mächtigen der Welt zögern, liegt die Hoffnung der [[Dalelands]] nun auf jenen, die mutig – oder gierig – genug sind, sich der Gefahr zu stellen.
 
 Ihr befindet euch in **Ashabenford**, der Hauptstadt von [[Mistledale]]. Hier, wo sich Handelsstraßen und Schicksale kreuzen, beginnt eure Reise. Doch seid gewarnt:
 In den Tälern ist nicht alles so, wie es scheint – und das, was im Wald schläft, beginnt zu erwachen.
