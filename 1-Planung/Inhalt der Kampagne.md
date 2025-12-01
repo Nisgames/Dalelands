@@ -2,7 +2,7 @@
 tags:
   - Planung
 ---
-# Inhalt der Kampagne: Das Echo von Thultanthar
+# Inhalt der Kampagne: Wächter der Dalelands
 
 **Kern-Thema:** Die Folgen der Zerstörung von 1487 DR. "Schattensplitter" (Reste der fliegenden Stadt Thultanthar) tauchen in den Dales auf und sorgen für Chaos.
 
