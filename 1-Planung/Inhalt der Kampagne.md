@@ -6,6 +6,9 @@ tags:
 
 **Kern-Thema:** Die Folgen der Zerstörung von 1487 DR. "Schattensplitter" (Reste der fliegenden Stadt Thultanthar bzw des Mythals von Myth Drannor) tauchen in den Dales auf und sorgen für Chaos.
 
+**Dalelands Karte:**
+- https://i.imgur.com/2B2RAKD.jpeg
+
 **Die "Währung" der Kampagne:** **[[Schattensplitter]]**
 - Magisch hochreaktiv (Schattenfell-Energie & Wilde Magie).
 - Mutieren die Umgebung (Flora/Fauna).
@@ -16,7 +19,7 @@ tags:
 ### Die Drei Fronten (Sandbox-Plots)
 *Die Spieler entscheiden, welche Bedrohung sie wann angehen.*
 
-#### 1. Der Drachenkult (Nekromantie & Sprengstoff)
+#### 1. Der [[Drachenkult]] (Nekromantie & Sprengstoff)
 - **Ziel:** Wollen einen **Dracolich** erwecken.
 - **Aktueller Plan:** Sie experimentieren mit den [[Schattensplitter]]n herum, um sie möglicher Weise als Elexier für das Ritual für Erweckung des Dracolich zu verwenden.
 - **Location:** [[Aencar's Manor]] (Dungeon Crawl).
@@ -29,7 +32,7 @@ tags:
 - **Location:** [[Spiderhaunt Woods]] & Tiefer Wald (Guerilla-Kampf).
 
 #### 3. [[Myth Drannor]] (Die Katastrophe)
-- **Ziel:** Überleben / Eindämmung (durch den Baelnorn).
+- **Ziel:** Überleben / Eindämmung (durch den [[Baelnorn]]).
 - **Das Problem:** Der Absturzort von Thultanthar ist ein offener, blutender Riss wilder Magie ("Reaktor-Kern").
 - **Der Baelnorn:** Versucht den Riss zu stopfen, braucht dafür aber mehr Splitter. Er wirkt böse/bedrohlich, ist aber der verzweifelte Wächter.
 - **Location:** Ruinen von Myth Drannor (Survival Horror / High Level).
