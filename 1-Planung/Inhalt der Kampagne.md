@@ -42,9 +42,9 @@ tags:
 ### Weitere Fraktionen
 
 **[[Zhentarim]] (Die Profiteure)**
-- **Rolle:** Wollen die Splitter kaufen und als Waffen an Sembia oder Thay verkaufen.
+- **Rolle:** Wollen die Splitter kaufen und als Waffen an [[Sembia]] verkaufen oder selbst benutzen.
 - **Verhalten:** Treten als Händler, Questgeber oder Rivalen auf. Sie wollen die Welt nicht zerstören, nur beherrschen.
 
 **Die Spieler**
 - **Start-Motivation:** Gold, Ruhm oder Schutz der Heimat.
-- **Entwicklung:** Werden durch den Kontakt mit dem ersten Splitter "gezeichnet" (Verbindung zur Magie) oder einfach durch moralische Verantwortung in den Konflikt gezogen.
+- **Entwicklung:** Werden durch den Kontakt mit dem ersten Splitter durch moralische Verantwortung in den Konflikt gezogen.
