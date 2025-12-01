@@ -25,7 +25,7 @@ tags:
 - **Das Dilemma (Sandbox-Eröffnung):**
 	- **[[Zhentarim]]-Agent:** Bietet sofort viel Gold (600 GM), stellt keine Fragen.
 	- **Getarnter Drow:** Warnt sie, bietet Tausch gegen magischen Gegenstand, will den Splitter "entsorgen".
-	- **Lokaler Rat/Priester:** Bietet kein Geld, aber einen Ort, wo man  (z.B. einen alten Wachturm) als Basis, wenn sie helfen, die Gefahr einzudämmen.
+	- **Lokaler Rat/Priester:** Bietet kein Geld, aber einen Ort, wo man die Splitter sammeln könnte (z.B. einen alten Wachturm). Die Gruppe dürfte dort auch wohnen, wenn sie helfen, die Gefahr einzudämmen.
 
 **4. Die Gerüchte (Quest-Verteilung)**
 Egal wie sie sich entscheiden, sie hören von drei weiteren Problemen ("Leads"):
