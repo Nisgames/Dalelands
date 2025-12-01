@@ -47,4 +47,4 @@ tags:
 
 **Die Spieler**
 - **Start-Motivation:** Gold, Ruhm oder Schutz der Heimat.
-- **Entwicklung:** Werden durch den Kontakt mit dem ersten Splitter durch moralische Verantwortung in den Konflikt gezogen.
+- **Entwicklung:** Werden durch den Kontakt mit dem ersten Splitter durch moralische Verantwortung in den Konflikt gezogen. Können sich aber auch entscheiden, den Splitter zu verkaufen (bringt viel Gold ein). Müssten dann aber mit möglichen Konsequenzen leben.
