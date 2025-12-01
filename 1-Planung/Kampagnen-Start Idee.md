@@ -18,14 +18,14 @@ tags:
 **2. Der Vorfall (Inciting Incident)**
 - Angriff durch mutierte Tiere (Kristall-Wucherungen) oder kleine Spähtrupps oder Eulenbär.
 - Durch den Kampf (oder einen umgestürzten Baum) wird eine alte Ruine/Höhle freigelegt.
-- **Fund:** Der erste **Schattensplitter**. Er pulsiert, wirkt wertvoll und unheimlich.
+- **Fund:** Der erste **[[Schattensplitter]]**. Er pulsiert, wirkt wertvoll und unheimlich.
 
-**3. Zurück in Ashabenford (Der Markt)**
+**3. Zurück in [[Ashabenford]] (Der Markt)**
 - Die Spieler versuchen herauszufinden, was das ist.
 - **Das Dilemma (Sandbox-Eröffnung):**
 	- **[[Zhentarim]]-Agent:** Bietet sofort viel Gold (600 GM), stellt keine Fragen.
 	- **Getarnter Drow:** Warnt sie, bietet Tausch gegen magischen Gegenstand, will den Splitter "entsorgen".
-	- **Lokaler Rat/Priester:** Bietet kein Geld, aber eine **Immobilie** (z.B. einen alten Wachturm) als Basis, wenn sie helfen, die Gefahr einzudämmen.
+	- **Lokaler Rat/Priester:** Bietet kein Geld, aber einen Ort, wo man  (z.B. einen alten Wachturm) als Basis, wenn sie helfen, die Gefahr einzudämmen.
 
 **4. Die Gerüchte (Quest-Verteilung)**
 Egal wie sie sich entscheiden, sie hören von drei weiteren Problemen ("Leads"):
