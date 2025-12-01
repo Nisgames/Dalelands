@@ -6,7 +6,7 @@ tags:
 
 **Es ist das Jahr 1496 nach der Tal-Rechnung.**
 
-Zehn Jahre sind vergangen, seit der Himmel über dem großen Wald brannte. Zehn Jahre, seit die fliegende Stadt der Schatten auf die Türme von Myth Drannor stürzte und beide in einem Mahlstrom aus wilder Magie vernichtete.
+Zehn Jahre sind vergangen, seit der Himmel über dem großen Wald brannte. Zehn Jahre, seit die fliegende Stadt der Schatten auf die Gebäude von Myth Drannor stürzte und beides in einem Mahlstrom aus wilder Magie vernichtete.
 Die Gelehrten sagten, die Ruhe würde zurückkehren.
 **Sie haben sich geirrt.**
 
