@@ -1,11 +1,11 @@
 ---
 tags:
   - PC
-Volk: Waldelfe
-Klasse: Druide
-hp: 24
-ac: 12
-level: 4
+Volk: Eladrin
+Klasse: Waldläuferin
+hp:
+ac:
+level: 3
 modifier: 0
 Spieler: "[[Alina]]"
 ---
