@@ -6,6 +6,8 @@
     "Aktuelle-Stadt": "text",
     "Auftragnehmer": "multitext",
     "Standorte": "multitext",
-    "Einstimmung": "checkbox"
+    "Einstimmung": "checkbox",
+    "date": "date",
+    "Players": "multitext"
   }
 }

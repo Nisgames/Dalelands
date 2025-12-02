@@ -1,14 +1,14 @@
 ---
 tags:
   - Session
-date: 2025-XX-XX
-Players: 
-DM:
+date:
+Players:
+DM: "[[Jannis]]"
 ---
 
 ![[Einleitungstext#Einleitung Wächter der Dalelands]]
 
-## 1. Der Auftrag: Routine im Cormanthor
+### 1. Der Auftrag: Routine im Cormanthor
 **Ort:** Waldrand von [[Cormanthor]], nahe [[Ashabenford]].
 **Situation:** Die SCs wurden als Begleitschutz angeheuert. Niemand geht ohne Waffe tief in den Wald – das war schon immer so.
 
@@ -24,7 +24,7 @@ DM:
 
 ---
 
-## 2. Der Kampf: Das aufgeschreckte Revier
+### 2. Der Kampf: Das aufgeschreckte Revier
 Die SCs nähern sich der Einschlagstelle. Der Lärm und die Erschütterung haben das lokale Raubtier aufgeschreckt, das nun sein Revier verteidigt.
 
 **Gegner (CR 3 Encounter):**
