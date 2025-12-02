@@ -15,7 +15,7 @@ Where !completed
 
 | Wichtige Links                                                                                                  | Aktueller Stand                                    |
 | :-------------------------------------------------------------------------------------------------------------- | :------------------------------------------------- |
-| ➡️ **Nächste Session:** [[LINK ZUR NÄCHSTEN SESSION]]                                                           | 📍 **Aktueller Ort:** `=this.Aktueller-Ort`        |
+| ➡️ **Nächste Session:** [[0 - Session zero]]                                                                    | 📍 **Aktueller Ort:** `=this.Aktueller-Ort`        |
 | ⬅️ **Letzte Session:** `$=dv.pages("#session").where(p => p.date).sort(p => p.date, "desc").limit(1).file.link` | 👁️ **Sessions:** [[Sessions \| SESSION ÜBRBLICK]] |
 | 🗺️ **Weltkarte:** [[Käse.jpg \| WELTKARTE]]                                                                    |                                                    |
 | 👥 **Alle Charaktere:** [[Charaktere \|CHARAKTER-ÜBERSICHT]]                                                    |                                                    |
