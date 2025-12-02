@@ -9,10 +9,13 @@ DM: "[[Jannis]]"
 ![[Einleitungstext#Einleitung Wächter der Dalelands]]
 
 ### 1. Der Auftrag: Routine im Cormanthor
-**Ort:** Waldrand von [[Cormanthor]], nahe [[Ashabenford]].
 **Situation:** Die SCs wurden als Begleitschutz angeheuert. Niemand geht ohne Waffe tief in den Wald – das war schon immer so.
+**Ort:** Waldrand von [[Cormanthor]], nahe [[Ashabenford]].
+	Etwa 15min Fußmarsch in den Wald hinein
 
 Ihr lehnt an den Bäumen oder haltet Wache?
+-> Beschreibt eure Position
+
 > [!recite|] Beschreibung
 >  Die Axtschläge der Holzfäller hallen durch den Wald. Es ist ein Routinejob. **Torgar "Eisenborke"**, der Vorarbeiter, wischt sich den Schweiß von der Stirn.
 > "Guter Fortschritt heute," brummt er. "Aber bleibt wachsam. Die Wölfe sind in letzter Zeit aggressiver. Und man erzählt sich, dass tiefer im Wald, Richtung der alten Ruinen, Dinge umgehen, die man besser nicht stört."
