@@ -12,8 +12,8 @@ DM: "[[Jannis]]"
 **Ort:** Waldrand von [[Cormanthor]], nahe [[Ashabenford]].
 **Situation:** Die SCs wurden als Begleitschutz angeheuert. Niemand geht ohne Waffe tief in den Wald – das war schon immer so.
 
-> [!quote] Vorlesetext
-> Die Axtschläge der Holzfäller hallen durch den Wald. Ihr lehnt an den Bäumen oder haltet Wache. Es ist ein Routinejob. **Torgar "Eisenborke"**, der Vorarbeiter, wischt sich den Schweiß von der Stirn.
+> [!recite|] Beschreibung
+>  Die Axtschläge der Holzfäller hallen durch den Wald. Ihr lehnt an den Bäumen oder haltet Wache. Es ist ein Routinejob. **Torgar "Eisenborke"**, der Vorarbeiter, wischt sich den Schweiß von der Stirn.
 > "Guter Fortschritt heute," brummt er. "Aber bleibt wachsam. Die Wölfe sind in letzter Zeit aggressiver. Und man erzählt sich, dass tiefer im Wald, Richtung der alten Ruinen, Dinge umgehen, die man besser nicht stört."
 >
 > Plötzlich durchbricht ein pfeifendes Geräusch die Luft, gefolgt von einem dumpfen Schlag und einer Erschütterung, die ihr in den Bodensohlen spürt. Etwa hundert Schritt entfernt steigen Vögel kreischend auf.
