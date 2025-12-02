@@ -11,7 +11,8 @@ DM: "[[Jannis]]"
 ### 1. Der Auftrag: Routine im Cormanthor
 **Situation:** Die SCs wurden als Begleitschutz angeheuert. Niemand geht ohne Waffe tief in den Wald – das war schon immer so.
 **Ort:** Waldrand von [[Cormanthor]], nahe [[Ashabenford]].
-	Etwa 2 Stunden Fußmarsch in den Wald hinein
+	Etwa 2 Stunden Fußmarsch (~3,5km) in den Wald hinein
+	
 
 Ihr lehnt an den Bäumen oder haltet Wache?
 -> Beschreibt eure Position
