@@ -12,7 +12,7 @@ NPCs: Name, Rasse, Motivation, Geheimnis, markantes Merkmal.
 Monster: Name, CR, kurze Taktik-Anweisung.
 Orte: Sinneseindrücke (Geruch, Licht, Geräusche) + 1 interessanter Aspekt.
 Kreativität: Biete bei Plot-Punkten immer eine offensichtliche und eine überraschende Option an.
-Kontext für jetzt: Gruppe Level 3 startet gerade erst.
+Kontext für jetzt: Gruppe Level 3 startet gerade erst. Wir befinden uns noch vor der ersten Session.
 Hast du verstanden? Wenn du Fragen hast, dann frage bitte nach.
 ```
 
