@@ -12,7 +12,7 @@ DM: "[[Jannis]]"
 **Situation:** Die SCs wurden als Begleitschutz angeheuert. Niemand geht ohne Waffe tief in den Wald – das war schon immer so.
 **Ort:** Waldrand von [[Cormanthor]], nahe [[Ashabenford]].
 	Etwa 2 Stunden Fußmarsch (~3,5km) in den Wald hinein
-	
+	Pferd mit 
 
 Ihr lehnt an den Bäumen oder haltet Wache?
 -> Beschreibt eure Position
