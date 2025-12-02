@@ -15,5 +15,7 @@ Einstimmung: false
 **Schaden:** `=this.Schaden`
 **Beschreibung:** 
 - Magisch hochreaktiv (Schattenfell-Energie & Wilde Magie).
-- Mutieren die Umgebung (Flora/Fauna).
-- Extrem wertvoll für Händler, extrem gefährlich für Unwissende.
+- Mutieren selten auch die Umgebung (Flora/Fauna).
+- Extrem wertvoll für Händler, extrem gefährlich für Unwissende
+	- Gewisse Leute könnten starke Waffen aus ihnen herstellen
+- 
