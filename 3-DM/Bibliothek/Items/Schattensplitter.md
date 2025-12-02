@@ -14,7 +14,8 @@ Einstimmung: false
 **Klassifikation:** `=this.Klassifikation` 
 **Schaden:** `=this.Schaden`
 **Beschreibung:** 
-- Wurden bei der Zerstörung von [[Myth Drannor]] und seinem Mythal 
+- Wurden bei der Zerstörung von [[Myth Drannor]] und seinem Mythal
+	- Liegen dementsprechend seit einigen Jahren in den ganzen Dalelands verteilt
 - Magisch hochreaktiv (Schattenfell-Energie & Wilde Magie).
 - Mutieren selten auch die Umgebung (Flora/Fauna).
 - Extrem wertvoll für Händler, extrem gefährlich für Unwissende
