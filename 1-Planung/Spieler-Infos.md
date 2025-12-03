@@ -6,6 +6,6 @@
 ```dataview
 TABLE without id
 	file.link as Thema,
-	INT as 'Ab INT'
-from #Allgemeinwissen
+	INT as "Ab INT"
+from #Allgemeinwissen and !"3-DM/Bibliothek/Templates"
 ```
