@@ -3,7 +3,7 @@ tags:
   - Gruppierung
 Gesinnung: Böse
 Standorte:
-  - "[[Cormanthor]]"
+  - "[[4-Faerûn/Orte/Cormanthor]]"
 Relevanz: Hoch
 ---
 # `=this.file.name` 

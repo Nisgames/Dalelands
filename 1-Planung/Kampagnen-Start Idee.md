@@ -11,7 +11,7 @@ tags:
 ### Ablauf Session 1
 
 **1. Der Hook (Alltag)**
-- Die Spieler werden angeheuert, um eine Gruppe Holzfäller am Rand von [[Cormanthor]] zu beschützen.
+- Die Spieler werden angeheuert, um eine Gruppe Holzfäller am Rand von [[4-Faerûn/Orte/Cormanthor]] zu beschützen.
 - Grund: Die Wälder sind gefährlicher geworden (Monster, Überfälle).
 - *Perfekt für Ranger/Pathfinder-Intro.*
 
