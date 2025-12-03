@@ -4,5 +4,8 @@
 - Zerstörung von Myth Drannor (Hauptstadt des Elfenterritoriums) 1487
 
 ```dataview
-SELECT
+TABLE without id
+	file.link as Thema,
+	INT as 'Ab INT'
+from #Allgemeinwissen
 ```
