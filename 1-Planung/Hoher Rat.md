@@ -4,3 +4,5 @@ tags:
 INT: 8
 ---
 ---
+
+[[Ashabenford]] wird von einem Rat regiert ([[Bürgermeisterin Andra]]). Sie suchen händeringend nach Söldnern, um die Straßen sicher zu halten.

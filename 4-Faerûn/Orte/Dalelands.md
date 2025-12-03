@@ -2,7 +2,7 @@
 tags:
   - Ort
 Liegt_in: "[[Faerûn]]"
-Fraktionen: "[[Zhentarim]]"
+Fraktionen: "[[4-Faerûn/Gruppierungen/Zhentarim]]"
 ---
 ---
 ### Bewohner
