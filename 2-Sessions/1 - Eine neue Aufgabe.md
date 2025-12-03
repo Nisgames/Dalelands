@@ -20,6 +20,7 @@ Ihr lehnt an den Bäumen oder haltet Wache?
 
 - Arbeiten gerade in einer Senke
 	- Stark überwuchert; viel Gestrüpp in der Mitte
+	- Dornenbüsche und seltsam blassgrüner Farn
 
 > [!recite|] Beschreibung
 >  Die Axtschläge der Holzfäller hallen durch den Wald. Es ist ein Routinejob. [[Torgar Feralis]], der Vorarbeiter, wischt sich den Schweiß von der Stirn.
