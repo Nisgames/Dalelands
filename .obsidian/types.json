@@ -8,6 +8,7 @@
     "Standorte": "multitext",
     "Einstimmung": "checkbox",
     "date": "date",
-    "Players": "multitext"
+    "Players": "multitext",
+    "INT": "number"
   }
 }
