@@ -12,7 +12,8 @@ DM: "[[Jannis]]"
 **Situation:** Die SCs wurden als Begleitschutz angeheuert. Niemand geht ohne Waffe tief in den Wald – das war schon immer so.
 **Ort:** Waldrand von [[Cormanthor]], nahe [[Ashabenford]].
 	Etwa 2 Stunden Fußmarsch (~3,5km) in den Wald hinein
-	Pferd mit 
+	2 Ochsen ziehen den Klippwagen (Logging Wheels), an dem die gefällten Baume hängen
+	![[Pasted image 20251203075333.png]]
 
 Ihr lehnt an den Bäumen oder haltet Wache?
 -> Beschreibt eure Position
