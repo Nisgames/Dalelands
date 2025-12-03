@@ -10,7 +10,7 @@ DM: "[[Jannis]]"
 
 ### 1. Der Auftrag: Routine im Cormanthor
 **Situation:** Die SCs wurden als Begleitschutz angeheuert. Niemand geht ohne Waffe tief in den Wald – das war schon immer so.
-**Ort:** Waldrand von [[4-Faerûn/Orte/Cormanthor]], nahe [[Ashabenford]].
+**Ort:** Waldrand von [[4-Faerûn/Orte/Cormanthor]], nahe [[Wissen - Ashabenford]].
 	Etwa 2 Stunden Fußmarsch (~3,5km) in den Wald hinein
 	2 Ochsen ziehen den Klippwagen (Logging Wheels), an dem die gefällten Baume hängen
 	![[Pasted image 20251203075333.png|100]]
@@ -65,7 +65,7 @@ Nach dem Kampf finden die Spieler die Ursache des Lärms auf einer kleinen Licht
 ---
 
 ## 4. Entscheidung in Ashabenford
-Die Holzfäller packen sofort zusammen ("Das bringt Unglück!"). Zurück in [[Ashabenford]] haben die SCs nun dieses Objekt.
+Die Holzfäller packen sofort zusammen ("Das bringt Unglück!"). Zurück in [[Wissen - Ashabenford]] haben die SCs nun dieses Objekt.
 
 Da es keine offensichtliche Mutation am Splitter gibt, ist er vor allem eins: **Geheimnisvoll und potenziell wertvoll.**
 

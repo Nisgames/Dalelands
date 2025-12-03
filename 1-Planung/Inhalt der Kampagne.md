@@ -19,7 +19,7 @@ tags:
 ### Die Drei Fronten (Sandbox-Plots)
 *Die Spieler entscheiden, welche Bedrohung sie wann angehen.*
 
-#### 1. Der [[Drachenkult]] (Nekromantie & Sprengstoff)
+#### 1. Der [[Wissen - Drachenkult]] (Nekromantie & Sprengstoff)
 - **Ziel:** Wollen einen **Dracolich** erwecken.
 - **Aktueller Plan:** Sie experimentieren mit den [[Schattensplitter]]n herum, um sie möglicher Weise als Elexier für das Ritual für Erweckung des Dracolich zu verwenden.
 - **Location:** [[Aencar's Manor]] (Dungeon Crawl).
@@ -42,7 +42,7 @@ tags:
 ### Weitere Fraktionen
 
 **[[4-Faerûn/Gruppierungen/Zhentarim]] (Die Profiteure)**
-- **Rolle:** Wollen die Splitter kaufen und als Waffen an [[Sembia]] verkaufen oder selbst benutzen.
+- **Rolle:** Wollen die Splitter kaufen und als Waffen an [[Wissen - Sembia]] verkaufen oder selbst benutzen.
 - **Verhalten:** Treten als Händler, Questgeber oder Rivalen auf. Sie wollen die Welt nicht zerstören, nur beherrschen.
 
 **Die Spieler**

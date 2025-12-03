@@ -4,7 +4,7 @@ tags:
 ---
 # Kampagnen-Start: Der Fund im Nebeltal
 
-**Start-Ort:** **[[Ashabenford]]** (Hauptstadt von [[Mistledale]]).
+**Start-Ort:** **[[Wissen - Ashabenford]]** (Hauptstadt von [[Mistledale]]).
 - Belebter Handelsknotenpunkt, offener als [[Archendale]].
 - Hier treffen sich Händler, Abenteurer und Spione.
 
@@ -20,7 +20,7 @@ tags:
 - Durch den Kampf (oder einen umgestürzten Baum) wird eine alte Ruine/Höhle freigelegt.
 - **Fund:** Der erste **[[Schattensplitter]]**. Er pulsiert, wirkt wertvoll und unheimlich.
 
-**3. Zurück in [[Ashabenford]] (Der Markt)**
+**3. Zurück in [[Wissen - Ashabenford]] (Der Markt)**
 - Die Spieler versuchen herauszufinden, was das ist.
 - **Das Dilemma (Sandbox-Eröffnung):**
 	- **[[4-Faerûn/Gruppierungen/Zhentarim]]-Agent:** Bietet sofort viel Gold (600 GM), stellt keine Fragen.
