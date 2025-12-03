@@ -5,7 +5,7 @@
 
 ```dataview
 TABLE without id
-	file.link as Thema,
+	link(file.path, regexreplace(file.name, "^Wissen - ", "")) as Thema,
 	INT as "Ab INT"
 from #Allgemeinwissen and !"3-DM/Bibliothek/Templates"
 ```
