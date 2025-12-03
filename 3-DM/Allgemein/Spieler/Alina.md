@@ -1,9 +1,8 @@
 ---
 tags:
   - Player
-Character: "[[Alinara]]"
+Character: "[[Elara]]"
 ---
-
 # Sessions
 
 ### Spieler
