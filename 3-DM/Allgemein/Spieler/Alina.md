@@ -1,3 +1,9 @@
+---
+tags:
+  - Player
+Character: "[[Alinara]]"
+---
+
 # Sessions
 
 ### Spieler
