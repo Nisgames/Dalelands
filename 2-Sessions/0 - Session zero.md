@@ -16,4 +16,5 @@ DM: "[[Jannis]]"
 - [ ] Wie doll soll ich sie guiden? -> Viel Freiheit?
 - [ ] Wie genau wollen wir Essen tracken?
 - [ ] Info zu Zeit zwischen den Session -> können Materialien herstellen
-- [ ] 
+
+- [ ] Waffe tauschen - AKTION / BONUSAKTION?
