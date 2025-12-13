@@ -43,4 +43,6 @@ DM: "[[Jannis]]"
 
 # 4. Hausregeln & Mechaniken
 - [ ] **Überleben & Ressourcen:** Wie wollt ihr Essen tracken?
-- [ ] **Zeit zwischen Sessions:** In der Regel keine. Falls doch, spreche ich vorher an, damit ihr 
+- [ ] **Zeit zwischen Sessions:** In der Regel keine. Falls doch, spreche ich vorher an, damit ihr euch überlegen könnt, was ihr machen wollt.
+- [ ] **Hausregeln:** Ich schreibe alle Hausregeln auf - vorher und während den Session - damit ihr nachlesen könnt
+- [ ] 
