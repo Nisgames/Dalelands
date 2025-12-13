@@ -28,4 +28,6 @@ DM: "[[Jannis]]"
 - [ ] **Essen & Trinken:** Wer besorgt was? (Oder jeder für sich?)
 
 # 2. Spielstil & Erwartungen
-- [ ] 
+- [ ] **Säulen des Spiels:** Wie ist die Verteilung?
+	- Kampf vs. Roleplay vs. Erkundung/Rätsel -> Bitte in % sagen, was ihr wünscht
+- [ ] **Führung durch den DM**: Sandbox vs Railroad?
