@@ -40,4 +40,6 @@ DM: "[[Jannis]]"
 	- Bei speziellen Wünschen nochmal fragen
 - [ ] **Gruppenzusammenhalt:** Woher kennt ihr euch? Wohnen alle in [[Ashabenford]] 
 - [ ] **Wissen der Charaktere:** Bekommen von mir noch PDF mit standard-Wissen. Für weiteres bitte fragen
+
+# 4. Hausregeln & Mechaniken
 - [ ] 
