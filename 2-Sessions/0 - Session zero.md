@@ -22,3 +22,5 @@ DM: "[[Jannis]]"
 ---
 
 - [ ] **Terminfindung:** Wie oft spielen wir? Plan: 2 Wöchentlich
+- [ ] **Absagen:** Was passiert, wenn einer fehlt? Plan: 1 Woche vorziehen oder nach hinten schieben
+- [ ] **Dauer:** Wie lange geht eine Session? Pla
