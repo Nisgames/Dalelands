@@ -33,4 +33,5 @@ DM: "[[Jannis]]"
 - [ ] **Führung durch den DM:** Sandbox vs Railroad? Klar erkennbar, was Story Stränge sind?
 - [ ] **Ton der Kampagne:** Ernst & Heroisch (Herr der Ringe) vs. Locker & Chaotisch (Guardians of the Galaxy)?
 	- Dalelands ist meist klassische High Fantasy – passt das für alle?
-- [ ] **Meta-Gaming:** Wie strikt trennen wir Spieler-Wissen von Charakter-Wissen? Plan: 
+- [ ] **Meta-Gaming:** Wie strikt trennen wir Spieler-Wissen von Charakter-Wissen? Plan: Spieler Ermessen, was der Char weiß. Wissen auch mal zurückhalten. Im Zweifel DM fragen und würfeln
+- [ ] 
