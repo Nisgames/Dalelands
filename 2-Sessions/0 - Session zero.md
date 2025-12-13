@@ -5,7 +5,7 @@ date:
 Players:
 DM: "[[Jannis]]"
 ---
-- [ ] Waffe tauschen BONUSAKTION?
+
 ---
 
 # 1. Organisatorisches
