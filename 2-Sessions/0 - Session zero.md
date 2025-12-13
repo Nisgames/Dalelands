@@ -5,20 +5,7 @@ date:
 Players:
 DM: "[[Jannis]]"
 ---
----
-
-- [ ] Was wissen die Spieler?
-- [ ] Kennen sich - woher?
-- [ ] Jobs?
-
-- [ ] Was wünschen sich die Spieler?
-	- [ ] Roleplay? Kampf? Rätsel?
-- [ ] Wie doll soll ich sie guiden? -> Viel Freiheit?
-- [ ] Wie genau wollen wir Essen tracken?
-- [ ] Info zu Zeit zwischen den Session -> können Materialien herstellen
-
-- [ ] Waffe tauschen - AKTION / BONUSAKTION?
-
+- [ ] Waffe tauschen BONUSAKTION?
 ---
 
 # 1. Organisatorisches
@@ -42,7 +29,7 @@ DM: "[[Jannis]]"
 	- Bei speziellen Wünschen nochmal fragen
 - [ ] **Gruppenzusammenhalt:** Woher kennt ihr euch? Wohnen alle in [[Ashabenford]] 
 - [ ] **Wissen der Charaktere:** Bekommen von mir noch PDF mit standard-Wissen. Für weiteres bitte fragen
-- [ ] **Jobs:** Was war bisher eure Aufgabe in 
+- [ ] **Jobs:** Was war bisher eure Aufgabe in [[Ashabenford]]?
 
 # 4. Hausregeln & Mechaniken
 - [ ] **Überleben & Ressourcen:** Wie wollt ihr Essen tracken?
