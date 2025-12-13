@@ -42,8 +42,9 @@ DM: "[[Jannis]]"
 	- Bei speziellen Wünschen nochmal fragen
 - [ ] **Gruppenzusammenhalt:** Woher kennt ihr euch? Wohnen alle in [[Ashabenford]] 
 - [ ] **Wissen der Charaktere:** Bekommen von mir noch PDF mit standard-Wissen. Für weiteres bitte fragen
+- [ ] **Jobs:** Was war bisher eure Aufgabe in 
 
 # 4. Hausregeln & Mechaniken
 - [ ] **Überleben & Ressourcen:** Wie wollt ihr Essen tracken?
-- [ ] **Zeit zwischen Sessions:** In der Regel keine. Falls doch, spreche ich vorher an, damit ihr euch überlegen könnt, was ihr machen wollt.
+- [ ] **Zeit zwischen Sessions:** In der Regel keine. Falls doch, spreche ich vorher an, damit ihr euch überlegen könnt, was ihr machen wollt. (Gerne Sachen herstellen und so)
 - [ ] **Hausregeln:** Ich schreibe alle Hausregeln auf - vorher und während den Session - damit ihr nachlesen könnt
