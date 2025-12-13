@@ -42,4 +42,5 @@ DM: "[[Jannis]]"
 - [ ] **Wissen der Charaktere:** Bekommen von mir noch PDF mit standard-Wissen. Für weiteres bitte fragen
 
 # 4. Hausregeln & Mechaniken
-- [ ] 
+- [ ] **Überleben & Ressourcen:** Wie wollt ihr Essen tracken?
+- [ ] **Zeit zwischen Sessions:** In der Regel keine. Falls doch, spreche ich vorher an, damit ihr 
