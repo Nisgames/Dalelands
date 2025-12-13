@@ -18,3 +18,7 @@ DM: "[[Jannis]]"
 - [ ] Info zu Zeit zwischen den Session -> können Materialien herstellen
 
 - [ ] Waffe tauschen - AKTION / BONUSAKTION?
+
+---
+
+- [ ] **Terminfindung:** Wie oft spielen wir? Plan: 2 Wöchentlich
