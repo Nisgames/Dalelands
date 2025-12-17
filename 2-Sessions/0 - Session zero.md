@@ -12,7 +12,7 @@ DM: "[[Jannis]]"
 - [x] **Terminfindung:** Wie oft spielen wir? Plan: 2 Wöchentlich
 - [x] **Absagen:** Was passiert, wenn einer fehlt? Plan: 1 Woche vorziehen oder nach hinten schieben
 - [x] **Dauer:** Wie lange geht eine Session? Plan: 18 - 22Uhr
-- [ ] **Essen & Trinken:** Wer besorgt was? (Oder jeder für sich?)
+- [x] **Essen & Trinken:** Wer besorgt was? (Oder jeder für sich?)
 ---
 
 # 2. Spielstil & Erwartungen
