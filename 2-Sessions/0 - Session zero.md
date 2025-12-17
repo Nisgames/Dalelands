@@ -37,7 +37,7 @@ DM: "[[Jannis]]"
 	- -> Soll Möglichkeit geben, wiederzubeleben
 	- -> Wenn sie klare Warnungen irgnorieren, dann selber Schuld
 	- -> Später nochmal fragen. Je nachdem, wie sehr sie den Charakter mögen
-	- -> 
+	- -> Nicht "Würfel schlechter machen", damit nicht tod ist
 - [ ] **No-Gos:** Gibt es No-Gos? Thematisch?
 ---
 
