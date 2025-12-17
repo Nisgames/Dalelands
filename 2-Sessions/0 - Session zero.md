@@ -16,20 +16,19 @@ DM: "[[Jannis]]"
 ---
 
 # 2. Spielstil & Erwartungen
-- [ ] **Säulen des Spiels:** Wie ist die Verteilung?
+- [x] **Säulen des Spiels:** Wie ist die Verteilung?
 	- Kampf vs. Roleplay vs. Erkundung/Rätsel -> Bitte in % sagen, was ihr wünscht
 	- -> muss nicht jede Session Kampf sein
 	- -> Nicht eine Session NUR Kampf
 	- -> Prinzipiell von allem etwas
 	- -> Keine Oneshots
 	- -> Zauber auch außerhalb des Kampfes einsetzen müssen
-- [ ] **Führung durch den DM:** Sandbox vs Railroad? Klar erkennbar, was Story Stränge sind?
+- [x] **Führung durch den DM:** Sandbox vs Railroad? Klar erkennbar, was Story Stränge sind?
 	- -> Eher bisschen mehr Railroading
 	- -> Subtil, aber vorhanden
 	- -> Gerade am Anfang bisschen mehr, damit sie die Welt kennenlernen
-- [ ] **Ton der Kampagne:** Ernst & Heroisch (Herr der Ringe) vs. Locker & Chaotisch (Guardians of the Galaxy)?
+- [x] **Ton der Kampagne:** Ernst & Heroisch (Herr der Ringe) vs. Locker & Chaotisch (Guardians of the Galaxy)?
 	- Dalelands ist meist klassische High Fantasy – passt das für alle?
-	- -> 
 - [ ] **Meta-Gaming:** Wie strikt trennen wir Spieler-Wissen von Charakter-Wissen? Plan: Spieler Ermessen, was der Char weiß. Wissen auch mal zurückhalten. Im Zweifel DM fragen und würfeln
 	- -> Im Kampf gar kein Meta Gaming
 	- -> Charakterwissen: Grundlegende Sachen weiß der Character, spezielle Sachen eher nicht
