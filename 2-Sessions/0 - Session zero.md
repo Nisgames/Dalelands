@@ -39,7 +39,7 @@ DM: "[[Jannis]]"
 	- -> Später nochmal fragen. Je nachdem, wie sehr sie den Charakter mögen
 	- -> Nicht "Würfel schlechter machen", damit nicht tod ist
 	- -> Spieler müssen ohne Meta gaming wissen, dass ein Kampf tödlich enden könnte
-- [ ] **No-Gos:** Gibt es No-Gos? Thematisch?
+- [x] **No-Gos:** Gibt es No-Gos? Thematisch?
 ---
 
 # 3. Charakter-Erstellung
