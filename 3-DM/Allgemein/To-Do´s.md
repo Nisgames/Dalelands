@@ -1,3 +1,3 @@
-- [ ] BBEG Organisation entwerfen
-- [ ] Weltkarte "fertigstellen"
-- [ ] Cheatsheet
+- [ ] Session 0
+- [ ] Session 1
+- [ ] NPCs für Spieler Backgrounds
