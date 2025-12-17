@@ -45,7 +45,7 @@ DM: "[[Jannis]]"
 ---
 
 # 3. Charakter-Erstellung
-- [ ] **Level 3 Start-Bonus:** Jeder bekommt von mir 1 besonderes Item. Ansonsten normale Start-Ausrüstung nach Handbuch.
+- [x] **Level 3 Start-Bonus:** Jeder bekommt von mir 1 besonderes Item. Ansonsten normale Start-Ausrüstung nach Handbuch.
 	- Bei speziellen Wünschen nochmal fragen
 - [ ] **Gruppenzusammenhalt:** Woher kennt ihr euch? Wohnen alle in [[Ashabenford]] 
 - [ ] **Wissen der Charaktere:** Bekommen von mir noch PDF mit standard-Wissen. Für weiteres bitte fragen
