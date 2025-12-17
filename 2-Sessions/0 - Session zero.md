@@ -57,5 +57,4 @@ DM: "[[Jannis]]"
 	- -> Mit tracken
 - [x] **Zeit zwischen Sessions:** In der Regel keine. Falls doch, spreche ich vorher an, damit ihr euch überlegen könnt, was ihr machen wollt. (Gerne Sachen herstellen und so)
 	- -> Sowas wie einkaufen muss nicht jedes Mal ausgespielt werden
-	- -> 
-- [ ] **Hausregeln:** Ich schreibe alle Hausregeln auf - vorher und während den Session - damit ihr nachlesen könnt
+- [x] **Hausregeln:** Ich schreibe alle Hausregeln auf - vorher und während den Session - damit ihr nachlesen könnt
