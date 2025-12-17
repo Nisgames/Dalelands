@@ -18,6 +18,10 @@ DM: "[[Jannis]]"
 # 2. Spielstil & Erwartungen
 - [ ] **Säulen des Spiels:** Wie ist die Verteilung?
 	- Kampf vs. Roleplay vs. Erkundung/Rätsel -> Bitte in % sagen, was ihr wünscht
+	- -> muss nicht jede Session Kampf sein
+	- -> Nicht eine Session NUR Kampf
+	- -> Prinzipiell von allem etwas
+	- -> 
 - [ ] **Führung durch den DM:** Sandbox vs Railroad? Klar erkennbar, was Story Stränge sind?
 - [ ] **Ton der Kampagne:** Ernst & Heroisch (Herr der Ringe) vs. Locker & Chaotisch (Guardians of the Galaxy)?
 	- Dalelands ist meist klassische High Fantasy – passt das für alle?
