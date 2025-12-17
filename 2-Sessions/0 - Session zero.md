@@ -34,6 +34,8 @@ DM: "[[Jannis]]"
 	- -> Charakterwissen: Grundlegende Sachen weiß der Character, spezielle Sachen eher nicht
 	- -> zwischendurch mal was kurz Quatschen in Ordnung
 - [ ] **Spielertode:** Wie hart wollen wir sein?
+	- -> Soll Möglichkeit geben, wiederzubeleben
+	- -> Wenn sie klare Warnungen irgnorieren, dann 
 - [ ] **No-Gos:** Gibt es No-Gos? Thematisch?
 ---
 
