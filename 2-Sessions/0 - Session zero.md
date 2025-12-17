@@ -40,7 +40,8 @@ DM: "[[Jannis]]"
 	- -> Nicht "Würfel schlechter machen", damit nicht tod ist
 	- -> Spieler müssen ohne Meta gaming wissen, dass ein Kampf tödlich enden könnte
 - [x] **No-Gos:** Gibt es No-Gos? Thematisch?
-	- -
+	- -> Kein Horror-Theme
+	- -> Spannend ja, Horror nein
 ---
 
 # 3. Charakter-Erstellung
