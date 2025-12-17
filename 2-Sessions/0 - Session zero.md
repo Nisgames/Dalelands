@@ -21,6 +21,8 @@ DM: "[[Jannis]]"
 	- -> muss nicht jede Session Kampf sein
 	- -> Nicht eine Session NUR Kampf
 	- -> Prinzipiell von allem etwas
+	- -> Keine Oneshots
+	- -> Zauber auch außerhalb des Kampfes einsetzen müssen
 	- -> 
 - [ ] **Führung durch den DM:** Sandbox vs Railroad? Klar erkennbar, was Story Stränge sind?
 - [ ] **Ton der Kampagne:** Ernst & Heroisch (Herr der Ringe) vs. Locker & Chaotisch (Guardians of the Galaxy)?
