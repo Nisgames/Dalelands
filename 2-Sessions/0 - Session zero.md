@@ -35,7 +35,9 @@ DM: "[[Jannis]]"
 	- -> zwischendurch mal was kurz Quatschen in Ordnung
 - [ ] **Spielertode:** Wie hart wollen wir sein?
 	- -> Soll Möglichkeit geben, wiederzubeleben
-	- -> Wenn sie klare Warnungen irgnorieren, dann 
+	- -> Wenn sie klare Warnungen irgnorieren, dann selber Schuld
+	- -> Später nochmal fragen. Je nachdem, wie seh s
+	- -> 
 - [ ] **No-Gos:** Gibt es No-Gos? Thematisch?
 ---
 
