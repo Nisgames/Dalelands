@@ -29,6 +29,7 @@ DM: "[[Jannis]]"
 	- -> Gerade am Anfang bisschen mehr, damit sie die Welt kennenlernen
 - [ ] **Ton der Kampagne:** Ernst & Heroisch (Herr der Ringe) vs. Locker & Chaotisch (Guardians of the Galaxy)?
 	- Dalelands ist meist klassische High Fantasy – passt das für alle?
+	- -> 
 - [ ] **Meta-Gaming:** Wie strikt trennen wir Spieler-Wissen von Charakter-Wissen? Plan: Spieler Ermessen, was der Char weiß. Wissen auch mal zurückhalten. Im Zweifel DM fragen und würfeln
 - [ ] **Spielertode:** Wie hart wollen wir sein?
 - [ ] **No-Gos:** Gibt es No-Gos? Thematisch?
