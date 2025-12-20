@@ -25,15 +25,14 @@ Ihr lehnt an den Bäumen oder haltet Wache?
 > [!recite|] Beschreibung
 >  Die Axtschläge der Holzfäller hallen durch den Wald. Es ist ein Routinejob. [[Torgar Feralis]], der Vorarbeiter, wischt sich den Schweiß von der Stirn.
 > "Guter Fortschritt heute," brummt er. "Aber bleibt wachsam. Die Wölfe sind in letzter Zeit aggressiver. Und man erzählt sich, dass tiefer im Wald, Richtung der alten Ruinen, Dinge umgehen, die man besser nicht stört."
+- Auf einmal fliegt in etwa 
 
 **Für den DM:** 
 * Torgar will **nicht** nachsehen ("Wir werden fürs Holzhacken bezahlt, nicht für Heldenmut!"), aber die SCs müssen sicherstellen, dass keine Gefahr droht.
 
 ---
 
-### 2. Der Kampf: Das aufgeschreckte Revier
-Die SCs nähern sich der Einschlagstelle. Der Lärm und die Erschütterung haben das lokale Raubtier aufgeschreckt, das nun sein Revier verteidigt.
-
+### 2. Der Kampf
 **Gegner (CR 3 Encounter):**
 * **1x Eulenbär (Owlbear)**
     * *Verhalten:* Ein ganz normaler, massiver Eulenbär. Er ist wütend und panisch wegen des Einschlags direkt neben seiner Höhle. Er greift alles an, was sich bewegt.
