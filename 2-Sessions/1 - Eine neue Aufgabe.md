@@ -70,7 +70,7 @@ Da es keine offensichtliche Mutation am Splitter gibt, ist er vor allem eins: **
 
 Die drei Hooks bleiben bestehen, aber der Kontext ändert sich:
 1.  **Zhentarim (Kaelen):** Will das "Meteoriten-Metall" kaufen. Er hält es für eine seltene Ressource.
-2.  **Drow (Elara - getarnt):** Spürt die magische Signatur des Splitters (Drow-Magie/Schattenfell) und will ihn "sicherstellen".
+2.  **Drow (Vae - getarnt):** Spürt die magische Signatur des Splitters (Drow-Magie/Schattenfell) und will ihn "sicherstellen".
 3.  **Rat (Andra):** Ist besorgt, weil kurz nach dem Einschlag Berichte über Unruhe im Wald eintreffen. Sie bittet die Helden, den Splitter sicher zu verwahren, bis man weiß, was es ist.
 
 ---
