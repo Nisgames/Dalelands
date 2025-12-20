@@ -1,3 +1,3 @@
-- [ ] Session 0
+- [x] Session 0
 - [ ] Session 1
 - [ ] NPCs für Spieler Backgrounds

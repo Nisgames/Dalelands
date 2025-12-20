@@ -1,8 +1,11 @@
 ---
 tags:
   - Session
-date:
+date: 2025-12-17
 Players:
+  - "[[Mika]]"
+  - "[[Liam]]"
+  - "[[Alina]]"
 DM: "[[Jannis]]"
 ---
 
