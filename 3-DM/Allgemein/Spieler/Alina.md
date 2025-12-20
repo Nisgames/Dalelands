@@ -1,7 +1,7 @@
 ---
 tags:
   - Player
-Character: "[[Elara]]"
+Character: "[[Elina]]"
 ---
 # Sessions
 
