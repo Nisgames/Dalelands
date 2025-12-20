@@ -9,7 +9,7 @@ DM: "[[Jannis]]"
 ![[Einleitungstext#Einleitung Wächter der Dalelands]]
 
 ### 1. Der Auftrag: Routine im Cormanthor
-**Situation:** Die SCs wurden als Begleitschutz angeheuert. Niemand geht ohne Waffe tief in den Wald – das war schon immer so.
+**Situation:** Ihr wurdet als Begleitschutz angeheuert. Niemand geht ohne Waffe tief in den Wald – das war schon immer so.
 **Ort:** Waldrand von [[4-Faerûn/Orte/Cormanthor]], nahe [[Wissen - Ashabenford]].
 	Etwa 2 Stunden Fußmarsch (~3,5km) in den Wald hinein
 	2 Ochsen ziehen den Klippwagen (Logging Wheels), an dem die gefällten Baume hängen
