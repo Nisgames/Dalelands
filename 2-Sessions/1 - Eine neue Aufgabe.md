@@ -25,7 +25,7 @@ Ihr lehnt an den Bäumen oder haltet Wache?
 > [!recite|] Beschreibung
 >  Die Axtschläge der Holzfäller hallen durch den Wald. Es ist ein Routinejob. [[Torgar Feralis]], der Vorarbeiter, wischt sich den Schweiß von der Stirn.
 > "Guter Fortschritt heute," brummt er. "Aber bleibt wachsam. Die Wölfe sind in letzter Zeit aggressiver. Und man erzählt sich, dass tiefer im Wald, Richtung der alten Ruinen, Dinge umgehen, die man besser nicht stört."
-- Auf einmal fliegt in einiger Entfernung ein aufgeschreckter Schwarm 
+- Auf einmal fliegt in einiger Entfernung ein aufgeschreckter Schwarm Vögel auf.
 
 **Für den DM:** 
 * Torgar will **nicht** nachsehen ("Wir werden fürs Holzhacken bezahlt, nicht für Heldenmut!"), aber die SCs müssen sicherstellen, dass keine Gefahr droht.
