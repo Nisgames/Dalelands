@@ -8,6 +8,7 @@ tags:
 - Waffen tauschen:
 	- Fallenlassen - Frei
 	- Wegstecken und ziehen - Bonusaktion
+- Einen Heiltrank **selbst** zu trinken, kostet eine **Bonusaktion**
 
 # Erholung & Rasten
 **Lange Rast in der Wildnis**
