@@ -9,6 +9,8 @@ tags:
 	- Fallenlassen - Frei
 	- Wegstecken und ziehen - Bonusaktion
 - Einen Heiltrank **selbst** zu trinken, kostet eine **Bonusaktion**
+	- Bei anderen immernoch **Aktion**
+	- 
 
 # Erholung & Rasten
 **Lange Rast in der Wildnis**
