@@ -4,5 +4,8 @@
   "showRibbon": true,
   "showViewHeader": true,
   "nativeMenus": false,
-  "accentColor": ""
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "narrator"
+  ]
 }
