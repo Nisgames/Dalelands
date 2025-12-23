@@ -1,2 +1,2 @@
-> [!recite|] Beschreibung
-> TEXT
+> [!vorlesen]
+> <% tp.file.cursor() %>
