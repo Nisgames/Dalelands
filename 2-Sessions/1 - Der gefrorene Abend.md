@@ -10,7 +10,7 @@ DM: "[[Jannis]]"
 **Ort:** [[Wissen - Ashabenford]] – Das Gasthaus **"White Hart Inn"**.
 **Stimmung:** Es ist ein belebter Abend. Musik, Gelächter, Bier.
 **Die Gruppe:** Sitzt gemeinsam an einem Tisch. Feiert vielleicht einen kleinen Erfolg oder plant den nächsten Schritt.
-> [!vorlesen]
+> [!vorlesen] Die Atmosphäre
 > Der kalte Wind pfeift durch die Gassen von Ashabenford und trägt einen leicht süßlichen Geruch heran.
 
 **Wichtige Beobachtung (Passive Perception 12):**
