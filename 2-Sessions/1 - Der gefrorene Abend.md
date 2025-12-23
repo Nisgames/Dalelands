@@ -7,9 +7,9 @@ DM: "[[Jannis]]"
 ---
 
 ### 1. Einstieg: Ruhe vor dem Sturm
-**Ort:** [[Wissen - Ashabenford]] – Das Gasthaus **"White Hart Inn"**.
+**Ort:** [[Wissen - Ashabenford]] – Das Gasthaus [[White Hart Inn]].
 **Stimmung:** Es ist ein belebter Abend. Musik, Gelächter, Bier.
-**Die Gruppe:** Sitzt gemeinsam an einem Tisch. Feiert vielleicht einen kleinen Erfolg oder plant den nächsten Schritt.
+**Die Gruppe:** Sitzt gemeinsam an einem Tisch.
 > [!vorlesen] Die Atmosphäre
 > Es ist ein gemütlicher Abend in Ashabenford. Das 'White Hart Inn' ist bis auf den letzten Platz gefüllt. Der Geruch von gebratenem Fasan, verschüttetem Bier und Pfeifentabak hängt schwer in der Luft. Ein Barde spielt auf seiner Laute gegen den Lärm der Menge an, und irgendwo hinten klirrt Glas, gefolgt von Gelächter.
 > Ihr sitzt gemeinsam an einem der groben Eichentische. Vielleicht feiert ihr einen kleinen Erfolg, oder vielleicht spült ihr einfach nur den Staub der Straße herunter. > Draußen mag die Nacht über dem Cormanthor liegen, aber hier drinnen ist es warm und sicher.
