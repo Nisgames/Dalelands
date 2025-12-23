@@ -1,4 +1,4 @@
-### Aktuelles Datum: 15. Marpen
+### Aktuelles Datum: 15. Marpenoth
 
 ### 🌧️ Auswirkungen auf die Spieler (Gameplay & Stimmung)
 
