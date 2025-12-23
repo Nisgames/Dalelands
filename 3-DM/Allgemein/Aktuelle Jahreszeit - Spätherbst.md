@@ -1,3 +1,5 @@
+### Aktuelles Datum: 15. Marpen
+
 ### 🌧️ Auswirkungen auf die Spieler (Gameplay & Stimmung)
 
 Hier sind konkrete mechanische und erzählerische Effekte, die du einbauen kannst:
