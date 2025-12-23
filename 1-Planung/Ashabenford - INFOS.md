@@ -29,6 +29,7 @@ Der Fluss ist wichtig, aber die Straße ist die Lebensader.
 - **Saisonale Güter (Herbst):** Gerade jetzt im Marpenoth (Oktober) werden keine Erdbeeren gehandelt.
     
     - _Was man sieht:_ Wagenladungen voll mit **Rüben, Kartoffeln, Pökelfleisch, Fellen** und Fässern mit **Ale**. Das "Goldene Garbe" (Golden Sheaf) Ale ist ein Exportschlager.
+
 ### 3. Der Cormanthor Wald: Nicht einfach nur "Bäume"
 
 Der Wald ist riesig, aber er hat Zonen. Je tiefer sie gehen, desto anders muss er aussehen.
@@ -45,3 +46,12 @@ Der Wald ist riesig, aber er hat Zonen. Je tiefer sie gehen, desto anders muss e
         
     - _Licht:_ Selbst tagsüber herrscht hier Zwielicht. Im Herbst bildet das Laub einen modrigen, rutschigen Teppich, der Geräusche schluckt – oder verräterisch raschelt.
 
+### 4. Lokaler "Flavor" für deine Beschreibungen
+
+Hier sind drei kleine Details, die du immer wieder einstreuen kannst:
+
+- **"Das Tal der offenen Türen":** Mistledale gilt als das freundlichste Tal. Leute schließen ihre Türen oft nicht ab (außer nachts wegen der neuen Gefahren).
+    
+- **Der Geruch:** In Ashabenford riecht es derzeit nach **Holzrauch** (Kamine), **nassem Hund/Fell** (Abenteurer/Jäger) und **gärendem Getreide** (Brauereien).
+    
+- **Die Reiter:** Man sieht oft die **Reiter von Mistledale** in ihren typischen Plattenpanzern mit dem weißen Pferdesymbol. Sie patrouillieren _auf_ den Wegen, gehen aber ungern _in_ den tiefen Wald.
