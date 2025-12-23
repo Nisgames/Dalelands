@@ -29,3 +29,19 @@ Der Fluss ist wichtig, aber die Straße ist die Lebensader.
 - **Saisonale Güter (Herbst):** Gerade jetzt im Marpenoth (Oktober) werden keine Erdbeeren gehandelt.
     
     - _Was man sieht:_ Wagenladungen voll mit **Rüben, Kartoffeln, Pökelfleisch, Fellen** und Fässern mit **Ale**. Das "Goldene Garbe" (Golden Sheaf) Ale ist ein Exportschlager.
+### 3. Der Cormanthor Wald: Nicht einfach nur "Bäume"
+
+Der Wald ist riesig, aber er hat Zonen. Je tiefer sie gehen, desto anders muss er aussehen.
+
+- **Randgebiet (Rimwood):** Wo die Holzfäller arbeiten.
+    
+    - _Vegetation:_ Vorwiegend **Kiefern und Nadelbäume** (Blueridge/Needleleaf Pine). Der Boden ist sandig und bedeckt mit braunen Nadeln.
+        
+    - _Sicht:_ Relativ weit, die Bäume sind "nur" 15-20 Meter hoch.
+        
+- **Tiefer Wald (Midwood/Starwood):** Wo die Drow und Ruinen lauern.
+    
+    - _Vegetation:_ Hier stehen die gigantischen **Eichen und Ahornbäume** (Starwood), die bis zu 100 Meter hoch werden können.
+        
+    - _Licht:_ Selbst tagsüber herrscht hier Zwielicht. Im Herbst bildet das Laub einen modrigen, rutschigen Teppich, der Geräusche schluckt – oder verräterisch raschelt.
+
