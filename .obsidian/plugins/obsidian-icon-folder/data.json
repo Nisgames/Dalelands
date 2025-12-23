@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiDices",
       "LiTimer",
       "LiHome",
       "🏙",
-      "LiBrain",
-      "LiFolder"
+      "LiBrain"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -102,5 +102,6 @@
   },
   "4-Faerûn": "🏙",
   "3-DM/Allgemein/0 - Homepage.md": "LiHome",
-  "3-DM/Allgemein/0 - Timeline.canvas": "LiTimer"
+  "3-DM/Allgemein/0 - Timeline.canvas": "LiTimer",
+  "3-DM/Zufallsbegegnungen": "LiDices"
 }
