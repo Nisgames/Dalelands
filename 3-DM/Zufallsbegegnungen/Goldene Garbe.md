@@ -2,6 +2,7 @@
 tags:
   - Zufallsbegegnung
   - Ashabenford
+Erlebt: false
 ---
 Ein Brauerei-Wagen aus Ashabenford, beladen mit Fässern des berühmten Ales. Der Kutscher summt ein Lied an **[[Chauntea]]** (Göttin der Ernte).
 

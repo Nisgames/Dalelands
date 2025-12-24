@@ -2,6 +2,7 @@
 tags:
   - Zufallsbegegnung
   - Ashabenford
+Erlebt: false
 ---
 Plötzlich zieht dichter Nebel auf, man sieht kaum die Hand vor Augen. Man hört nur das ferne Bimmeln einer Glocke. Ein Wanderpriester der **[[Tymora]]** taucht aus dem Dunst auf.
 

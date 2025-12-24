@@ -2,6 +2,7 @@
 tags:
   - Zufallsbegegnung
   - Ashabenford
+Erlebt: false
 ---
 Eine Gruppe der **Reiter von Mistledale** trabt vorbei. Sie tragen nasse Umhänge über ihren Plattenpanzern und wirken müde.
 

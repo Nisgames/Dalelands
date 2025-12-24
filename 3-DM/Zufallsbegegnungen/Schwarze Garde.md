@@ -2,6 +2,7 @@
 tags:
   - Zufallsbegegnung
   - Ashabenford
+Erlebt: false
 ---
 Eine kleine Karawane wird nicht von lokaler Miliz, sondern von Söldnern der **Zhentarim** bewacht. Sie tragen schwarze Lederwämser und schauen grimmig.
 

@@ -2,6 +2,7 @@
 tags:
   - Zufallsbegegnung
   - Ashabenford
+Erlebt: false
 ---
 Ein schwer beladener Ochsenkarren (Rüben & Kartoffeln) steckt bis zur Achse im Matsch fest. Ein verzweifelter Halbling-Bauer namens **Olo** versucht, seinen sturen Ochsen anzutreiben.
 
