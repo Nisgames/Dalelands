@@ -9,6 +9,7 @@
     "Einstimmung": "checkbox",
     "date": "date",
     "Players": "multitext",
-    "INT": "number"
+    "INT": "number",
+    "Erlebt": "checkbox"
   }
 }
