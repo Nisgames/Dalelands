@@ -11,4 +11,6 @@ Status: Lebendig
 Relevanz:
 ---
 # `=this.file.name`
-Göttin 
+
+- Göttin des guten Glücks
+- "Das Glück ist mit den Tüchtigen"
