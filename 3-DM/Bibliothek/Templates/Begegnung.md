@@ -5,8 +5,8 @@ const files = app.vault.getMarkdownFiles().filter(file => {
     const tags = cache?.tags?.map(t => t.tag) || [];
     const fm = cache?.frontmatter || {};
 
-    // BEDINGUNG: Hat Tag #Zufallsbegegnung UND ist nicht als 'erledigt: true' markiert
-    return tags.includes("#Zufallsbegegnung") && fm.erledigt !== true;
+    // BEDINGUNG: Hat Tag #Zufallsbegegnung UND ist nicht als 'erlebt: true' markiert
+    return tags.includes("#Zufallsbegegnung") && fm.erlebt !== true;
 });
 
 if (files.length > 0) {
