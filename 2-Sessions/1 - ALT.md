@@ -29,6 +29,9 @@ Ihr lehnt an den Bäumen oder haltet Wache?
 
 **Für den DM:** 
 * Torgar will **nicht** nachsehen ("Wir werden fürs Holzhacken bezahlt, nicht für Heldenmut!"), aber die SCs müssen sicherstellen, dass keine Gefahr droht.
+
+![[Schwarze Garde]]
+
 ---
 
 ### 2. Der Kampf
