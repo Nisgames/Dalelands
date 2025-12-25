@@ -1,42 +1,57 @@
 <%*
-// 1. Ort abfragen (Pop-up)
-const ortInput = await tp.system.prompt("Welcher Ort? (Leer lassen für alle)");
-
 const targetTag = "Zufallsbegegnung"; 
-// NAME DEINES TEMPLATE-ORDNERS HIER EINTRAGEN:
-const templateFolder = "3-DM/Bibliothek/Templates"; 
+const templateFolder = "Templates"; // Dein Template-Ordner
 
-const files = app.vault.getMarkdownFiles().filter(file => {
-    // 2. Template selbst ausschließen (filtert ganzen Ordner)
-    if (file.path.includes(templateFolder)) return false; 
-
+// 1. Alle Dateien scannen und relevante Daten (Tags/Status) vorab sammeln
+const entries = app.vault.getMarkdownFiles().map(file => {
     const cache = app.metadataCache.getFileCache(file);
     const fm = cache?.frontmatter;
-    if (!fm) return false;
-
-    // Tags sammeln & bereinigen (# entfernen)
-    const frontmatterTags = fm.tags ? (Array.isArray(fm.tags) ? fm.tags : [fm.tags]) : [];
-    const textTags = cache.tags ? cache.tags.map(t => t.tag) : [];
-    const allTags = [...frontmatterTags, ...textTags].map(t => t.replace('#', ''));
-
-    // Bedingungen
-    const hatZufallTag = allTags.includes(targetTag);
-    const istErledigt = fm.Erledigt === true || fm.erledigt === true;
     
-    // 3. Orts-Filter: Prüft, ob der eingegebene Ort als Tag vorhanden ist
-    let ortPasst = true;
-    if (ortInput && ortInput.trim() !== "") {
-        // Vergleicht kleingeschrieben, damit "ashabenford" auch "Ashabenford" findet
-        ortPasst = allTags.some(t => t.toLowerCase() === ortInput.toLowerCase());
-    }
-
-    return hatZufallTag && !istErledigt && ortPasst;
+    // Tags aus Frontmatter und Text sammeln & bereinigen
+    const fmTags = fm?.tags ? (Array.isArray(fm.tags) ? fm.tags : [fm.tags]) : [];
+    const txtTags = cache?.tags ? cache.tags.map(t => t.tag) : [];
+    const allTags = [...fmTags, ...txtTags].map(t => t.replace('#', ''));
+    
+    return {
+        file: file,
+        tags: allTags,
+        erledigt: fm?.Erledigt === true || fm?.erledigt === true,
+        isTemplate: file.path.includes(templateFolder)
+    };
 });
 
-if (files.length > 0) {
-    const randomFile = files[Math.floor(Math.random() * files.length)];
-    tR += `![[${randomFile.basename}]]`;
+// 2. Filtern: Nur offene Zufallsbegegnungen
+const candidates = entries.filter(e => 
+    e.tags.includes(targetTag) && !e.erledigt && !e.isTemplate
+);
+
+// 3. Verfügbare Orte aus den Kandidaten extrahieren
+const ortSet = new Set();
+candidates.forEach(e => {
+    e.tags.forEach(tag => {
+        if (tag !== targetTag) ortSet.add(tag); // Ziel-Tag selbst ignorieren
+    });
+});
+const orte = Array.from(ortSet).sort();
+const auswahlOptionen = ["Alle Orte", ...orte];
+
+// 4. Auswahlmenü anzeigen
+const wahl = await tp.system.suggester(auswahlOptionen, auswahlOptionen);
+
+if (wahl) {
+    // Liste nach Wahl filtern (oder alle nehmen)
+    const pool = (wahl === "Alle Orte") 
+        ? candidates 
+        : candidates.filter(e => e.tags.includes(wahl));
+
+    if (pool.length > 0) {
+        const randomEntry = pool[Math.floor(Math.random() * pool.length)];
+        tR += `![[${randomEntry.file.basename}]]`;
+    } else {
+        tR += `Keine Begegnungen für "${wahl}" gefunden.`;
+    }
 } else {
-    tR += `Keine offene Begegnung für Ort "${ortInput}" gefunden.`;
+    // Falls ESC gedrückt wurde
+    tR += ""; 
 }
 %>
