@@ -1,32 +1,42 @@
 <%*
-const targetTag = "Zufallsbegegnung"; // Dein Tag ohne #
+// 1. Ort abfragen (Pop-up)
+const ortInput = await tp.system.prompt("Welcher Ort? (Leer lassen für alle)");
+
+const targetTag = "Zufallsbegegnung"; 
+// NAME DEINES TEMPLATE-ORDNERS HIER EINTRAGEN:
+const templateFolder = "3-DM/Bibliothek/Templates"; 
 
 const files = app.vault.getMarkdownFiles().filter(file => {
+    // 2. Template selbst ausschließen (filtert ganzen Ordner)
+    if (file.path.includes(templateFolder)) return false; 
+
     const cache = app.metadataCache.getFileCache(file);
     const fm = cache?.frontmatter;
-
     if (!fm) return false;
 
-    // 1. Tags prüfen (sowohl in Properties als auch im Text)
-    // Wir normalisieren alles, um #Zufallsbegegnung und Zufallsbegegnung zu finden
+    // Tags sammeln & bereinigen (# entfernen)
     const frontmatterTags = fm.tags ? (Array.isArray(fm.tags) ? fm.tags : [fm.tags]) : [];
     const textTags = cache.tags ? cache.tags.map(t => t.tag) : [];
-    
-    // Kombiniere alle Tags und entferne '#' für den Vergleich
     const allTags = [...frontmatterTags, ...textTags].map(t => t.replace('#', ''));
-    const hatTag = allTags.includes(targetTag);
 
-    // 2. Erledigt prüfen (Groß-/Kleinschreibung egal)
-    // Sucht nach 'Erledigt', 'erledigt', 'Done', etc. falls du es mal änderst
+    // Bedingungen
+    const hatZufallTag = allTags.includes(targetTag);
     const istErledigt = fm.Erledigt === true || fm.erledigt === true;
+    
+    // 3. Orts-Filter: Prüft, ob der eingegebene Ort als Tag vorhanden ist
+    let ortPasst = true;
+    if (ortInput && ortInput.trim() !== "") {
+        // Vergleicht kleingeschrieben, damit "ashabenford" auch "Ashabenford" findet
+        ortPasst = allTags.some(t => t.toLowerCase() === ortInput.toLowerCase());
+    }
 
-    return hatTag && !istErledigt;
+    return hatZufallTag && !istErledigt && ortPasst;
 });
 
 if (files.length > 0) {
     const randomFile = files[Math.floor(Math.random() * files.length)];
     tR += `![[${randomFile.basename}]]`;
 } else {
-    tR += "Keine offenen Begegnungen gefunden.";
+    tR += `Keine offene Begegnung für Ort "${ortInput}" gefunden.`;
 }
 %>
