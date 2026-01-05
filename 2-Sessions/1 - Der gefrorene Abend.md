@@ -60,7 +60,7 @@ Der Dieb klettert hastig zum Fenster. Dabei stößt die Kiste gegen den Rahmen. 
 ## 3. Die Eskalation: Chaos & Gier
 Der Dieb verschwindet in die Nacht. Das Gerät ist außer Reichweite.
 
-> [!recite] Vorlesetext: Der Bruch
+> [!vorlesen] Der Bruch
 > "Mit einem Schlag kehrt die Realität zurück.
 > Der Lärm von hundert Menschen explodiert förmlich in euren Ohren. Die Schankmaid fällt krachend zu Boden. Gläser zerspringen durch die plötzliche Druckwelle. Das Feuer im Kamin lodert auf.
 > Schreie. Panik.
@@ -135,7 +135,7 @@ Ihr müsst rasten (Short/Long Rest), um Kräfte zu sammeln.
 > [!recite] Traum-Sequenz für [[Elara]] (Handout oder Vorlesen)
 > "Die Anspannung des Abends fällt von dir ab, und du gleitest in einen unruhigen Schlaf.
 >
-> Doch du bist nicht hier. Du bist wieder im Cormanthor. Aber der Wald ist jünger.
+> Doch du bist nicht hier. Du bist wieder im [[Cormanthor]]. Aber der Wald ist jünger.
 > Du blickst nach oben. Der Himmel reißt auf. Lautlos.
 > Ein Gebirge aus schwarzem Stein – eine fliegende Stadt – stürzt brennend herab. Es ist majestätisch und entsetzlich zugleich.
 >
