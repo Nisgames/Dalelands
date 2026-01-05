@@ -36,7 +36,8 @@ Ihr lehnt an den Bäumen oder haltet Wache?
 
 ![[Toter Hirsch]]
 ![[Nebel-Bote]]
-Keine unbenutzten Begegnungen für "Alle Orte" gefunden.
+
+
 
 
 
