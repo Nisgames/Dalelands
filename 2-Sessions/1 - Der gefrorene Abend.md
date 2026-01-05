@@ -132,7 +132,7 @@ Es ist dunkel. Ihr seid sicher vor Orin, aber ihr wisst: Da unten ist der Dieb.
 
 Ihr müsst rasten (Short/Long Rest), um Kräfte zu sammeln.
 
-> [!recite] Traum-Sequenz für [[Elara]] (Handout oder Vorlesen)
+> [!recite] Traum-Sequenz für [[Elina]] (Handout oder Vorlesen)
 > "Die Anspannung des Abends fällt von dir ab, und du gleitest in einen unruhigen Schlaf.
 >
 > Doch du bist nicht hier. Du bist wieder im [[Cormanthor]]. Aber der Wald ist jünger.
