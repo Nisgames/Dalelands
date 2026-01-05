@@ -15,7 +15,7 @@ DM: "[[Jannis]]"
 **Ort:** [[Wissen - Ashabenford]] – Das Gasthaus **"White Hart Inn"**.
 **Musik:** Etwas Lautes, Fröhliches (Tavern-Ambiente).
 
-> [!recite] Vorlesetext: Die Atmosphäre
+> [!vorlesen] Die Atmosphäre
 > "Es ist ein guter Abend in Ashabenford. Das 'White Hart Inn' ist bis auf den letzten Platz gefüllt. Der Geruch von gebratenem Fasan, verschüttetem Bier und Pfeifentabak hängt schwer in der Luft. Ein Barde spielt auf seiner Laute gegen den Lärm der Menge an, und irgendwo hinten klirrt Glas, gefolgt von Gelächter.
 >
 > Ihr sitzt gemeinsam an einem der groben Eichentische. Vielleicht feiert ihr einen kleinen Erfolg, oder vielleicht spült ihr einfach nur den Staub der Straße herunter.
@@ -152,10 +152,6 @@ Ihr müsst rasten (Short/Long Rest), um Kräfte zu sammeln.
 # DM-Notizen & Vorbereitung
 
 ### Loot: Der kleine Schattensplitter
-* **Typ:** Wondrous Item (Verbrauchsgut / Story Item)
-* **Eigenschaft:** Leuchtet schwach in 5ft Radius.
-* **Effekt:** Wenn eine Kreatur ihn berührt, muss sie einen **DC 10 CON Save** machen oder nimmt **1d4 Nekrotischen Schaden** (Wilde Magie).
-    * *Ausnahme:* Die SCs bestehen diesen Save automatisch (wegen ihrer "Verstrahlung").
 * **Nutzen:** Kann als Fokus für Zauber dienen (+1 auf Schaden bei Necrotic/Force) oder für 50 Gold verkauft werden (aber gefährlich!).
 
 ### Monster Stats (Kurzform)
