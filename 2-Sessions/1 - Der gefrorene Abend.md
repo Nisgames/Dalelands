@@ -36,7 +36,7 @@ Zwei Tische weiter sitzt ein Mann, der nicht ganz ins Bild passt.
 
 > [!vorlesen] Der Stillstand
 > "Mitten in einem Akkord des Barden passiert es.
-> Es gibt keinen Knall. Es ist eher so, als würde jemand eine schwere Decke über die Welt werfen.
+> Es gibt keinen Knall. Es ist eher so, als würde jemand eine schwere Decke über die Welt legen.
 >
 > Schlagartig ist es totenstill.
 > Die Schankmaid am Nachbartisch ist im Stolpern begriffen – aber sie fällt nicht. Das Bier, das aus dem Krug schwappt, hängt als goldene Kette aus Tropfen in der Luft. Das Feuer im Kamin ist zu einer unbeweglichen Skulptur aus Licht erstarrt. Selbst der Staub in den Lichtstrahlen steht still.
