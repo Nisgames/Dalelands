@@ -1,11 +1,9 @@
 ---
 tags:
   - Session
-date: 
+date:
 Players:
-  - "[[Alina]]"
-  - "[[Liam]]"
-  - "[[Mika]]"
+  - "[[Elina]]"
 DM: "[[Jannis]]"
 ---
 
