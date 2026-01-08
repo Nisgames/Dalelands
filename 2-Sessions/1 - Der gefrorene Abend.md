@@ -7,9 +7,6 @@ Players:
 DM: "[[Jannis]]"
 ---
 
-# Session 1: Der gefrorene Abend
-
-## 1. Einstieg: Ein ganz normaler Abend
 **Ort:** [[Wissen - Ashabenford]] – Das Gasthaus **"[[White Hart Inn]]"**.
 **Musik:** Etwas Lautes, Fröhliches (Tavern-Ambiente).
 
