@@ -12,3 +12,4 @@ Seit der Zerstörung von Thultanthar und Myth Drannor tauchen [[Schattensplitter
 - [[Schattensplitter]] Händler zahlen Unsummen dafür, Unwissende werden durch die Strahlung krank oder wahnsinnig. 
 - [[4-Faerûn/Orte/Cormanthor]] Die Flora und Fauna beginnt sich seltsam zu verändern (Mutationen durch wilde Magie).
 - [[Zhentarim]] Wollen die Splitter kaufen und als Waffen an [[Sembia]] verkaufen oder selbst benutzen.
+- [[Ashaba]] Spült manchmal tote Fische an wegen verseuchung.
