@@ -96,12 +96,12 @@
   "3-DM/Quests": "LiQuestionMarkGlyph",
   "3-DM/Allgemein/To-Do´s.md": "LiListTodo",
   "3-DM/Allgemein/Sessions.md": "LiView",
-  "1-Planung": {
-    "iconName": "LiBrain",
-    "iconColor": "#9056e6"
-  },
   "4-Faerûn": "🏙",
   "3-DM/Allgemein/0 - Homepage.md": "LiHome",
   "3-DM/Allgemein/0 - Timeline.canvas": "LiTimer",
-  "3-DM/Zufallsbegegnungen": "LiDices"
+  "3-DM/Zufallsbegegnungen": "LiDices",
+  "0-Planung": {
+    "iconName": "LiBrain",
+    "iconColor": "#9056e6"
+  }
 }
