@@ -9,7 +9,7 @@ tags:
 **Dalelands Karte:**
 - https://i.imgur.com/2B2RAKD.jpeg
 
-**Die "Währung" der Kampagne:** **[[Schattensplitter]]**
+**Die "Währung" der Kampagne:** **[[Schattensplitter]]** (Kennen die Spieler anfangs noch nicht)
 - Magisch hochreaktiv (Schattenfell-Energie & Wilde Magie).
 - Mutieren die Umgebung (Flora/Fauna).
 - Extrem wertvoll für Händler, extrem gefährlich für Unwissende.
