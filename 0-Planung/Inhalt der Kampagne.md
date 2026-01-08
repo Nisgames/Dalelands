@@ -27,7 +27,7 @@ tags:
 
 #### 2. [[Haus Jaelre]] / Die Drow (Invasion & Terraforming)
 - **Ziel:** Die Oberfläche erobern.
-- **Aktueller Plan:** Bauen "Schatten-Monolithen" tief im Wald von [[4-Faerûn/Orte/Cormanthor]].
+- **Aktueller Plan:** Bauen "Schatten-Monolithen" tief im Wald von [[Cormanthor]].
 - **Nutzung der Splitter:** Nutzen die Essenz der Splitter, um Zonen permanenter Dunkelheit zu erschaffen (Schutz vor Sonnenlicht).
 - **Location:** [[Spiderhaunt Woods]] & Tiefer Wald (Guerilla-Kampf).
 
@@ -41,8 +41,8 @@ tags:
 
 ### Weitere Fraktionen
 
-**[[4-Faerûn/Gruppierungen/Zhentarim]] (Die Profiteure)**
-- **Rolle:** Wollen die Splitter kaufen und als Waffen an [[Wissen - Sembia]] verkaufen oder selbst benutzen.
+**[[Zhentarim]] (Die Profiteure)**
+- **Rolle:** Wollen die Splitter kaufen und als Waffen an [[Sembia]] verkaufen oder selbst benutzen.
 - **Verhalten:** Treten als Händler, Questgeber oder Rivalen auf. Sie wollen die Welt nicht zerstören, nur beherrschen.
 
 **Die Spieler**
