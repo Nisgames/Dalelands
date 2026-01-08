@@ -13,7 +13,7 @@ Relevanz:
 TABLE WITHOUT ID
 	file.link as Mitglieder,
 	Relevanz as Relevanz
-FROM #NPC 
+FROM #NPC AND !"3-DM/"
 WHERE contains(Fraktionen, this.file.link)
 SORT Relevanz ASC
 ```

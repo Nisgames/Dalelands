@@ -21,6 +21,6 @@ WHERE contains(Rows.outlinks, this.file.link) AND !file.frontmatter.resolved
 TABLE WITHOUT ID
 	file.link as Name,
 	Relevanz as Relevanz
-from #NPC 
+from #NPC AND !"3-DM/"
 where contains(Wohnort, this.file.link)
 ```
