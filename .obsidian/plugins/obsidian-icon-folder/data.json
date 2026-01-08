@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiLandPlot",
       "LiDices",
       "LiTimer",
       "LiHome",
-      "🏙",
-      "LiBrain"
+      "🏙"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -48,6 +48,13 @@
         "icon": "LiQuestionMarkGlyph",
         "for": "everything",
         "order": 4,
+        "useFilePath": true
+      },
+      {
+        "rule": "1-Plots/",
+        "icon": "LiLandPlot",
+        "for": "everything",
+        "order": 5,
         "useFilePath": true
       }
     ],
@@ -103,5 +110,6 @@
   "0-Planung": {
     "iconName": "LiBrain",
     "iconColor": "#9056e6"
-  }
+  },
+  "1-Plots": "LiLandPlot"
 }
