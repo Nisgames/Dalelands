@@ -102,7 +102,7 @@ Beschreibe dem Spieler, der den Splitter hält (oder dem, der ihm am nächsten s
 
 ---
 
-## 5. Die Verfolgung (Skill Challenge)
+## 5. Die Verfolgung
 *Die Gruppe klettert aus dem Fenster und folgt der Spur.*
 
 **Modus:** Schnelle Erzählung, 3 Hindernisse.
