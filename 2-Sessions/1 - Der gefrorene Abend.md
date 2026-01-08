@@ -21,7 +21,7 @@ DM: "[[Jannis]]"
 
 **Der Szenen-Setzer (Passive Perception 12):**
 Zwei Tische weiter sitzt ein Mann, der nicht ganz ins Bild passt.
-* **Name:** Orin, ein Bote der [[4-Faerûn/Gruppierungen/Zhentarim]].
+* **Name:** [[Orin]], ein Bote der [[Zhentarim]].
 * **Aussehen:** Er trägt gut geschnittene, dunkle Kleidung, aber er schwitzt. Er wippt nervös mit dem Fuß.
 * **Das Objekt:** Er umklammert eine schwere, eisenbeschlagene Kiste mit beiden Händen, als wäre sie sein Leben. Er starrt immer wieder zur Tür.
 
