@@ -146,7 +146,6 @@ Ihr müsst rasten (Short/Long Rest), um Kräfte zu sammeln.
 > Du wachst keuchend auf.
 > Deine Hand, die den Splitter berührt hat, kribbelt nicht mehr. Sie fühlt sich an, als würde sie sich *erinnern*."
 
-**Ende der Session.**
 
 ---
 # DM-Notizen & Vorbereitung
