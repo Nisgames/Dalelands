@@ -7,7 +7,7 @@ Players:
 DM: "[[Jannis]]"
 ---
 
-**Ort:** [[Wissen - Ashabenford]] – Das Gasthaus **"[[White Hart Inn]]"**.
+**Ort:** [[Ashabenford]] – Das Gasthaus **"[[White Hart Inn]]"**.
 **Musik:** Etwas Lautes, Fröhliches (Tavern-Ambiente).
 
 > [!vorlesen] Die Atmosphäre
