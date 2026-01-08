@@ -19,7 +19,6 @@ DM: "[[Jannis]]"
 > Ihr sitzt gemeinsam an einem der groben Eichentische.
 > Draußen mag die Nacht über dem Cormanthor liegen, aber hier drinnen ist es warm und gemütlich."
 
-**Der Szenen-Setzer (Passive Perception 12):**
 Zwei Tische weiter sitzt ein Mann, der nicht ganz ins Bild passt.
 * **Name:** [[Orin]], ein Bote der [[Zhentarim]].
 * **Aussehen:** Er trägt gut geschnittene, dunkle Kleidung, aber er schwitzt. Er wippt nervös mit dem Fuß.
@@ -27,9 +26,6 @@ Zwei Tische weiter sitzt ein Mann, der nicht ganz ins Bild passt.
 
 *(Lass die Spieler kurz untereinander agieren, Getränke bestellen etc. Gib ihnen 5-10 Minuten "Normalität".)*
 
----
-
-## 2. Der Vorfall: Die gestohlene Zeit
 **Trigger:** Wenn die Stimmung am Höhepunkt ist oder gerade eine Bestellung gebracht wird.
 
 > [!vorlesen] Der Stillstand
