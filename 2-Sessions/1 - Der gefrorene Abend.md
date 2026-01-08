@@ -16,8 +16,8 @@ DM: "[[Jannis]]"
 > [!vorlesen] Die Atmosphäre
 > "Es ist ein guter Abend in Ashabenford. Das 'White Hart Inn' ist bis auf den letzten Platz gefüllt. Der Geruch von gebratenem Fasan, verschüttetem Bier und Pfeifentabak hängt schwer in der Luft. Ein Barde spielt auf seiner Laute gegen den Lärm der Menge an, und irgendwo hinten klirrt Glas, gefolgt von Gelächter.
 >
-> Ihr sitzt gemeinsam an einem der groben Eichentische. Vielleicht feiert ihr einen kleinen Erfolg, oder vielleicht spült ihr einfach nur den Staub der Straße herunter.
-> Draußen mag die Nacht über dem Cormanthor liegen, aber hier drinnen ist es warm und sicher."
+> Ihr sitzt gemeinsam an einem der groben Eichentische.
+> Draußen mag die Nacht über dem Cormanthor liegen, aber hier drinnen ist es warm und gemütlich."
 
 **Der Szenen-Setzer (Passive Perception 12):**
 Zwei Tische weiter sitzt ein Mann, der nicht ganz ins Bild passt.
