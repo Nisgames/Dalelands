@@ -4,8 +4,12 @@ tags:
 Liegt_in: "[[Dalelands]]"
 Fraktionen:
 ---
----
-### Bewohner
+
+## 📖 Allgemeinwissen
+
+
+
+## Bewohner
 ```dataview
 TABLE WITHOUT ID
 	file.link as Name,
