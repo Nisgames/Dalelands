@@ -51,9 +51,6 @@ Der Dieb klettert hastig zum Fenster. Dabei stößt die Kiste gegen den Rahmen. 
 * Er fällt in Zeitlupe zu Boden, prallt lautlos ab und kullert genau vor eure Füße.
 * Er glüht im selben violetten Takt wie das Gerät des Diebes.
 
----
-
-## 3. Die Eskalation: Chaos & Gier
 Der Dieb verschwindet in die Nacht. Das Gerät ist außer Reichweite.
 
 > [!vorlesen] Der Bruch
@@ -76,7 +73,6 @@ Draußen hört man schwere Stiefel und das Ziehen von Waffen. Die Vordertür wir
 
 ---
 
-## 4. Die Entscheidung: Der Ruf des Splitters
 Ihr seid gefangen. Die Gäste drängen panisch in die Ecken.
 Ihr habt den Splitter.
 
@@ -98,7 +94,6 @@ Beschreibe dem Spieler, der den Splitter hält (oder dem, der ihm am nächsten s
 
 ---
 
-## 5. Die Verfolgung
 *Die Gruppe klettert aus dem Fenster und folgt der Spur.*
 
 **Modus:** Schnelle Erzählung, 3 Hindernisse.
@@ -121,7 +116,6 @@ Beschreibe dem Spieler, der den Splitter hält (oder dem, der ihm am nächsten s
 
 ---
 
-## 6. Abschluss: Die Ruine & Der Traum
 **Ziel erreicht:**
 Die Spur endet an einem überwucherten Kellereingang einer alten Ruine, etwa eine Stunde außerhalb der Stadt.
 Es ist dunkel. Ihr seid sicher vor Orin, aber ihr wisst: Da unten ist der Dieb.
@@ -141,14 +135,3 @@ Ihr müsst rasten (Short/Long Rest), um Kräfte zu sammeln.
 >
 > Du wachst keuchend auf.
 > Deine Hand, die den Splitter berührt hat, kribbelt nicht mehr. Sie fühlt sich an, als würde sie sich *erinnern*."
-
-
----
-# DM-Notizen & Vorbereitung
-
-### Loot: Der kleine Schattensplitter
-* **Nutzen:** Kann als Fokus für Zauber dienen (+1 auf Schaden bei Necrotic/Force) oder für 50 Gold verkauft werden (aber gefährlich!).
-
-### Monster Stats (Kurzform)
-* **Zhentarim Schläger (Bandit):** AC 12, HP 11, Scimitar +3 (1d6+1).
-* **Drow Dieb:** (Begegnet ihnen erst nächste Session im Dungeon).
