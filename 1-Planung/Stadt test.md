@@ -16,8 +16,9 @@ where contains(Wohnort, this.file.link)
 ## 📰 Aktuelle Gerüchte & Plot-Hooks
 ```dataview
 TABLE WITHOUT ID 
+file.link AS "Plot",
 regexreplace(Rows.text, "\[\[.*?\]\]", "") AS "Was passiert hier?"
-FROM #Plot 
+FROM "3-DM/Quests"
 FLATTEN file.lists AS Rows
-WHERE contains(Rows.outlinks, this.file.link) AND !file.frontmatter.resolved
+WHERE contains(Rows.outlinks, this.file.link) AND file.frontmatter.resolved
 ```
