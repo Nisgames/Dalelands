@@ -41,6 +41,10 @@
     {
       "folder": "3-DM/Quests",
       "template": "3-DM/Bibliothek/Templates/Quest.md"
+    },
+    {
+      "folder": "1-Plots",
+      "template": "3-DM/Bibliothek/Templates/Plot.md"
     }
   ],
   "enable_file_templates": false,
