@@ -18,7 +18,7 @@ where contains(Wohnort, this.file.link)
 TABLE WITHOUT ID 
 file.link AS "Plot",
 regexreplace(Rows.text, "\[\[.*?\]\]", "") AS "Was passiert hier?"
-FROM "3-DM/Quests"
+FROM #Plot 
 FLATTEN file.lists AS Rows
-WHERE contains(Rows.outlinks, this.file.link) AND file.frontmatter.resolved
+WHERE contains(Rows.outlinks, this.file.link) AND !file.frontmatter.resolved
 ```
