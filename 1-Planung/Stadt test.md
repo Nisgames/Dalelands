@@ -19,5 +19,5 @@ TABLE WITHOUT ID
 regexreplace(Rows.text, "\[\[.*?\]\]", "") AS "Was passiert hier?"
 FROM #Plot 
 FLATTEN file.lists AS Rows
-WHERE contains(Rows.outlinks, this.file.link) AND file.frontmatter.status = "active"
+WHERE contains(Rows.outlinks, this.file.link) AND !file.frontmatter.resolved
 ```

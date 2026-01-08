@@ -10,6 +10,8 @@
     "date": "date",
     "Players": "multitext",
     "INT": "number",
-    "Erlebt": "checkbox"
+    "Erlebt": "checkbox",
+    "status": "checkbox",
+    "resolved": "checkbox"
   }
 }

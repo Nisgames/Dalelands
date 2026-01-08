@@ -1,6 +1,6 @@
 ---
 tags: Plot
-status: active
+resolved: active
 ---
 ## Hintergrund
 Ein Zirkus kommt in die Stadt.
