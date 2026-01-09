@@ -78,23 +78,13 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "3-DM": "LiFolder",
   "4-Âratûn": "🏙",
-  "3-DM/Bibliothek/Items": {
-    "iconName": "LiSword",
-    "iconColor": "#575757"
-  },
-  "3-DM/Bibliothek/Regelwerke": "LiHammer",
-  "3-DM/Bibliothek/Resources": "LiFileStack",
-  "3-DM/Bibliothek/Spells": "LiExperiment",
-  "3-DM/Bibliothek/Templates": "LiBookTemplate",
-  "3-DM/Bibliothek": "LiBook",
   "4-Âratûn/Orte/Silberquell": "🏙",
   "4-Âratûn/Orte/Nebelwald": "🏙",
   "4-Faerûn": "🏙",
-  "3-DM/Zufallsbegegnungen": "LiDices",
   "00_Admin/01_Dashboard/Spieler": "👤",
   "00_Admin/01_Dashboard/0 - Homepage.md": "LiHome",
   "00_Admin/01_Dashboard/Charaktere.md": "LiScanFace",
-  "00_Admin/01_Dashboard/Sessions.md": "LiView"
+  "00_Admin/01_Dashboard/Sessions.md": "LiView",
+  "10_Kampagne/15_Zufallsbegegnungen": "LiDices"
 }
