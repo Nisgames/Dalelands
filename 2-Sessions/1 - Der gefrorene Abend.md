@@ -91,20 +91,12 @@ Beschreibe dem Spieler, der den Splitter hält (oder dem, der ihm am nächsten s
 
 *Die Gruppe klettert aus dem Fenster und folgt der Spur.*
 
-**Modus:** Schnelle Erzählung, 3 Hindernisse.
-* **Ziel:** Den Waldrand erreichen, bevor die Spur verblasst.
-
-**Hindernis 1: Die Gassen der Stadt**
-* *Problem:* Zhentarim-Wachen patrouillieren.
-* *Check:* **Stealth (DEX) DC 12** oder **Deception (CHA)** um als Betrunkene durchzugehen.
-* *Fail:* Ein kurzer Kampf gegen 2 Schläger (Statblock: **Bandit**), oder sie verlieren Zeit (Spur wird schwächer).
-
-**Hindernis 2: Der Fluss Ashaba**
+**Hindernis 1: Der Fluss Ashaba**
 * *Problem:* Der Dieb ist über die alte Steinbrücke, aber dort stehen Wachen. Die Spur führt durchs Wasser (er ist gesprungen/geschwebt?).
 * *Check:* **Athletics (STR) DC 12** (Schwimmen) oder **Acrobatics (DEX)** (Über Treibholz balancieren).
 * *Fail:* Ein Spieler rutscht ab, verliert Ausrüstung oder bekommt 1 Stufe Erschöpfung durch das kalte Wasser.
 
-**Hindernis 3: Der Waldrand**
+**Hindernis 2: Der Waldrand**
 * *Problem:* Die Spur verliert sich im Unterholz des Cormanthor.
 * *Check:* **Survival (WIS) DC 13** oder **Perception (WIS)**.
 * *Fail:* Sie irren kurz umher und werden von einem wilden Tier (1 **Wolf**) überrascht, bevor sie den Eingang finden.
