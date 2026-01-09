@@ -5,6 +5,7 @@ Gesinnung:
 Standorte:
 Relevanz:
 ---
+
 ```dataviewjs
 // 🚨 AKTUELLE EREIGNISSE (Scanner Version)
 let pages = dv.pages('#Plot');
@@ -51,7 +52,7 @@ for (let page of pages) {
                 // 4. Zusammenbauen & Säubern
                 let textBlock = capturedLines.join("\n");
                 
-                // Entfernt den Link "- [[Ort]]:" am Anfang für saubere Optik
+                // Entfernt den Link "- [[...]]:" am Anfang für saubere Optik
                 textBlock = textBlock.replace(/-\s*\[\[.*?\]\]:?/, "").trim();
                 
                 // 5. Anzeigen
@@ -62,10 +63,8 @@ for (let page of pages) {
 }
 
 if (!foundAny) {
-    dv.paragraph("_Keine aktiven Events für diesen Ort._");
+    dv.paragraph("_Keine aktiven Events für diese Gru._");
 }
-```
-
 ```
 # `=this.file.name` 
 
