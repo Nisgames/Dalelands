@@ -11,7 +11,7 @@
     "Players": "multitext",
     "INT": "number",
     "Erlebt": "checkbox",
-    "status": "checkbox",
+    "status": "text",
     "resolved": "checkbox"
   }
 }

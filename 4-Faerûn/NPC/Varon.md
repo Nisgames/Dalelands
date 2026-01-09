@@ -7,7 +7,7 @@ Volk: Drow
 Level:
 Fraktionen:
 Status: Lebendig
-Relevanz:
+Relevanz: Mittel
 ---
 
 ```dataviewjs
