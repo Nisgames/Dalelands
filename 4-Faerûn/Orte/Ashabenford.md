@@ -15,7 +15,9 @@ In Ashabenford betet man pragmatisch:
 - **Chauntea:** Für die Ernte (es ist ein Bauerntal).
 - **Tymora:** Für das Glück im Handel.
 
-### Hoher
+#### Hoher Rat
+[[Ashabenford]] wird von einem Rat regiert ([[Bürgermeisterin Andra]]). 
+Sie suchen händeringend nach Söldnern, um die Straßen sicher zu halten.
 
 ## 📰 Aktuelle Gerüchte & Plot-Hooks
 ```dataview
