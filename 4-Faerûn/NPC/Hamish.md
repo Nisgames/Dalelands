@@ -80,7 +80,7 @@ if (!foundAny) {
 
 # Aussehen
 
-
+![[Pasted image 20260109144206.png|500]]
 
 # Beziehungen
 - 

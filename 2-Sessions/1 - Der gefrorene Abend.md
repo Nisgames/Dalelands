@@ -120,7 +120,5 @@ Wollen sie weitergehen?
 - **Reaktion:** Er schreckt fast zu Tode, wenn er die bewaffneten Spieler sieht. _"Bei den Göttern! Seid ihr... seid ihr auch Geister?"_
     
 - **Info:** Wenn sie ihn beruhigen (oder einschüchtern):
-    
     - Er sucht seine entlaufene Ziege.
-        
     - Er hat den Reiter gesehen: _"Ein Dämon! Er ritt auf keinem Pferd, nein... es war schwarz wie die Nacht und hatte keine Hufe, die man hören konnte. Er ist zum Waldrand geritten, zu den alten Ruinenhügeln. Da spukt es, sag ich euch!"_
