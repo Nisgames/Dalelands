@@ -122,7 +122,7 @@ languages: Elfisch, Gemeinsprache der Unterreiche
 cr: 5
 traits:
 - [Feenblut, "Der Drow hat einen Vorteil bei Rettungswürfen, wenn er bezaubert werden soll, und Magie kann ihn nicht einschläfern."]
-- ["Empfindlich gegenüber Sonnenlicht", "S"]
+- ["Empfindlich gegenüber Sonnenlicht", "Solange sich der Drow im Sonnenlicht befindet, erledet er einen Nachteil auf Angriffswürfe, sowie auf Würfe mit Weißheit (Wahrnehmung), die auf Sicht beruhen."]
 actions:
 - [Mehrfachangriff, "Der Drow führt zwei Kurzschwert-Angriffe aus. Kurzschwert. Nahkampf-Waffenangriff: +7 zum Treffen, Reichweite 1,5 m, ein Ziel. Treffer 7 (1d6 + 4) Stichschaden plus 10 (3d6) Giftschaden"]
 - [Handarmbrust, "Fernkampf-Waffenangriff"]
