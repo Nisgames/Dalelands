@@ -104,8 +104,8 @@ type: Humanuider
 subtype: Elf
 alignment: Neutral Böse
 ac: 18
-hp: 71
-hit_dice: 11d8+22
+hp: 51
+hit_dice: 9d8+12
 speed: 9 m
 saves:
 - Stärke: 1
