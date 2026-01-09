@@ -78,10 +78,6 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "2-Sessions": {
-    "iconName": "LiBackpack",
-    "iconColor": "#38ab30"
-  },
   "3-DM": "LiFolder",
   "4-Âratûn": "🏙",
   "3-DM/Bibliothek/Items": {
@@ -93,14 +89,12 @@
   "3-DM/Bibliothek/Spells": "LiExperiment",
   "3-DM/Bibliothek/Templates": "LiBookTemplate",
   "3-DM/Bibliothek": "LiBook",
-  "3-DM/Allgemein": "LiClipboardList",
-  "3-DM/Allgemein/Spieler": "👤",
   "4-Âratûn/Orte/Silberquell": "🏙",
   "4-Âratûn/Orte/Nebelwald": "🏙",
-  "3-DM/Allgemein/Charaktere.md": "LiScanFace",
-  "3-DM/Allgemein/Sessions.md": "LiView",
   "4-Faerûn": "🏙",
-  "3-DM/Allgemein/0 - Homepage.md": "LiHome",
   "3-DM/Zufallsbegegnungen": "LiDices",
-  "1-Plots": "LiLandPlot"
+  "00_Admin/01_Dashboard/Spieler": "👤",
+  "00_Admin/01_Dashboard/0 - Homepage.md": "LiHome",
+  "00_Admin/01_Dashboard/Charaktere.md": "LiScanFace",
+  "00_Admin/01_Dashboard/Sessions.md": "LiView"
 }
