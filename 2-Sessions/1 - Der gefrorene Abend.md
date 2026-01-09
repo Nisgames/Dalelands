@@ -114,7 +114,8 @@ Beschreibe dem Spieler, der den Splitter hält (oder dem, der ihm am nächsten s
 ---
 
 **Ziel erreicht:**
-Die Spur endet an einem überwucherten Kellereingang einer alten Ruine, etwa eine Stunde außerhalb der Stadt.
+Die Spur endet an einem überwucherten Kellereingang einer alten Ruine, etwa eine Stunde außerhalb der Stadt. -> [[Vergessene Kellerei]] 
+![[Vergessene Kellerei#Aufbau]] 
 Es ist dunkel. Ihr seid sicher vor Orin, aber ihr wisst: Da unten ist der Dieb.
 
 Ihr müsst rasten (Short/Long Rest), um Kräfte zu sammeln.
