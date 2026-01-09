@@ -3,7 +3,7 @@ tags:
   - Gruppierung
 Gesinnung: Böse
 Standorte:
-  - "[[4-Faerûn/Orte/Cormanthor]]"
+  - "[[Cormanthor]]"
 Relevanz: Hoch
 ---
 
