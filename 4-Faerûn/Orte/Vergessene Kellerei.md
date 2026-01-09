@@ -66,7 +66,7 @@ if (!foundAny) {
 }
 ```
 ## 📖 Allgemeinwissen
--
+- Nich
 
 ## Aufbau
 
@@ -99,15 +99,10 @@ if (!foundAny) {
 ### Raum 4: Das Ritual
 * **NPC:** [[Varon]] (Drow Spion) kniet vor einem Altar.
 ```encounter
-name: Kampf im Turm
+name: Kampf
 creatures:
   - Varon 
 ```
-
-
-
-* **Gegner:** [[Varon]], der sich aus dem Altar löst.
-
 
 ## 📰 Aktuelle Gerüchte & Plot-Hooks
 ```dataview
