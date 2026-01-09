@@ -144,3 +144,51 @@ for (let page of pages) {
 }
 ```
 ---
+
+```dataviewjs
+// 🚨 AKTUELLE EREIGNISSE (Ultra-Tolerant)
+// Holt alle Dateien mit Tag #Plot
+let pages = dv.pages('#Plot');
+let foundAny = false; // Wir merken uns, ob wir was gefunden haben
+
+for (let page of pages) {
+    if (page.file.lists) {
+        for (let item of page.file.lists) {
+            
+            // 🔥 DIE ÄNDERUNG: Wir prüfen nur noch den NAMEN, nicht den Pfad.
+            // "Enthält der Link-Pfad den Namen meiner aktuellen Datei?"
+            let myName = dv.current().file.name;
+            let isMatch = item.outlinks.some(l => l.path.includes(myName));
+            
+            if (isMatch) {
+                foundAny = true;
+                
+                // Überschrift
+                dv.header(4, "⚡ Aus Plot: " + page.file.link);
+                
+                // Datei-Inhalt laden
+                let content = await dv.io.load(page.file.path);
+                if (content) {
+                    let lines = content.split("\n");
+                    let start = item.position.start.line;
+                    let end = item.position.end.line;
+                    
+                    // Textblock ausschneiden
+                    let textBlock = lines.slice(start, end).join("\n");
+                    
+                    // Link-Text säubern (Optik)
+                    textBlock = textBlock.replace(/-\s*\[\[.*?\]\]:?/, "").trim();
+                    
+                    // Anzeigen
+                    dv.paragraph(textBlock);
+                }
+            }
+        }
+    }
+}
+
+// Feedback, falls gar nichts gefunden wurde (damit du weißt, dass es läuft)
+if (!foundAny) {
+    dv.paragraph("_Keine aktiven Events für diesen Ort gefunden (Skript läuft)._");
+}
+```
