@@ -43,12 +43,12 @@ traits:
 - [<trait-name>, <trait-description>]
 - ...
 actions:
-- [Mehrfachangriff, "Der Drow führt zwei Kurzschwert-Angriffe aus. Kurzschwert. Nahkampf-Waffenangriff: +7 zum Treffen, Reichweite 1,5 m, ein Ziel. Treffer 7 (1d6)"]
-- ...
+- [Mehrfachangriff, "Der Drow führt zwei Kurzschwert-Angriffe aus. Kurzschwert. Nahkampf-Waffenangriff: +7 zum Treffen, Reichweite 1,5 m, ein Ziel. Treffer 7 (1d6 + 4) Stichschaden plus 10 (3d6) Giftschaden"]
+- [Handarmbrust, "Fernkampf-Waffenangriff"]
 legendary_actions:
 - [<legendary_actions-name>, <legendary_actions-description>]
 - ...
 reactions:
-- [<reaction-name>, <reaction-description>]
+- [Parade, "Der Drow addiert 3 auf seine "]
 - ...
 ```
