@@ -18,12 +18,12 @@ race:
 ## 📝 Beschreibung & Roleplay
 
 **Persönlichkeits-Merkmale:**
-* * **Geheimnisse & Hinweise:**
+* **Geheimnisse & Hinweise:**
 - [ ] Weiß, wo der Geheimgang ist.
 
 ---
+
 ## 🗺️ Plot-Relevanz
-*(Platzhalter für Dataview: An welchen Quests ist dieser NPC beteiligt?)*
 ```dataview
 TABLE status FROM "10_Kampagne/12_Plots"
 WHERE contains(beteiligte, this.file.link)
