@@ -8,7 +8,7 @@ status: alive
 sex: 
 race: 
 ---
-# <% tp.file.title %>
+# `=this.file.name`
 
 > [!infobox] Kurzbeschreibung
 > **Rolle:** > **Stimme/Eigenheit:** > **Ziel:** ## 📝 Beschreibung & Roleplay
