@@ -123,3 +123,7 @@ Wollen sie weitergehen?
     - Er sucht seine entlaufene Ziege.
     - Er hat den Reiter gesehen: _"Ein Geist! Ihre Haut war blass... Fast weiß! Sie ritt auf keinem Pferd, nein... es war schwarz wie die Nacht und hatte keine Hufe, die man hören konnte. Er ist zum Waldrand geritten, zu den alten Ruinenhügeln. Da spukt es, sag ich euch!"_
 
+>[!vorlesen] Die Lichtung 
+Der Nebel bleibt an der Waldgrenze zurück, als würde er sich nicht trauen, die uralten Bäume zu berühren. Vor euch ragen moosbedeckte Felsbrocken aus dem Boden – Überreste einer längst zerfallenen Elfen-Ruine. Wurzeln, dick wie Oberschenkel, winden sich um geborstene Säulen.
+Ihr seht kein Lagerfeuer – Drow brauchen kein Licht. Aber ihr seht ihn.
+Etwa 15 Meter entfernt sitzt [[Varon]] mit dem Rücken an einem umgestürzten Obelisken. Er hält seinen linken Arm fest umklammert. Ein schwaches, ungesundes violettes Glimmen geht von seiner Hand aus und beleuchtet sein blasses, schmerzverzerrtes Gesicht. Die schwere Eisenkiste ist nirgends zu sehen.
