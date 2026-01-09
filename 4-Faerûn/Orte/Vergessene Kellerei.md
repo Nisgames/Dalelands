@@ -91,8 +91,8 @@ if (!foundAny) {
     * *Effekt:* Armbrustbolzen (**1d6 Schaden**)
 
 ### Raum 3: Die Kammer des Echos
-* **Beschreibung:** Eine alte Statue einer Elfen-Gottheit (Labelas Enoreth?), deren Gesicht zerschlagen wurde. An der Wand pulsieren violette Kristalle ([[Schattensplitter]]-Rückstände).
-* **Phänomen:** Wenn die Spieler sprechen, hören sie ihre Worte *bevor* sie sie aussprechen, oder rückwärts.
+* **Beschreibung:** Eine alte Statue einer Elfen-Gottheit, deren Gesicht zerschlagen wurde.
+* **Phänomen:** Wenn die Spieler sprechen, hören sie ihre Worte erst minimal verzögert nach dem Sprechen
 * **Hinweis:** Dies dient nur der Atmosphäre und zeigt die Zeit-Verzerrung.
 
 ### Raum 4: Das Ritual (Boss)
