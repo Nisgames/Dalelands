@@ -85,12 +85,12 @@ if (!foundAny) {
 * **Loot:** In einem Kokon findet sich ein alter *Trank der Heilung*.
 
 ### Raum 2: Der Riss
-* **Beschreibung:** Der Gang ist eingestürzt. Ein Riss im Boden klafft auf, aus dem ein schwaches, violettes Licht dringt. Man muss springen oder klettern.
+* **Beschreibung:** Der Gang ist eingestürzt. Ein Riss im Boden klafft auf, der etliche Meter tief zu sein scheint. Man muss springen oder klettern.
 * **Hindernis:** Der Dieb hat eine Falle hinterlassen (Stolperdraht vor dem Sprung).
     * *Check:* **Perception DC 13**.
-    * *Effekt:* Armbrustbolzen (**1d6 Schaden**) oder Alarmglöckchen (verhindert Überraschung im Bossraum).
+    * *Effekt:* Armbrustbolzen (**1d6 Schaden**)
 
-### Raum 3: Die Kammer des Echos (Rätsel/Lore)
+### Raum 3: Die Kammer des Echos
 * **Beschreibung:** Eine alte Statue einer Elfen-Gottheit (Labelas Enoreth?), deren Gesicht zerschlagen wurde. An der Wand pulsieren violette Kristalle ([[Schattensplitter]]-Rückstände).
 * **Phänomen:** Wenn die Spieler sprechen, hören sie ihre Worte *bevor* sie sie aussprechen, oder rückwärts.
 * **Hinweis:** Dies dient nur der Atmosphäre und zeigt die Zeit-Verzerrung.
