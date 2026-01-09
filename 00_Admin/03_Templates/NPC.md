@@ -19,7 +19,7 @@ race:
 *(Vorlese-Text: Aussehen, erster Eindruck)*
 
 **Persönlichkeits-Merkmale:**
-* * **Geheimnisse & Hinweise:**
+* **Geheimnisse & Hinweise:**
 - [ ] Weiß, wo der Geheimgang ist.
 
 ---
