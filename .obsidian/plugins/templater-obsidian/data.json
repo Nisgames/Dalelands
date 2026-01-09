@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "3-DM/Bibliothek/Templates",
+  "templates_folder": "00_Admin/03_Templates",
   "templates_pairs": [
     [
       "",
