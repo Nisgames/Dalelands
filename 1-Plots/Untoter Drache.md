@@ -14,5 +14,4 @@ Der [[Drachenkult]] experimentiert mit Splittern, um einen Dracolich zu erwecken
 - [[Marktplatz]]: **Der Aufbau beginnt** 
 > [!vorlesen] 
 > Hämmern hallt über den Platz. Ein riesiges, rot-gestreiftes Zelt erhebt sich wie ein schlafender Drache in der Mitte des Marktes. Goblins in Clownskostümen schleppen Kisten.
-- Das ist ein Test
 
