@@ -17,8 +17,6 @@ ac: 18
 hp: 71
 hit_dice: 11d8+22
 speed: 9 m
-stats: [number, number, number, number, number, number]
-fage_stats: [number, number, number, number, number, number, number, number, number]
 saves:
 - Stärke: 1
 - Geschicklichkeit: 7
@@ -29,10 +27,6 @@ saves:
 skillsaves:
 - Heimlichkeit: 10
 - Wahrnehmung: 4
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
 senses: Dunkelsicht 36 m, passive Wahrnehmung 14
 languages: Elfisch, Gemeinsprache der Unterreiche
 cr: 5
@@ -45,10 +39,6 @@ traits:
 actions:
 - [Mehrfachangriff, "Der Drow führt zwei Kurzschwert-Angriffe aus. Kurzschwert. Nahkampf-Waffenangriff: +7 zum Treffen, Reichweite 1,5 m, ein Ziel. Treffer 7 (1d6 + 4) Stichschaden plus 10 (3d6) Giftschaden"]
 - [Handarmbrust, "Fernkampf-Waffenangriff"]
-legendary_actions:
-- [<legendary_actions-name>, <legendary_actions-description>]
-- ...
 reactions:
 - [Parade, "Der Drow addiert 3 auf seine RK gegen einen Nahkampfangriff, der ihn treffen würde. Dazu muss der Drow den Angreifer sehen und eine Nahkampfwaffe führen."]
-- ...
 ```
