@@ -26,11 +26,16 @@ Parent: "[[Jagd nach Schattensplittern]]"
 - [[Varon]]: **Der Auftritt des Diebes.**
     Aus dem Schatten schält sich eine schlanke Gestalt mit Maske.
     * **Das Gerät:** Ein Amulett aus schwarzem Metall. Zentrum pulsiert violett ([[Schattensplitter]]).
-> [!vorlesen]- Medaillon
-> In der Hand des Fremden schimmert ein flaches, medaillonartiges Objekt aus stumpfem, schwarzem Metall. Das Licht scheint sich um das Amulett herum seltsam zu krümmen, wie bei flirrender Hitze über Asphalt – doch das Glühen im Zentrum ist kalt und violett-schwarz. In pulsierenden Zyklen scheinen die Umrisse der Hand, die ihn hält, kurzzeitig zu verschwimmen.
-- 
     * **Aktion:** Er bewegt sich langsam durch die erstarrte Zeit zu [[Orin]] und nimmt die Kiste.
     * **Der Fehler:** Beim Klettern aus dem Fenster stößt die Kiste an. Ein einzelner **Splitter** fällt heraus und landet glühend vor den Füßen der Gruppe.
+> [!vorlesen]- Medaillon
+> In der Hand des Fremden schimmert ein flaches, medaillonartiges Objekt aus stumpfem, schwarzem Metall. Das Licht scheint sich um das Amulett herum seltsam zu krümmen, wie bei flirrender Hitze über Asphalt – doch das Glühen im Zentrum ist kalt und violett-schwarz. In pulsierenden Zyklen scheinen die Umrisse der Hand, die ihn hält, kurzzeitig zu verschwimmen.
+
+> [!vorlesen] Der Bruch
+> Mit einem Schlag kehrt die Realität zurück.
+> Der Lärm aller Anwesenden explodiert förmlich in euren Ohren. Irgendwo fällt jemand krachend zu Boden. Gläser zerspringen durch die plötzlich entstandene Druckwelle. Das Feuer im Kamin lodert auf.
+> Schreie. Panik.
+> Und [[Orin]], der auf seine leeren Hände starrt.
 
 ## 3. Eskalation
 - [[Orin]]: **Panik und Abriegelung.**
