@@ -24,3 +24,4 @@ race:
 TABLE WITHOUT ID file.link as "Plot", status
 FROM "10_Kampagne/12_Plots"
 WHERE contains(beteiligte, this.file.link)
+```
