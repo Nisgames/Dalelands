@@ -24,7 +24,7 @@ race:
 
 ---
 ## 🗺️ Plot-Relevanz
-*(Platzhalter für Dataview: An welchen Quests ist dieser NPC beteiligt?)*
 ```dataview
 TABLE status FROM "10_Kampagne/12_Plots"
 WHERE contains(beteiligte, this.file.link)
+```
