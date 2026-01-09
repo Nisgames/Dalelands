@@ -81,8 +81,6 @@ Beschreibe dem Spieler, der den Splitter hält (oder dem, der ihm am nächsten s
 
 **Blick aus dem Fenster:** 
 * Draußen ist es dunkel.
-* Aber am Boden seht ihr eine schwache, verblassende Spur aus violettem Schimmern (Residuum des Zeit-Geräts).
-* Sie führt weg vom Markt, Richtung Fluss und Waldrand.
 
 **Optionen:** 
 * **Vordertür:** Kampf gegen Zhentarim-Schläger (Schwer, führt zu Verhaftung/Problemen).
@@ -115,5 +113,6 @@ Beschreibe dem Spieler, der den Splitter hält (oder dem, der ihm am nächsten s
 
 
 >[!vorlesen] 
->Ihr lasst die Lichter von Ashabenford hinter euch. Die Spur des Diebes führt euch weg von der Straße, hinein in die weiten Felder. Doch Mistledale macht seinem Namen alle Ehre. Innerhalb von Minuten kriecht ein dichter, milchiger Nebel aus dem Boden. Er ist unnatürlich kalt und schluckt jedes Geräusch. Die Lichter der Stadt verschwinden hinter euch. Ihr könnt kaum noch wPlötzlich bewegt sich etwas im Dunst vor euch. Schemenhaft. Groß.
+>Ihr lasst die Lichter von Ashabenford hinter euch. Die Spur des Diebes führt euch weg von der Straße, hinein in die weiten Felder. Doch Mistledale macht seinem Namen alle Ehre. Innerhalb von Minuten kriecht ein dichter, milchiger Nebel aus dem Boden. Er ist unnatürlich kalt und schluckt jedes Geräusch. Die Lichter der Stadt verschwinden hinter euch. Ihr könnt kaum noch weiter als 5 Meter sehen.
+
 
