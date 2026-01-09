@@ -25,3 +25,40 @@
 >     }
 > }
 > ```
+
+---
+
+```dataviewjs
+// 🚨 AKTUELLE EREIGNISSE
+let pages = dv.pages('#Plot'); // Sucht nach Tag #Plot
+
+// Gehe durch alle Plots
+for (let page of pages) {
+    if (page.file.lists) {
+        for (let item of page.file.lists) {
+            // Prüfen, ob der Link auf DIESE Datei zeigt
+            if (item.outlinks.some(l => l.path == dv.current().file.path)) {
+                
+                // Überschrift mit Link zur Plot-Datei
+                dv.header(4, "⚡ Aus Plot: " + page.file.link);
+                
+                // TRICK: Wir laden den echten Datei-Inhalt, um auch Callouts zu erwischen
+                let content = await dv.io.load(page.file.path);
+                let lines = content.split("\n");
+                
+                // Wir holen uns alles von der Startzeile bis zum Ende des Blocks
+                let start = item.position.start.line;
+                let end = item.position.end.line;
+                let textBlock = lines.slice(start, end).join("\n");
+                
+                // Den Link aus der ersten Zeile entfernen (Optik)
+                // Entfernt "[[Dateiname]]:" am Anfang
+                textBlock = textBlock.replace(/-\s*\[\[.*?\]\]:?/, "").trim();
+                
+                // Rendern
+                dv.paragraph(textBlock);
+            }
+        }
+    }
+}
+```
