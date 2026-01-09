@@ -73,20 +73,20 @@ Draußen hört man schwere Stiefel und das Ziehen von Waffen. Die Vordertür wir
 Ihr seid gefangen. Die Gäste drängen panisch in die Ecken.
 Ihr habt den Splitter.
 
-**Der magnetische Zug:**
+**Der magnetische Zug:** 
 Beschreibe dem Spieler, der den Splitter hält (oder dem, der ihm am nächsten steht):
 * Der Stein wird **heiß**, wenn man zur Vordertür schaut.
 * Er wird **angenehm warm und vibriert summend**, wenn man ihn Richtung Fenster (Fluchtweg des Diebes) hält.
 * Es fühlt sich an wie ein Kompass. Er will zurück zur Kiste.
 
-**Blick aus dem Fenster:**
+**Blick aus dem Fenster:** 
 * Draußen ist es dunkel.
 * Aber am Boden seht ihr eine schwache, verblassende Spur aus violettem Schimmern (Residuum des Zeit-Geräts).
 * Sie führt weg vom Markt, Richtung Fluss und Waldrand.
 
-**Optionen:**
+**Optionen:** 
 * **Vordertür:** Kampf gegen Zhentarim-Schläger (Schwer, führt zu Verhaftung/Problemen).
-* **Warten:** Orin kommt mit Verstärkung wieder.
+* **Warten:** [[Orin]] kommt mit Verstärkung wieder.
 * **Fenster:** Flucht und Chance auf Antworten/Schatz.
 
 ---
@@ -113,6 +113,5 @@ Beschreibe dem Spieler, der den Splitter hält (oder dem, der ihm am nächsten s
 
 ---
 
-**Ziel erreicht:**
-Die Spur endet an einem überwucherten Kellereingang einer alten Ruine, etwa eine Stunde außerhalb der Stadt. -> [[Vergessene Kellerei]] 
+
 
