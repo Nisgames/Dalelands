@@ -8,23 +8,19 @@ status: alive
 sex:
 race:
 ---
-# <% tp.file.title %>
 
-> [!infobox] Kurzbeschreibung
-> **Rolle:** 
-> **Stimme/Eigenheit:** 
-> **Ziel:** 
+**Rolle**:: 
+**Ziel**:: 
+**Stimme**:: 
 
-## 📝 Beschreibung & Roleplay
-
-**Persönlichkeits-Merkmale:**
-* **Geheimnisse & Hinweise:**
-- [ ] Weiß, wo der Geheimgang ist.
+## 📝 Beschreibung
+* ## 🧠 Wissen & Secrets
+- [ ] 
 
 ---
-
-## 🗺️ Plot-Relevanz
+### 🔗 Kontext
+*(Hier deine Dataview-Tabellen für Plot/Session)*
 ```dataview
-TABLE status FROM "10_Kampagne/12_Plots"
+TABLE WITHOUT ID file.link as "Plot", status
+FROM "10_Kampagne/12_Plots"
 WHERE contains(beteiligte, this.file.link)
-```
