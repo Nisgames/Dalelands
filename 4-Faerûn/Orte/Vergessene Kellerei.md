@@ -76,7 +76,7 @@ if (!foundAny) {
 - Die Architektur deutet auf die Zeit vor dem Fall von Myth Drannor hin.
 
 > [!vorlesen] Der Abstieg
-> "Die steinerne Treppe führt steil in die Dunkelheit. Die Luft hier unten ist kühl und riecht nicht nach Moder, sondern seltsam steril – wie Ozon und alter Stein. Das violette Glimmen der Spur ist hier schwächer, aber pulsierend, wie eine Ader unter der Haut der Erde."
+> "Die steinerne Treppe führt steil in die Dunkelheit. Die Luft hier unten ist kühl und riecht nicht nach Moder, sondern seltsam sauber."
 
 ### Raum 1: Die Vorhalle
 * **Beschreibung:** Ein quadratischer Raum (6x6m), alte Weinfässer sind zerborsten. Spinnweben hängen dick von der Decke.
