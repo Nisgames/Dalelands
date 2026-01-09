@@ -2544,7 +2544,8 @@
     "patch": 2
   },
   "paths": [
-    "3-DM/Bibliothek/Monster"
+    "3-DM/Bibliothek/Monster",
+    "4-Faerûn/NPC"
   ],
   "autoParse": true,
   "disableSRD": false,

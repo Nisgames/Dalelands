@@ -93,6 +93,7 @@ if (!foundAny) {
 ### Raum 3: Die Kammer des Echos
 * **Beschreibung:** Eine alte Statue einer Elfen-Gottheit, deren Gesicht zerschlagen wurde.
 * **Phänomen:** Wenn die Spieler sprechen, hören sie ihre Worte erst minimal verzögert nach dem Sprechen
+
 * **Hinweis:** Dies dient nur der Atmosphäre und zeigt die Zeit-Verzerrung.
 
 ### Raum 4: Das Ritual
@@ -100,7 +101,7 @@ if (!foundAny) {
 ```encounter
 name: Varon
 creatures:
-  - 
+  -  
 ```
 
 
