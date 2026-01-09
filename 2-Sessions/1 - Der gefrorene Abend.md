@@ -110,3 +110,5 @@ Wollen sie weitergehen?
 
 >[!vorlesen]- Weitergehen
 >Es ist totenstill. Das einzige was euch momentan leitet ist die Wärme des Splitters in deiner Hand. Ihr kämpft euch einige Zeit weiter durch den Nebel. Plötzlich hört ihr ein Geräusch. Nicht vor euch, sondern links. Ein Keuchen. Das Klatschen von Holz auf matschigen Erdboden. Eine Gestalt schält sich aus dem Dunst.
+
+Hamish
