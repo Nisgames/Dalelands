@@ -1,9 +1,3 @@
----
-tags:
-  - Allgemeinwissen
-INT: 6
----
----
 Jeder erinnert sich an das Jahr **1487 DR**.
 
 - **Das Ereignis:** Die fliegende Netheril-Stadt **[[Thultanthar]]** (Stadt der Schatten) stürzte vom Himmel und krachte direkt auf die Elfenhauptstadt **[[Myth Drannor]]**.
