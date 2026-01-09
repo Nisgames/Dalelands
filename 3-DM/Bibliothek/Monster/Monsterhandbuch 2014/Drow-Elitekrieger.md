@@ -20,14 +20,15 @@ speed: 9 m
 stats: [number, number, number, number, number, number]
 fage_stats: [number, number, number, number, number, number, number, number, number]
 saves:
-- Stärke: 0
+- Stärke: 1
 - Geschicklichkeit: 7
 - Konstitution: 5
 - Intelligenz: 0
-- Weisheit: 0
-- Charisma: 0
+- Weisheit: 4
+- Charisma: 1
 skillsaves:
-- <skill-name>: number
+- Heimlichkeit: 10
+- Wahrnehmung: 4
 damage_vulnerabilities: string
 damage_resistances: string
 damage_immunities: string
