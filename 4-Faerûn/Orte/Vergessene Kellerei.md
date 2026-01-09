@@ -66,12 +66,12 @@ if (!foundAny) {
 }
 ```
 ## 📖 Allgemeinwissen
-- Nich
+- Nicht bekannt, dass diese Ruine existiert
 
 ## Aufbau
 
 - Ein überwucherter Kellerzugang aus grauem Stein, verborgen unter den Wurzeln einer riesigen Eiche
-- Etwa eine Stunde außerhalb von [[Ashabenford]]
+- Etwa eine Stunde außerhalb von [[Ashabenford]] in [[Cormanthor]] 
 - Dient als Versteck für den Dieb, der den [[Schattensplitter]] gestohlen hat
 - Die Architektur deutet auf die Zeit vor dem Fall von Myth Drannor hin.
 
