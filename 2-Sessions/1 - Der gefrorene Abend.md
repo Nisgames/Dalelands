@@ -26,14 +26,14 @@ Zwei Tische weiter sitzt ein Mann, der nicht ganz ins Bild passt.
 **Trigger:** Wenn die Stimmung am Höhepunkt ist oder gerade eine Bestellung gebracht wird.
 
 > [!vorlesen] Der Stillstand
-> "Mitten in einem Akkord des Barden passiert es.
+> Mitten in einem Akkord des Barden passiert es.
 > Es gibt keinen Knall. Es ist eher so, als würde jemand eine schwere Decke über die Welt legen.
 >
 > Schlagartig ist es totenstill.
 > Die Schankmaid am Nachbartisch ist im Stolpern begriffen – aber sie fällt nicht. Das Bier, das aus dem Krug schwappt, hängt als goldene Kette aus Tropfen in der Luft. Das Feuer im Kamin ist zu einer unbeweglichen Skulptur aus Licht erstarrt. Selbst der Staub in den Lichtstrahlen steht still.
 >
 > Ihr wollt aufspringen, aber eure Glieder sind schwer wie Blei. Die Luft schmeckt metallisch, wie kurz vor einem Gewitter. Ihr atmet, aber es ist mühsam.
-> Und dann seht ihr ihn."
+> Und dann seht ihr ihn.
 
 **Der Dieb:** 
 * Aus dem Schatten einer Nische schält sich eine schlanke Gestalt (Drow-Spion, Maske).
