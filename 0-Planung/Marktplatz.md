@@ -109,3 +109,38 @@ if (pages.length == 0) {
 }
 // --- DEBUG ENDE ---
 ```
+
+
+```dataviewjs
+// 🚨 AKTUELLE EREIGNISSE (Tolerante Version)
+// 1. Hole alle Dateien mit Tag #Plot
+let pages = dv.pages('#Plot');
+
+for (let page of pages) {
+    if (page.file.lists) {
+        for (let item of page.file.lists) {
+            // 2. PRÜFUNG: Zeigt einer der Links auf MICH?
+            // Wir prüfen, ob der Pfad des Links meinen Dateinamen enthält
+            let isMatch = item.outlinks.some(l => l.path === dv.current().file.path);
+            
+            if (isMatch) {
+                // Überschrift
+                dv.header(4, "⚡ Aus Plot: " + page.file.link);
+                
+                // Inhalt laden und säubern
+                let content = await dv.io.load(page.file.path);
+                let lines = content.split("\n");
+                let start = item.position.start.line;
+                let end = item.position.end.line;
+                let textBlock = lines.slice(start, end).join("\n");
+                
+                // Entfernt den Link "[[...]]" aus der Anzeige für schönere Optik
+                textBlock = textBlock.replace(/-\s*\[\[.*?\]\]:?/, "").trim();
+                
+                dv.paragraph(textBlock);
+            }
+        }
+    }
+}
+```
+---
