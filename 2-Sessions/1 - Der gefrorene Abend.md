@@ -40,7 +40,7 @@ Zwei Tische weiter sitzt ein Mann, der nicht ganz ins Bild passt.
 * **Das Gerät:** Er hält ein seltsames Amulett aus schwarzem Metall. In dessen Zentrum pulsiert ein **[[Schattensplitter]]** in einem kränklichen, violetten Rhythmus. Es scheint die Luft um ihn herum zu verzerren.
 > [!vorlesen]- Medaillon
 > In der Hand des Fremden schimmert ein flaches, medaillonartiges Objekt aus stumpfem, schwarzem Metall. Das Licht scheint sich um das Amulett herum seltsam zu krümmen, wie bei flirrender Hitze über Asphalt – doch das Glühen im Zentrum ist kalt und violett-schwarz. In pulsierenden Zyklen scheinen die Umrisse der Hand, die ihn hält, kurzzeitig zu verschwimmen.
-* **Die Aktion:** Er bewegt sich langsam, als würde er durch tiefes Wasser waten. Er geht zu Orin, stemmt die Finger des erstarrten Zhentarim auf und reißt die Kiste an sich.
+* **Die Aktion:** Er bewegt sich langsam, als würde er durch tiefes Wasser waten. Er geht zu [[Orin]], stemmt die Finger des erstarrten Zhentarim auf und reißt die Kiste an sich.
 
 **Der Fehler (Das Loot):**
 Der Dieb klettert hastig zum Fenster. Dabei stößt die Kiste gegen den Rahmen. Der Deckel springt einen Spaltbreit auf.
@@ -54,10 +54,10 @@ Der Dieb verschwindet in die Nacht. Das Gerät ist außer Reichweite.
 > "Mit einem Schlag kehrt die Realität zurück.
 > Der Lärm von hundert Menschen explodiert förmlich in euren Ohren. Die Schankmaid fällt krachend zu Boden. Gläser zerspringen durch die plötzliche Druckwelle. Das Feuer im Kamin lodert auf.
 > Schreie. Panik.
-> Und Orin, der auf seine leeren Hände starrt."
+> Und [[Orin]], der auf seine leeren Hände starrt."
 
 **Die Konfrontation:**
-1.  **Orin** sieht den Splitter bei den Spielern am Boden (oder in der Hand, falls einer schnell war).
+1.  **[[Orin]]** sieht den Splitter bei den Spielern am Boden (oder in der Hand, falls einer schnell war).
 2.  Er stürzt auf euch zu. *"Das gehört mir!"*
 3.  **Wild Magic:** Wenn er (oder ein Spieler) den Splitter berühren will, **knistert** er. Orin zuckt zurück, seine Hand raucht leicht, als hätte er in Säure gefasst.
     * *Hinweis für DM:* Die Spieler sind durch ihre "Verstrahlung" (Hintergrund) resistenter, spüren nur ein Kribbeln.
