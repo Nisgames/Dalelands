@@ -128,3 +128,6 @@ Der Nebel bleibt an der Waldgrenze zurück, als würde er sich nicht trauen, die
 Ihr seht kein Lagerfeuer - (Drow brauchen kein Licht) Aber ihr seht ihn.
 Etwa 15 Meter entfernt sitzt der Dieb mit dem Rücken an einem umgestürzten Baum. Er ist gerade dabei, sich einen Verband um den Arm zu wickeln. 
 - Die schwere Eisenkiste ist nirgends zu sehen.
+
+**Zitat im Kampf:**
+- _"Ihr... seid schneller als gedacht. Aber nicht schnell genug für das Haus Jaelre!"_
