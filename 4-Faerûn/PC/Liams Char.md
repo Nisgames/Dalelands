@@ -1,13 +1,13 @@
 ---
 tags:
   - PC
-Volk: Eladrin
-Klasse: Waldläuferin
-hp:
-ac:
+Volk:
+Klasse: Paladin 2, Hexenmeister 1
+hp: "1"
+ac: "1"
 level: 3
 modifier: 0
-Spieler: "[[Alina]]"
+Spieler: "[[Liam]]"
 ---
 
 # Sessions

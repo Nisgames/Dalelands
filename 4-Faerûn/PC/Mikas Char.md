@@ -1,7 +1,7 @@
 ---
 tags:
   - PC
-Volk: Eladrin
+Volk:
 Klasse: Magieschmied
 hp: "1"
 ac: "1"
