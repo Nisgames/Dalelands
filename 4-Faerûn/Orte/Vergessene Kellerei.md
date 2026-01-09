@@ -97,7 +97,11 @@ if (!foundAny) {
 
 ### Raum 4: Das Ritual
 * **NPC:** [[Varon]] (Drow Spion) kniet vor einem Altar.
-
+```encounter
+name: Varon
+creatures:
+  - 
+```
 
 
 
