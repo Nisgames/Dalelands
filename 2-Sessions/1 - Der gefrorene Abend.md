@@ -94,7 +94,7 @@ Beschreibe dem Spieler, der den Splitter hält (oder dem, der ihm am nächsten s
 **Hindernis: Der Fluss Ashaba**
 * *Problem:* Die alte Steinbrücke wäre etwa 15 Minuten Umweg. Die Spur vom Dieb führt durchs Wasser (er ist gesprungen/geschwebt?).
 * *Check:* **Athletics (STR) DC 12** (Schwimmen) oder **Acrobatics (DEX)** (Über Treibholz balancieren).
-* *Fail:* Ein Spieler rutscht ab, verliert Ausrüstung oder bekommt 1 Stufe Erschöpfung durch das kalte Wasser.
+* *Fail:* Ein Spieler rutscht ab: bekommt 1 Stufe Erschöpfung durch das kalte Wasser.
 
 ---
 
