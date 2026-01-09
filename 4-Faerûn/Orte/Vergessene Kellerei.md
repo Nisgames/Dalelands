@@ -70,7 +70,10 @@ if (!foundAny) {
 
 ## Aufbau
 
-Ein überwucherter Kellerzugang aus grauem Stein, verborgen unter den Wurzeln einer riesigen Eiche, etwa eine Stunde außerhalb von [[Ashabenford]]. Dient als Versteck für den Dieb, der den [[Schattensplitter]] gestohlen hat. Die Architektur deutet auf die Zeit vor dem Fall von Myth Drannor hin.
+- Ein überwucherter Kellerzugang aus grauem Stein, verborgen unter den Wurzeln einer riesigen Eiche
+- Etwa eine Stunde außerhalb von [[Ashabenford]]
+- Dient als Versteck für den Dieb, der den [[Schattensplitter]] gestohlen hat
+- Die Architektur deutet auf die Zeit vor dem Fall von Myth Drannor hin.
 
 > [!vorlesen] Der Abstieg
 > "Die steinerne Treppe führt steil in die Dunkelheit. Die Luft hier unten ist kühl und riecht nicht nach Moder, sondern seltsam steril – wie Ozon und alter Stein. Das violette Glimmen der Spur ist hier schwächer, aber pulsierend, wie eine Ader unter der Haut der Erde."
