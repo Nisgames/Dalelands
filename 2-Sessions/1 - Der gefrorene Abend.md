@@ -36,11 +36,11 @@ Zwei Tische weiter sitzt ein Mann, der nicht ganz ins Bild passt.
 > Und dann seht ihr ihn.
 
 **Der Dieb:** 
-* Aus dem Schatten einer Nische schält sich eine schlanke Gestalt (Drow-Spion, Maske).
+* Aus dem Schatten einer Nische schält sich eine schlanke Gestalt. Er trägt eine Maske.
 * **Das Gerät:** Er hält ein seltsames Amulett aus schwarzem Metall. In dessen Zentrum pulsiert ein **[[Schattensplitter]]** in einem kränklichen, violetten Rhythmus. Es scheint die Luft um ihn herum zu verzerren.
 > [!vorlesen]- Medaillon
 > In der Hand des Fremden schimmert ein flaches, medaillonartiges Objekt aus stumpfem, schwarzem Metall. Das Licht scheint sich um das Amulett herum seltsam zu krümmen, wie bei flirrender Hitze über Asphalt – doch das Glühen im Zentrum ist kalt und violett-schwarz. In pulsierenden Zyklen scheinen die Umrisse der Hand, die ihn hält, kurzzeitig zu verschwimmen.
-* **Die Aktion:** Er bewegt sich langsam, als würde er durch tiefes Wasser waten. Er geht zu [[Orin]], stemmt die Finger des erstarrten Zhentarim auf und reißt die Kiste an sich.
+* **Die Aktion:** Er bewegt sich langsam, als würde er durch tiefes Wasser waten. Er geht zu [[Orin]], hebt langsam seine Finger an und nimmt die Kiste an sich.
 
 **Der Fehler (Das Loot):**
 Der Dieb klettert hastig zum Fenster. Dabei stößt die Kiste gegen den Rahmen. Der Deckel springt einen Spaltbreit auf.
