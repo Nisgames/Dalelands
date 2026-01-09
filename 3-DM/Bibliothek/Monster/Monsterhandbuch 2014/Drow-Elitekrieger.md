@@ -33,9 +33,9 @@ damage_vulnerabilities: string
 damage_resistances: string
 damage_immunities: string
 condition_immunities: string
-senses: Dunkelsicht 36 m, passive Wahrnehmung 15
-languages: string
-cr: number
+senses: Dunkelsicht 36 m, passive Wahrnehmung 14
+languages: Elfisch, Gemeinsprache der Unterreiche
+cr: 5
 spells:
 - <description>
 - <spell level>: <spell-list>
@@ -43,7 +43,7 @@ traits:
 - [<trait-name>, <trait-description>]
 - ...
 actions:
-- [<trait-name>, <trait-description>]
+- [Mehrfachangriff, <trait-description>]
 - ...
 legendary_actions:
 - [<legendary_actions-name>, <legendary_actions-description>]
