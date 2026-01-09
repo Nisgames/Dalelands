@@ -52,12 +52,12 @@ Der Dieb verschwindet in die Nacht.
 
 > [!vorlesen] Der Bruch
 > Mit einem Schlag kehrt die Realität zurück.
-> Der Lärm aller Anwesenden explodiert förmlich in euren Ohren. Die Schankmaid fällt krachend zu Boden. Gläser zerspringen durch die plötzliche Druckwelle. Das Feuer im Kamin lodert auf.
+> Der Lärm aller Anwesenden explodiert förmlich in euren Ohren. Irgendwo fällt jemand krachend zu Boden. Gläser zerspringen durch die plötzlich entstandene Druckwelle. Das Feuer im Kamin lodert auf.
 > Schreie. Panik.
 > Und [[Orin]], der auf seine leeren Hände starrt.
 
 **Die Konfrontation:**
-1.  **[[Orin]]** sieht den Splitter bei den Spielern am Boden (oder in der Hand, falls einer schnell war).
+1. **[[Orin]]** sieht den Splitter bei den Spielern am Boden (oder in der Hand, falls einer schnell war).
 2.  Er stürzt auf euch zu. *"Das gehört mir!"*
 3.  **Wild Magic:** Wenn er (oder ein Spieler) den Splitter berühren will, **knistert** er. Orin zuckt zurück, seine Hand raucht leicht, als hätte er in Säure gefasst.
     * *Hinweis für DM:* Die Spieler sind durch ihre "Verstrahlung" (Hintergrund) resistenter, spüren nur ein Kribbeln.
