@@ -63,7 +63,7 @@ for (let page of pages) {
 }
 
 if (!foundAny) {
-    dv.paragraph("_Keine aktiven Events für diese Gru._");
+    dv.paragraph("_Keine aktiven Events._");
 }
 ```
 # `=this.file.name` 
