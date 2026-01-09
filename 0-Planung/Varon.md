@@ -1,8 +1,13 @@
 ---
 tags:
-  - Ort
-Liegt_in: "[[Cormanthor]]"
-Fraktionen: "[[Haus Jaelre]]"
+  - NPC
+Wohnort: "[[Vergessene Kellerei]]"
+Klasse:
+Volk: Drow
+Level:
+Fraktionen:
+Status: Lebendig
+Relevanz:
 ---
 
 ```dataviewjs
@@ -65,40 +70,20 @@ if (!foundAny) {
     dv.paragraph("_Keine aktiven Events._");
 }
 ```
-## 📖 Allgemeinwissen
--
+# `=this.file.name`
+*Klasse/Beruf:* `=this.Klasse` 
+*Volk:* `=this.Volk` 
+*Wohnort:* `=this.Wohnort` 
+*Aussehen:* 
+*Charakterzug:* 
+*Sprechweise:* 
 
-## Aufbau
+# Aussehen
 
-- Ein überwucherter Kellerzugang aus grauem Stein, verborgen unter den Wurzeln einer riesigen Eiche
-- Etwa eine Stunde außerhalb von [[Ashabenford]]
-- Dient als Versteck für den Dieb, der den [[Schattensplitter]] gestohlen hat
-- Die Architektur deutet auf die Zeit vor dem Fall von Myth Drannor hin.
 
-> [!vorlesen] Der Abstieg
-> "Die steinerne Treppe führt steil in die Dunkelheit. Die Luft hier unten ist kühl und riecht nicht nach Moder, sondern seltsam sauber."
 
-### Raum 1: Die Vorhalle
-* **Beschreibung:** Ein quadratischer Raum (6x6m), alte Weinfässer sind zerborsten. Spinnweben hängen dick von der Decke.
-* **Begegnung:** 2x **[[Schatten-Spinne]]**. Sie lauern an der Decke.
-    * *Flavor:* Sie sind nicht normal. Ihre Augen glühen schwach violett (Einfluss der Splitter).
-* **Loot:** In einem Kokon findet sich ein alter *Trank der Heilung*.
-
-### Raum 2: Der Riss
-* **Beschreibung:** Der Gang ist eingestürzt. Ein Riss im Boden klafft auf, der etliche Meter tief zu sein scheint. Man muss springen oder klettern.
-* **Hindernis:** Der Dieb hat eine Falle hinterlassen (Stolperdraht vor dem Sprung).
-    * *Check:* **Perception DC 13**.
-    * *Effekt:* Armbrustbolzen (**1d6 Schaden**)
-
-### Raum 3: Die Kammer des Echos
-* **Beschreibung:** Eine alte Statue einer Elfen-Gottheit, deren Gesicht zerschlagen wurde.
-* **Phänomen:** Wenn die Spieler sprechen, hören sie ihre Worte erst minimal verzögert nach dem Sprechen
-* **Hinweis:** Dies dient nur der Atmosphäre und zeigt die Zeit-Verzerrung.
-
-### Raum 4: Das Ritual
-* **NPC:** [[Varon]] (Drow Spion) kniet vor einem Altar.
-* **Gegner:** [[Varon]], der sich aus dem Altar löst.
-
+# Beziehungen
+- 
 
 ## 📰 Aktuelle Gerüchte & Plot-Hooks
 ```dataview
@@ -108,13 +93,4 @@ regexreplace(Rows.text, "\[\[.*?\]\]", "") AS "Was passiert hier?"
 FROM #Plot 
 FLATTEN file.lists AS Rows
 WHERE contains(Rows.outlinks, this.file.link) AND !file.frontmatter.resolved
-```
-
-## Bewohner
-```dataview
-TABLE WITHOUT ID
-	file.link as Name,
-	Relevanz as Relevanz
-from #NPC AND !"3-DM/"
-where contains(Wohnort, this.file.link)
 ```
