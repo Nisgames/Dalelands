@@ -126,4 +126,5 @@ Wollen sie weitergehen?
 >[!vorlesen] Die Lichtung 
 Der Nebel bleibt an der Waldgrenze zurück, als würde er sich nicht trauen, die uralten Bäume zu berühren. Vor euch ragen moosbedeckte Felsbrocken aus dem Boden – Überreste einer längst zerfallenen Elfen-Ruine. Wurzeln, dick wie Oberschenkel, winden sich um geborstene Säulen.
 Ihr seht kein Lagerfeuer - (Drow brauchen kein Licht) Aber ihr seht ihn.
-Etwa 15 Meter entfernt sitzt der Dieb mit dem Rücken an einem umgestürzten Baum. Er ist gerade dabei, sich einen Verban. Ein schwaches, ungesundes violettes Glimmen geht von seiner Hand aus und beleuchtet sein blasses, schmerzverzerrtes Gesicht. Die schwere Eisenkiste ist nirgends zu sehen.
+Etwa 15 Meter entfernt sitzt der Dieb mit dem Rücken an einem umgestürzten Baum. Er ist gerade dabei, sich einen Verband um den Arm zu wickeln. 
+- Die schwere Eisenkiste ist nirgends zu sehen.
