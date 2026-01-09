@@ -131,3 +131,21 @@ Etwa 15 Meter entfernt sitzt der Dieb mit dem Rücken an einem umgestürzten Bau
 
 **Zitat im Kampf:**
 - _"Ihr... seid schneller als gedacht. Aber nicht schnell genug für das Haus Jaelre!"_
+
+Wenn sie ihn besiegen (er bricht zusammen oder ergibt sich bei wenig HP):
+
+1. **Das defekte Zeit-Amulett:**
+    - Es ist heiß und das Metall ist angeschmolzen
+    - _Für Mika (Magieschmied):_ Er erkennt, dass der Kern (ein winziger Splitter) "ausgebrannt" ist. Die Mechanik ist uralte Netheril-Technik oder eine sehr gute elfische Kopie. Man könnte es vielleicht reparieren oder die Teile nutzen (Wert: ca. 50 GM an "Scrap").
+        
+2. **Der Befehl (Plot Hook):**
+    
+    - In seiner Tasche findet ihr eine zerknitterte Pergamentrolle in elfischer Schrift (Drow-Dialekt).
+        
+    - **Handout-Text:**
+        
+        > _"Bring die Ware zum Kurier am Waldrand. Kehre nicht nach Ashabenford zurück. Wir sammeln uns am **Stein des Paktes**. Der Erzmagier ist ungeduldig. Die Schatten müssen wachsen."_
+        
+3. **Gold:** 15 GM (Sembische Prägung) – Varon wurde gut bezahlt.
+    
+4. **Ein Schlüssel:** Ein einfacher Eisenschlüssel (gehört vielleicht zu einem Versteck in der Stadt oder der Kellerei? Kannst du später nutzen).
