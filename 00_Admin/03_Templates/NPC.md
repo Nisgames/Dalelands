@@ -11,7 +11,11 @@ race:
 # `=this.file.name`
 
 > [!infobox] Kurzbeschreibung
-> **Rolle:** > **Stimme/Eigenheit:** > **Ziel:** ## 📝 Beschreibung & Roleplay
+> **Rolle:** 
+> **Stimme/Eigenheit:** 
+> **Ziel:** 
+ 
+## 📝 Beschreibung & Roleplay
 *(Vorlese-Text: Aussehen, erster Eindruck)*
 
 **Persönlichkeits-Merkmale:**
