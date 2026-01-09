@@ -1,3 +1,46 @@
+
+```dataviewjs
+// --- DEBUG START ---
+dv.header(3, "🕵️ Debug Protokoll");
+
+// 1. Suche nach Dateien mit Tag #Plot
+let pages = dv.pages('#Plot');
+dv.paragraph("🔍 **Suche Tag #Plot:** Habe " + pages.length + " Dateien gefunden.");
+
+if (pages.length == 0) {
+    dv.paragraph("❌ **Fehler:** Keine Dateien mit `#Plot` gefunden! Überprüfe, ob deine Plot-Datei wirklich diesen Tag hat.");
+} else {
+    // 2. Gehe durch die Dateien
+    for (let page of pages) {
+        dv.paragraph("📂 **Prüfe Datei:** " + page.file.name);
+        
+        if (page.file.lists.length == 0) {
+            dv.paragraph("   -> ⚠️ Datei hat keine Bulletpoints (Listenpunkte).");
+        }
+        
+        for (let item of page.file.lists) {
+            // 3. Prüfe Links
+            if (item.outlinks.length > 0) {
+                let link = item.outlinks[0];
+                dv.paragraph("   -> 🔗 Link gefunden zu: `" + link.path + "`");
+                
+                // 4. Vergleich mit aktueller Datei
+                let currentPath = dv.current().file.path;
+                dv.paragraph("      -> Vergleich mit: `" + currentPath + "`");
+                
+                if (link.path == currentPath) {
+                    dv.paragraph("      -> ✅ **TREFFER!** Pfad stimmt exakt überein.");
+                } else {
+                    dv.paragraph("      -> ❌ Pfad stimmt NICHT überein.");
+                }
+            }
+        }
+    }
+}
+// --- DEBUG ENDE ---
+```
+
+
 ### 1. Architektur & Stadtbild: Rustikal & Nebel-tauglich
 
 Ashabenford ist keine steinerne Festung wie Waterdeep, sondern eine gewachsene, ländliche Handelsstadt.
