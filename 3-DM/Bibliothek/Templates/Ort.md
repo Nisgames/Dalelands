@@ -4,7 +4,9 @@ tags:
 Liegt_in:
 Fraktionen:
 ---
----
+
+## 📖 Allgemeinwissen
+
 
 ## 📰 Aktuelle Gerüchte & Plot-Hooks
 ```dataview

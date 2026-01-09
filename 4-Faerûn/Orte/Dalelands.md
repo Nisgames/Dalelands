@@ -4,8 +4,10 @@ tags:
 Liegt_in: "[[Faerûn]]"
 Fraktionen: "[[4-Faerûn/Gruppierungen/Zhentarim]]"
 ---
----
-### Bewohner
+
+## 📖 Allgemeinwissen
+
+## Bewohner
 ```dataview
 TABLE WITHOUT ID
 	file.link as Name,

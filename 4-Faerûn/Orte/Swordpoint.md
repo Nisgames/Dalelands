@@ -4,8 +4,10 @@ tags:
 Liegt_in: "[[Archendale]]"
 Fraktionen: "[[Drei Schwerter]]"
 ---
----
-### Bewohner
+
+## 📖 Allgemeinwissen
+
+## Bewohner
 ```dataview
 TABLE WITHOUT ID
 	file.link as Name,

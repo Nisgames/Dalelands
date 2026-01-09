@@ -4,8 +4,10 @@ tags:
 Liegt_in: "[[Battledale]]"
 Fraktionen:
 ---
----
-### Bewohner
+
+## 📖 Allgemeinwissen
+
+## Bewohner
 ```dataview
 TABLE WITHOUT ID
 	file.link as Name,
