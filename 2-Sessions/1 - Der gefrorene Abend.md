@@ -63,8 +63,8 @@ Der Dieb verschwindet in die Nacht. Das Gerät ist außer Reichweite.
     * *Hinweis für DM:* Die Spieler sind durch ihre "Verstrahlung" (Hintergrund) resistenter, spüren nur ein Kribbeln.
 
 **Die Bedrohung:**
-Orin zieht einen Dolch, steckt ihn aber wieder weg, als er die Menge sieht. Er rennt zur Vordertür.
-> **Orin brüllt:** *"Riegelt die Türen ab! Niemand verlässt den Raum! Ich hole die Jungs. Wer auch immer meine Ware hat, wird sich wünschen, er wäre erfroren!"*
+[[Orin]] zieht einen Dolch, steckt ihn aber wieder weg, als er die Menge sieht. Er rennt zur Vordertür.
+> **[[Orin]] brüllt:** *"Riegelt die Türen ab! Niemand verlässt den Raum! Ich hole die Jungs. Wer auch immer meine Ware hat, wird sich wünschen, er wäre erfroren!"*
 
 Draußen hört man schwere Stiefel und das Ziehen von Waffen. Die Vordertür wird von außen zugehalten.
 
