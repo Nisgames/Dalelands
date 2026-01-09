@@ -1,7 +1,7 @@
 > [!warning] 🚨 AKTUELLE Ereignisse
 > ```dataviewjs
 > // Suche alle aktiven Plots
-> let pages = dv.pages('#plot');
+> let pages = dv.pages('#Plot');
 > 
 > // Gehe durch alle Plots
 > for (let page of pages) {
