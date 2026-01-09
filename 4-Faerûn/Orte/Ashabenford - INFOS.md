@@ -1,6 +1,4 @@
 
-
-
 ### 1. Architektur & Stadtbild: Rustikal & Nebel-tauglich
 
 Ashabenford ist keine steinerne Festung wie Waterdeep, sondern eine gewachsene, ländliche Handelsstadt.
