@@ -43,7 +43,7 @@ traits:
 - [<trait-name>, <trait-description>]
 - ...
 actions:
-- [Mehrfachangriff, <trait-description>]
+- [Mehrfachangriff, "Der Drow führt zwei Kurzschwert-Angriffe aus. Kurzschwert. Nahkampf-Waffenangriff: +7 zum Treffen, Reichweite 1,5 m, ein Ziel. Treffer 7 (1d6)"]
 - ...
 legendary_actions:
 - [<legendary_actions-name>, <legendary_actions-description>]
