@@ -105,4 +105,8 @@ Beschreibe dem Spieler, der den Splitter hält (oder dem, der ihm am nächsten s
 
 >[!vorlesen]- Nebel
 >Jenseits des Flusses verschluckt euch die Nacht. Oder besser gesagt: Der Nebel. [[Mistledale]] macht seinem Namen alle Ehre. Innerhalb von Minuten kriecht ein dichter, milchiger Dunst aus dem Ackerboden, der eure Stiefel, dann eure Arme und schließlich die Sicht auf die Stadt hinter euch verschlingt.
+
+Wollen sie weitergehen?
+
+>[!vorlesen]- Weitergehen
 >Es ist totenstill. Die violette Spur ist nur noch ein schwaches Glimmen im grauen Suppennebel. Plötzlich hört ihr ein Geräusch. Nicht vor euch, sondern seitlich. Ein Keuchen. Das Klappern von Holz auf Stein. Eine Gestalt schält sich aus dem Dunst.
