@@ -7,7 +7,6 @@ tags:
 **Kern-Thema:** Die Folgen der Zerstörung von 1487 DR. "Schattensplitter" (Reste der fliegenden Stadt Thultanthar bzw des Mythals von Myth Drannor) tauchen in den Dales auf und sorgen für Chaos.
 
 - Wir befinden uns 1496DR
-- Zerstörung von Myth Drannor (Hauptstadt des Elfenterritoriums) 1487
 
 **Dalelands Karte:**
 - https://i.imgur.com/2B2RAKD.jpeg
