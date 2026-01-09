@@ -1,7 +1,7 @@
 > [!warning] 🚨 AKTUELLE Ereignisse
 > ```dataviewjs
 > // Suche alle aktiven Plots
-> let pages = dv.pages('"1-Plots"').where(p => p.status == "active");
+> let pages = dv.pages('"1-Plots"');
 > 
 > // Gehe durch alle Plots
 > for (let page of pages) {
