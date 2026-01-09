@@ -42,19 +42,19 @@ Zwei Tische weiter sitzt ein Mann, der nicht ganz ins Bild passt.
 > In der Hand des Fremden schimmert ein flaches, medaillonartiges Objekt aus stumpfem, schwarzem Metall. Das Licht scheint sich um das Amulett herum seltsam zu krümmen, wie bei flirrender Hitze über Asphalt – doch das Glühen im Zentrum ist kalt und violett-schwarz. In pulsierenden Zyklen scheinen die Umrisse der Hand, die ihn hält, kurzzeitig zu verschwimmen.
 * **Die Aktion:** Er bewegt sich langsam, als würde er durch tiefes Wasser waten. Er geht zu [[Orin]], hebt langsam seine Finger an und nimmt die Kiste an sich.
 
-**Der Fehler (Das Loot):**
+**Der Fehler (Das Loot):** 
 Der Dieb klettert hastig zum Fenster. Dabei stößt die Kiste gegen den Rahmen. Der Deckel springt einen Spaltbreit auf.
 * Ein einzelner, faustgroßer **Splitter** fällt heraus.
 * Er fällt in Zeitlupe zu Boden, prallt lautlos ab und kullert genau vor eure Füße.
 * Er glüht im selben violetten Takt wie das Gerät des Diebes.
 
-Der Dieb verschwindet in die Nacht. Das Gerät ist außer Reichweite.
+Der Dieb verschwindet in die Nacht.
 
 > [!vorlesen] Der Bruch
-> "Mit einem Schlag kehrt die Realität zurück.
-> Der Lärm von hundert Menschen explodiert förmlich in euren Ohren. Die Schankmaid fällt krachend zu Boden. Gläser zerspringen durch die plötzliche Druckwelle. Das Feuer im Kamin lodert auf.
+> Mit einem Schlag kehrt die Realität zurück.
+> Der Lärm aller Anwesenden explodiert förmlich in euren Ohren. Die Schankmaid fällt krachend zu Boden. Gläser zerspringen durch die plötzliche Druckwelle. Das Feuer im Kamin lodert auf.
 > Schreie. Panik.
-> Und [[Orin]], der auf seine leeren Hände starrt."
+> Und [[Orin]], der auf seine leeren Hände starrt.
 
 **Die Konfrontation:**
 1.  **[[Orin]]** sieht den Splitter bei den Spielern am Boden (oder in der Hand, falls einer schnell war).
