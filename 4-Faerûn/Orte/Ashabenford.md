@@ -4,7 +4,11 @@ tags:
 Liegt_in: "[[Mistledale]]"
 Fraktionen:
 ---
----
+
+## 📖 Allgemeinwissen
+Die Hauptstadt von **[[Mistledale]]**. 
+Es ist ein offenes, geschäftiges Handelszentrum. 
+Anders als manch andere Täler ist man hier friedlich und tolerant.
 
 ## 📰 Aktuelle Gerüchte & Plot-Hooks
 ```dataview
