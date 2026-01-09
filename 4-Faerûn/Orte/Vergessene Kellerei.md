@@ -101,7 +101,7 @@ if (!foundAny) {
 ```encounter
 name: Varon
 creatures:
-  -  
+  - Varon 
 ```
 
 

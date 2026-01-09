@@ -2534,7 +2534,7 @@
     }
   ],
   "default": "788aabfa6b29",
-  "useDice": false,
+  "useDice": true,
   "renderDice": false,
   "export": true,
   "showAdvanced": false,
