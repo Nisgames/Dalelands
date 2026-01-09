@@ -7,7 +7,7 @@ statblock: inline
 ---
 
 ```statblock
-name: string
+name: Drow-Elitekrieger
 source: Monsterhandbuch 2014
 size: Mittelgroß
 type: Humanuider
@@ -33,7 +33,7 @@ damage_vulnerabilities: string
 damage_resistances: string
 damage_immunities: string
 condition_immunities: string
-senses: string
+senses: Dunkelsicht 36 m, passive Wahrnehmung 15
 languages: string
 cr: number
 spells:
