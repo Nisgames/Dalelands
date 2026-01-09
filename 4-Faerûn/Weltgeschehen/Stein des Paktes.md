@@ -1,9 +1,2 @@
----
-tags:
-  - Allgemeinwissen
-INT: 10
----
----
-
 Hier schlossen Elfen und Menschen vor über 1300 Jahren Frieden.
 *Auch wenn Myth Drannor gefallen ist, respektieren die Leute aus Mistledale den Wald mehr als andere. Man fällt keine Bäume jenseits der markierten Grenzen ("Der Pakt gilt immer noch").* 
