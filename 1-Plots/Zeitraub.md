@@ -18,10 +18,10 @@ Parent: "[[Jagd nach Schattensplittern]]"
 
 ## 2. Das Event (Der Zeitstopp)
 - [[White Hart Inn]]: **Der Stillstand.** (Trigger: Wenn Stimmung am Höhepunkt ist)
-    > [!vorlesen] Der Stillstand
-    > Mitten in einem Akkord des Barden passiert es. Es gibt keinen Knall. Es ist eher so, als würde jemand eine schwere Decke über die Welt legen.
-    > Schlagartig ist es totenstill. Die Schankmaid am Nachbartisch ist im Stolpern begriffen – aber sie fällt nicht. Das Bier, das aus dem Krug schwappt, hängt als goldene Kette aus Tropfen in der Luft. Das Feuer im Kamin ist zu einer unbeweglichen Skulptur aus Licht erstarrt.
-    > Ihr wollt aufspringen, aber eure Glieder sind schwer wie Blei. Die Luft schmeckt metallisch.
+> [!vorlesen] Der Stillstand
+> Mitten in einem Akkord des Barden passiert es. Es gibt keinen Knall. Es ist eher so, als würde jemand eine schwere Decke über die Welt legen.
+> Schlagartig ist es totenstill. Die Schankmaid am Nachbartisch ist im Stolpern begriffen – aber sie fällt nicht. Das Bier, das aus dem Krug schwappt, hängt als goldene Kette aus Tropfen in der Luft. Das Feuer im Kamin ist zu einer unbeweglichen Skulptur aus Licht erstarrt.
+> Ihr wollt aufspringen, aber eure Glieder sind schwer wie Blei. Die Luft schmeckt metallisch.
 
 - [[Varon]]: **Der Auftritt des Diebes.**
     Aus dem Schatten schält sich eine schlanke Gestalt mit Maske.
@@ -43,9 +43,11 @@ Parent: "[[Jagd nach Schattensplittern]]"
     * **Fail:** 1 Stufe Erschöpfung durch das eisige Wasser.
 
 - [[Hamish]]: **Begegnung im Nebel.**
-    > [!vorlesen] Im Nebel
-    > Jenseits des Flusses verschluckt euch der Nebel. Es ist totenstill, bis ihr ein Keuchen hört. Eine Gestalt schält sich aus dem Dunst, bewaffnet mit einer Mistgabel.
-    * **Reaktion:** Er hält die Spieler für Geister. Er sucht seine entlaufene Ziege.
+> [!vorlesen] Im Nebel
+> Jenseits des Flusses verschluckt euch der Nebel. Es ist totenstill, bis ihr ein Keuchen hört. Eine Gestalt schält sich aus dem Dunst, bewaffnet mit einer Mistgabel.
+
+
+	* **Reaktion:** Er hält die Spieler für Geister. Er sucht seine entlaufene Ziege.
     * **Hinweis:** Er sah den Dieb ("Einen Geist auf einem lautlosen Pferd") Richtung Waldrand reiten.
 
 ## 5. Finale in den Ruinen
