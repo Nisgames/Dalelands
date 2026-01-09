@@ -15,14 +15,14 @@ subtype: Elf
 alignment: Neutral Böse
 ac: 18
 hp: 71
-hit_dice: 1
-speed: string
+hit_dice: 11d8+22
+speed: 9 m
 stats: [number, number, number, number, number, number]
 fage_stats: [number, number, number, number, number, number, number, number, number]
 saves:
 - Stärke: 0
-- Geschicklichkeit: 0
-- Konstitution: 0
+- Geschicklichkeit: 7
+- Konstitution: 5
 - Intelligenz: 0
 - Weisheit: 0
 - Charisma: 0
