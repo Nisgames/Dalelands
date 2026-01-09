@@ -120,11 +120,8 @@ skillsaves:
 senses: Dunkelsicht 36 m, passive Wahrnehmung 14
 languages: Elfisch, Gemeinsprache der Unterreiche
 cr: 5
-spells:
-- <description>
-- <spell level>: <spell-list>
 traits:
-- [<trait-name>, <trait-description>]
+- [Feenblut, ""]
 - ...
 actions:
 - [Mehrfachangriff, "Der Drow führt zwei Kurzschwert-Angriffe aus. Kurzschwert. Nahkampf-Waffenangriff: +7 zum Treffen, Reichweite 1,5 m, ein Ziel. Treffer 7 (1d6 + 4) Stichschaden plus 10 (3d6) Giftschaden"]
