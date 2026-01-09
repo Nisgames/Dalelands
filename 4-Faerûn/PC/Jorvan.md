@@ -1,10 +1,10 @@
 ---
 tags:
   - PC
-Volk:
+Volk: Yuan-Ti
 Klasse: Magieschmied
 hp: "1"
-ac: "1"
+ac: "18"
 level: 3
 modifier: 0
 Spieler: "[[Mika]]"
