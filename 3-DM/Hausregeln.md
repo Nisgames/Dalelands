@@ -14,7 +14,7 @@ tags:
 # Erholung & Rasten
 **Lange Rast in der Wildnis**
 * Eine Lange Rast stellt **keine Trefferpunkte** automatisch wieder her.
-* Am Ende der Rast regenerieren Charaktere **die Hälfte ihrer Trefferwürfel** (Minimum 1).
+* Am Ende der Rast regenerieren Charaktere **alle ihrer Trefferwürfel** 
 * Danach können Charaktere **Trefferwürfel ausgeben**, um sich zu heilen (wie bei einer Kurzen Rast).
 * Zauberslots und Fähigkeiten regenerieren sich normal.
 
