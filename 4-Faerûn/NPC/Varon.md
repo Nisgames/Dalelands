@@ -103,7 +103,7 @@ size: Mittelgroß
 type: Humanuider
 subtype: Elf
 alignment: Neutral Böse
-ac: 18
+ac: 16
 hp: 51
 hit_dice: 9d8+12
 speed: 9 m
@@ -119,7 +119,7 @@ skillsaves:
 - Wahrnehmung: 4
 senses: Dunkelsicht 36 m, passive Wahrnehmung 14
 languages: Elfisch, Gemeinsprache der Unterreiche
-cr: 5
+cr: 4
 traits:
 - [Feenblut, "Der Drow hat einen Vorteil bei Rettungswürfen, wenn er bezaubert werden soll, und Magie kann ihn nicht einschläfern."]
 - ["Empfindlich gegenüber Sonnenlicht", "Solange sich der Drow im Sonnenlicht befindet, erledet er einen Nachteil auf Angriffswürfe, sowie auf Würfe mit Weißheit (Wahrnehmung), die auf Sicht beruhen."]
