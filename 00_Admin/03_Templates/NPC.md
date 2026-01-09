@@ -1,27 +1,26 @@
 ---
 tags:
-  - NPC
-name:
+  - type/npc
+name: 
 location: "[[ ]]"
 faction: "[[ ]]"
 status: alive
-sex:
-race:
+sex: 
+race: 
 ---
+# <% tp.file.title %>
 
-**Rolle**:: 
-**Ziel**:: 
-**Stimme**:: 
+> [!infobox] Kurzbeschreibung
+> **Rolle:** > **Stimme/Eigenheit:** > **Ziel:** ## 📝 Beschreibung & Roleplay
+*(Vorlese-Text: Aussehen, erster Eindruck)*
 
-## 📝 Beschreibung
-* ## 🧠 Wissen & Secrets
-- [ ] 
+**Persönlichkeits-Merkmale:**
+* * **Geheimnisse & Hinweise:**
+- [ ] Weiß, wo der Geheimgang ist.
 
 ---
-### 🔗 Kontext
-*(Hier deine Dataview-Tabellen für Plot/Session)*
+## 🗺️ Plot-Relevanz
+*(Platzhalter für Dataview: An welchen Quests ist dieser NPC beteiligt?)*
 ```dataview
-TABLE WITHOUT ID file.link as "Plot", status
-FROM "10_Kampagne/12_Plots"
+TABLE status FROM "10_Kampagne/12_Plots"
 WHERE contains(beteiligte, this.file.link)
-```
