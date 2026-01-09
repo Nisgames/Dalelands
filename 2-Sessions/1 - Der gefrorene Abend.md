@@ -92,8 +92,8 @@ Beschreibe dem Spieler, der den Splitter hält (oder dem, der ihm am nächsten s
 *Die Gruppe klettert aus dem Fenster und folgt der Spur.*
 
 >[!vorlesen] Am Ufer des Ashaba 
->Ihr klettert aus dem Fenster in die kalte Nachtluft. Die Richtung des Splitters führt euch aus [[Ashabenford]] raus direkt zum Flussufer – und endet dort.
->Das Wasser des Ashaba ist dunkel und schnell. Ihr seht Treibholz und glitschige Steine, die aus der Strömung ragen. Etwa hundert Schritt flussaufwärts seht ihr die Laternen der alten Steinbrücke, aber der Umweg würde euch wertvolle Minuten kosten.
+>Ihr klettert aus dem Fenster in die kalte Nachtluft. Die Richtung des Splitters führt euch aus [[Ashabenford]] raus direkt zum Flussufer.
+>Das Wasser des [[Ashaba]] ist dunkel und schnell. Ihr seht Treibholz und glitschige Steine, die aus der Strömung ragen. Etwa eine viertel Stunde fußmarsch flussaufwärts befindet sich die alte Steinbrücke, aber der Umweg würde euch wertvolle Minuten kosten.
 
 **Hindernis: Der Fluss Ashaba**
 * *Problem:* Die alte Steinbrücke wäre etwa 15 Minuten Umweg. Die Spur vom Dieb führt durchs Wasser (er ist gesprungen/geschwebt?).
