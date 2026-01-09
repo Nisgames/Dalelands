@@ -49,6 +49,6 @@ legendary_actions:
 - [<legendary_actions-name>, <legendary_actions-description>]
 - ...
 reactions:
-- [Parade, "Der Drow addiert 3 auf seine "]
+- [Parade, "Der Drow addiert 3 auf seine RK gegen einen Nahkampfangriff, der ihn treffen würde. Dazu muss der Drow den Angreifer sehen und eine Nahkampfwaffe führen."]
 - ...
 ```
