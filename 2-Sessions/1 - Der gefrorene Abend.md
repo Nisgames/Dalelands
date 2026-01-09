@@ -95,7 +95,7 @@ Beschreibe dem Spieler, der den Splitter hält (oder dem, der ihm am nächsten s
 >Ihr klettert aus dem Fenster in die kalte Nachtluft. Die Richtung des Splitters führt euch aus [[Ashabenford]] raus direkt zum Flussufer.
 >Das Wasser des [[Ashaba]] ist dunkel und schnell. Ihr seht Treibholz und glitschige Steine, die aus der Strömung ragen. An dieser Stelle ist der Fluss etwa 20m Breit.
 
-**Hindernis: Der Fluss Ashaba**
+**Hindernis: Der Fluss Ashaba** 
 * *Problem:* Die alte Steinbrücke wäre etwa 15 Minuten Umweg. Die Spur vom Dieb führt durchs Wasser (er ist gesprungen/geschwebt?).
 * *Check:* **Athletics (STR) DC 12** (Schwimmen) oder **Acrobatics (DEX)** (Über Treibholz balancieren).
 * *Fail:* Ein Spieler rutscht ab: bekommt 1 Stufe Erschöpfung durch das kalte Wasser.
