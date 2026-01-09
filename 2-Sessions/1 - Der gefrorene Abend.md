@@ -122,4 +122,4 @@ Wollen sie weitergehen?
 - **Info:** Wenn sie ihn beruhigen (oder einschüchtern):
     - Er sucht seine entlaufene Ziege.
     - Er hat den Reiter gesehen: _"Ein Geist! Ihre Haut war blass... Fast weiß! Sie ritt auf keinem Pferd, nein... es war schwarz wie die Nacht und hatte keine Hufe, die man hören konnte. Er ist zum Waldrand geritten, zu den alten Ruinenhügeln. Da spukt es, sag ich euch!"_
-    - 
+
