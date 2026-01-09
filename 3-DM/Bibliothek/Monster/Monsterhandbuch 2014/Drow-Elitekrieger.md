@@ -1,21 +1,21 @@
 ---
 tags:
   - Monster
-sourcebook: "[[Drow-Elitekrieger]]"
-CR:
+sourcebook: "[[Monsterhandbuch 2014]]"
+CR: "5"
 statblock: inline
 ---
 
 ```statblock
 name: string
-source: Monsterhandbuch 2024
-size: string
-type: string
-subtype: string
-alignment: string
-ac: number
-hp: number
-hit_dice: string
+source: Monsterhandbuch 2014
+size: Mittelgroß
+type: Humanuider
+subtype: Elf
+alignment: Neutral Böse
+ac: 18
+hp: 71
+hit_dice: 1
 speed: string
 stats: [number, number, number, number, number, number]
 fage_stats: [number, number, number, number, number, number, number, number, number]
