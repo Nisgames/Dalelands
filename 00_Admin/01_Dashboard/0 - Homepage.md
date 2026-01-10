@@ -13,7 +13,6 @@ Aktueller-Ort: "[[Ashabenford]]"
 👥 Alle Charaktere: [[Charaktere \|CHARAKTER-ÜBERSICHT]]       
 
 ### Offene Plots
-
 ```dataview
 List
 FROM #Plot AND !"00_Admin/03_Templates"
@@ -26,7 +25,7 @@ sort file.name
 ```dataview
 TABLE
   status AS "Status"
-FROM #NPC  
+FROM #NPC and !"00_Admin/03_Templates"
 WHERE contains(["Hoch", "Sehr hoch", "Elementar"], Relevanz) AND Status = "Lebendig"
 SORT file.name ASC
 ```
