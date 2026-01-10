@@ -9,8 +9,7 @@ date:
 Noch kein Recap
 Stattdessen Einleitungstext
 
-> [!narrator] Einleitung
-> ![[Einleitungstext]]
+ ![[Einleitungstext#]]
 
 
 ## Log

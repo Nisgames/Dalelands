@@ -6,7 +6,7 @@ tags:
 > [!narrator] Einleitungstext
 > ## Einleitung: Wächter der Dalelands
 > 
-**Es ist das Jahr 1496 nach der Tal-Rechnung.**
+> **Es ist das Jahr 1496 nach der Tal-Rechnung.**
 > 
 > Zehn Jahre sind vergangen, seit der Himmel über dem großen Wald brannte. Zehn Jahre, seit die fliegende Stadt der Schatten auf die Gebäude von [[Myth Drannor]] stürzte und alles in einer Explosion aus wilder Magie vernichtete. Die Gelehrten sagten, die Ruhe würde zurückkehren...
 > 
