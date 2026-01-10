@@ -31,6 +31,18 @@ Er umklammert eine schwere, eisenbeschlagene Kiste mit beiden Händen, als wäre
 
 *Was bestellt ihr?*
 
+> [!tip]- Menü: 
+> - **Fasan in Kräuterkruste** (Spezialität des Hauses) ... _8 SM_ _Serviert mit Rosmarin-Kartoffeln und saisonalem Gemüse. Holfasts ganzer Stolz._
+> - **Eintopf des Waldläufers** ... _3 SM_ _Ein deftiger Eintopf aus Wurzelgemüse, Pilzen und gepökeltem Rindfleisch. Dazu dunkles Brot._
+> - **Die "Rast"-Platte** ... _4 SM_ _Scharfer Hartkäse aus den Tälern, Räucherschinken, Essiggurken und frisches Brot._
+> 
+> **Aus dem Fass**
+> - **Shadowdale Ale** (Humpen) ... _4 KM_ _Ein helles, süffiges Bier, direkt aus dem Nachbartal importiert._
+> - **Old Skull "Black"** (Humpen) ... _6 KM_ _Ein schweres, fast schwarzes Starkbier aus der berühmten Taverne in Shadowdale._
+> - **Cormanthor-Beerenwein** (Glas) ... _1 SM_ _Süß und gefährlich stark._
+> - **Quellwasser / Kräutertee** ... _1 KM_
+
+
 
 ## DM Wissen
 
