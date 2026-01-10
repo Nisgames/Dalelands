@@ -8,7 +8,7 @@ Level:
 Ort: "[[Ashabenford]]"
 Fraktionen: "[[Zhentarim]]"
 Rolle: Handlanger
-Relevanz:
+Relevanz: Mittel
 ---
 
 ## Erscheinung
