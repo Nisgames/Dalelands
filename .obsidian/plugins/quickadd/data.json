@@ -182,10 +182,10 @@
     },
     {
       "id": "1c12dd64-e648-4caf-baf8-0b9862215f4c",
-      "name": "Neue Session (copy)",
+      "name": "Neues Item",
       "type": "Template",
       "command": true,
-      "templatePath": "00_Admin/03_Templates/Session.md",
+      "templatePath": "00_Admin/03_Templates/Item.md",
       "fileNameFormat": {
         "enabled": true,
         "format": "{{value}}"
@@ -193,7 +193,7 @@
       "folder": {
         "enabled": true,
         "folders": [
-          "10_Kampagne/11_Sessions"
+          "30_Kompendium/32_Gegenstände"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
