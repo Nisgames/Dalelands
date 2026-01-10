@@ -22,16 +22,16 @@ Besitzer: "[[Varon]]"
 
 ## Aussehen
 
-[Klein]
+- **Material:** Ein Gehäuse aus mattschwarzem Metall, das einen rohen [[Schattensplitter]] in einer Fassung aus feinen Krallen hält.
+- **Effekt:** Das Amulett absorbiert aktiv das Umgebungslicht. Die Luft in einem Radius von wenigen Zentimetern um das Metall wirkt stets leicht unscharf oder verzerrt.
+- **Gefühl:** Es fühlt sich unnatürlich schwer an und entzieht der Haut in der Nähe die Wärme.
 
 ## Lore
 
-[Geschmiedet von Zwerg]
+- Das Amulett scheint eine Konstruktion zu sein, um die volatile Energie eines [[Schattensplitter]]s zu bündeln, ohne dass er den Träger sofort korrumpiert. 
+- Die Handwerkskunst deutet auf Überreste der [[Zhentarim]] oder alte netherische Techniken hin, die versuchen, die [[Wissen - Die große Katastrophe (Vor knapp 10 Jahren)|Große Katastrophe]] für ihre Zwecke zu nutzen.
 
 ### Beschreibung
-- **Material:** Ein Gehäuse aus eisenhartes, mattschwarzes Metall), das einen rohen [[Schattensplitter]] in einer Fassung aus feinen Krallen hält.
-- **Effekt:** Das Amulett absorbiert aktiv das Umgebungslicht. Die Luft in einem Radius von wenigen Zentimetern um das Metall wirkt stets leicht unscharf oder verzerrt.
-- **Gefühl:** Es fühlt sich unnatürlich schwer an und entzieht der Haut in der Nähe die Wärme.
 
 ### Werte / Effekte
 - **Schatten-Schleier:** Solange du das Amulett trägst und darauf eingestimmt bist, sind deine Umrisse ständig leicht verschwommen. Angreifer haben **Nachteil bei Angriffswürfen** gegen dich. Dieser Effekt wird unterdrückt, wenn du dich in *hellem Licht* befindest oder *kampfunfähig* bist.
@@ -39,5 +39,3 @@ Besitzer: "[[Varon]]"
 - **Resonanz:** Du hast einen Bonus von +2 auf Proben für *Heimlichkeit*, während du dich in dunklen oder schattigen Bereichen aufhältst.
 
 ### Herkunft / Hintergrund
-- Das Amulett scheint eine Konstruktion zu sein, um die volatile Energie eines [[Schattensplitter]]s zu bündeln, ohne dass er den Träger sofort korrumpiert. 
-- Die Handwerkskunst deutet auf Überreste der [[Zhentarim]] oder alte netherische Techniken hin, die versuchen, die [[Wissen - Die große Katastrophe (Vor knapp 10 Jahren)|Große Katastrophe]] für ihre Zwecke zu nutzen.
