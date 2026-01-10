@@ -21,7 +21,7 @@ WHERE !resolved
 sort file.name
 ```
 
-### Wichtige NPC
+#### Wichtige NPC
 ```dataview
 TABLE without id
 	file.link as "Name",
@@ -32,7 +32,7 @@ WHERE contains(["Hoch", "Sehr hoch", "Elementar"], Relevanz) AND Status = "Leben
 SORT relevanz, file.name ASC
 ```
 
-### Historie
+#### Historie
 ```dataview
 TABLE
   date AS "Datum",
@@ -43,7 +43,7 @@ SORT date DESC
 LIMIT 10
 ```
 
-### 👥 Spielercharaktere
+#### Spielercharaktere
 ```dataview
 TABLE WITHOUT ID
   file.link as Charakter,

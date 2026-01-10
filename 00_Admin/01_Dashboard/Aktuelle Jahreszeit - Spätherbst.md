@@ -8,7 +8,7 @@ Hier sind konkrete mechanische und erzählerische Effekte, die du einbauen kanns
 
 - **Kurze Tage:** Die Sonne geht erst spät auf und früh unter. Das bedeutet weniger Zeit für Reisen bei Tageslicht.
     
-- **Drow-Vorteil:** Deine Drow-Gegner (und der getarnte Charakter **[[4-Faerûn/PC/Elara|Elara]]**) leiden weniger unter der _Sonnenlicht-Empfindlichkeit_, wenn es oft bewölkt oder dämmrig ist.
+- **Drow-Vorteil:** Drow-Gegner leiden weniger unter der _Sonnenlicht-Empfindlichkeit_, wenn es oft bewölkt oder dämmrig ist.
     
 - **Schattensplitter:** Das violette Pulsieren der Splitter wirkt in der grauen Dämmerung bedrohlicher und ist leichter zu entdecken.
     
