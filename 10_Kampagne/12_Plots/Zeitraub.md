@@ -49,6 +49,10 @@ Er umklammert eine schwere, eisenbeschlagene Kiste mit beiden Händen, als wäre
 > Schlagartig ist es totenstill. Aus Krügen schwappendes Bier hängt als goldene Kette aus Tropfen in der Luft. Das Feuer im Kamin ist zu einer unbeweglichen Skulptur aus Licht erstarrt.
 > Ihr wollt aufspringen, aber eure Glieder sind schwer wie Blei. Die Luft schmeckt metallisch.
 
+
+> [!narrator] Dieb
+> Aus einer dunklen Ecke nahe des Kamins schält sich eine schlanke Gestalt. Sie trägt 
+
 Aus dem Schatten schält sich eine schlanke Gestalt mit Maske.
 * **Das Gerät:** Ein Amulett aus schwarzem Metall. Zentrum pulsiert violett ([[Schattensplitter]]).
 * **Aktion:** Er bewegt sich langsam durch die erstarrte Zeit zu [[Orin]] und nimmt die Kiste.
