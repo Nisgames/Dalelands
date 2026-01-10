@@ -1,7 +1,7 @@
 ---
 tags:
   - Plot
-Category:
+Category: A
 resolved: false
 ---
 
