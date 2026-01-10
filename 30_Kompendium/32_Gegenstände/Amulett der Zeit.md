@@ -19,7 +19,7 @@ Besitzer: "[[Varon]]"
 *Klassifikation:* `=this.Klassifikation` 
 *Besitzer:* `=this.Besitzer`
 *Beschreibung:* 
-	Kann einmal den 
+	Kann einmal den Zauber Zeitstopp
 
 ## Aussehen
 
