@@ -19,7 +19,7 @@ Region: "[[Ashabenford]]"
 #### Der Schankraum 
 Der Hauptraum ist fast immer gut gefüllt. An der rechten Wand dominiert der riesige Kamin aus Feldsteinen.
 #### Die Theke 
-Holfasts Reich. Hier werden lokale Neuigkeiten ausgetauscht. Hinter der Theke lagern Fässer mit *Shadowdale Ale* und *Old Skull*. 
+Hier werden lokale Neuigkeiten ausgetauscht. Hinter der Theke lagern Fässer mit *Shadowdale Ale* und *Old Skull*. 
 #### Der Ratstisch 
 Ein großer Tisch in einer Nische, der traditionell für die Treffen der Ältesten von Ashabenford reserviert ist, wenn sie nicht im Herrenhaus tagen.
 
