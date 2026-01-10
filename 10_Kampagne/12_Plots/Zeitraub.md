@@ -52,7 +52,7 @@ Er umklammert eine schwere, eisenbeschlagene Kiste mit beiden Händen, als wäre
 
 
 > [!narrator] Der Dieb
-> Während euer Atem in der Luft gefroren scheint und die Stille in den Ohren dröhnt, löst sich eine Bewegung aus der Dunkelheit. Eine schlanke Gestalt, das Gesicht hinter einer Maske verborgen, schält sich aus den Schatten des Schankraums.
+> Während euer Atem in der Luft gefroren scheint und die Stille in den Ohren dröhnt, löst sich eine Bewegung aus der Dunkelheit. Eine schlanke Gestalt, das Gesicht hinter einer Maske verborgen, schält sich aus dem Schatten neben dem Kamin.
 > 
 > Um den Hals des Fremden pendelt ein Amulett aus stumpfem, schwarzem Metall. Sein Zentrum pulsiert in einem kalten, violetten Licht, das die erstarrte Luft um sich herum wie Hitzeflimmern verzieht.
 > 
