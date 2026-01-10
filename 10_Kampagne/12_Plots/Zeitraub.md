@@ -69,6 +69,14 @@ Er umklammert eine schwere, eisenbeschlagene Kiste mit beiden Händen, als wäre
 **[[Varon]]**:
 ![[Varon#Erscheinung]]
 
+
+> [!narrator] Title
+> Mit einem Schlag kehrt die Realität zurück.
+> Der Lärm aller Anwesenden explodiert förmlich in euren Ohren. Irgendwo fällt jemand krachend zu Boden. Gläser zerspringen durch die plötzlich entstandene Druckwelle. Das Feuer im Kamin lodert auf.  
+> Schreie. Panik.  
+> Und [Orin](app://obsidian.md/Orin), der auf seine leeren Hände starrt.
+
+
 ## DM Wissen
 
 [[Orin]] hat massive Spielschulden und die Zhentarim haben ihm "eine letzte Chance" gegeben. Wenn er die Kiste verliert, ist er so gut wie tot. Deshalb seine extreme Panik im Gasthaus.
