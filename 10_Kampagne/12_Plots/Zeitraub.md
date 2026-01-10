@@ -56,9 +56,9 @@ Er umklammert eine schwere, eisenbeschlagene Kiste mit beiden Händen, als wäre
 > 
 > Um den Hals des Fremden pendelt ein Amulett aus stumpfem, schwarzem Metall. Sein Zentrum pulsiert in einem kalten, violetten Licht, das die erstarrte Luft um sich herum wie Hitzeflimmern verzieht.
 > 
-> Geschmeidig gleitet der Dieb auf [[Orins]] Tisch zu. Mit einer fast beiläufigen Bewegung nimmt er ihm die schwere Kiste aus den Händen. Er wendet sich zum offenen Fenster, um in die Nacht zu verschwinden – doch in der Eile unterläuft ihm ein Fehler.
+> Geschmeidig gleitet der Dieb auf [[Orins]] Tisch zu. Mit einer fast beiläufigen Bewegung nimmt er ihm die schwere Kiste aus den Händen. Er wendet sich zum offenen Fenster, um in die Nacht zu verschwinden
 > 
-> Das Holz der Kiste schrammt hart gegen den Fensterrahmen. Ein einzelnes Fragment bricht aus dem Beschlag, fällt klirrend zu Boden und trudelt über die Dielen. Es kommt direkt vor euren Füßen zum Liegen – ein dunkel glühender Splitter, der im gleichen unheilvollen Violett pulsiert wie das Amulett des Diebes.
+> Doch dann schrammt das Holz der Kiste hart gegen den Fensterrahmen. Ein einzelnes Fragment bricht aus dem Beschlag, fällt lautlos zu Boden und trudelt über die Dielen. Es kommt direkt vor euren Füßen zum Liegen – ein dunkel glühender Splitter, der im gleichen unheilvollen Violett pulsiert wie das Amulett des Diebes.
  
 
 Aus dem Schatten schält sich eine schlanke Gestalt mit Maske.
