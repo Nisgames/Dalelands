@@ -40,6 +40,3 @@ from #Plot
 where contains(tags, "#" + this.file.name)
 	and !resolved
 ```
-
-#Plot 
-- [ ] #Ort Nichts
