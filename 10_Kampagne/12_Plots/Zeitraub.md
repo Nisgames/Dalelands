@@ -44,6 +44,11 @@ Er umklammert eine schwere, eisenbeschlagene Kiste mit beiden Händen, als wäre
 
 *Bekommt euere Bestellungen*
 
+> [!narrator] Der Stillstand
+> Mitten in einem Akkord des Barden passiert es. Es gibt keinen Knall. Es ist eher so, als würde jemand eine schwere Decke über die Welt legen.
+> Schlagartig ist es totenstill. Aus Krügen schwappendes Bier hängt als goldene Kette aus Tropfen in der Luft. Das Feuer im Kamin ist zu einer unbeweglichen Skulptur aus Licht erstarrt.
+> Ihr wollt aufspringen, aber eure Glieder sind schwer wie Blei. Die Luft schmeckt metallisch.
+
 ## DM Wissen
 
 [[Orin]] hat massive Spielschulden und die Zhentarim haben ihm "eine letzte Chance" gegeben. Wenn er die Kiste verliert, ist er so gut wie tot. Deshalb seine extreme Panik im Gasthaus.
