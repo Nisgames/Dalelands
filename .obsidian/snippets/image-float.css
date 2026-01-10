@@ -1,0 +1,13 @@
+/* Syntax: ![[Bild.png|right|150]] */
+img[alt*="right"] {
+    float: right;
+    margin: 0 0 10px 15px; /* Abstand zum Text */
+    clear: right;
+}
+
+/* Syntax: ![[Bild.png|left|150]] */
+img[alt*="left"] {
+    float: left;
+    margin: 0 15px 10px 0;
+    clear: left;
+}
