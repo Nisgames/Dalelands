@@ -2,12 +2,12 @@
 tags:
   - Item
 Klassifikation:
-Magisch: false
+Magisch: true
 Seltenheit:
 Wert_in_GM: 1000
 Gewicht in KG:
 Einstimmung: false
-Ort:
+Ort: "[[Dalelands]]"
 Besitzer:
 ---
 
