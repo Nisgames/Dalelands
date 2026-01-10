@@ -80,6 +80,12 @@ Er umklammert eine schwere, eisenbeschlagene Kiste mit beiden Händen, als wäre
 	- *Rennt raus*
 - *Draußen:* Man hört schwere Stiefel der [[Zhentarim]] Schläger.
 
+---
+
+[[]]
+
+---
+
 ## DM Wissen
 
 [[Orin]] hat massive Spielschulden und die Zhentarim haben ihm "eine letzte Chance" gegeben. Wenn er die Kiste verliert, ist er so gut wie tot. Deshalb seine extreme Panik im Gasthaus.
