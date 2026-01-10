@@ -12,7 +12,11 @@ Parent: "[[Schatten-Invasion Haus Jaelre]]"
 
 ## Ablauf
 
-[1. Start, 2. Mitte, 3. Ende]
+###### White Hart Inn
+
+> [!narrator] 
+> Es ist ein gemütlicher Abend in [Ashabenford](app://obsidian.md/Ashabenford). Das White Hart Inn ist bis auf den letzten Platz gefüllt. Der Geruch von gebratenem Fasan, verschüttetem Bier und Pfeifentabak hängt schwer in der Luft. Ein Barde spielt auf seiner Laute gegen den Lärm der Menge an. Draußen mag die Nacht über dem Cormanthor liegen, aber hier drinnen ist es warm und gemütlich.
+
 
 ## DM Wissen
 
