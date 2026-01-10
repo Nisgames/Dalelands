@@ -16,7 +16,7 @@ Parent: "[[Schatten-Invasion Haus Jaelre]]"
 
 ## Ablauf
 
-###### White Hart Inn
+#### White Hart Inn
 
 > [!narrator] Stimmung
 > Es ist ein gemütlicher Abend in [Ashabenford]. 
@@ -75,7 +75,11 @@ Er umklammert eine schwere, eisenbeschlagene Kiste mit beiden Händen, als wäre
 > Schreie. Panik.  
 > Und [[Orin]], der auf seine leeren Hände starrt.
 
-
+- [[Orin]]: **Panik und Abriegelung.**
+    Nach dem Bruch der Magie bemerkt er den Diebstahl und den Splitter bei den Spielern.
+    * *Reaktion:* "Das gehört mir!" (Greift nach Splitter -> erleidet Schaden durch wilde Magie).
+    * *Befehl:* "Riegelt die Türen ab! Niemand verlässt den Raum! Ich hole die Jungs."
+    * *Draußen:* Man hört schwere Stiefel der [[Zhentarim]] Schläger.
 
 ## DM Wissen
 
