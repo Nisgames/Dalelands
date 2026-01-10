@@ -34,8 +34,8 @@
       "id": "01b7b875-830a-43e0-88bf-5de7facd8fa4",
       "name": "Neuer Ort",
       "type": "Template",
-      "command": false,
-      "templatePath": "00_Admin/03_Templates/NPC.md",
+      "command": true,
+      "templatePath": "00_Admin/03_Templates/Ort.md",
       "fileNameFormat": {
         "enabled": true,
         "format": "{{value}}"
@@ -43,7 +43,37 @@
       "folder": {
         "enabled": true,
         "folders": [
-          "20_Welt/22_Personen"
+          "20_Welt/21_Orte"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "reuse",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "06fef340-e915-490d-b611-1a8afb0d2676",
+      "name": "Neuer Ort (copy)",
+      "type": "Template",
+      "command": true,
+      "templatePath": "00_Admin/03_Templates/Ort.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "20_Welt/21_Orte"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
