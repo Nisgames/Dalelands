@@ -3,6 +3,7 @@ tags:
   - Plot
 Category:
 resolved: false
+Parent:
 ---
 
 ## Zusammenfassung
