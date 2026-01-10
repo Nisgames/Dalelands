@@ -52,7 +52,7 @@ Er umklammert eine schwere, eisenbeschlagene Kiste mit beiden Händen, als wäre
 
 > [!narrator] Dieb
 > Aus einer dunklen Ecke nahe des Kamins schält sich eine schlanke Gestalt. Er trägt eine schwarze Maske und bewegt sich langsam durch den Raum.
-> Seine Schritte sind lautlos, während er sich auf [[Orin]] zubewegt. Im vorbeigehen 
+> Seine Schritte sind lautlos, während er sich auf [[Orin]] zubewegt. Im vorbeigehen greift er sich die Kiste aus dessen Händen und bewegt sich dann schnellen Schrittes auf das Fenster zu.
  
 
 Aus dem Schatten schält sich eine schlanke Gestalt mit Maske.
