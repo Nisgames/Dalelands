@@ -9,8 +9,12 @@ Gewicht in KG:
 Einstimmung: false
 ---
 
+## Mechanik
+
 **Seltenheit:** `=this.Seltenheit` 
 **Wert:** `=this.Wert_in_GM` GM
 **Klassifikation:** `=this.Klassifikation` 
 **Schaden:** `=this.Schaden`
-**Beschreibung:** 
+**Beschreibung:** [Was tut es]
+
+## 
