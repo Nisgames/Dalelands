@@ -36,7 +36,7 @@ SORT relevanz, file.name ASC
 TABLE
   date AS "Datum",
   join(Players.Spieler, ", ") AS "Teilnehmer"
-FROM #session
+FROM #Session 
 WHERE date != null
 SORT date DESC
 LIMIT 10
