@@ -21,7 +21,6 @@ sort file.name
 ```
 
 ### Wichtige NPC
-
 ```dataview
 TABLE without id
 	file.link as "Name",
@@ -29,11 +28,10 @@ TABLE without id
 	status AS "Status"
 FROM #NPC and !"00_Admin/03_Templates"
 WHERE contains(["Hoch", "Sehr hoch", "Elementar"], Relevanz) AND Status = "Lebendig"
-SORT ree ASC
+SORT relevanz, file.name ASC
 ```
 
 ### Historie
-
 ```dataview
 TABLE
   date AS "Datum",
