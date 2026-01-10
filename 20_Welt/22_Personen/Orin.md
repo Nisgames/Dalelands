@@ -28,12 +28,13 @@ Relevanz: Mittel
 
 **Loot:** 
 - Ein Briefsiegel der Zhentarim (versteckt in einer hohlen Absatzsohle). 
-- 15 GM in verschiedenen Währungen (Sembia, Cormyr). 
-- Ein Zettel mit einer verschlüsselten Notiz: *"Übergabe bei der alten Eiche entfällt. Bring es direkt zum Turm."*
+- 15 GM in verschiedenen Währungen (Sembia, Cormyr).
 
 ## DM Wissen
 
-[Motivation, Geheimnisse, Lügen]
+**Hintergrund:** Orin ist ein niederrangiger Kurier der [[Zhentarim]], der hofft, durch diese wichtige Lieferung aufzusteigen. Er weiß nicht genau, *was* in der Kiste ist, nur dass es extrem wertvoll und magisch ist. Die Kiste wurde ihm in Hillsfar übergeben. 
+
+**Motivation:** Er hat massive Spielschulden und die Zhentarim haben ihm "eine letzte Chance" gegeben. Wenn er die Kiste verliert, ist er so gut wie tot. Deshalb seine extreme Panik im Gasthaus.
 
 #### Begegnungen
 ```dataview
