@@ -5,9 +5,11 @@ Zeitaufwand: Aktion
 Reichweite: Selbst
 Komponenten:
   - V
-Wirkungsdauer:
-Zaubergrad:
+Wirkungsdauer: Unmittelbar
+Zaubergrad: 9
 Klassen:
+  - Magier
+  - Zauberer
 ---
 ## Allgemeines
 
@@ -18,4 +20,4 @@ Klassen:
 
 ## Beschreibung
 
-
+Du stoppst kurzzeitig für alle außer dir selbst den Fluss der Zeit. Für andere Kreaturen vergeht keine Zeit, während
