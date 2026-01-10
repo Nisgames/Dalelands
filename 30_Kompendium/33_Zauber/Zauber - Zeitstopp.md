@@ -20,4 +20,5 @@ Klassen:
 
 ## Beschreibung
 
-Du stoppst kurzzeitig für alle außer dir selbst den Fluss der Zeit. Für andere Kreaturen vergeht keine Zeit, während
+Du stoppst kurzzeitig für alle außer dir selbst den Fluss der Zeit. Für andere Kreaturen vergeht keine Zeit, während du 1W4-1 Züge hintereinander bekommst, in denen du wie gewohnt Aktionen ausführen und dich bewegen kannst.
+Dieser Zauber endet, wenn eine deiner Aktionen oder ein von dir erschaffener Effekt
