@@ -11,3 +11,17 @@ img[alt*="left"] {
     margin: 0 15px 10px 0;
     clear: left;
 }
+
+/* Für den Bearbeitungs-Modus (Live Preview) */
+/* Wir müssen den span-Container ansprechen, nicht nur das img */
+.markdown-source-view .image-embed[alt*="right"] {
+    float: right;
+    margin: 0 0 10px 15px;
+    z-index: 100; /* Stellt sicher, dass es klickbar bleibt */
+}
+
+.markdown-source-view .image-embed[alt*="left"] {
+    float: left;
+    margin: 0 15px 10px 0;
+    z-index: 100;
+}

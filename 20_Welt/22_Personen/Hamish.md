@@ -11,8 +11,8 @@ Rolle:
 Relevanz:
 ---
 
-## Erscheinung
 ![[Pasted image 20260109144206.png|right|150]]
+## Erscheinung
 
 *Klasse/Beruf:* `=this.Klasse` 
 *Volk:* `=this.Volk` 
