@@ -19,8 +19,6 @@ Relevanz:
 *Charakterzug:* 
 *Sprechweise:* 
 
----
-
 ## Werte & Loot:
 
 [Link zum Statblock / (HP, AC) , Loot]
