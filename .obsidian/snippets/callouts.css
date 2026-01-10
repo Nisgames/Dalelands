@@ -1,0 +1,63 @@
+/* --- DALELANDS CUSTOM CALLOUTS --- */
+
+/* 1. NARRATOR (Vorlesetext) 
+   Stil: Dunkel, Kino-Modus, hohe Lesbarkeit für den DM */
+.callout[data-callout="narrator"] {
+    --callout-color: 147, 112, 219; /* Ein mystisches Violett */
+    --callout-icon: lucide-scroll-text;
+    background-color: #1a1a1a !important; /* Fast schwarz für Kontrast */
+    border: 1px solid rgba(147, 112, 219, 0.3);
+    border-left: 4px solid rgba(147, 112, 219, 0.8);
+    border-radius: 4px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+    color: #e0e0e0; /* Heller Text */
+}
+
+/* Titel-Anpassung für Narrator */
+.callout[data-callout="narrator"] .callout-title {
+    color: #bfa5d6;
+    font-weight: 700;
+    font-variant: small-caps;
+    letter-spacing: 1px;
+}
+
+/* Inhalt-Anpassung für Narrator */
+.callout[data-callout="narrator"] .callout-content {
+    color: #cfcfcf;
+    font-family: var(--font-text); /* Deine Standard-Schrift */
+    font-style: italic;
+}
+
+
+/* 2. HANDOUT (Briefe, Zettel, Notizen)
+   Stil: Helles Papier auf dem dunklen Tisch, gut lesbare Schrift */
+.callout[data-callout="handout"] {
+    --callout-color: 80, 60, 40;
+    --callout-icon: lucide-feather;
+    background-color: #fdfbf7 !important; /* Helles, sauberes Papier */
+    border: 1px solid #dcdcdc;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.1); /* Leichter Schatten für 3D-Effekt */
+    color: #222 !important; /* Dunkler Text erzwingen */
+    padding: 15px;
+}
+
+.callout[data-callout="handout"] .callout-title {
+    color: #4a3b2a;
+    border-bottom: 1px solid #eee;
+    margin-bottom: 8px;
+}
+
+.callout[data-callout="handout"] .callout-content {
+    color: #333;
+    font-family: "Times New Roman", serif; /* Wirkt wie gedruckt/geschrieben */
+}
+
+
+/* 3. LOOT (Beute & Belohnung)
+   Stil: Goldener Schimmer, kompakt */
+.callout[data-callout="loot"] {
+    --callout-color: 218, 165, 32; /* Gold */
+    --callout-icon: lucide-coins;
+    background-color: rgba(218, 165, 32, 0.05) !important;
+    border: 1px solid rgba(218, 165, 32, 0.4);
+}
