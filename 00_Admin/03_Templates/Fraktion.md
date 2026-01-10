@@ -8,11 +8,15 @@ Relevanz:
 
 ## Agenda
 
-[]
+[Großes Ziel]
 
+## Beziehungen
 
-## Mitglieder
+[Hassen Fraktion 2]
 
+## DM Wissen
+
+#### Mitglieder
 ```dataview
 TABLE WITHOUT ID
 	file.link as Mitglieder,
