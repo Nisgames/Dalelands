@@ -62,10 +62,7 @@ Er umklammert eine schwere, eisenbeschlagene Kiste mit beiden Händen, als wäre
 > 
 > Ohne es zu bemerken klettert der Dieb aus dem Fenster und verschwindet in der Dunkelheit.
 
-Aus dem Schatten schält sich eine schlanke Gestalt mit Maske.
-* **Das Gerät:** Ein Amulett aus schwarzem Metall. Zentrum pulsiert violett ([[Schattensplitter]]).
-* **Aktion:** Er bewegt sich langsam durch die erstarrte Zeit zu [[Orin]] und nimmt die Kiste.
-* **Der Fehler:** Beim Klettern aus dem Fenster stößt die Kiste an. Ein einzelner **Splitter** fällt heraus und landet glühend vor den Füßen der Gruppe.
+![[]]
 
 ## DM Wissen
 
