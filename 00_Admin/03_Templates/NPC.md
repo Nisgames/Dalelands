@@ -37,10 +37,10 @@ sort file.name asc
 ```
 #### Plots
 ```dataview
-list without id link(file.link, title)
+table without id file.link as "Plot", category as "Kategorie"
 from #Plot and !"00_Admin/03_Templates"
 where contains(file.outlinks, this.file.link)
-sort file.name asc
+sort by category asc
 ```
 #### Items in Besitz
 ```dataview
