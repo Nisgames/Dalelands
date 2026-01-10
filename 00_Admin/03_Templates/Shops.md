@@ -1,7 +1,8 @@
 ---
 tags:
   - Ort
-Region:
+Region: 
+Besitzer: 
 ---
 
 ## Sinneswahrnehmung
@@ -29,12 +30,7 @@ Region:
 [Hintergrund, usw]
 
 #### Bewohner
-```dataview
-table without id file.link as Name
-from #NPC and !"00_Admin/03_Templates"
-where contains(Ort, this.file.link) 
-	and status != "Tot"
-```
+[[Verkä]]
 #### Historie
 ```dataview
 list without id link(file.link, title)
