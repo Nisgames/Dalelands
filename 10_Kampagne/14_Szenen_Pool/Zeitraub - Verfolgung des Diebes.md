@@ -1,5 +1,5 @@
 
-**Fortsetzung
+**Fortsetzung von [[Zeitraub]]** 
 ## [[Ashaba]] 
 
 Die Spur des Splitters (Vibration) führt zum Fluss. Die Brücke ist zu weit weg.
@@ -8,7 +8,7 @@ Die Spur des Splitters (Vibration) führt zum Fluss. Die Brücke ist zu weit weg
 
 ## Begegnung im Nebel
 
-> [!vorlesen] Im Nebel
+> [!narrator] Im Nebel
 > Jenseits des Flusses verschluckt euch der Nebel. Es ist totenstill, bis ihr ein Keuchen hört. Eine Gestalt schält sich aus dem Dunst, bewaffnet mit einer Mistgabel.
 
 **Reaktion:** Er hält die Spieler für Geister. Er sucht seine entlaufene Ziege.
