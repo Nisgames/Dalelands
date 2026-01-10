@@ -21,9 +21,12 @@ Relevanz:
 
 ## Werte & Loot:
 
+[Link zum Statblock / HP, Loot]
 
+## DM Wissen
 
----
+[Motivation, Geheimnisse, Lügen]
+
 ## 🗺️ Plot-Relevanz
 ```dataview
 TABLE status FROM "10_Kampagne/12_Plots"
