@@ -34,3 +34,8 @@ from #Session
 where contains(file.outlinks, this.file.link)
 ```
 #### Plot Events
+```dataview
+task 
+from #Plot 
+where contains(tags, "#loc/")
+```
