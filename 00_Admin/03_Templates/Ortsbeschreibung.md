@@ -1,7 +1,0 @@
-- *Sehen:* 
-- *Beleuchtung:* 
-- *Hören:* 
-- *Riechen:* 
-- *Spüren:* 
-- *Atmosphäre:* 
-- *Details:* 

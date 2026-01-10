@@ -8,6 +8,14 @@ Region:
 
 [Was hören, sehen, riechen beim Betreten?]
 
+- *Sehen:* 
+- *Beleuchtung:* 
+- *Hören:* 
+- *Riechen:* 
+- *Spüren:* 
+- *Atmosphäre:* 
+- *Details:* 
+
 ## POI
 
 [Raum 1]
