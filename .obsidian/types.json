@@ -12,6 +12,7 @@
     "INT": "number",
     "Erlebt": "checkbox",
     "status": "text",
-    "resolved": "checkbox"
+    "resolved": "checkbox",
+    "Komponenten": "multitext"
   }
 }
