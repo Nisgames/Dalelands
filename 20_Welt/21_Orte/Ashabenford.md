@@ -1,6 +1,7 @@
 ---
 tags:
   - Ort
+  - Stadt
 Region: [[Mistledale]]
 ---
 

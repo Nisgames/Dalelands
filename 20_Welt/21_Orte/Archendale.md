@@ -1,9 +1,7 @@
 ---
 tags:
   - Ort
-Liegt_in: "[[Dalelands]]"
-Fraktionen:
-Region:
+Region: [[Dalelands]]
 ---
 
 ## Sinneswahrnehmung
