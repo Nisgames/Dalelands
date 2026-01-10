@@ -11,11 +11,12 @@ Aktueller-Ort: "[[Ashabenford]]"
 ### 🧭 Schnellzugriff
 
 👥 Alle Charaktere: [[Charaktere \|CHARAKTER-ÜBERSICHT]]       
-### Offene Quests
+
+### Offene Plots
 
 ```dataview
 List
-FROM #Quest AND !"3-DM/Bibliothek/Templates"
+FROM #Plot AND !"00_Admin/03_"
 WHERE !Erledigt
 GROUP BY file.link
 ```
