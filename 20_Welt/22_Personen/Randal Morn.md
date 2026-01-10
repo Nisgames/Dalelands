@@ -5,7 +5,7 @@ Status: Lebendig
 Volk: Mensch
 Klasse:
 Level:
-Ort: "[[Shadowdale]]?]]"
+Ort: "[[Shadowdale?]]"
 Fraktionen:
 Rolle:
 Relevanz: Niedrig
