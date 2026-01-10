@@ -36,7 +36,7 @@ sort file.name asc
 ```
 ### Plots
 ```dataview
-table without id file.links as "Plot", status
+list without id link(file.link, title)
 from #Plot and !"00_Admin/03_Templates"
 where contains(file.outlinks, this.file.link)
 ```
