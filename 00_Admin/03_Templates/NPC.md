@@ -30,12 +30,13 @@ Relevanz:
 ### Begegnungen
 ```dataview
 list without id link(file.link, title)
-from #Session where contains(file.outlinks, this.file.link)
+from #Session and !"00_Admin/03_Templates"
+where contains(file.outlinks, this.file.link)
 sort file.name asc
 ```
 ### Plots
 ```dataview
 table without id file.links as "Plot", status
-from #Plot and !"00_Admin"
+from #Plot and !"00_Admin/03_Templates"
 where contains(file.outlinks, this.file.link)
 ```
