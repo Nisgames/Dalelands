@@ -30,4 +30,4 @@ Er umklammert eine schwere, eisenbeschlagene Kiste mit beiden Händen, als wäre
 
 ## DM Wissen
 
-[Hintergrund, Wahrheit]
+Er weiß nicht genau, *was* in der Kiste ist, nur dass es extrem wertvoll und magisch ist. Die Kiste wurde ihm in Hillsfar übergeben.
