@@ -45,6 +45,6 @@ where contains(file.outlinks, this.file.link)
 ```dataview
 task 
 from #Plot and !"00_Admin/03_Templates"
-where contains(tags, "#" + this.file.name)
+where contains(tags, "#loc/" + this.file.name)
 	and !resolved
 ```
