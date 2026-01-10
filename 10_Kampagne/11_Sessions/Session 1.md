@@ -7,7 +7,11 @@ date:
 ## Recap
 
 Noch kein Recap
-Stat
+Stattdessen Einleitungstext
+
+> [!callout] Vorlesen
+> Contents
+
 
 ## Log
 
