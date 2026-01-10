@@ -15,12 +15,12 @@ Die Spur des Splitters (Vibration) führt zum Fluss. Die Brücke ist zu weit weg
 **Hinweis:** Er sah den Dieb ("Einen Geist auf einem lautlosen Pferd") Richtung Waldrand reiten.
 
 ## Kampf
-- [[Varon]]: **Kampf in den Elfen-Ruinen.**
+- [[Varon]]:
     Er kauert an einem umgestürzten Baum und verbindet sich. Die Kiste ist weg.
     * *Zitat:* "Ihr... seid schneller als gedacht. Aber nicht schnell genug für das Haus Jaelre!"
     * *Kampfverhalten:* Nutzt *Misty Step* (Flavor: Zeit-Sprung) um Distanz zu wahren.
 
 - [[Schattensplitter]]: **Loot & Clues.**
-    * **Item:** Das defekte Zeit-Amulett (Wert: 50 GM Scrap, reparierbar?).
+    * **Item:** Das defekte [[Amulett der Zeit]] 
     * **Intel:** Brief in Drow-Elfisch: *"Zum Stein des Paktes. Der Erzmagier ist ungeduldig."*
     * **Schlüssel:** Ein einfacher Eisenschlüssel.
