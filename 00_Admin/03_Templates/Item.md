@@ -7,6 +7,8 @@ Seltenheit:
 Wert_in_GM:
 Gewicht in KG:
 Einstimmung: false
+Ort:
+Besitzer:
 ---
 
 ## Mechanik
