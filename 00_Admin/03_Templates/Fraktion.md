@@ -1,13 +1,14 @@
 ---
 tags:
-  - Gruppierung
+  - Fraktion
 Gesinnung:
 Standorte:
 Relevanz:
 ---
 
-# `=this.file.name` 
+## Agenda
 
+[]
 
 
 ## Mitglieder
