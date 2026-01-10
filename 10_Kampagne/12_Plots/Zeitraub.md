@@ -49,7 +49,7 @@ Er umklammert eine schwere, eisenbeschlagene Kiste mit beiden Händen, als wäre
 > Schlagartig ist es totenstill. Aus Krügen schwappendes Bier hängt als goldene Kette aus Tropfen in der Luft. Das Feuer im Kamin ist zu einer unbeweglichen Skulptur aus Licht erstarrt.
 > Ihr wollt aufspringen, aber eure Glieder sind schwer wie Blei. Die Luft schmeckt metallisch.
 
-
+*Können sich nicht .*
 
 > [!narrator] Der Dieb
 > Während euer Atem in der Luft gefroren scheint und die Stille in den Ohren dröhnt, löst sich eine Bewegung aus der Dunkelheit. Eine schlanke Gestalt, das Gesicht hinter einer Maske verborgen, schält sich aus dem Schatten neben dem Kamin.
@@ -58,8 +58,7 @@ Er umklammert eine schwere, eisenbeschlagene Kiste mit beiden Händen, als wäre
 > 
 > Geschmeidig gleitet der Dieb auf [[Orins]] Tisch zu. Mit einer fast beiläufigen Bewegung nimmt er ihm die schwere Kiste aus den Händen. Er wendet sich zum offenen Fenster, um in die Nacht zu verschwinden
 > 
-> Doch dann schrammt das Holz der Kiste hart gegen den Fensterrahmen. Ein einzelnes Fragment bricht aus dem Beschlag, fällt lautlos zu Boden und trudelt über die Dielen. Es kommt direkt vor euren Füßen zum Liegen – ein dunkel glühender Splitter, der im gleichen unheilvollen Violett pulsiert wie das Amulett des Diebes.
- 
+> Doch dann schrammt das Holz der Kiste hart gegen den Fensterrahmen. Ein einzelnes Fragment bricht aus dem Beschlag, fällt lautlos zu Boden und trudelt über den Holzfußboden direkt vor eure Füße – ein dunkel glühender Splitter, der im gleichen unheilvollen Violett pulsiert wie das Amulett des Diebes.
 
 Aus dem Schatten schält sich eine schlanke Gestalt mit Maske.
 * **Das Gerät:** Ein Amulett aus schwarzem Metall. Zentrum pulsiert violett ([[Schattensplitter]]).
