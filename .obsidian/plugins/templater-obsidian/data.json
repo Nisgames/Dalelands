@@ -41,6 +41,10 @@
     {
       "folder": "10_Kampagne/12_Plots",
       "template": "00_Admin/03_Templates/Plot.md"
+    },
+    {
+      "folder": "30_Kompendium/33_Zauber",
+      "template": "00_Admin/03_Templates/Zauber.md"
     }
   ],
   "enable_file_templates": false,

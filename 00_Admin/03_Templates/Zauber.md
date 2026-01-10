@@ -13,4 +13,8 @@ Klassen:
 *Zeitaufwand:* `=this.zeitaufwand`
 *Reichweite:* `=this.reichweite`
 *Komponenten:* `=this.komponenten`
-*Wirku*
+*Wirkungsdauer:* `=this.wirkungsdauer`
+
+## Beschreibung
+
+
