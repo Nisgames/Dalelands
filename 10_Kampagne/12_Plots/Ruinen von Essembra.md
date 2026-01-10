@@ -7,13 +7,13 @@ resolved: false
 
 ## Zusammenfassung
 
-Glücksritter suchen in den Trümmern nach verbliebenen Schätzen. 
+Glücksritter suchen in den Trümmern von [[Essembra]] nach verbliebenen Schätzen. 
 
-- [[Essembra]] Ein Familien-Amulett wird vermisst, Finderlohn versprochen. 
-- [[Ashabenford]] Ein NPC sucht jemanden, der bereit ist, in die Ruinen zu reisen.
 ## Ablauf
 
-[1. Start, 2. Mitte, 3. Ende]
+
+- Ein Familien-Amulett wird vermisst, Finderlohn versprochen. 
+- Ein NPC sucht jemanden, der bereit ist, in die Ruinen zu reisen.
 
 ## DM Wissen
 
