@@ -24,5 +24,7 @@ Region:
 ```dataview
 table without id file.link as Name
 from #NPC 
-where contains(Ort, this.file.link) and
+where contains(Ort, this.file.link) 
+	and status != "Tot"
 ```
+#### Historie
