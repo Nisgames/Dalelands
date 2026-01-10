@@ -53,7 +53,7 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    "3-DM/Bibliothek/Templates/Begegnung.md"
+    "00_Admin/03_Templates/Begegnung.md"
   ],
   "startup_templates": [
     ""
