@@ -1,12 +1,11 @@
 
 ## [[Ashaba]] 
 
-[[Ashaba]]: **Flussüberquerung.**
-	Die Spur des Splitters (Vibration) führt zum Fluss. Die Brücke ist zu weit weg.
-    * **Check:** Athletics (STR) DC 12 (Schwimmen) oder Acrobatics (DEX) DC 12 (Treibholz).
-    * **Fail:** 1 Stufe Erschöpfung durch das eisige Wasser.
+Die Spur des Splitters (Vibration) führt zum Fluss. Die Brücke ist zu weit weg.
+* **Check:** Athletics (STR) DC 12 (Schwimmen) oder Acrobatics (DEX) DC 12 (Treibholz).
+* **Fail:** 1 Stufe Erschöpfung durch das eisige Wasser.
 
-- [[Hamish]]: **Begegnung im Nebel.**
+## Begegnung im Nebel
 > [!vorlesen] Im Nebel
 > Jenseits des Flusses verschluckt euch der Nebel. Es ist totenstill, bis ihr ein Keuchen hört. Eine Gestalt schält sich aus dem Dunst, bewaffnet mit einer Mistgabel.
 
