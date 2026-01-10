@@ -34,6 +34,6 @@ WHERE contains(beteiligte, this.file.link)
 ```
 
 ```dataview
-list
-from #Session where contains(file.content, this.file.link)
+list without id link()
+from #Session where contains(file.outlinks, this.file.link)
 ```
