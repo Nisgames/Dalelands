@@ -29,7 +29,9 @@ Ein großer Tisch in einer Nische, der traditionell für die Treffen der Ältest
 
 ## DM Wissen
 
-[Hintergrund, usw]
+**Besitzer:** Holfast Harpell (Mensch, älter, freundlich aber bestimmt). Er ist ein pensionierter Abenteurer und Mitglied des Ältestenrates.
+**Besonderheit:** Das Gasthaus ist bekannt für seinen gebratenen Fasan in Kräuterkruste.
+**Sicherheit:** Waffen müssen nicht abgegeben werden, aber Holfast duldet keinen Streit. Eine alte Armbrust hängt geladen, aber verstaubt, hinter der Theke ("Friedensstifter").
 
 #### Bewohner
 ```dataview
