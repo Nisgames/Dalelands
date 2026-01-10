@@ -32,3 +32,8 @@ Relevanz:
 TABLE status FROM "10_Kampagne/12_Plots"
 WHERE contains(beteiligte, this.file.link)
 ```
+
+```dataview
+list
+from #Session where 
+```
