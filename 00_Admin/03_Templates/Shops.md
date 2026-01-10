@@ -37,8 +37,10 @@ Besitzer:
 ```dataview
 table without id
 	file.link as "Item",
-	wert as "Preis",
+	Wert_in_GM as "Preis",
 	seltenheit as "Seltenheit"
+from #Item 
+where contains(ort, this.file.link)
 ```
 #### Historie
 ```dataview
