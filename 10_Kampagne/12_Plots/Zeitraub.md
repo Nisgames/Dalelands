@@ -49,6 +49,11 @@ Er umklammert eine schwere, eisenbeschlagene Kiste mit beiden Händen, als wäre
 > Schlagartig ist es totenstill. Aus Krügen schwappendes Bier hängt als goldene Kette aus Tropfen in der Luft. Das Feuer im Kamin ist zu einer unbeweglichen Skulptur aus Licht erstarrt.
 > Ihr wollt aufspringen, aber eure Glieder sind schwer wie Blei. Die Luft schmeckt metallisch.
 
+Aus dem Schatten schält sich eine schlanke Gestalt mit Maske.
+* **Das Gerät:** Ein Amulett aus schwarzem Metall. Zentrum pulsiert violett ([[Schattensplitter]]).
+* **Aktion:** Er bewegt sich langsam durch die erstarrte Zeit zu [[Orin]] und nimmt die Kiste.
+* **Der Fehler:** Beim Klettern aus dem Fenster stößt die Kiste an. Ein einzelner **Splitter** fällt heraus und landet glühend vor den Füßen der Gruppe.
+
 ## DM Wissen
 
 [[Orin]] hat massive Spielschulden und die Zhentarim haben ihm "eine letzte Chance" gegeben. Wenn er die Kiste verliert, ist er so gut wie tot. Deshalb seine extreme Panik im Gasthaus.
