@@ -1,4 +1,5 @@
-
+> [!narrator]
+> Der kalte Wind pfeift durch die Ruinen von Myth Drannor und trägt den fauligen Geruch von verbranntem Holz mit sich...
 
 > [!letter] Letter
 > Contents
