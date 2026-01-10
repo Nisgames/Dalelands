@@ -1,7 +1,7 @@
 ---
 tags:
   - Ort
-Region: [[Ashabenford]]
+Region: 
 ---
 
 ## Sinneswahrnehmung
