@@ -2,13 +2,13 @@
 tags:
   - NPC
 Status: Lebendig
-Volk:
+Volk: Mensch
 Klasse:
 Level:
-Ort:
+Ort: "[[Ashabenford]]"
 Fraktionen:
 Rolle:
-Relevanz:
+Relevanz: Niedrig
 ---
 
 ## Erscheinung
