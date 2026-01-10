@@ -29,8 +29,12 @@ Besitzer:
 
 [Hintergrund, usw]
 
-#### Bewohner
-[[Verkä]]
+#### Besitzer
+[...]
+#### Angebot
+
+[Einfache Waffen und Rüstungen]
+
 #### Historie
 ```dataview
 list without id link(file.link, title)
