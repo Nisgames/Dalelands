@@ -14,7 +14,7 @@ Die Spur des Splitters (Vibration) führt zum Fluss. Die Brücke ist zu weit weg
 **Reaktion:** Er hält die Spieler für Geister. Er sucht seine entlaufene Ziege.
 **Hinweis:** Er sah den Dieb ("Einen Geist auf einem lautlosen Pferd") Richtung Waldrand reiten.
 
-## 5. Finale in den Ruinen
+## Kampf
 - [[Varon]]: **Kampf in den Elfen-Ruinen.**
     Er kauert an einem umgestürzten Baum und verbindet sich. Die Kiste ist weg.
     * *Zitat:* "Ihr... seid schneller als gedacht. Aber nicht schnell genug für das Haus Jaelre!"
