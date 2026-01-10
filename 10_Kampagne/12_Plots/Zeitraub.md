@@ -69,12 +69,12 @@ Er umklammert eine schwere, eisenbeschlagene Kiste mit beiden Händen, als wäre
 **[[Varon]]**:
 ![[Varon#Erscheinung]]
 
-
 > [!narrator] Title
 > Mit einem Schlag kehrt die Realität zurück.
 > Der Lärm aller Anwesenden explodiert förmlich in euren Ohren. Irgendwo fällt jemand krachend zu Boden. Gläser zerspringen durch die plötzlich entstandene Druckwelle. Das Feuer im Kamin lodert auf.  
 > Schreie. Panik.  
-> Und [Orin](app://obsidian.md/Orin), der auf seine leeren Hände starrt.
+> Und [[Orin]], der auf seine leeren Hände starrt.
+
 
 
 ## DM Wissen
