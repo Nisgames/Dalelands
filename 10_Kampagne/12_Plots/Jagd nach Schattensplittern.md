@@ -7,7 +7,7 @@ resolved: false
 
 ## Zusammenfassung
 
-Seit der Zerstörung von Thultanthar und Myth Drannor tauchen [[Schattensplitter]] in den Dalelands auf. Sie sind magisch hochreaktiv, mutieren die Umgebung und sind extrem wertvoll.
+Seit der Zerstörung von Thultanthar und [[Myth Drannor]] tauchen [[Schattensplitter]] in den Dalelands auf. Sie sind magisch hochreaktiv, mutieren die Umgebung und sind extrem wertvoll.
 
 - [[Schattensplitter]] Händler zahlen Unsummen dafür, Unwissende werden durch die Strahlung krank oder wahnsinnig. 
 - [[Cormanthor]] Die Flora und Fauna beginnt sich seltsam zu verändern (Mutationen durch wilde Magie).
