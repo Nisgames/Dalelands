@@ -49,7 +49,7 @@ Er umklammert eine schwere, eisenbeschlagene Kiste mit beiden Händen, als wäre
 > Schlagartig ist es totenstill. Aus Krügen schwappendes Bier hängt als goldene Kette aus Tropfen in der Luft. Das Feuer im Kamin ist zu einer unbeweglichen Skulptur aus Licht erstarrt.
 > Ihr wollt aufspringen, aber eure Glieder sind schwer wie Blei. Die Luft schmeckt metallisch.
 
-*Können sich nicht .*
+*Können sich nicht bewegen, nur ganz langsam den Kopf drehen oder die Augen drehen.*
 
 > [!narrator] Der Dieb
 > Während euer Atem in der Luft gefroren scheint und die Stille in den Ohren dröhnt, löst sich eine Bewegung aus der Dunkelheit. Eine schlanke Gestalt, das Gesicht hinter einer Maske verborgen, schält sich aus dem Schatten neben dem Kamin.
