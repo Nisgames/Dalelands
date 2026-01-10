@@ -12,7 +12,7 @@ Parent: "[[Schatten-Invasion Haus Jaelre]]"
 - [[Varon]] klaut Kiste mit [[Schattensplitter]]n von [[Orin]] 
 - Verliert einen [[Schattensplitter]] und Spieler können es nehmen
 - [[Orin]] holt [[Zhentarim]] Schläger
-- [[Varon]] übergibt Kiste an
+- [[Varon]] übergibt Kiste an [[Haus Jaelre]] Boten
 
 ## Ablauf
 
@@ -66,7 +66,7 @@ Er umklammert eine schwere, eisenbeschlagene Kiste mit beiden Händen, als wäre
 > 
 > Ohne es zu bemerken klettert der Dieb aus dem Fenster und verschwindet in der Dunkelheit.
 
-![[]]
+![[Varon#Erscheinung]]
 
 ## DM Wissen
 
