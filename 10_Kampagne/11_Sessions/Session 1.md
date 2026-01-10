@@ -8,10 +8,8 @@ date:
 
 Noch kein Recap
 Stattdessen Einleitungstext
-
- ![[Einleitungstext#]]
-
-
+ ![[Einleitungstext]]
+ 
 ## Log
 
 [Mitschriften]
