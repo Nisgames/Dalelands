@@ -76,8 +76,8 @@ Er umklammert eine schwere, eisenbeschlagene Kiste mit beiden Händen, als wäre
 > Und [[Orin]], der auf seine leeren Hände starrt.
 
 **"Sie ist weg! Wer hat sie geklaut?!"**
-- Reaktion:* "Das gehört mir!" (Greift nach Splitter -> erleidet Schaden durch wilde Magie).
 - *Befehl:* "Riegelt die Türen ab! Niemand verlässt den Raum! Ich hole die Jungs."
+	- *Rennt raus *
 - *Draußen:* Man hört schwere Stiefel der [[Zhentarim]] Schläger.
 
 ## DM Wissen
