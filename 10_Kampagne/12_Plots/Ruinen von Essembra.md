@@ -11,9 +11,8 @@ Glücksritter suchen in den Trümmern von [[Essembra]] nach verbliebenen Schätz
 
 ## Ablauf
 
-
-- Ein Familien-Amulett wird vermisst, Finderlohn versprochen. 
-- Ein NPC sucht jemanden, der bereit ist, in die Ruinen zu reisen.
+1. Ein Familien-Amulett wird vermisst, Finderlohn versprochen. 
+	- Ein NPC sucht jemanden, der bereit ist, in die Ruinen zu reisen.
 
 ## DM Wissen
 
