@@ -37,5 +37,9 @@ where contains(file.outlinks, this.file.link)
 ```dataview
 task 
 from #Plot 
-where contains(tags, "#loc/")
+where contains(tags, "#" + this.file.name)
+	and !resolved
 ```
+
+#Plot 
+- [ ] #Ort Nichts
