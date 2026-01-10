@@ -27,24 +27,20 @@
       "template": "00_Admin/03_Templates/Ort.md"
     },
     {
-      "folder": "bes",
-      "template": "3-DM/Bibliothek/Templates/Custom Monster.md"
+      "folder": "30_Kompendium/31_Bestiarium",
+      "template": "00_Admin/03_Templates/Custom Monster.md"
     },
     {
-      "folder": "3-DM/Bibliothek/Items",
-      "template": "3-DM/Bibliothek/Templates/Item.md"
+      "folder": "30_Kompendium/32_Gegenstände",
+      "template": "00_Admin/03_Templates/Item.md"
     },
     {
-      "folder": "4-Faerûn/Gruppierungen",
-      "template": "3-DM/Bibliothek/Templates/Gruppierung.md"
+      "folder": "20_Welt/23_Fraktionen",
+      "template": "00_Admin/03_Templates/Fraktion.md"
     },
     {
-      "folder": "3-DM/Quests",
-      "template": "3-DM/Bibliothek/Templates/Quest.md"
-    },
-    {
-      "folder": "1-Plots",
-      "template": "3-DM/Bibliothek/Templates/Plot.md"
+      "folder": "10_Kampagne/12_Plots",
+      "template": "00_Admin/03_Templates/Plot.md"
     }
   ],
   "enable_file_templates": false,
