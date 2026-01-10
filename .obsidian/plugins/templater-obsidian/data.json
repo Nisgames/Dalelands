@@ -15,19 +15,19 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "2-Sessions",
-      "template": "3-DM/Bibliothek/Templates/Session.md"
+      "folder": "10_Kampagne/11_Sessions",
+      "template": "00_Admin/03_Templates/Session.md"
     },
     {
-      "folder": "4-Faerûn/NPC",
-      "template": "3-DM/Bibliothek/Templates/NPC.md"
+      "folder": "20_Welt/22_Personen",
+      "template": "00_Admin/03_Templates/NPC.md"
     },
     {
-      "folder": "4-Faerûn/Orte",
-      "template": "3-DM/Bibliothek/Templates/Ort.md"
+      "folder": "20_Welt/21_Orte",
+      "template": "00_Admin/03_Templates/Ort.md"
     },
     {
-      "folder": "3-DM/Bibliothek/Monster",
+      "folder": "bes",
       "template": "3-DM/Bibliothek/Templates/Custom Monster.md"
     },
     {
