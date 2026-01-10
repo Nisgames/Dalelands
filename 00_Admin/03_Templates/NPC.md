@@ -1,17 +1,18 @@
 ---
 tags:
   - NPC
-Wohnort:
-Klasse:
+Status: Lebendig
 Volk:
+Klasse:
 Level:
+Ort:
 Fraktionen:
 Relevanz:
 ---
 
 *Klasse/Beruf:* `=this.Klasse` 
 *Volk:* `=this.Volk` 
-*Wohnort:* `=this.Wohnort` 
+*Wohnort:* `=this.Ort` 
 *Aussehen:* 
 *Charakterzug:* 
 *Sprechweise:* 
