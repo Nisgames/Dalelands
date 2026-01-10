@@ -26,7 +26,11 @@ TABLE WITHOUT ID
 	file.link as "Name",
 	rolle as "Rolle",
 	ort as "Ort"
-FROM #NPC AND !"3-DM/"
+FROM #NPC AND !"00_Admin/03_Templates"
 WHERE contains(Fraktionen, this.file.link)
-SORT Relevanz ASC
+SORT rolle ASC
+```
+#### Plots
+```dataview
+
 ```

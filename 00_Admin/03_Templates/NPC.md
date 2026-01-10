@@ -7,6 +7,7 @@ Klasse:
 Level:
 Ort:
 Fraktionen:
+Rolle:
 Relevanz:
 ---
 
