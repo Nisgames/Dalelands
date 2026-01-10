@@ -16,7 +16,9 @@ Region: "[[Ashabenford]]"
 - *Atmosphäre:* 
 - *Details:* 
 
-- *Sehen:* Dunkles, poliertes Eichenholz dominiert den Schankraum. An den Wänden hängen Jagdtrophäen, darunter der präparierte Kopf eines weißen Hirsches über dem gewaltigen Kamin. Das Licht ist warm und stammt von flackernden Öllampen und dem Kaminfeuer. 
+- *Sehen:* 
+	Möbel aus dunklem, poliertem Eichenholz 
+	An den Wänden hängen Jagdtrophäen, darunter der präparierte Kopf eines weißen Hirsches über dem gewaltigen Kamin. Das Licht ist warm und stammt von flackernden Öllampen und dem Kaminfeuer. 
 - *Beleuchtung:* Schummrig-gemütlich, goldgelbes Licht, das Schatten in den Ecken tanzen lässt. 
 - *Hören:* Ein ständiges Grundrauschen aus Gelächter, dem Klappern von Zinnkrügen und dem Knistern des Feuers. Ein Barde spielt meist in der Ecke (aktuell versucht er, den Lärm zu übertönen). 
 - *Riechen:* Eine schwere, aber angenehme Mischung aus gebratenem Fasan (die Spezialität des Hauses), verschüttetem Ale, Pfeifentabak und Holzrauch. 
