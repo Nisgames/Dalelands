@@ -66,6 +66,7 @@ Er umklammert eine schwere, eisenbeschlagene Kiste mit beiden Händen, als wäre
 > 
 > Ohne es zu bemerken klettert der Dieb aus dem Fenster und verschwindet in der Dunkelheit.
 
+**[[Varon]]**:
 ![[Varon#Erscheinung]]
 
 ## DM Wissen
