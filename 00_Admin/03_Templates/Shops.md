@@ -27,13 +27,13 @@ Besitzer:
 
 ## DM Wissen
 
+[Besitzer]
+[Einfache Waffen und Rüstungen]
+[Keine Schilde]
+[Kauft zu 70% des Wertes an]
 [Hintergrund, usw]
 
-#### Besitzer
-[...]
-#### Angebot
-
-[Einfache Waffen und Rüstungen]
+#### Exclusiv
 
 #### Historie
 ```dataview
