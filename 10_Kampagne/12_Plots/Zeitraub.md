@@ -27,7 +27,9 @@ Zwei Tische weiter sitzt [[Orin]], er passt nicht ins Bild
 Er schwitzt und wippt nervös mit dem Fuß.
 
 Er umklammert eine schwere, eisenbeschlagene Kiste mit beiden Händen, als wäre sie sein Leben.
+[[Orin]] weiß nicht genau, *was* in der Kiste ist, nur dass es extrem wertvoll und magisch ist. Die Kiste wurde ihm in [[Hillsfar]] übergeben.
+
 
 ## DM Wissen
 
-Er weiß nicht genau, *was* in der Kiste ist, nur dass es extrem wertvoll und magisch ist. Die Kiste wurde ihm in Hillsfar übergeben.
+Er hat massive Spielschulden und die Zhentarim haben ihm "eine letzte Chance" gegeben. Wenn er die Kiste verliert, ist er so gut wie tot. Deshalb seine extreme Panik im Gasthaus.
