@@ -17,4 +17,10 @@ Einstimmung: false
 **Schaden:** `=this.Schaden`
 **Beschreibung:** [Was tut es]
 
-## 
+## Aussehen
+
+[Klein]
+
+## Lore
+
+[Geschmiedet von Zwerg]
