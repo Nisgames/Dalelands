@@ -1,10 +1,7 @@
 ---
 tags:
   - Ort
-  - Fluss
-Liegt_in: "[[Mistledale]]"
-Fraktionen:
-Region:
+Region: [[Dalelands]]
 ---
 
 ## Sinneswahrnehmung

@@ -1,7 +1,7 @@
 ---
 tags:
   - Ort
-Region:
+Region: [[Mistledale]]
 ---
 
 ## Sinneswahrnehmung
@@ -18,7 +18,14 @@ Region:
 
 ## POI
 
-[Raum 1]
+#### Glauben
+In Ashabenford betet man pragmatisch:
+- **Chauntea:** Für die Ernte (es ist ein Bauerntal).
+- **Tymora:** Für das Glück im Handel.
+
+#### Hoher Rat
+[[Ashabenford]] wird von einem Rat regiert ([[Bürgermeisterin Andra]]). 
+Sie suchen händeringend nach Söldnern, um die Straßen sicher zu halten.
 
 ## Events
 
@@ -29,15 +36,6 @@ Region:
 Die Hauptstadt von **[[Mistledale]]**. 
 Es ist ein offenes, geschäftiges Handelszentrum. 
 Anders als manch andere Täler ist man hier friedlich und tolerant.
-
-#### Glauben
-In Ashabenford betet man pragmatisch:
-- **Chauntea:** Für die Ernte (es ist ein Bauerntal).
-- **Tymora:** Für das Glück im Handel.
-
-#### Hoher Rat
-[[Ashabenford]] wird von einem Rat regiert ([[Bürgermeisterin Andra]]). 
-Sie suchen händeringend nach Söldnern, um die Straßen sicher zu halten.
 
 #### Bewohner
 ```dataview
