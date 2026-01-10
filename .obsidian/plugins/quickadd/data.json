@@ -12,7 +12,39 @@
       },
       "folder": {
         "enabled": true,
-        "folders": [],
+        "folders": [
+          "20_Welt/22_Personen"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "reuse",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "01b7b875-830a-43e0-88bf-5de7facd8fa4",
+      "name": "Neuer NPC (copy)",
+      "type": "Template",
+      "command": false,
+      "templatePath": "00_Admin/03_Templates/NPC.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "20_Welt/22_Personen"
+        ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
         "chooseFromSubfolders": false
