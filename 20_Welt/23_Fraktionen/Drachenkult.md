@@ -1,9 +1,10 @@
 ---
 tags:
   - Fraktion
-Gesinnung: 
+Gesinnung: Böse
 Standorte:
-Relevanz:
+  - "[[Aencar's Manor]]"
+Relevanz: Mittel
 ---
 
 ## Generelles
