@@ -16,7 +16,10 @@ Relevanz: Mittel
 *Klasse/Beruf:* `=this.Klasse` 
 *Volk:* `=this.Volk` 
 *Wohnort:* `=this.Ort` 
-*Aussehen:* [Klein mit Bart]
+*Aussehen:* 
+	Trägt gut geschnittene, dunkle Reisekleidung. 
+	Er hat glattes, öliges schwarzes Haar und ein blasses Gesicht. 
+	Seine Augen scannen ständig den Raum.
 *Charakterzug:* [Hasst Wein]
 *Sprechweise:* [Langsam]
 
