@@ -50,9 +50,15 @@ Er umklammert eine schwere, eisenbeschlagene Kiste mit beiden Händen, als wäre
 > Ihr wollt aufspringen, aber eure Glieder sind schwer wie Blei. Die Luft schmeckt metallisch.
 
 
-> [!narrator] Dieb
-> Aus einer dunklen Ecke nahe des Kamins schält sich eine schlanke Gestalt. Er trägt eine schwarze Maske und bewegt sich langsam durch den Raum.
-> Seine Schritte sind lautlos, während er sich auf [[Orin]] zubewegt. Im vorbeigehen greift er sich die Kiste aus dessen Händen und bewegt sich dann schnellen Schrittes auf das Fenster zu.
+
+> [!narrator] Der Dieb
+> Während euer Atem in der Luft gefroren scheint und die Stille in den Ohren dröhnt, löst sich eine Bewegung aus der Dunkelheit. Eine schlanke Gestalt, das Gesicht hinter einer Maske verborgen, schält sich aus den Schatten des Schankraums.
+> 
+> Um den Hals des Fremden pendelt ein Amulett aus stumpfem, schwarzem Metall. Sein Zentrum pulsiert in einem kalten, violetten Licht, das die erstarrte Luft um sich herum wie Hitzeflimmern verzieht.
+> 
+> Unbeeindruckt von der Zeit, die euch gefangen hält, gleitet der Dieb geschmeidig auf Orins Tisch zu. Mit einer fast beiläufigen Bewegung nimmt er dem erstarrten Boten die schwere Kiste aus den Händen. Er wendet sich zum offenen Fenster, um in die Nacht zu verschwinden – doch in der Eile unterläuft ihm ein Fehler.
+> 
+> Das Holz der Kiste schrammt hart gegen den Fensterrahmen. Ein einzelnes Fragment bricht aus dem Beschlag, fällt klirrend zu Boden und trudelt über die Dielen. Es kommt direkt vor euren Füßen zum Liegen – ein dunkel glühender Splitter, der im gleichen unheilvollen Violett pulsiert wie das Amulett des Diebes.
  
 
 Aus dem Schatten schält sich eine schlanke Gestalt mit Maske.
