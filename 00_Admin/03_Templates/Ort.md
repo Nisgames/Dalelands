@@ -22,5 +22,7 @@ Region:
 
 #### Bewohner
 ```dataview
-table without id
+table without id file.link as Name
+from #NPC 
+where contains(Ort, this.file.link) and
 ```
