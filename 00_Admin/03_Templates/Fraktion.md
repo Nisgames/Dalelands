@@ -32,5 +32,7 @@ SORT rolle ASC
 ```
 #### Plots
 ```dataview
-
+table without id file.link as "Plot", status
+from #Plot and !"00_Admin/03_Templates"
+where contains(file.outlinks, this.file.link)
 ```
