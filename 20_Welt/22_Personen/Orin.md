@@ -20,8 +20,9 @@ Relevanz: Mittel
 	Trägt gut geschnittene, dunkle Reisekleidung. 
 	Er hat glattes, öliges schwarzes Haar und ein blasses Gesicht. 
 	Seine Augen scannen ständig den Raum.
-*Charakterzug:* [Hasst Wein]
-*Sprechweise:* [Langsam]
+*Charakterzug:* Leicht reizbar
+*Sprechweise:* Hastig, verschluckt oft Wortenden. 
+	Wenn er sich sicher fühlt (oder [[Zhentarim]] im Rücken hat), wird er arrogant.
 
 ## Werte & Loot:
 
