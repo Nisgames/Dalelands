@@ -77,7 +77,7 @@ Er umklammert eine schwere, eisenbeschlagene Kiste mit beiden Händen, als wäre
 
 **"Sie ist weg! Wer hat sie geklaut?!"**
 - *Befehl:* "Riegelt die Türen ab! Niemand verlässt den Raum! Ich hole die Jungs."
-	- *Rennt raus *
+	- *Rennt raus*
 - *Draußen:* Man hört schwere Stiefel der [[Zhentarim]] Schläger.
 
 ## DM Wissen
