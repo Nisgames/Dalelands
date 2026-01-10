@@ -10,17 +10,6 @@ race:
 ---
 ## Erscheinung
 
-> [!infobox] Kurzbeschreibung
-> **Rolle:** 
-> **Stimme/Eigenheit:** 
-> **Ziel:** 
- 
-## 📝 Beschreibung & Roleplay
-*(Vorlese-Text: Aussehen, erster Eindruck)*
-
-**Persönlichkeits-Merkmale:**
-* **Geheimnisse & Hinweise:**
-- [ ] Weiß, wo der Geheimgang ist.
 
 ---
 ## 🗺️ Plot-Relevanz
