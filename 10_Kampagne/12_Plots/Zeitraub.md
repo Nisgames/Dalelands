@@ -29,7 +29,10 @@ Er schwitzt und wippt nervös mit dem Fuß.
 Er umklammert eine schwere, eisenbeschlagene Kiste mit beiden Händen, als wäre sie sein Leben.
 [[Orin]] weiß nicht genau, *was* in der Kiste ist, nur dass es extrem wertvoll und magisch ist. Die Kiste wurde ihm in [[Hillsfar]] übergeben.
 
+*Was bestellt ihr?*
+
 
 ## DM Wissen
 
-Er hat massive Spielschulden und die Zhentarim haben ihm "eine letzte Chance" gegeben. Wenn er die Kiste verliert, ist er so gut wie tot. Deshalb seine extreme Panik im Gasthaus.
+[[Orin]] hat massive Spielschulden und die Zhentarim haben ihm "eine letzte Chance" gegeben. Wenn er die Kiste verliert, ist er so gut wie tot. Deshalb seine extreme Panik im Gasthaus.
+
