@@ -51,7 +51,8 @@ Er umklammert eine schwere, eisenbeschlagene Kiste mit beiden Händen, als wäre
 
 
 > [!narrator] Dieb
-> Aus einer dunklen Ecke nahe des Kamins schält sich eine schlanke Gestalt. Sie trägt 
+> Aus einer dunklen Ecke nahe des Kamins schält sich eine schlanke Gestalt. Er trägt eine schwarze Maske und bewegt sich langsam durch e
+ 
 
 Aus dem Schatten schält sich eine schlanke Gestalt mit Maske.
 * **Das Gerät:** Ein Amulett aus schwarzem Metall. Zentrum pulsiert violett ([[Schattensplitter]]).
