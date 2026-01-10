@@ -62,10 +62,70 @@
     },
     {
       "id": "06fef340-e915-490d-b611-1a8afb0d2676",
-      "name": "Neuer Ort (copy)",
+      "name": "Neuer Plot",
       "type": "Template",
       "command": true,
-      "templatePath": "00_Admin/03_Templates/Ort.md",
+      "templatePath": "00_Admin/03_Templates/Plot.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "10_Kampagne/12_Plots"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "reuse",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "56131e31-5ad3-417e-affb-325485535ce8",
+      "name": "Neuer Shop",
+      "type": "Template",
+      "command": true,
+      "templatePath": "00_Admin/03_Templates/Shops.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "20_Welt/21_Orte"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "reuse",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "68769ce1-1839-48e8-8645-ed95b78024a3",
+      "name": "Neuer Shop (copy)",
+      "type": "Template",
+      "command": true,
+      "templatePath": "00_Admin/03_Templates/Shops.md",
       "fileNameFormat": {
         "enabled": true,
         "format": "{{value}}"
