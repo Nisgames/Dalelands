@@ -8,7 +8,8 @@ Parent: "[[Schatten-Invasion Haus Jaelre]]"
 
 ## Zusammenfassung
 
-[Drow greifen an]
+- Spieler werden in [[White Hart Inn]] von [[Zauber - Zeitstopp]] durch [[Amulett der Zeit]] erfasst.
+- 
 
 ## Ablauf
 
