@@ -6,8 +6,6 @@ Liegt_in:
 Fraktionen:
 ---
 
-# **`=this.file.name`**
-
 ### Beschreibung
 
 ### Besitzer
