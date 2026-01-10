@@ -1,13 +1,21 @@
 ---
 tags:
-  - type/npc
-name: 
-location: "[[ ]]"
-faction: "[[ ]]"
-status: alive
-sex: 
-race: 
+  - NPC
+Wohnort:
+Klasse:
+Volk:
+Level:
+Fraktionen:
+Relevanz:
 ---
+
+*Klasse/Beruf:* `=this.Klasse` 
+*Volk:* `=this.Volk` 
+*Wohnort:* `=this.Wohnort` 
+*Aussehen:* 
+*Charakterzug:* 
+*Sprechweise:* 
+
 ## Erscheinung
 
 
