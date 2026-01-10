@@ -23,8 +23,9 @@ Relevanz:
 #### Mitglieder
 ```dataview
 TABLE WITHOUT ID
-	file.link as Mitglieder,
-	Relevanz as Relevanz
+	file.link as "Name",
+	rolle as "Rolle",
+	ort as "Ort"
 FROM #NPC AND !"3-DM/"
 WHERE contains(Fraktionen, this.file.link)
 SORT Relevanz ASC
