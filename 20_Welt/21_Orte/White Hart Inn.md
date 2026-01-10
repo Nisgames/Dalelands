@@ -6,22 +6,12 @@ Region: "[[Ashabenford]]"
 
 ## Sinneswahrnehmung
 
-[Was hören, sehen, riechen beim Betreten?]
-
-- *Sehen:* 
-- *Beleuchtung:* 
-- *Hören:* 
-- *Riechen:* 
-- *Spüren:* 
-- *Atmosphäre:* 
-- *Details:* 
-
 - *Sehen:* 
 	Möbel aus dunklem, polierten Eichenholz 
 	An den Wänden hängen Jagdtrophäen, darunter der präparierte Kopf eines weißen Hirsches über dem gewaltigen Kamin
 - *Beleuchtung:* Schummrig-gemütlich
 	Kamin brennt
-- *Hören:* Ein ständiges Grundrauschen aus Gelächter, dem Klappern von Zinnkrügen und dem Knistern des Feuers. Ein Barde spielt meist in der Ecke (aktuell versucht er, den Lärm zu übertönen). 
+- *Hören:* Ein ständiges Grundrauschen aus Gelächter, dem Klappern von Zinnkrügen und dem Knistern des Feuers. Ein Barde spielt meist in der Ecke
 - *Riechen:* Eine schwere, aber angenehme Mischung aus gebratenem Fasan (die Spezialität des Hauses), verschüttetem Ale, Pfeifentabak und Holzrauch. 
 - *Details:* Die Tische sind massiv und tragen die Schnitzereien von Generationen von Gästen.
 ## POI
