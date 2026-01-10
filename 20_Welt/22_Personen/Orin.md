@@ -26,7 +26,10 @@ Relevanz: Mittel
 
 ## Werte & Loot:
 
-[Link zum Statblock / (HP, AC) , Loot]
+**Loot:** 
+- Ein Briefsiegel der Zhentarim (versteckt in einer hohlen Absatzsohle). 
+- 15 GM in verschiedenen Währungen (Sembia, Cormyr). 
+- Ein Zettel mit einer verschlüsselten Notiz: *"Übergabe bei der alten Eiche entfällt. Bring es direkt zum Turm."*
 
 ## DM Wissen
 
