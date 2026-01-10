@@ -14,6 +14,8 @@ Region: "[[Ashabenford]]"
 - *Hören:* Ein ständiges Grundrauschen aus Gelächter, dem Klappern von Zinnkrügen und dem Knistern des Feuers. Ein Barde spielt meist in der Ecke
 - *Riechen:* Eine schwere, aber angenehme Mischung aus gebratenem Fasan (die Spezialität des Hauses), verschüttetem Ale, Pfeifentabak und Holzrauch. 
 - *Details:* Die Tische sind massiv und tragen die Schnitzereien von Generationen von Gästen.
+	Eine alte Armbrust hängt geladen, aber verstaubt, hinter der Theke ("Friedensstifter")
+
 ## POI
 
 #### Der Schankraum 
@@ -32,7 +34,8 @@ Ein großer Tisch in einer Nische, der traditionell für die Treffen der Ältest
 **Besitzer:** [[Holfast Harpell]] 
 	Er ist ein pensionierter Abenteurer und Mitglied des Ältestenrates.
 **Besonderheit:** Das Gasthaus ist bekannt für seinen gebratenen Fasan in Kräuterkruste.
-**Sicherheit:** Waffen müssen nicht abgegeben werden, aber Holfast duldet keinen Streit. Eine alte Armbrust hängt geladen, aber verstaubt, hinter der Theke ("Friedensstifter").
+**Sicherheit:** Waffen müssen nicht abgegeben werden, aber Holfast duldet keinen Streit. 
+	Eine alte Armbrust hängt geladen, aber verstaubt, hinter der Theke ("Friedensstifter").
 
 #### Bewohner
 ```dataview
