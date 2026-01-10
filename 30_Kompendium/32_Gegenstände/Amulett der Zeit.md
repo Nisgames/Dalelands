@@ -6,10 +6,10 @@ Klassifikation:
 Magisch: true
 Seltenheit: Sehr selten
 Wert_in_GM:
-Gewicht in KG:
-Einstimmung: false
+Gewicht in KG: 0.8
+Einstimmung: true
 Ort:
-Besitzer:
+Besitzer: "[[Varon]]"
 ---
 
 ## Mechanik
@@ -28,18 +28,8 @@ Besitzer:
 
 [Geschmiedet von Zwerg]
 
----
-tags:
-  - Item
-type: Wundersamer Gegenstand (Hals)
-rarity: Sehr selten
-attunement: Ja
----
-# [[Amulett des verzerrten Abgrunds]]
-*Wundersamer Gegenstand, Sehr selten (erfordert Einstimmung)*
-
 ### Beschreibung
-- **Material:** Ein Gehäuse aus "Schattenstahl" (eisenhartes, mattschwarzes Metall), das einen rohen [[Schattensplitter]] in einer Fassung aus feinen Krallen hält.
+- **Material:** Ein Gehäuse aus eisenhartes, mattschwarzes Metall), das einen rohen [[Schattensplitter]] in einer Fassung aus feinen Krallen hält.
 - **Effekt:** Das Amulett absorbiert aktiv das Umgebungslicht. Die Luft in einem Radius von wenigen Zentimetern um das Metall wirkt stets leicht unscharf oder verzerrt.
 - **Gefühl:** Es fühlt sich unnatürlich schwer an und entzieht der Haut in der Nähe die Wärme.
 
