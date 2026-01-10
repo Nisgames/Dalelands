@@ -35,5 +35,5 @@ WHERE contains(beteiligte, this.file.link)
 
 ```dataview
 list
-from #Session where contI
+from #Session where contains(file.content, this.file.link)
 ```
