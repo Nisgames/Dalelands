@@ -42,7 +42,7 @@ Er umklammert eine schwere, eisenbeschlagene Kiste mit beiden Händen, als wäre
 > - **Cormanthor-Beerenwein** (Glas) ... _1 SM_ _Süß und gefährlich stark._
 > - **Quellwasser / Kräutertee** ... _1 KM_
 
-
+*Bekommt euere Bestellungen. Ihr stoßt an auf eure erfolgreic*
 
 ## DM Wissen
 
