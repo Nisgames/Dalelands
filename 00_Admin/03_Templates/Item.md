@@ -11,8 +11,8 @@ Einstimmung: false
 
 ## Mechanik
 
-**Seltenheit:** `=this.Seltenheit` 
-**Wert:** `=this.Wert_in_GM` GM
+*Seltenheit: `=this.Seltenheit` 
+*Wert: `=this.Wert_in_GM` GM
 **Klassifikation:** `=this.Klassifikation` 
 **Schaden:** `=this.Schaden`
 **Beschreibung:** [Was tut es]
