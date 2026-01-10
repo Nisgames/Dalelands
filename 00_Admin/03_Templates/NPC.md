@@ -42,3 +42,6 @@ from #Plot and !"00_Admin/03_Templates"
 where contains(file.outlinks, this.file.link)
 ```
 #### Items in Besitz
+```dataview
+list without id 
+```
