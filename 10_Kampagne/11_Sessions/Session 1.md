@@ -9,8 +9,8 @@ date:
 Noch kein Recap
 Stattdessen Einleitungstext
 
-> [!narrator] Vorlesen
-> Contents
+> [!narrator] Einleitung
+> ![[Einleitungstext]]
 
 
 ## Log
