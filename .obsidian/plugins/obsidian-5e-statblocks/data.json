@@ -2544,9 +2544,8 @@
     "patch": 2
   },
   "paths": [
-    "3-DM/Bibliothek/Monster",
-    "4-Faerûn/NPC",
-    "30_Kompendium/31_Bestiarium"
+    "30_Kompendium/31_Bestiarium",
+    "20_Welt/22_Personen"
   ],
   "autoParse": true,
   "disableSRD": false,
