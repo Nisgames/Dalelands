@@ -1,12 +1,11 @@
 ---
 tags:
   - Item
+Klassifikation:
 Magisch: false
 Seltenheit:
 Wert_in_GM:
 Gewicht in KG:
-Klassifikation:
-Schaden:
 Einstimmung: false
 ---
 
