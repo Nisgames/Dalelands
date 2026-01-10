@@ -5,10 +5,14 @@ Category:
 resolved: false
 ---
 
-## Hintergrund
-Die [[Zhentarim]] wollen die Splitter als Waffen an Sembia verkaufen.
+## Zusammenfassung
 
-## Auswirkungen
-- [[Zhentarim]] Kaufen Splitter ohne Fragen zu stellen, schüchtern Finder ein.
-- [[Sembia]] Händler aus dem Süden fluten die Märkte und fragen spezifisch nach "magischen Erzen".
-- [[Orin]] Ist extrem nervös, da er eine Lieferung verloren hat. Sucht nach den "Dieben".
+[Drow greifen an]
+
+## Ablauf
+
+[1. Start, 2. Mitte, 3. Ende]
+
+## DM Wissen
+
+[Hintergrund, Wahrheit]
