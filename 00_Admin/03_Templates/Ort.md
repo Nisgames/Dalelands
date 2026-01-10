@@ -28,3 +28,9 @@ where contains(Ort, this.file.link)
 	and status != "Tot"
 ```
 #### Historie
+```dataview
+list without id link(file.link, title)
+from #Session 
+where contains(file.outlinks, this.file.link)
+```
+#### Plot Events
