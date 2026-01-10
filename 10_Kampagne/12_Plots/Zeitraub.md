@@ -20,11 +20,13 @@ Parent: "[[Schatten-Invasion Haus Jaelre]]"
 > 
 > Ein Barde spielt auf seiner Laute gegen den Lärm der Menge an. Draußen mag die Nacht über dem Cormanthor liegen, aber hier drinnen ist es warm und gemütlich.
 
-Zwei Tische weiter sitzt [[Orin]]
+Zwei Tische weiter sitzt [[Orin]], er passt nicht ins Bild
 
 ![[Orin#Erscheinung]]
 
-Er hat 
+Er schwitzt und wippt nervös mit dem Fuß.
+
+Er umklammert eine schwere, eisenbeschlagene Kiste mit beiden Händen, als wäre sie sein Leben.
 
 ## DM Wissen
 
