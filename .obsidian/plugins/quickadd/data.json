@@ -32,7 +32,7 @@
     },
     {
       "id": "01b7b875-830a-43e0-88bf-5de7facd8fa4",
-      "name": "Neuer NPC (copy)",
+      "name": "Neuer Ort",
       "type": "Template",
       "command": false,
       "templatePath": "00_Admin/03_Templates/NPC.md",
