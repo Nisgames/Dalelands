@@ -16,9 +16,9 @@ Aktueller-Ort: "[[Ashabenford]]"
 
 ```dataview
 List
-FROM #Plot AND !"00_Admin/03_"
-WHERE !Erledigt
-GROUP BY file.link
+FROM #Plot AND !"00_Admin/03_Templates"
+WHERE !resolved
+sort file.name
 ```
 
 ### Wichtige NPC
