@@ -58,7 +58,7 @@ Er umklammert eine schwere, eisenbeschlagene Kiste mit beiden Händen, als wäre
 > 
 > Geschmeidig gleitet der Dieb auf [[Orins]] Tisch zu. Mit einer fast beiläufigen Bewegung nimmt er ihm die schwere Kiste aus den Händen. Er wendet sich zum offenen Fenster, um in die Nacht zu verschwinden
 > 
-> Doch dann schrammt das Holz der Kiste hart gegen den Fensterrahmen. Ein einzelnes Fragment bricht aus dem Beschlag, fällt lautlos zu Boden und trudelt über den Holzfußboden direkt vor eure Füße – ein dunkel glühender Splitter, der im gleichen unheilvollen Violett pulsiert wie das Amulett des Diebes.
+> Doch dann schrammt das Holz der Kiste hart gegen den Fensterrahmen. Ein einzelnes Objekt hüpft unter dem Deckel hervor, fällt lautlos zu Boden und trudelt über den Holzfußboden direkt vor eure Füße – ein dunkel glühender Splitter, der im gleichen unheilvollen Violett pulsiert wie das Amulett des Diebes.
 
 Aus dem Schatten schält sich eine schlanke Gestalt mit Maske.
 * **Das Gerät:** Ein Amulett aus schwarzem Metall. Zentrum pulsiert violett ([[Schattensplitter]]).
