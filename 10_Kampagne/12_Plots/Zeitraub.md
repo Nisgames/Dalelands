@@ -3,6 +3,7 @@ tags:
   - Plot
 Category: B
 resolved: false
+Parent: "[[Schatten-Invasion Haus Jaelre]]"
 ---
 
 ## Zusammenfassung

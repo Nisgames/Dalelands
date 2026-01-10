@@ -2545,7 +2545,8 @@
   },
   "paths": [
     "3-DM/Bibliothek/Monster",
-    "4-Faerûn/NPC"
+    "4-Faerûn/NPC",
+    "30_Kompendium/31_Bestiarium"
   ],
   "autoParse": true,
   "disableSRD": false,

@@ -3,6 +3,7 @@ tags:
   - Plot
 Category: B
 resolved: false
+Parent: "[[Jagd nach SchattensplitternÂLT]]"
 ---
 
 ## Zusammenfassung
