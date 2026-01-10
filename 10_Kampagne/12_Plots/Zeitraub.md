@@ -3,7 +3,7 @@ tags:
   - Plot
 Category: A
 resolved: false
-Parent: "[[Jagd nach Schattensplittern]]"
+Parent: "[[Jagd nach SchattensplitternÂLT]]"
 ---
 
 ## 1. Die Taverne
