@@ -10,6 +10,8 @@ Fraktionen:
 Relevanz:
 ---
 
+## Erscheinung
+
 *Klasse/Beruf:* `=this.Klasse` 
 *Volk:* `=this.Volk` 
 *Wohnort:* `=this.Ort` 
@@ -17,7 +19,8 @@ Relevanz:
 *Charakterzug:* 
 *Sprechweise:* 
 
-## Erscheinung
+## Werte & Loot:
+
 
 
 ---
