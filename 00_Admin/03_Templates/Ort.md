@@ -45,6 +45,6 @@ where contains(file.outlinks, this.file.link)
 ```dataview
 table without id file.link as "Plot", category as "Kategorie"
 from #Plot and !"00_Admin/03_Templates"
-where contains(file.outlinks, this.file.link)
-sort by category asc
+where contains(tags, "#loc/" + this.file.link)
+sort category asc
 ```
