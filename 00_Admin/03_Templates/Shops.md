@@ -33,8 +33,13 @@ Besitzer:
 [Kauft zu 70% des Wertes an]
 [Hintergrund, usw]
 
-#### Exclusiv
-
+#### Angebot (Exklusiv)
+```dataview
+table without id
+	file.link as "Item",
+	wert as "Preis",
+	seltenheit as "Seltenheit"
+```
 #### Historie
 ```dataview
 list without id link(file.link, title)
