@@ -15,9 +15,9 @@ Relevanz:
 *Klasse/Beruf:* `=this.Klasse` 
 *Volk:* `=this.Volk` 
 *Wohnort:* `=this.Ort` 
-*Aussehen:* 
-*Charakterzug:* 
-*Sprechweise:* 
+*Aussehen:* [Klein mit Bart]
+*Charakterzug:* [Hasst Wein]
+*Sprechweise:* [Langsam]
 
 ## Werte & Loot:
 
