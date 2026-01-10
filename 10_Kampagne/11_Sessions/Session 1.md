@@ -9,7 +9,7 @@ date:
 Noch kein Recap
 Stattdessen Einleitungstext
 
-> [!callout] Vorlesen
+> [!narrator] Vorlesen
 > Contents
 
 

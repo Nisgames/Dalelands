@@ -6,8 +6,8 @@
     --callout-color: 147, 112, 219; /* Mystisches Violett */
     --callout-icon: lucide-scroll-text;
     background-color: #1a1a1a !important; 
-    border: 1px solid rgba(141, 247, 213, 0.3);
-    border-left: 4px solid rgba(112, 219, 157, 0.8);
+    border: 1px solid rgba(147, 112, 219, 0.3);
+    border-left: 4px solid rgba(147, 112, 219, 0.8);
     border-radius: 4px;
     box-shadow: 0 4px 6px rgba(0,0,0,0.3);
     color: #e0e0e0;
