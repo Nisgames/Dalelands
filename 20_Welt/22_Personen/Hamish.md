@@ -10,6 +10,7 @@ Fraktionen:
 Rolle:
 Relevanz:
 ---
+![[Pasted image 20260109144206.png|right|150]]
 
 ## Erscheinung
 
