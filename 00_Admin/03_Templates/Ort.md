@@ -43,8 +43,8 @@ where contains(file.outlinks, this.file.link)
 ```
 #### Plot Events
 ```dataview
-table without id file.link as "Plot", category as "Kategorie"
+task 
 from #Plot and !"00_Admin/03_Templates"
-where contains(tags, "#loc/" + this.file.link)
-sort category asc
+where contains(tags, "#loc/" + this.file.name)
+	and !resolved
 ```
