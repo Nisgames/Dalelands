@@ -11,7 +11,6 @@ Rolle:
 Relevanz:
 ---
 
-![[Pasted image 20260109144206.png|right|200]]
 ## Erscheinung
 
 *Klasse/Beruf:* `=this.Klasse` 
@@ -50,3 +49,5 @@ from #Item and !"00_Admin/03_Templates"
 where besitzer = this.file.link
 sort file.name asc
 ```
+
+![[Pasted image 20260109144206.png]]
