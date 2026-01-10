@@ -19,9 +19,11 @@ Relevanz:
 *Charakterzug:* 
 *Sprechweise:* 
 
+---
+
 ## Werte & Loot:
 
-[Link zum Statblock / HP, Loot]
+[Link zum Statblock / (HP, AC) , Loot]
 
 ## DM Wissen
 
