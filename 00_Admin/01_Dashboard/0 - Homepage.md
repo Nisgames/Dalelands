@@ -5,11 +5,7 @@ Aktueller-Ort: "[[Ashabenford]]"
 # 🛡️ DnD Wächter der Dalelands
 
 ### ☑️ To-Do´s
-```dataview
-TASK
-FROM "3-DM/Allgemein/To-Do´s"
-Where !completed
-```
+- [ ] Session 1 vorbereiten
 ---
 
 ### 🧭 Schnellzugriff
