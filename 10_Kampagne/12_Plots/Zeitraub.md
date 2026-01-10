@@ -10,7 +10,9 @@ Parent: "[[Schatten-Invasion Haus Jaelre]]"
 
 - Spieler werden in [[White Hart Inn]] von [[Zauber - Zeitstopp]] durch [[Amulett der Zeit]] erfasst
 - [[Varon]] klaut Kiste mit [[Schattensplitter]]n von [[Orin]] 
-- Nimmt Kiste
+- Verliert einen [[Schattensplitter]] und Spieler können es nehmen
+- [[Orin]] holt [[Zhentarim]] Schläger
+- [[Varon]] übergibt Kiste an
 
 ## Ablauf
 
