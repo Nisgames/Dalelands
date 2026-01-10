@@ -2,7 +2,10 @@
 tags:
   - Session
 date:
-Players:
-DM:
 ---
----
+
+## Recap
+
+[Was geschah zuletzt]
+
+## 
