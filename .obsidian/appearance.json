@@ -4,7 +4,7 @@
   "showRibbon": true,
   "showViewHeader": true,
   "nativeMenus": false,
-  "accentColor": "#f25cf5",
+  "accentColor": "#5cf5ce",
   "enabledCssSnippets": [
     "image-float",
     "callouts"

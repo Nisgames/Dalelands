@@ -1,6 +1,8 @@
 ---
 tags:
   - Ort
+  - Stadt
+  - Zerstört
 Region: "[[Cormanthor]]"
 ---
 
