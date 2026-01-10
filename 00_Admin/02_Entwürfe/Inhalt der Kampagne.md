@@ -34,7 +34,7 @@ tags:
 - **Location:** [[Spiderhaunt Woods]] & Tiefer Wald (Guerilla-Kampf).
 
 #### 3. [[Myth Drannor]] (Die Katastrophe)
-- **Ziel:** Überleben / Eindämmung (durch den [[Baelnorn]]).
+- **Ziel:** Überleben / Eindämmung.
 - **Das Problem:** Der Absturzort von Thultanthar ist ein offener, blutender Riss wilder Magie ("Reaktor-Kern").
 - **Der Baelnorn:** Versucht den Riss zu stopfen, braucht dafür aber mehr Splitter. Er wirkt böse/bedrohlich, ist aber der verzweifelte Wächter.
 - **Location:** Ruinen von Myth Drannor (Survival Horror / High Level).
@@ -52,3 +52,4 @@ tags:
 - **Entwicklung:** Werden durch den Kontakt mit dem ersten Splitter durch moralische Verantwortung in den Konflikt gezogen. Können sich aber auch entscheiden, den Splitter zu verkaufen (bringt viel Gold ein). Müssten dann aber mit möglichen Konsequenzen leben.
 
 Idee: Baelnorn bewacht Trümmer von [[Myth Drannor]] 
+https://www.worldanvil.com/w/albion-joshgraham91/a/baelnorn--person
