@@ -74,6 +74,7 @@ Er umklammert eine schwere, eisenbeschlagene Kiste mit beiden Händen, als wäre
 > Der Lärm aller Anwesenden explodiert förmlich in euren Ohren. Irgendwo fällt jemand krachend zu Boden. Gläser zerspringen durch die plötzlich entstandene Druckwelle. Das Feuer im Kamin lodert auf.  
 > Schreie. Panik.  
 > Und [[Orin]], der auf seine leeren Hände starrt.
+> 
 
 - [[Orin]]: **Panik und Abriegelung.**
     Nach dem Bruch der Magie bemerkt er den Diebstahl und den Splitter bei den Spielern.
