@@ -22,6 +22,9 @@ Parent: "[[Schatten-Invasion Haus Jaelre]]"
 
 Zwei Tische weiter sitzt [[Orin]]
 
+![[Orin#Erscheinung]]
+
+Er hat 
 
 ## DM Wissen
 
