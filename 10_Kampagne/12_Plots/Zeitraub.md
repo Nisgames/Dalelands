@@ -74,11 +74,9 @@ Er umklammert eine schwere, eisenbeschlagene Kiste mit beiden Händen, als wäre
 > Der Lärm aller Anwesenden explodiert förmlich in euren Ohren. Irgendwo fällt jemand krachend zu Boden. Gläser zerspringen durch die plötzlich entstandene Druckwelle. Das Feuer im Kamin lodert auf.  
 > Schreie. Panik.  
 > Und [[Orin]], der auf seine leeren Hände starrt.
-> 
 
-- [[Orin]]: **Panik und Abriegelung.**
-    Nach dem Bruch der Magie bemerkt er den Diebstahl und den Splitter bei den Spielern.
-    * *Reaktion:* "Das gehört mir!" (Greift nach Splitter -> erleidet Schaden durch wilde Magie).
+**"Sie ist weg! Wer hat sie geklaut?!"**
+- Reaktion:* "Das gehört mir!" (Greift nach Splitter -> erleidet Schaden durch wilde Magie).
     * *Befehl:* "Riegelt die Türen ab! Niemand verlässt den Raum! Ich hole die Jungs."
     * *Draußen:* Man hört schwere Stiefel der [[Zhentarim]] Schläger.
 
