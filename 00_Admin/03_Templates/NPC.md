@@ -43,5 +43,8 @@ where contains(file.outlinks, this.file.link)
 ```
 #### Items in Besitz
 ```dataview
-list without id 
+list without id link(file.link, title)
+from #Item and !"00_Admin/03_Templates"
+where besitzer = this.file.link
+sort file.name asc
 ```
