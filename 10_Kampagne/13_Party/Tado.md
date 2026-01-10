@@ -1,7 +1,7 @@
 ---
 tags:
   - PC
-Volk:
+Volk: Zwerg
 Klasse: Paladin 2, Hexenmeister 1
 hp: "1"
 ac: "19"

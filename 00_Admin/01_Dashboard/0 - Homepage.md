@@ -4,15 +4,16 @@ Aktueller-Ort: "[[Ashabenford]]"
 
 # 🛡️ DnD Wächter der Dalelands
 
-### ☑️ To-Do´s
+## ☑️ To-Do´s
 - [ ] Session 1 vorbereiten
+
 ---
 
-### 🧭 Schnellzugriff
+## 🧭 Schnellzugriff
 
 👥 Alle Charaktere: [[Charaktere \|CHARAKTER-ÜBERSICHT]]       
 
-### Offene Plots
+#### Offene Plots
 ```dataview
 List
 FROM #Plot AND !"00_Admin/03_Templates"
@@ -42,10 +43,7 @@ SORT date DESC
 LIMIT 10
 ```
 
----
-
 ### 👥 Spielercharaktere
-
 ```dataview
 TABLE WITHOUT ID
   file.link as Charakter,
