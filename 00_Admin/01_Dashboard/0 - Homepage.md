@@ -23,11 +23,13 @@ sort file.name
 ### Wichtige NPC
 
 ```dataview
-TABLE
-  status AS "Status"
+TABLE without id
+	file.link as "Name",
+	relevanz as "Relevanz",
+	status AS "Status"
 FROM #NPC and !"00_Admin/03_Templates"
 WHERE contains(["Hoch", "Sehr hoch", "Elementar"], Relevanz) AND Status = "Lebendig"
-SORT file.name ASC
+SORT ree ASC
 ```
 
 ### Historie
