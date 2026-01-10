@@ -5,4 +5,7 @@ Zeitaufwand:
 Reichweite:
 Komponenten:
 Wirkungsdauer:
+Zaubergrad:
+Klassen:
 ---
+## 

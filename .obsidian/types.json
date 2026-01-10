@@ -13,6 +13,9 @@
     "Erlebt": "checkbox",
     "status": "text",
     "resolved": "checkbox",
-    "Komponenten": "multitext"
+    "Komponenten": "multitext",
+    "Grad": "number",
+    "Zaubergrad": "number",
+    "Klassen": "multitext"
   }
 }
