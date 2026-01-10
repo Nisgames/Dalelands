@@ -122,10 +122,10 @@
     },
     {
       "id": "68769ce1-1839-48e8-8645-ed95b78024a3",
-      "name": "Neuer Shop (copy)",
+      "name": "Neue Fraktion",
       "type": "Template",
       "command": true,
-      "templatePath": "00_Admin/03_Templates/Shops.md",
+      "templatePath": "00_Admin/03_Templates/Fraktion.md",
       "fileNameFormat": {
         "enabled": true,
         "format": "{{value}}"
@@ -133,7 +133,67 @@
       "folder": {
         "enabled": true,
         "folders": [
-          "20_Welt/21_Orte"
+          "20_Welt/23_Fraktionen"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "reuse",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "10b91ee1-c057-410d-9aa0-8d012003c66c",
+      "name": "Neue Session",
+      "type": "Template",
+      "command": true,
+      "templatePath": "00_Admin/03_Templates/Session.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "10_Kampagne/11_Sessions"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "reuse",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "1c12dd64-e648-4caf-baf8-0b9862215f4c",
+      "name": "Neue Session (copy)",
+      "type": "Template",
+      "command": true,
+      "templatePath": "00_Admin/03_Templates/Session.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "10_Kampagne/11_Sessions"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
