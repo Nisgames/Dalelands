@@ -16,3 +16,11 @@ Region:
 
 [Was passiert, wenn Bedingung X erfüllt ist?]
 
+## DM Wissen
+
+[Hintergrund, usw]
+
+#### Bewohner
+```dataview
+table without id
+```
