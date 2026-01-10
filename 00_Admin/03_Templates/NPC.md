@@ -8,7 +8,7 @@ status: alive
 sex: 
 race: 
 ---
-## `=this.file.name`
+## Erscheinung
 
 > [!infobox] Kurzbeschreibung
 > **Rolle:** 
