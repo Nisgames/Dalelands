@@ -6,7 +6,7 @@
   "nativeMenus": false,
   "accentColor": "#5cf5ba",
   "enabledCssSnippets": [
-    "narrator",
-    "image-float"
+    "image-float",
+    "callouts"
   ]
 }
