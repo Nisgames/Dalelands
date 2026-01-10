@@ -6,6 +6,10 @@ Standorte:
 Relevanz:
 ---
 
+## Generelles
+
+[Logo, Hauptquartier, etc]
+
 ## Agenda
 
 [Großes Ziel]
