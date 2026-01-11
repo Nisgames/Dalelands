@@ -2,6 +2,8 @@
 **Fortsetzung von [[Zeitraub]]** 
 ## [[Ashaba]] 
 
+> [!handout] Pergament-Check > Das hier sollte weiterhin das angenehme, warme Beige sein.
+
 
 
 Die Spur des Splitters (Vibration) führt zum Fluss. Die Brücke ist zu weit weg.
