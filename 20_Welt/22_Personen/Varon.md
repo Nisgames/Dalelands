@@ -37,6 +37,7 @@ statblock: inline
 
 Ist ein Agent des [[Haus Jaelre]].
 Wird oft für Außeneinsätze eingesetzt.
+Kämpft dreckig - nimmt auch gerne mal Geiseln
 
 #### Begegnungen
 ```dataview
