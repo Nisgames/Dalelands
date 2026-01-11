@@ -4,7 +4,7 @@ tags:
 Region: "[[Ashabenford]]"
 ---
 
-## Sinneswahrnehmung
+## Beschreibung
 
 [Kurzbeschreibung]
 

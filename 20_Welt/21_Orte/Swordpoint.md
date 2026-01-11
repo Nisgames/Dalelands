@@ -4,7 +4,7 @@ tags:
 Region: "[[Archendale]]"
 ---
 
-## Sinneswahrnehmung
+## Beschreibung
 
 [Kurzbeschreibung]
 

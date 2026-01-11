@@ -4,7 +4,7 @@ tags:
 Region:
 ---
 
-## Sinneswahrnehmung
+## Beschreibung
 
 [Kurzbeschreibung]
 

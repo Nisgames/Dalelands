@@ -4,7 +4,7 @@ tags:
 Region: "[[Dalelands]]"
 ---
 
-## Sinneswahrnehmung
+## Beschreibung
 
 [Kurzbeschreibung]
 

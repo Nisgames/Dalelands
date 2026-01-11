@@ -4,7 +4,7 @@ tags:
 Region: "[[Faerûn]]"
 ---
 
-## Sinneswahrnehmung
+## Beschreibung
 
 [Kurzbeschreibung]
 
