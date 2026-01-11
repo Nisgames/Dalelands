@@ -7,7 +7,8 @@ Region: "[[Mistledale]]"
 
 ## Sinneswahrnehmung
 
-[Kurzbeschreibung]
+Ashabenford ist das geschäftige Herz und die Hauptstadt von **[[Mistledale]]**. 
+Gelegen an einer flachen Furt des Flusses [[Ashaba]], dient die offene, mauerlose Stadt als vitaler Handelsknotenpunkt am **Moonsea Ride**. Hier treffen ländliche Gemütlichkeit und die "Politik der offenen Tür" auf geschäftiges Markttreiben, stets begleitet vom fernen Läuten der Nebelglocken.
 
 - *Sehen:* 
 	Dichte, weiße Nebelschwaden, die vom Fluss aufsteigen; 
