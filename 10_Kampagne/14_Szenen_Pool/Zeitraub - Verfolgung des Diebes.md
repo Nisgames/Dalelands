@@ -2,7 +2,7 @@
 **Fortsetzung von [[Zeitraub]]** 
 ## [[Ashaba]] 
 
-
+Die Vibration führt sie südlich am [[Ashaba]] entlang.
 
 Die Spur des Splitters (Vibration) führt zum Fluss. Die Brücke ist zu weit weg.
 * **Check:** Athletics (STR) DC 12 (Schwimmen) oder Acrobatics (DEX) DC 12 (Treibholz).
