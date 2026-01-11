@@ -6,7 +6,7 @@ Region: "[[Archendale]]"
 
 ## Sinneswahrnehmung
 
-[Was hören, sehen, riechen beim Betreten?]
+[Kurzbeschreibung]
 
 - *Sehen:* 
 - *Beleuchtung:* 

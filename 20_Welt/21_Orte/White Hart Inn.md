@@ -6,6 +6,8 @@ Region: "[[Ashabenford]]"
 
 ## Sinneswahrnehmung
 
+[Kurzbeschreibung]
+
 - *Sehen:* 
 	Möbel aus dunklem, polierten Eichenholz 
 	An den Wänden hängen Jagdtrophäen, darunter der präparierte Kopf eines weißen Hirsches über dem gewaltigen Kamin
