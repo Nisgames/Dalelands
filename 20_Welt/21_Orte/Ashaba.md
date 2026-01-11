@@ -27,9 +27,9 @@ Für die Bewohner ist er Trinkwasserquelle, Waschplatz und Transportweg zugleich
 
 #### Die Furt von [[Ashabenford]] 
 Die bekannteste flache Stelle (siehe [[Ashabenford]]). Hier müssen Boote oft entladen oder über die Steine gezogen werden. Ein natürlicher Engpass für den Handel.
-
 #### Treibgut-Fallen
-An einigen Stellen liegen große Steine oder umgestürtzte Bäume im Fluss. Sie bilden eine Gefahr für 
+An einigen Stellen liegen große Steine oder umgestürtzte Bäume im Fluss. Sie bilden eine Gefahr für Boote, die hier oft hängenbleiben oder gar kentern.
+Deshalb kann man an der ein oder anderen Stelle nützliche Gegenstände im Fluss finden.
 
 ## Events
 
