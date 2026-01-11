@@ -17,6 +17,8 @@ Region: [[Mistledale]]
 - *Atmosphäre:* 
 - *Details:* 
 
+![[Pasted image 20260111153525.png]]
+
 ## POI
 
 #### Glauben
