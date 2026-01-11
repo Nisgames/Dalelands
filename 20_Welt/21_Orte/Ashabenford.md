@@ -23,8 +23,13 @@ Region: [[Mistledale]]
 - *Riechen:* 
 	Intensiver Geruch nach **Holzrauch** und **nasser Wolle**; 
 	Eine süßliche Note von gärendem Malz (aus der Brauerei) und der erdige Duft von frisch geernteten Rüben. 
-- *Spüren:* Die feuchte Kälte, die durch die Kleidung kriecht; Das leichte Vibrieren des Bodens, wenn schwere Handelswagen vorbeirumpeln. 
-- *Atmosphäre:* Geschäftig, aber nicht hektisch. Eine bodenständige "Packen wir es an"-Mentalität. Man fühlt sich beobachtet, aber nicht bedroht – eher behütet durch die Gemeinschaft.
+- *Spüren:* 
+	Die feuchte Kälte, die durch die Kleidung kriecht; 
+	Das leichte Vibrieren des Bodens, wenn schwere Handelswagen vorbeirumpeln. 
+- *Atmosphäre:* 
+	Geschäftig, aber nicht hektisch;
+	Eine bodenständige "Packen wir es an"-Mentalität;
+	Man fühlt sich beobachtet, aber nicht bedroht – eher behütet durch die Gemeinschaft.
 
 ![[Pasted image 20260111153525.png]]
 
