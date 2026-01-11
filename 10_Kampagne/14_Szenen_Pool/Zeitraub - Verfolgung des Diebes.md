@@ -21,6 +21,12 @@ Die Spur des Splitters (Vibration) führt zum Fluss. Die Brücke ist zu weit weg
     Er kauert an einem umgestürzten Baum und verbindet sich. Die Kiste ist weg.
     * *Zitat:* "Ihr... seid schneller als gedacht. Aber nicht schnell genug für das Haus Jaelre!"
 
+```encounter
+name: Varon
+creatures:
+  - 
+```
+
 - [[Schattensplitter]]: **Loot & Clues.**
     * **Item:** Das defekte [[Amulett der Zeit]] 
     * **Intel:** Brief in Drow-Elfisch: *"Zum Stein des Paktes. Der Erzmagier ist ungeduldig."*

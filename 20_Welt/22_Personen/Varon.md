@@ -9,6 +9,7 @@ Ort:
 Fraktionen: "[[Haus Jaelre]]"
 Rolle: Handlanger
 Relevanz: Mittel
+statblock: inline
 ---
 
 ## Erscheinung
