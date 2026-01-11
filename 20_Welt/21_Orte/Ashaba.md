@@ -13,7 +13,7 @@ Für die Bewohner ist er Trinkwasserquelle, Waschplatz und Transportweg zugleich
 - *Sehen:* 
 	Dunkles, klares Wasser mit steinigem Grund
 	**Tiefe:** Durchschnittlich nur 2-3 Meter, oft flacher.
-	**Breite:
+	**Breite:** Unterschiedlich; Durchschnittlich 20-30m
 - *Hören:* 
 	Stetiges Rauschen und Plätschern
 - *Riechen:* 
