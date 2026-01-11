@@ -11,7 +11,9 @@ Aktueller-Ort: "[[Ashabenford]]"
 
 ## 🧭 Schnellzugriff
 
-👥 Alle Charaktere: [[Charaktere \|CHARAKTER-ÜBERSICHT]]       
+👥 Alle Charaktere: [[Charaktere \|CHARAKTER-ÜBERSICHT]] 
+
+Session Bewertung: https://forms.gle/rBqBUKD5Uhsdpdib6
 
 #### Offene Plots
 ```dataview
