@@ -25,7 +25,7 @@ tags:
 - **Ziel:** Wollen einen **Dracolich** erwecken.
 - **Aktueller Plan:** Sie experimentieren mit den [[Schattensplitter]]n herum, um sie möglicher Weise als Elexier für das Ritual für Erweckung des Dracolich zu verwenden.
 - **Location:** [[Aencar's Manor]] (Dungeon Crawl).
-- **Weitere Idee:** Nutzen instabile Splitter als magische "Sprengladungen", um die Siegel vom Grab von [[Aecar]] (dem Mantelkönig) zu knacken.
+- **Weitere Idee:** Nutzen instabile Splitter als magische "Sprengladungen", um die Siegel vom Grab von [[Aencar]] (dem Mantelkönig) zu knacken.
 
 #### 2. [[Haus Jaelre]] / Die Drow (Invasion & Terraforming)
 - **Ziel:** Die Oberfläche erobern.

@@ -2,7 +2,7 @@
 tags:
   - Ort
   - Stadt
-Region: [[Mistledale]]
+Region: "[[Mistledale]]"
 ---
 
 ## Sinneswahrnehmung
