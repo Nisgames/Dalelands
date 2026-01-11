@@ -7,7 +7,8 @@ Region: "[[Dalelands]]"
 
 ## Sinneswahrnehmung
 
-[Kurzbeschreibung]
+Der **Ashaba** ist die wichtigste Wasserader der [[Dalelands]], windet sich von den [[Desertsmouth Mountains]] bis hinunter zur [[Dragon Reach]]. 
+Für die Bewohner ist er Trinkwasserquelle, Waschplatz und Transportweg zugleich – auch wenn er tückischer ist, als er aussieht.
 
 - *Sehen:* 
 - *Beleuchtung:* 
