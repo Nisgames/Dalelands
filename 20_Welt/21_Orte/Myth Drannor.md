@@ -6,7 +6,7 @@ tags:
 Region: "[[Cormanthor]]"
 ---
 
-## Sinneswahrnehmung
+## Beschreibung
 
 [Kurzbeschreibung]
 
