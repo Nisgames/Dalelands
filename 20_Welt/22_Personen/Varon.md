@@ -35,7 +35,8 @@ statblock: inline
 
 ## DM Wissen
 
-Ist ein Agent des [[Haus Jaelre]]. 
+Ist ein Agent des [[Haus Jaelre]].
+Wird oft für Außeneinsätze eingesetzt.
 
 #### Begegnungen
 ```dataview
