@@ -35,6 +35,14 @@ Region: [[Mistledale]]
 
 ## POI
 
+#### 1. Die Ashaba-Furt
+Das Zentrum des Handels. Es gibt keine Brücke, nur eine flache, markierte Stelle im Fluss. 
+- **Besonderheit:** Bei Hochwasser oder starkem Nebel wird die Furt gesperrt. Das führt sofort zu Stau auf dem *Moonsea Ride*. 
+- **NPCs:** Wachposten der *Reiter*, die den Verkehr regeln und Maut für Nicht-Talbewohner kassieren (1 SM pro Wagen). 
+#### 2. Gasthaus [[White Hart Inn]] 
+Direkt am Marktplatz gelegen. Das soziale Herz der Stadt. 
+- **Angebot:** Berühmt für Fasan in Kräuterkruste und das lokale Ale. - **Leitung:** [[Holfast Harpell]] (Ältestenrat). Hier tagen oft die Händler. #### 3. Brauerei "Goldene Garbe" Ein massives Gebäude aus Feldstein und Eiche am Flussufer, aus dem ständig Dampf aufsteigt. - **Relevanz:** Produziert das wichtigste Exportgut des Tals: *Golden Sheaf Ale*. - **Gerücht:** Man sagt, der Braumeister habe einen Pakt mit einem Satyr geschlossen, damit der Hopfen schneller wächst. #### 4. Kaserne der Reiter (High Council Hall) Ein befestigtes Langhaus, das gleichzeitig als Rathaus und Kaserne dient. - **Funktion:** Sitz von [[Bürgermeisterin Andra]] und Hauptquartier der **Reiter von Mistledale**. - **Sicherheit:** Der einzige Ort im Tal mit einer echten Steinmauer und einem kleinen Kerker (meist für betrunkene Händler oder Zhentarim-Spione). #### 5. Tempel der Chauntea ("Die Grüne Scheune") Kein prunkvoller Tempel, sondern eine riesige, offene Scheune mit Altar, umgeben von gepflegten Gärten. - **Aktivität:** Bauern bringen täglich kleine Opfergaben (die erste Rübe, ein Bund Korn) für eine milde Ernte. #### 6. Schrein der Tymora Ein kleiner, aber reich geschmückter Pavillon nahe dem Marktplatz. - **Brauch:** Händler werfen eine Münze in den Brunnen davor, bevor sie die Furt durchqueren ("Ein Kupfer für eine trockene Überfahrt").
+
 #### Glauben
 In Ashabenford betet man pragmatisch:
 - **Chauntea:** Für die Ernte (es ist ein Bauerntal).
