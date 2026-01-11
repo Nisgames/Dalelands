@@ -10,12 +10,13 @@ Region: "[[Dalelands]]"
 Der **Ashaba** ist die wichtigste Wasserader der [[Dalelands]], windet sich von den [[Desertsmouth Mountains]] bis hinunter zur [[Dragon Reach]]. 
 Für die Bewohner ist er Trinkwasserquelle, Waschplatz und Transportweg zugleich – auch wenn er tückischer ist, als er aussieht.
 
-- *Sehen:* Dunkles, klares Wasser mit steinigem Grund 
+- *Sehen:* 
+	Dunkles, klares Wasser mit steinigem Grund 
 - *Hören:* Stetiges Rauschen und Plätschern
 - *Riechen:* Nach kaltem Stein, Algen und im Herbst oft nach faulendem Laub, das aus den Wäldern geschwemmt wird.
-- *Spüren:* 
-- *Atmosphäre:* 
-- *Details:* 
+- *Spüren:* Selbst im Sommer eiskalt.
+- *Atmosphäre:* Der Fluss wirkt uralt und gleichgültig. Er war schon da, bevor die Menschen kamen, und er wird noch fließen, wenn sie weg sind.
+- *Details:* Trügerisch starke Strömung in der Mitte
 
 ## POI
 
