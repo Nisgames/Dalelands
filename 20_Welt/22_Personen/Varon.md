@@ -21,6 +21,18 @@ statblock: inline
 *Charakterzug:* [Hasst Wein]
 *Sprechweise:* [Langsam]
 
+*Aussehen:* 
+- **Statur:** Drahtig und athletisch, bewegt sich mit einer fast unnatürlichen Flüssigkeit.
+- **Kleidung:** Trägt funktionale, mattschwarze Lederkleidung, die kaum Geräusche macht. Ein dunkler Umhang hilft ihm, mit den Schatten zu verschmelzen.
+- **Maskierung:** Sein Gesicht ist meist hinter einer stoffenen Maske oder einem hohen Kragen verborgen. Man sieht oft nur seine Augen, die im Dunkeln schwach rötlich schimmern (Darksight), oder das weiße Haar.
+- **Ausrüstung:** Das [[Amulett der Zeit]] hängt offen um seinen Hals und pulsiert violett.
+*Charakterzug:* 
+- **Arrogant:** Betrachtet Oberflächenbewohner als "nutzlose Insekten".
+- **Präzise:** Er verschwendet keine Worte und keine Bewegungen.
+*Sprechweise:* 
+- Spricht das Gemeinsprache mit einem harten, zischenden Akzent.
+- Seine Stimme ist ruhig, fast gelangweilt, selbst im Kampf.
+- *Zitat:* "Eure Zeit ist abgelaufen, Affen."
 ## Werte & Loot:
 
 [Link zum Statblock / (HP, AC) , Loot]
