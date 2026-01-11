@@ -9,6 +9,8 @@ date:
 Noch kein Recap
 Stattdessen Einleitungstext
  ![[Einleitungstext#Einleitungstext]]
+ > Ihr steht
+ 
  
 ## Log
 
