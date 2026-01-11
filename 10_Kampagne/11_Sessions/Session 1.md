@@ -10,7 +10,14 @@ Noch kein Recap
 Stattdessen Einleitungstext
  ![[Einleitungstext#Einleitungstext]]
 Plot: [[Zeitraub]]
- 
+
+## Planung
+
+Start: [[Zeitraub]]
+
+Wenn sie im [[White Hart Inn]] bleiben: [[Zeitraub - Ankunft der Zhentarim Schläger]] 
+Wenn sie den Dieb ve
+
 ## Log
 
 [Mitschriften]
