@@ -27,7 +27,7 @@ creatures:
   - 
 ```
 
-- [[Schattensplitter]]: **Loot & Clues.**
+- [[Schattensplitter]] 
     * **Item:** Das defekte [[Amulett der Zeit]] 
     * **Intel:** Brief in Drow-Elfisch: *"Zum Stein des Paktes. Der Erzmagier ist ungeduldig."*
     * **Schlüssel:** Ein einfacher Eisenschlüssel.
