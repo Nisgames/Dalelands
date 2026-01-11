@@ -89,4 +89,5 @@ Er umklammert eine schwere, eisenbeschlagene Kiste mit beiden Händen, als wäre
 ## DM Wissen
 
 [[Orin]] hat massive Spielschulden und die Zhentarim haben ihm "eine letzte Chance" gegeben. Wenn er die Kiste verliert, ist er so gut wie tot. Deshalb seine extreme Panik im Gasthaus.
-[[Varon]] klaut die Splitter für [[Hausregel]
+
+[[Varon]] klaut die Splitter für [[Haus Jaelre]].
