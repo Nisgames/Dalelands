@@ -12,10 +12,17 @@ Region: [[Mistledale]]
 - *Sehen:* 
 	Dichte, weiße Nebelschwaden, die vom Fluss aufsteigen; 
 	Moosbewachsene Dächer, die im Fackelschein glänzen; 
-	Ochsenkarren, die sich an der Furt stauen. 
-- *Beleuchtung:* Warme, orangefarbene Laternen an fast jedem Türpfosten (gegen den Nebel); Fackeln markieren den sicheren Weg durch die Furt. 
-- *Hören:* Das allgegenwärtige, unregelmäßige Läuten der **Nebelglocken** aus der Ferne; Das Knirschen von eisenbeschlagenen Rädern auf Kies; Rauschen des Ashaba-Flusses. 
-- *Riechen:* Intensiver Geruch nach **Holzrauch** und **nasser Wolle**; Eine süßliche Note von gärendem Malz (aus der Brauerei) und der erdige Duft von frisch geernteten Rüben. 
+	Ochsenkarren, die sich an der Furt stauen
+- *Beleuchtung:* 
+	Warme, orangefarbene Laternen an fast jedem Türpfosten (gegen den Nebel); 
+	Fackeln markieren den sicheren Weg durch die Furt. 
+- *Hören:* 
+	Das allgegenwärtige, unregelmäßige Läuten der **Nebelglocken** aus der Ferne; 
+	Das Knirschen von eisenbeschlagenen Rädern auf Kies; 
+	Rauschen des [[Ashaba]]-Flusses.
+- *Riechen:* 
+	Intensiver Geruch nach **Holzrauch** und **nasser Wolle**; 
+	Eine süßliche Note von gärendem Malz (aus der Brauerei) und der erdige Duft von frisch geernteten Rüben. 
 - *Spüren:* Die feuchte Kälte, die durch die Kleidung kriecht; Das leichte Vibrieren des Bodens, wenn schwere Handelswagen vorbeirumpeln. 
 - *Atmosphäre:* Geschäftig, aber nicht hektisch. Eine bodenständige "Packen wir es an"-Mentalität. Man fühlt sich beobachtet, aber nicht bedroht – eher behütet durch die Gemeinschaft.
 
