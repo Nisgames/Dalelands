@@ -1,6 +1,7 @@
 ---
 tags:
   - Ort
+  - Dale
 Region: "[[Dalelands]]"
 ---
 
@@ -9,12 +10,19 @@ Region: "[[Dalelands]]"
 [Kurzbeschreibung]
 
 - *Sehen:* 
+	
 - *Beleuchtung:* 
+	
 - *Hören:* 
+	
 - *Riechen:* 
+	
 - *Spüren:* 
+	
 - *Atmosphäre:* 
+	
 - *Details:* 
+	
 
 ## POI
 

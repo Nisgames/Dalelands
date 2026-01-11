@@ -1,6 +1,7 @@
 ---
 tags:
   - Ort
+  - Dale
 Region: "[[Dalelands]]"
 ---
 
