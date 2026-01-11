@@ -12,11 +12,16 @@ Für die Bewohner ist er Trinkwasserquelle, Waschplatz und Transportweg zugleich
 
 - *Sehen:* 
 	Dunkles, klares Wasser mit steinigem Grund 
-- *Hören:* Stetiges Rauschen und Plätschern
-- *Riechen:* Nach kaltem Stein, Algen und im Herbst oft nach faulendem Laub, das aus den Wäldern geschwemmt wird.
-- *Spüren:* Selbst im Sommer eiskalt.
-- *Atmosphäre:* Der Fluss wirkt uralt und gleichgültig. Er war schon da, bevor die Menschen kamen, und er wird noch fließen, wenn sie weg sind.
-- *Details:* Trügerisch starke Strömung in der Mitte
+- *Hören:* 
+	Stetiges Rauschen und Plätschern
+- *Riechen:* 
+	Nach kaltem Stein, Algen und im Herbst oft nach faulendem Laub, das aus den Wäldern geschwemmt wird.
+- *Spüren:* 
+	Selbst im Sommer eiskalt.
+- *Atmosphäre:* 
+	Der Fluss wirkt uralt und gleichgültig. Er war schon da, bevor die Menschen kamen, und er wird noch fließen, wenn sie weg sind.
+- *Details:* 
+	Trügerisch starke Strömung in der Mitte
 
 ## POI
 

@@ -9,11 +9,17 @@ Region:
 [Kurzbeschreibung]
 
 - *Sehen:* 
+	
 - *Beleuchtung:* 
+	
 - *Hören:* 
+	
 - *Riechen:* 
+	
 - *Spüren:* 
+	
 - *Atmosphäre:* 
+	
 - *Details:* 
 
 ## POI
