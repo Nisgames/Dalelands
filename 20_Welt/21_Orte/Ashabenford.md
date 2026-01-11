@@ -88,7 +88,7 @@ Der Wald ist riesig, aber er hat Zonen. Je tiefer sie gehen, desto anders muss e
         
     - _Licht:_ Selbst tagsüber herrscht hier Zwielicht. Im Herbst bildet das Laub einen modrigen, rutschigen Teppich, der Geräusche schluckt – oder verräterisch raschelt.
 
-### 4. Lokaler "Flavor" für deine Beschreibungen
+#### 4. Lokaler "Flavor" für Beschreibungen
 
 Hier sind drei kleine Details, die du immer wieder einstreuen kannst:
 
@@ -97,6 +97,7 @@ Hier sind drei kleine Details, die du immer wieder einstreuen kannst:
 - **Der Geruch:** In Ashabenford riecht es derzeit nach **Holzrauch** (Kamine), **nassem Hund/Fell** (Abenteurer/Jäger) und **gärendem Getreide** (Brauereien).
     
 - **Die Reiter:** Man sieht oft die **Reiter von Mistledale** in ihren typischen Plattenpanzern mit dem weißen Pferdesymbol. Sie patrouillieren _auf_ den Wegen, gehen aber ungern _in_ den tiefen Wald.
+
 
 #### Bewohner
 ```dataview
