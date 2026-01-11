@@ -3,7 +3,7 @@ tags:
   - NPC
 Status: Lebendig
 Volk: Drow
-Klasse:
+Klasse: Schurke
 Level:
 Ort:
 Fraktionen: "[[Haus Jaelre]]"
@@ -17,10 +17,6 @@ statblock: inline
 *Klasse/Beruf:* `=this.Klasse` 
 *Volk:* `=this.Volk` 
 *Wohnort:* `=this.Ort` 
-*Aussehen:* [Klein mit Bart]
-*Charakterzug:* [Hasst Wein]
-*Sprechweise:* [Langsam]
-
 *Aussehen:* 
 - **Statur:** Drahtig und athletisch, bewegt sich mit einer fast unnatürlichen Flüssigkeit.
 - **Kleidung:** Trägt funktionale, mattschwarze Lederkleidung, die kaum Geräusche macht. Ein dunkler Umhang hilft ihm, mit den Schatten zu verschmelzen.
@@ -30,7 +26,6 @@ statblock: inline
 - **Arrogant:** Betrachtet Oberflächenbewohner als "nutzlose Insekten".
 - **Präzise:** Er verschwendet keine Worte und keine Bewegungen.
 *Sprechweise:* 
-- Spricht das Gemeinsprache mit einem harten, zischenden Akzent.
 - Seine Stimme ist ruhig, fast gelangweilt, selbst im Kampf.
 - *Zitat:* "Eure Zeit ist abgelaufen, Affen."
 ## Werte & Loot:
