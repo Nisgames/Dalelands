@@ -9,12 +9,19 @@ Region: "[[Battledale]]"
 [Kurzbeschreibung]
 
 - *Sehen:* 
+	
 - *Beleuchtung:* 
+	
 - *Hören:* 
+	
 - *Riechen:* 
+	
 - *Spüren:* 
+	
 - *Atmosphäre:* 
+	
 - *Details:* 
+	
 
 ## POI
 
