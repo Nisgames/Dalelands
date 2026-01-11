@@ -2,6 +2,8 @@
 **Fortsetzung von [[Zeitraub]]** 
 ## [[Ashaba]] 
 
+
+
 Die Spur des Splitters (Vibration) führt zum Fluss. Die Brücke ist zu weit weg.
 * **Check:** Athletics (STR) DC 12 (Schwimmen) oder Acrobatics (DEX) DC 12 (Treibholz).
 * **Fail:** 1 Stufe Erschöpfung durch das eisige Wasser.
