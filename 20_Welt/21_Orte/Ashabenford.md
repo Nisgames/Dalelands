@@ -7,7 +7,7 @@ Region: "[[Mistledale]]"
 
 ## Sinneswahrnehmung
 
-
+[Kurzbeschreibung]
 
 - *Sehen:* 
 	Dichte, weiße Nebelschwaden, die vom Fluss aufsteigen; 
