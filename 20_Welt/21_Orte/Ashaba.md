@@ -2,7 +2,7 @@
 tags:
   - Ort
   - Fluss
-Region: [[Dalelands]]
+Region: "[[Dalelands]]"
 ---
 
 ## Sinneswahrnehmung

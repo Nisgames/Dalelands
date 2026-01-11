@@ -1,7 +1,7 @@
 ---
 tags:
   - Ort
-Region: [[Dalelands]]
+Region: "[[Dalelands]]"
 ---
 
 ## Sinneswahrnehmung

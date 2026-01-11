@@ -1,7 +1,7 @@
 ---
 tags:
   - Ort
-Region: [[Battledale]]
+Region: "[[Battledale]]"
 ---
 
 ## Sinneswahrnehmung

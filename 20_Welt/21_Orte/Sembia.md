@@ -1,7 +1,7 @@
 ---
 tags:
   - Ort
-Region: [[Faerûn]]
+Region: "[[Faerûn]]"
 ---
 
 ## Sinneswahrnehmung

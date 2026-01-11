@@ -2,7 +2,7 @@
 tags:
   - Ort
   - Wald
-Region: [[Dalelands]]
+Region: "[[Dalelands]]"
 ---
 
 ## Sinneswahrnehmung
