@@ -5,7 +5,7 @@ Status: Lebendig
 Volk: Drow
 Klasse: Schurke
 Level:
-Ort:
+Ort: Underdark
 Fraktionen: "[[Haus Jaelre]]"
 Rolle: Handlanger
 Relevanz: Mittel
@@ -28,13 +28,14 @@ statblock: inline
 *Sprechweise:* 
 - Seine Stimme ist ruhig, fast gelangweilt, selbst im Kampf.
 - *Zitat:* "Eure Zeit ist abgelaufen, Affen."
+
 ## Werte & Loot:
 
 [Link zum Statblock / (HP, AC) , Loot]
 
 ## DM Wissen
 
-[Motivation, Geheimnisse, Lügen]
+Ist ein Agent des [[Haus Jaelre]]. 
 
 #### Begegnungen
 ```dataview
