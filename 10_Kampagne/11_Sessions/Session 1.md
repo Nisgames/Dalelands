@@ -9,8 +9,7 @@ date:
 Noch kein Recap
 Stattdessen Einleitungstext
  ![[Einleitungstext#Einleitungstext]]
- > Ihr steht
- 
+Plot: [[Zeitraub]]
  
 ## Log
 
