@@ -11,7 +11,9 @@ Der **Ashaba** ist die wichtigste Wasserader der [[Dalelands]], windet sich von 
 Für die Bewohner ist er Trinkwasserquelle, Waschplatz und Transportweg zugleich – auch wenn er tückischer ist, als er aussieht.
 
 - *Sehen:* 
-	Dunkles, klares Wasser mit steinigem Grund 
+	Dunkles, klares Wasser mit steinigem Grund
+	**Tiefe:** Durchschnittlich nur 2-3 Meter, oft flacher.
+	**Breite:
 - *Hören:* 
 	Stetiges Rauschen und Plätschern
 - *Riechen:* 
@@ -44,9 +46,10 @@ Er fließt aus den Tiefen des [[Cormanthor]]-Waldes heraus.
 In letzter Zeit spült er manchmal tote, seltsam verformte Fische an.
 
 Der Ashaba ist **nicht** für große Schiffe geeignet! 
-**Tiefe:** Durchschnittlich nur 2-3 Meter, oft flacher.
-**Schiffbarkeit:** Nur für Flöße, Kanus und Plattbodenboote (Kähne). Alles mit tiefem Kiel läuft auf Grund. 
-**Reiserichtung:** * *Flussabwärts (Süden):* Von [[Shadowdale]] über [[Ashabenford]] nach [[Essembra]] und Scardale. Schnell (Fast Pace), aber gefährlich wegen Felsen. * *Flussaufwärts (Norden):* Sehr mühsam. Meist werden Kähne von Pferden am Ufer getreidelt (gezogen).
+**Schiffbarkeit:** Nur für Flöße, Kanus und Plattbodenboote (Kähne). Alles mit tiefem Kiel läuft auf Grund.
+**Reiserichtung:** 
+* *Flussabwärts (Süden):* Von [[Shadowdale]] über [[Ashabenford]] nach [[Essembra]] und Scardale. Schnell (Fast Pace), aber gefährlich wegen Felsen. 
+* *Flussaufwärts (Norden):* Sehr mühsam. Meist werden Kähne von Pferden am Ufer getreidelt (gezogen).
 
 #### Bewohner
 ```dataview
