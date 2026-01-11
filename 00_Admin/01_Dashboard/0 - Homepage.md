@@ -13,7 +13,7 @@ Aktueller-Ort: "[[Ashabenford]]"
 
 👥 Alle Charaktere: [[Charaktere \|CHARAKTER-ÜBERSICHT]] 
 
-Session Bewertung: https://forms.gle/rBqBUKD5Uhsdpdib6
+Session Bewertungen: [Bewertungen](https://docs.google.com/spreadsheets/d/1lrYEuFlWl42Ezlp9MG29IAiasV_SwR5LY9N6ni8Z-6w/edit?gid=1104407416#gid=1104407416)
 
 #### Offene Plots
 ```dataview
