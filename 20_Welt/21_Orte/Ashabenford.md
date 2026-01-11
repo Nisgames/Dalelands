@@ -7,8 +7,7 @@ Region: "[[Mistledale]]"
 
 ## Sinneswahrnehmung
 
-> [!narrator] Zufällige Szene beim Betreten 
-> Kaum habt ihr die ersten Häuser erreicht, beginnt eine kleine Glocke direkt neben euch hektisch zu läuten. Sofort antwortet eine tiefere Glocke weiter unten am Fluss. Ein Händler, der euch entgegenkommt, zieht seinen Mantel enger: "Der Nebel kommt heute früh. Haltet euch an die Laternen, Fremde. Die Furt verschluckt gierige Narren, die den Weg nicht sehen."
+
 
 - *Sehen:* 
 	Dichte, weiße Nebelschwaden, die vom Fluss aufsteigen; 
@@ -68,7 +67,8 @@ Sie suchen händeringend nach Söldnern, um die Straßen sicher zu halten.
 
 ## Events
 
-[Was passiert, wenn Bedingung X erfüllt ist?]
+> [!narrator] Zufällige Szene beim Betreten 
+> Kaum habt ihr die ersten Häuser erreicht, beginnt eine kleine Glocke direkt neben euch hektisch zu läuten. Sofort antwortet eine tiefere Glocke weiter unten am Fluss. Ein Händler, der euch entgegenkommt, zieht seinen Mantel enger: "Der Nebel kommt heute früh. Haltet euch an die Laternen, Fremde. Die Furt verschluckt gierige Narren, die den Weg nicht sehen."
 
 ## DM Wissen
 
