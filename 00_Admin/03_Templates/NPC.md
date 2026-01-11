@@ -9,6 +9,7 @@ Ort:
 Fraktionen:
 Rolle:
 Relevanz:
+statblock: inline
 ---
 
 ## Erscheinung

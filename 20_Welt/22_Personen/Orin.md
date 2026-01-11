@@ -9,6 +9,7 @@ Ort: "[[Ashabenford]]"
 Fraktionen: "[[Zhentarim]]"
 Rolle: Handlanger
 Relevanz: Mittel
+statblock: inline
 ---
 
 ## Erscheinung

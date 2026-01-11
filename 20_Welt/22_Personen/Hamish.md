@@ -9,6 +9,7 @@ Ort: "[[Ashabenford]]"
 Fraktionen:
 Rolle:
 Relevanz: Niedrig
+statblock: inline
 ---
 
 ## Erscheinung

@@ -9,6 +9,7 @@ Ort: "[[Shadowdale?]]"
 Fraktionen:
 Rolle:
 Relevanz: Niedrig
+statblock: inline
 ---
 
 ## Erscheinung

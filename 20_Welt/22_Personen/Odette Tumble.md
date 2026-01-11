@@ -10,6 +10,7 @@ Status: Lebendig
 Relevanz: Niedrig
 Ort:
 Rolle:
+statblock: inline
 ---
 
 ## Erscheinung
