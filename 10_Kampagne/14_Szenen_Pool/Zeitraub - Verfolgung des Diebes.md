@@ -56,6 +56,7 @@
 
 `encounter: Varon`
 `encounter: 3: Hobgoblin, 1d5: Goblin, Custom Monster`
+`creatures: `
 
 
 ```encounter
