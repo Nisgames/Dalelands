@@ -83,7 +83,7 @@
     
     /* Optional: Ein sehr feiner Rahmen außen (wie bei Loot oft üblich). 
        Falls du gar keinen Rahmen willst, setze "border: none;" */
-    border: 1px solid rgba(255, 54, 4, 0.4);
+
     
     margin: 1em 0;
     padding: 0;
@@ -98,7 +98,7 @@
     color: rgb(var(--callout-color));
     
     /* Eine feine Linie unten zur Abtrennung (typisch für Listen/Loot) */
-    border-bottom: 2px solid rgba(var(--callout-color), 0.3);
+    border: 1px solid rgba(255, 54, 4, 0.4);
     
     /* Ein bisschen Platz */
     padding: 8px 12px;
@@ -108,7 +108,7 @@
 
 /* Inhalt (Der eigentliche Statblock) */
 .callout[data-callout="statblock"] .callout-content {
-    background-color: transparent;
+    background-color: transparent !important;
     border: none;
     padding: 10px 5px 0 5px; 
 }
