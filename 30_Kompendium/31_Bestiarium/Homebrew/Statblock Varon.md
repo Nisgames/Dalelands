@@ -35,7 +35,7 @@ traits:
   - name: Angeborenes Zauberwirken (Drow)
     desc: "Varons Attribut zum Zauberwirken ist Charisma (SG 11 für Rettungswürfe gegen Zauber). Er kann von Natur aus die folgenden Zauber wirken, ohne Materialkomponenten zu benötigen:\n1/Tag jeweils: Dunkelheit, Feenfeuer"
   - name: Nebel-Schritt (3/Tag)
-    desc: "Als Bonusaktion kann Varon die Macht des Amuletts nutzen, um *Nebeltritt* (Misty Step) zu wirken (Teleportation 30 Fuß). Dabei hinterlässt er ein violettes Nachbild, das sofort verblasst."
+    desc: "Als Bonusaktion kann Varon *Nebeltritt* (Misty Step) wirken (Teleportation 30 Fuß). Dabei hinterlässt er ein violettes Nachbild, das sofort verblasst."
 actions:
   - name: Mehrfachangriff
     desc: "Varon führt zwei Angriffe mit seinem Kurzschwert oder seiner Handarmbrust aus."
