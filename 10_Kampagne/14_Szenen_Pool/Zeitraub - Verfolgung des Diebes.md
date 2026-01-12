@@ -55,6 +55,17 @@
     * *Zitat:* "Ihr... seid schneller als gedacht. Aber nicht schnell genug für das Haus Jaelre!"
 
 `encounter: Varon`
+`encounter: 3: Hobgoblin, 1d5: Goblin, Custom Monster`
+
+| 1d2 | Encounter                                      |
+| --- | ---------------------------------------------- |
+| 1   | `encounter: 3: Hobgoblin, 1d5: Goblin, Custom` |
+| 2   | `encounter: 2 Hobgoblin`                       |
+
+^test-encounter
+
+`dice: [[Encounter#^test-encounter]]`
+
 
 ```encounter
 name: Varon
