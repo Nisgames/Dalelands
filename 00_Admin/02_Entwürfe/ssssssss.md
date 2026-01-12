@@ -2,40 +2,40 @@
 
 ```statblock
 name: Varon (Drow Schattenklinge)
-size: Medium
-type: humanoid (elf)
-alignment: neutral evil
-ac: 15
+size: Mittelgroß
+type: Humanoider (Elf)
+alignment: Neutral Böse
+ac: 15 (Beschlagenes Leder)
 hp: 44
 hit_dice: 8d8 + 8
-speed: 30 ft.
+speed: 30 Fuß
 stats: [11, 18, 12, 13, 12, 13]
 saves:
   - Dex: +6
 skillsaves:
-  - Stealth: +6
-  - Acrobatics: +6
-  - Perception: +3
-senses: Darkvision 120 ft., passive Perception 13
-languages: Elvish, Undercommon, Common
+  - Heimlichkeit: +6
+  - Akrobatik: +6
+  - Wahrnehmung: +3
+senses: Dunkelsicht 120 Fuß, passive Wahrnehmung 13
+languages: Elfisch, Untergemeinsprache, Gemeinsprache
 cr: 2
 traits:
-  - name: Fey Ancestry
-    desc: "Varon has advantage on saving throws against being charmed, and magic can't put him to sleep."
-  - name: Sunlight Sensitivity
-    desc: "While in sunlight, Varon has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
-  - name: Innate Spellcasting (Drow)
-    desc: "Varon's spellcasting ability is Charisma (spell save DC 11). He can innately cast the following spells, requiring no material components:\n1/day each: darkness, faerie fire"
-  - name: Amulet Step (3/Day)
-    desc: "As a bonus action, Varon can use the power of the amulet to cast Misty Step (teleport 30 ft). When he does, he leaves behind a purple afterimage that fades instantly."
+  - name: Feenblut
+    desc: "Varon ist im Vorteil bei Rettungswürfen gegen den Zustand Bezaubert, und Magie kann ihn nicht einschläfern."
+  - name: Empfindlichkeit gegen Sonnenlicht
+    desc: "Im Sonnenlicht ist Varon bei Angriffswürfen sowie bei Weisheitswürfen (Wahrnehmung), die auf Sicht basieren, im Nachteil."
+  - name: Angeborenes Zauberwirken (Drow)
+    desc: "Varons Attribut zum Zauberwirken ist Charisma (SG 11 für Rettungswürfe gegen Zauber). Er kann von Natur aus die folgenden Zauber wirken, ohne Materialkomponenten zu benötigen:\n1/Tag jeweils: Dunkelheit, Feenfeuer"
+  - name: Amulett-Schritt (3/Tag)
+    desc: "Als Bonusaktion kann Varon die Macht des Amuletts nutzen, um *Nebeltritt* (Misty Step) zu wirken (Teleportation 30 Fuß). Dabei hinterlässt er ein violettes Nachbild, das sofort verblasst."
 actions:
-  - name: Multiattack
-    desc: "Varon makes two attacks with his shortsword or hand crossbow."
-  - name: Shortsword
-    desc: "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage plus 3 (1d6) poison damage."
-  - name: Hand Crossbow
-    desc: "Ranged Weapon Attack: +6 to hit, range 30/120 ft., one target. Hit: 7 (1d6 + 4) piercing damage."
+  - name: Mehrfachangriff
+    desc: "Varon führt zwei Angriffe mit seinem Kurzschwert oder seiner Handarmbrust aus."
+  - name: Kurzschwert
+    desc: "Nahkampf-Waffenangriff: +6 zum Treffen, Reichweite 5 Fuß, ein Ziel. Treffer: 7 (1d6 + 4) Stichschaden plus 3 (1d6) Giftschaden."
+  - name: Handarmbrust
+    desc: "Fernkampf-Waffenangriff: +6 zum Treffen, Reichweite 30/120 Fuß, ein Ziel. Treffer: 7 (1d6 + 4) Stichschaden."
 bonus_actions:
-  - name: Cunning Action
-    desc: "Varon can take the Dash, Disengage, or Hide action as a bonus action on each of his turns."
+  - name: Listige Aktion
+    desc: "Varon kann in jedem seiner Züge die Aktion Sputen, Rückzug oder Verstecken als Bonusaktion nehmen."
 ```
