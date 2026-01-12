@@ -10,8 +10,8 @@ modifier: 0
 Spieler: "[[Mika]]"
 ---
 
-# Sessions
-### Teilgenommen
+## Sessions
+#### Teilgenommen
 ```dataview
 TABLE WITHOUT ID
 	file.link as Session,
@@ -22,7 +22,7 @@ WHERE
 	contains(Players, this.file.link)
 SORT date ASC
 ```
-### Nicht teilgenommen
+#### Nicht teilgenommen
 ```dataview
 TABLE WITHOUT ID
 	file.link as Session,
