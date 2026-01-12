@@ -17,7 +17,9 @@ Spieler: "[[Mika]]"
 - bischen verrückt 
 - will gutes tun
 #### Ideale
-- eine Welt, in der 
+- eine Welt, in der Unschuldige nicht versklavt werden (siehe [[Jorvan#Hintergrundgeschichte|Hintergrundgeschichte]])
+#### Bindungen
+- Rache an den [[Yu]]
 
 ## Hintergrundgeschichte
 
