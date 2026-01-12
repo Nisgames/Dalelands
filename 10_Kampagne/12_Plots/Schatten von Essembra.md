@@ -13,6 +13,8 @@ Er benötigt die gestohlenen [[Schattensplitter]], um die Maschine zu betreiben 
 
 ## Ablauf
 
+#### Skript
+
 Start: 
 Spieler finden [[Befehlsschreiben Varon]] mit Andeutung, dass [[Schattensplitter]] nach [[Essembra]] gebracht werden. Dort soll ein Erzmagier ([[Valzoun]]) sie entgegennehmen.
 
@@ -20,7 +22,10 @@ Wenn sie sich entschließen nach [[Essembra]] zu reisen:
 In [[Essembra]] herrscht bedrückte Stimmung. Hinweise von Bewohnern aus der Gegend, dass in den Ruinen etwas vor sich geht. Sehr häufig wurden Drow des [[Haus Jaelre]] gesichtet.
 
 In [[Essembra]]:
-In den Ruinen hat sich [[Valzoun]] ein Labor gebaut. Die Spieler treffen auf von den [[Scha]]
+In den Ruinen hat sich [[Valzoun]] ein Labor gebaut. Die Spieler treffen auf von den [[Schattensplitter]]n korrumpierte Tiere und Drow.
+
+Finale:
+Kampf gegen höhere Drow des [[Haus Jaelre]] und gegen [[Valzoun]].
 
 ## DM Wissen
 
