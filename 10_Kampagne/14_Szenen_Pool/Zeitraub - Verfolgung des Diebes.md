@@ -55,9 +55,6 @@
     * *Zitat:* "Ihr... seid schneller als gedacht. Aber nicht schnell genug für das Haus Jaelre!"
 
 `encounter: Varon`
-`encounter: 3: Hobgoblin, 1d5: Goblin, Custom Monster`
-`creatures: `
-
 
 ```encounter
 name: Varon
