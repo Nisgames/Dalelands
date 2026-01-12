@@ -13,6 +13,7 @@ Spieler: "[[Liam]]"
 ## Persönlichkeit
 
 - [Noch in Arbeit]
+- **Gesinnung:** Rechtschaffend Gut
 
 ## Aussehen
 
