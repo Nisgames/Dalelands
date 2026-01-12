@@ -17,9 +17,12 @@ statblock: inline
 *Klasse/Beruf:* `=this.Klasse` 
 *Volk:* `=this.Volk` 
 *Wohnort:* `=this.Ort` 
-*Aussehen:* [Klein mit Bart]
-*Charakterzug:* [Hasst Wein]
-*Sprechweise:* [Langsam]
+*Aussehen:* 
+	[Klein mit Bart]
+*Charakterzug:* 
+	[Hasst Wein]
+*Sprechweise:* 
+	[Langsam]
 
 ## Werte & Loot:
 

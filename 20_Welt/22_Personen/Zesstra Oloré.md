@@ -18,7 +18,8 @@ statblock: inline
 *Volk:* `=this.Volk` 
 *Wohnort:* `=this.Ort` 
 *Aussehen:* [Klein mit Bart]
-*Charakterzug:* [Hasst Wein]
+*Charakterzug:*
+	Eiskalt, effizient und humorlos. Im Gegensatz zu vielen chaotischen Drow schätzt sie militärische Disziplin. Versagen bestraft sie nicht mit Wut, sondern mit tödlicher Präzision.
 *Sprechweise:* [Langsam]
 
 ## Werte & Loot:
