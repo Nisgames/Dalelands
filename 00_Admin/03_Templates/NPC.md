@@ -23,7 +23,14 @@ statblock: inline
 
 ## Werte & Loot:
 
-[Link zum Statblock / (HP, AC) , Loot]
+
+> [!stat] Title
+> Contents
+
+
+
+> [!loot]- Loot
+> 
 
 ## DM Wissen
 

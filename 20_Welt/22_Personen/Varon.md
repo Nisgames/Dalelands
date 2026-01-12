@@ -31,7 +31,7 @@ statblock: inline
 
 ## Werte & Loot:
 
-> [!statblock|right]- Statblock
+> [!statblock]- Statblock
 > ```statblock
 > name: Varon (Drow)
 > size: Mittelgroß
@@ -72,6 +72,11 @@ statblock: inline
 >   - name: Listige Aktion
 >     desc: "Varon kann in jedem seiner Züge die Aktion Sputen, Rückzug oder Verstecken als Bonusaktion nehmen."
 > ```
+
+
+> [!loot]- Loot
+> 
+
 
 ## DM Wissen
 
