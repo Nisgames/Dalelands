@@ -21,7 +21,7 @@ Besitzer: "[[Varon]]"
 
 ## Aussehen
 
-[Klein]
+Sobald du die Ladung hast, übergib sie an den Kurier an der Furt. Die Splitter müssen noch vor Neumond [[Essembra]] erreichen. Der Erzmagier wartet.
 
 ## Lore
 

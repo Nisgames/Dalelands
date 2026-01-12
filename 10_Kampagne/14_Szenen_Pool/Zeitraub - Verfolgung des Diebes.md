@@ -72,8 +72,8 @@ rollHP:  false
 > * **Keine Kiste!**
 > * **Das Amulett der Zeit:** (Defekt/Ausgebrannt). 
 > * **Befehlsschreiben:** Ein Stück Pergament, eilig in eine Gürteltasche gestopft.
-> 	Darauf das Siegel einer Spinne. 
-> 	_Text (Drow/Elfisch):_
+> 	Darauf das Siegel einer Spinne.
+> 	[[Brief Varon]] 
 > * **Geld:** 12 GP, 5 SP (Sembia-Prägung).
 > * **Waffen:** Drow-Dolch (Gift abgewaschen), Handarmbrust.
 
