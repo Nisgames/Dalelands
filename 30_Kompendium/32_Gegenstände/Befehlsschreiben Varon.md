@@ -16,10 +16,12 @@ Besitzer: "[[Varon]]"
 *Seltenheit:* `=this.Seltenheit` 
 *Wert:* `=this.Wert_in_GM` GM
 *Klassifikation:* `=this.Klassifikation` 
-*Schaden:* `=this.Schaden`
-*Beschreibung:* [Was tut es]
+*Beschreibung:* Ein Stück Pergament.
 
 ## Aussehen
+
+Ein Stück Pergament.
+Darauf das Siegel einer Spinne.
 
 Sobald du die Ladung hast, übergib sie an den Kurier an der Furt. Die Splitter müssen noch vor Neumond [[Essembra]] erreichen. Der Erzmagier wartet.
 

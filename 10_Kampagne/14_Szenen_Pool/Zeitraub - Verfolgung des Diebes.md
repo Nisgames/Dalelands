@@ -71,9 +71,7 @@ rollHP:  false
 > [!loot]- Beute bei Varon
 > * **Keine Kiste!**
 > * **Das Amulett der Zeit:** (Defekt/Ausgebrannt). 
-> * **Befehlsschreiben:** Ein Stück Pergament, eilig in eine Gürteltasche gestopft.
-> 	Darauf das Siegel einer Spinne.
-> 	[[Brief Varon]] 
+> * [[Befehlsschreiben Varon]] 
 > * **Geld:** 12 GP, 5 SP (Sembia-Prägung).
 > * **Waffen:** Drow-Dolch (Gift abgewaschen), Handarmbrust.
 
