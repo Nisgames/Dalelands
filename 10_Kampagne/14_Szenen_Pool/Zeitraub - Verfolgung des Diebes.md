@@ -37,11 +37,17 @@
 
 ## Begegnung im Nebel
 
-> [!narrator] Im Nebel
-> Jenseits des Flusses verschluckt euch der Nebel. Es ist totenstill, bis ihr ein Keuchen hört. Eine Gestalt schält sich aus dem Dunst, bewaffnet mit einer Mistgabel.
+> [!narrator] Begegnung im Nebel
+> Aus dem Nebel taucht eine zitternde Gestalt auf. "W-weg da!", schreit der alte Mann. "Sie reitet auf dem Wasser! Ich hab sie gesehen!"
+> Er deutet mit der Mistgabel fahrig auf den Flusslauf im Norden.
 
-**Reaktion:** Er hält die Spieler für Geister. Er sucht seine entlaufene Ziege.
-**Hinweis:** Er sah den Dieb ("Einen Geist auf einem lautlosen Pferd") Richtung Waldrand reiten.
+**Dialog:** 
+* **Was er sah:** "Ein bleicher Geist auf einem schwarzen Ross! Ihre Haare wehten wie weißer Rauch im Wind. Sie hat nicht mal das Wasser berührt, so schnell war das Teufelsvieh!"
+* **Über die Zweite Person (Varon):** "Und der andere... der Schattenmann. Er hat ihr etwas gegeben. Eine Kiste, schwer wie Sünde. Dann ist er da rein gekrochen, wie eine Ratte." *Deutet zum Waldrand.*
+
+**DM-Wissen:**
+* Die Reiterin ist eine **Drow-Botin** von [[Haus Jaelre]].
+* Die "bleiche Haut" im Mondlicht ist typisch für Drow (oder Mondelfen), aber in Mistledale assoziiert man das sofort mit Geistern.
 
 ## Kampf
 - [[Varon]]:
