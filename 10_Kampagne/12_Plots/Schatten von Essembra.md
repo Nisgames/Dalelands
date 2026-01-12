@@ -1,14 +1,14 @@
 ---
 tags:
   - Plot
-Category:
+Category: A
 resolved: false
-Parent:
+Parent: "[[Schatten-Invasion Haus Jaelre]]"
 ---
 
 ## Zusammenfassung
 
-[Drow greifen an]
+Der abtrünnige Magier [[Valzoun]] hat sich in den Ruinen einer alten Sternenwarte bei [[Essembra]] verschanzt. Im Auftrag von [[Haus Jaelre]] testet er dort den Prototypen eines Schatten-Monolithen. Er benötigt die gestohlenen [[Schattensplitter]], um die Maschine zu betreiben und einen permanenten Riss zum Schattenfell zu öffnen.
 
 ## Ablauf
 
