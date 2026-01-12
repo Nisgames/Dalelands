@@ -22,7 +22,7 @@ Spieler: "[[Alina]]"
 |**Winter**|Melancholisch, distanziert, nachdenklich, zynisch.
 
 - **Eigenschaften:** Wachsam und teils abergläubisch. Sie interpretiert vieles als „höheres Zeichen“ und führt ein Notizbuch für ihre Beobachtungen.
-- **Bewältigung:** Verdrängt ihre tragische (Geschichte) konsequent.
+- **Bewältigung:** Verdrängt ihre tragische [[Elina#Hintergrundgeschichte|Geschichte]] konsequent.
 - **Ziele:** Sucht nach ihrem tieferen Sinn und ihrer Aufgabe im Leben.
 - **Tierliebe:** Tötet oder bekämpft keine Tiere, verharmlost sogar gefährliche Kreaturen und ist sehr ungern ohne tierische Begleitung alleine.
 - **Gesinnung:** Neutral Gut.
@@ -43,7 +43,11 @@ Spieler: "[[Alina]]"
 
 ## Hintergrundgeschichte
 
-
+- **Herkunft:** Lebte mit ihrer Familie in **Myth Drannor**.
+- **Trauma:** Überlebte als Einzige aus ihrem Umfeld die Zerstörung der Stadt.
+- **Aktueller Wohnort:** Floh nach **Ashabenford** und lebt dort seit 10 Jahren.
+    
+- **Berufung:** Arbeitet als Guide; ihr Leben besteht aktuell nur aus „Side-Quests“.
 
 ## Sessions
 #### Teilgenommen
