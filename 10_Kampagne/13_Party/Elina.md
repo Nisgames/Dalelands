@@ -33,8 +33,11 @@ Spieler: "[[Alina]]"
 ###### Frühling
 - braune Haare, grüne Augen
 ###### Sommer
-
-###### 
+- goldene Haare, grüne Augen
+###### Herbst
+- orangene Haare, rötliche Augen, dunklere Haut
+###### Winter
+- weiße Haare, blaue Augen, helle Haut
 
 ## Hintergrundgeschichte
 
