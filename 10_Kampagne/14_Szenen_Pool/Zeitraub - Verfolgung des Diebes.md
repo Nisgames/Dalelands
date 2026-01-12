@@ -72,8 +72,8 @@ rollHP:  false
 > * **Keine Kiste!**
 > * **Das Amulett der Zeit:** (Defekt/Ausgebrannt). 
 > * **Befehlsschreiben:** Ein Stück Pergament, eilig in eine Gürteltasche gestopft.
-> * Darauf das Siegel einer Spinne.
-> * Ein Stück Pergament, eilig in eine Gürteltasche gestopft. Darauf das Siegel einer Spinne. _Text (Drow/Elfisch):_ "Sobald du die Ladung hast, übergib sie an den Kurier an der Furt. Die Splitter müssen noch vor Neumond die **Ruinen von Essembra** erreichen. Der Erzmagier wartet."
+> 	Darauf das Siegel einer Spinne. 
+> 	_Text (Drow/Elfisch):_ "Sobald du die Ladung hast, übergib sie an den Kurier an der Furt. Die Splitter müssen noch vor Neumond die **Ruinen von Essembra** erreichen. Der Erzmagier wartet."
 > * **Geld:** 12 GP, 5 SP (Sembia-Prägung).
 > * **Waffen:** Drow-Dolch (Gift abgewaschen), Handarmbrust.
 
