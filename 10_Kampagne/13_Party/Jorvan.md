@@ -10,6 +10,14 @@ modifier: 0
 Spieler: "[[Mika]]"
 ---
 
+## Hintergrundgeschichte
+
+Jorvan wuchs als Kind in der Trank Brauerei seiner Eltern auf. Mit 8 wurde er von den Yuan Ti entführt und indoctriniert. Aus der Zeit vor seiner Entführung kennt Jorvan nur noch seinen Namen und verschwommene Erinnerungsfetzen.
+Die Yuan Ti versklavten in aufgrund seiner Herkunft als gehilfen eines ihrer Artificer Alchemisten. Durch das Tüfteln und rum experimentieren mit Tränken, was ihn an seine Vergangenheit erinnerte, hielt Jorvan sich seine Persöhnlichkeit so gut es ging zusammen. Nach 3 Jahren stieg er selbst zu einem Vollwertigen Alchemisten Artificer auf, wurde jedoch gezwungener Maßen einem Ritual unterzogen, das ihn zum Yuan Ti machte.
+Seine Haut wurde Lila, seine augen zu goldenen Schlangenaugen und seine Zunge spaltete sich.
+Nach 4 weiteren Jahren ergab sich endlich die Möglichkeit zur Flucht. Jorvan entkahm nur Knapp und wurde verfolgt.
+In diesem Moment traf er auf (Liam) und (Alina) die ihm gegen seine Verfolger hielfen. Sie erzählten ihm auch vom Job des Abenteurers, was für ihn der Perfekte Job war um stark genug für seine Rache zu werden und gleichzeitig anderen in seiner Lage helfen zu können
+
 ## Sessions
 #### Teilgenommen
 ```dataview
