@@ -8,6 +8,9 @@ ac: "18"
 level: 3
 modifier: 0
 Spieler: "[[Mika]]"
+Sprachen:
+  - "[[Gemeinsprache]]"
+  - "[[Zwergisch]]"
 ---
 
 ## Persönlichkeit

@@ -8,6 +8,9 @@ ac: "14"
 level: 3
 modifier: 0
 Spieler: "[[Alina]]"
+Sprachen:
+  - "[[Gemeinsprache]]"
+  - "[[Elfisch]]"
 ---
 
 ## Persönlichkeit

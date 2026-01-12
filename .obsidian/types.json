@@ -16,6 +16,7 @@
     "Komponenten": "multitext",
     "Grad": "number",
     "Zaubergrad": "number",
-    "Klassen": "multitext"
+    "Klassen": "multitext",
+    "Sprachen": "multitext"
   }
 }
