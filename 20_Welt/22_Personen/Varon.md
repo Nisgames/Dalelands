@@ -31,6 +31,9 @@ statblock: inline
 
 ## Werte & Loot:
 
+> [!info] Title
+> Contents
+
 ```statblock
 name: Varon (Drow)
 size: Mittelgroß
