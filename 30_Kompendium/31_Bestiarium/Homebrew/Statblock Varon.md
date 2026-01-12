@@ -34,7 +34,7 @@ traits:
     desc: "Im Sonnenlicht ist Varon bei Angriffswürfen sowie bei Weisheitswürfen (Wahrnehmung), die auf Sicht basieren, im Nachteil."
   - name: Angeborenes Zauberwirken (Drow)
     desc: "Varons Attribut zum Zauberwirken ist Charisma (SG 11 für Rettungswürfe gegen Zauber). Er kann von Natur aus die folgenden Zauber wirken, ohne Materialkomponenten zu benötigen:\n1/Tag jeweils: Dunkelheit, Feenfeuer"
-  - name: Amulett-Schritt (3/Tag)
+  - name: Nebel-Schritt (3/Tag)
     desc: "Als Bonusaktion kann Varon die Macht des Amuletts nutzen, um *Nebeltritt* (Misty Step) zu wirken (Teleportation 30 Fuß). Dabei hinterlässt er ein violettes Nachbild, das sofort verblasst."
 actions:
   - name: Mehrfachangriff

@@ -45,6 +45,10 @@
     {
       "folder": "30_Kompendium/33_Zauber",
       "template": "00_Admin/03_Templates/Zauber.md"
+    },
+    {
+      "folder": "30_Kompendium/31_Bestiarium/Homebrew",
+      "template": "00_Admin/03_Templates/Homebrew Statblock.md"
     }
   ],
   "enable_file_templates": false,
