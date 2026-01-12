@@ -67,8 +67,7 @@ creatures:
 * Er will nicht fliehen (er ist zu erschöpft), er will so viele wie möglich mitnehmen.
 * **Zitat bei Initiative:** "Das Haus Jaelre dankt für eure 'Spende'."
 
-**Loot (Angepasst):**
-> [!loot] Beute bei Varon
+> [!loot]- Beute bei Varon
 > * **Keine Kiste!**
 > * **Das Amulett der Zeit:** (Defekt/Ausgebrannt). 
 > * **Befehlsschreiben:** Ein Stück Pergament, eilig in eine Gürteltasche gestopft. Darauf das Siegel einer Spinne.
