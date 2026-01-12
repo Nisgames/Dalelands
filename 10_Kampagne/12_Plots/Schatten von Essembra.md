@@ -13,8 +13,10 @@ Er benötigt die gestohlenen [[Schattensplitter]], um die Maschine zu betreiben 
 
 ## Ablauf
 
-[1. Start, 2. Mitte, 3. Ende]
-Start: Spieler finden [[Befehlsschreiben Varon]] mit Andeutung, dass [[Schattensplitter]] nach [[Essembra]] gebracht we
+Start: 
+Spieler finden [[Befehlsschreiben Varon]] mit Andeutung, dass [[Schattensplitter]] nach [[Essembra]] gebracht werden. Dort soll ein Erzmagier ([[Valzoun]]) sie entgegennehmen.
+
+Wenn sie sich entschließen nach [[Essembra]] zu reisen: 
 
 ## DM Wissen
 
