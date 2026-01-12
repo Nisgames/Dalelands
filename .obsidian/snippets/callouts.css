@@ -83,7 +83,7 @@
     
     /* Optional: Ein sehr feiner Rahmen außen (wie bei Loot oft üblich). 
        Falls du gar keinen Rahmen willst, setze "border: none;" */
-    border: 1px solid rgba(255, 115, 0, 0.4);
+    border: 1px solid rgba(255, 54, 4, 0.4);
     
     margin: 1em 0;
     padding: 0;
