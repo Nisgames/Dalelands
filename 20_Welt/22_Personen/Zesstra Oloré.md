@@ -31,7 +31,8 @@ statblock: inline
 
 ## DM Wissen
 
-[Motivation, Geheimnisse, Lügen]
+- **Beziehung zu [[Valzoun]]:** Sie verachtet ihn als männlichen Magier und Nicht-Drow, braucht aber sein technisches Wissen. Sobald der Monolith funktioniert, plant sie, ihn zu entsorgen. 
+- **Aufenthaltsort:** Sie bewegt sich meist im tiefen **[[Cormanthor]]**, taucht aber auf, wenn Untergebene (wie [[Varon]]) versagen, um "aufzuräumen".
 
 #### Begegnungen
 ```dataview
