@@ -8,6 +8,9 @@ ac: "19"
 level: 3
 modifier: 0
 Spieler: "[[Liam]]"
+Sprachen:
+  - "[[Gemeinsprache]]"
+  - "[[Zwergisch]]"
 ---
 
 ## Persönlichkeit

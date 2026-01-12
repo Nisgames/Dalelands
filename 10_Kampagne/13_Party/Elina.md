@@ -11,6 +11,9 @@ Spieler: "[[Alina]]"
 Sprachen:
   - "[[Gemeinsprache]]"
   - "[[Elfisch]]"
+  - "[[Goblinisch]]"
+  - "[[Gnomisch]]"
+  - "[[Halblingisch]]"
 ---
 
 ## Persönlichkeit
