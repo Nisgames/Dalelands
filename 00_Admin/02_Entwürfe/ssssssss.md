@@ -1,9 +1,11 @@
 
 
 ```statblock
-name: Varon (Drow Schattenklinge)
+name: Varon (Drow)
 size: Mittelgroß
-type: Humanoider (Elf)
+type: Humanoider
+subtype: Elf
+s
 alignment: Neutral Böse
 ac: 15 (Beschlagenes Leder)
 hp: 44
