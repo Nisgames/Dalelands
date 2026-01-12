@@ -38,7 +38,7 @@ statblock: inline
 > type: Humanoider
 > subtype: Elf
 > alignment: Neutral Böse
-> ac: 15 (Beschlagenes Leder)
+> ac: 15
 > hp: 44
 > hit_dice: 8d8 + 8
 > speed: 30 Fuß
