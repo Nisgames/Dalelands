@@ -73,10 +73,8 @@ statblock: inline
 >     desc: "Varon kann in jedem seiner Züge die Aktion Sputen, Rückzug oder Verstecken als Bonusaktion nehmen."
 > ```
 
-
 > [!loot]- Loot
-> 
-
+> [[Amulett der Zeit]]
 
 ## DM Wissen
 
