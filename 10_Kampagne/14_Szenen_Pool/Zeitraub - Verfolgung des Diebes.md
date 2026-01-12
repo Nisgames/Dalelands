@@ -71,8 +71,8 @@ rollHP:  false
 > [!loot]- Beute bei Varon
 > * **Keine Kiste!**
 > * **Das Amulett der Zeit:** (Defekt/Ausgebrannt). 
-> * [[Befehlsschreiben Varon]] 
-> * **Geld:** 12 GP, 5 SP (Sembia-Prägung).
+> * **Brief:** [[Befehlsschreiben Varon]] 
+> * **Geld:** 12 GM, 5 SM (Sembia-Prägung).
 > * **Waffen:** Drow-Dolch (Gift abgewaschen), Handarmbrust.
 
 
