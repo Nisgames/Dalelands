@@ -14,3 +14,7 @@ statblock: inline
 > ac: 13
 > ```
 
+```encounter
+creatures:
+  - Thomasson
+```
