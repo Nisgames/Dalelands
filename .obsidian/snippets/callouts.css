@@ -69,36 +69,42 @@
 
 
 
-/* Statblock Callout für Fancy-a-Story */
+/* Transparenter Statblock Callout */
 .callout[data-callout="statblock"] {
-    /* Nutze die Akzentfarbe des Themes statt hartem Rot */
-    --callout-color: var(--color-accent-rgb, 122, 22, 22); 
+    /* Deine gewünschte Farbe (Dunkelrot) */
+    --callout-color: 122, 22, 22; 
     --callout-icon: lucide-skull;
     
-    /* Entferne den klobigen Hintergrund, damit es wie gedruckt aussieht */
-    background-color: transparent;
+    /* Mache den Kasten unsichtbar */
+    background-color: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
     
-    /* Ein feinerer Rahmen, der zum Buch-Stil passt */
-    border: 1px solid rgba(var(--callout-color), 0.25);
-    border-left: 3px solid rgba(var(--callout-color), 0.8);
-    box-shadow: none; /* Kein Schlagschatten für flachen Look */
-}
-
-/* Der Titelbalken: Weniger "Button-Look", mehr "Überschrift" */
-.callout[data-callout="statblock"] .callout-title {
-    background-color: rgba(var(--callout-color), 0.05);
-    font-family: var(--font-head); /* Nutzt die Überschriften-Schrift des Themes */
-    color: rgb(var(--callout-color));
-    padding-bottom: 4px;
-}
-
-/* Der Inhalt: Nahtlos ohne Innenabstand für den Statblock */
-.callout[data-callout="statblock"] .callout-content {
+    /* Entferne Standard-Abstände, damit es sauber aussieht */
+    margin: 1em 0;
     padding: 0;
-    margin-top: 5px;
 }
 
-/* Dark Mode Anpassung: Etwas mehr Kontrast, falls nötig */
-.theme-dark .callout[data-callout="statblock"] {
-    background-color: rgba(0, 0, 0, 0.1); 
+/* Nur die Überschrift (Headline) stylen */
+.callout[data-callout="statblock"] .callout-title {
+    background-color: rgb(var(--callout-color)); /* Solider roter Hintergrund */
+    color: white; /* Weiße Schrift für Kontrast */
+    
+    /* Ein bisschen Form geben */
+    border-radius: 5px;
+    padding: 8px 12px;
+    
+    /* Optionale Schriftanpassung (falls gewünscht) */
+    font-weight: bold;
+    font-variant: small-caps;
+}
+
+/* Der Inhalt (Statblock) darunter */
+.callout[data-callout="statblock"] .callout-content {
+    /* Sicherstellen, dass hier kein Hintergrund ist */
+    background-color: transparent;
+    border: none;
+    
+    /* Kleiner Abstand zur Headline */
+    padding: 10px 5px 0 5px; 
 }
