@@ -27,12 +27,13 @@
 
 > [!narrator] Am Ufer
 > Der Ashaba gurgelt schwarz und bedrohlich vor euch. Nebelschwaden tanzen über dem Wasser, als wären es Geister.
+> 
 > Das Vibrieren des Splitters wird stärker. Es deutet direkt auf das andere Ufer, wo der Waldrand wie eine schwarze Wand aufragt. Es gibt hier keine Brücke. Das Wasser sieht eisig aus.
 
 **Hindernis:** Den Fluss durchqueren (ca. 15m schwimmen/waten).
 * **Check:** Athletics (STR) DC 12 (Gegen die Strömung) oder Acrobatics (DEX) DC 12 (Über Treibholz/Steine balancieren).
-* **Fail:** 1. Der Charakter wird abgetrieben (landet 30ft flussabwärts, kommt 1 Runde später zum Kampf/zur Szene).
-	2. **Kälteschock:** 1 Stufe Erschöpfung (Exhaustion) durch das eisige Herbstwasser.
+* **Fail:** 
+	**Kälteschock:** 1 Stufe Erschöpfung (Exhaustion) durch das eisige Herbstwasser.
 
 ## Begegnung im Nebel
 
