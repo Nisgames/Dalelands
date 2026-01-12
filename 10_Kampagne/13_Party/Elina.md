@@ -3,8 +3,8 @@ tags:
   - PC
 Volk: Eladrin
 Klasse: Waldläuferin
-hp:
-ac:
+hp: "25"
+ac: "14"
 level: 3
 modifier: 0
 Spieler: "[[Alina]]"

@@ -25,7 +25,6 @@ Die Spur des Splitters (Vibration) führt zum Fluss. Die Brücke ist zu weit weg
 name: Varon
 creatures:
   - Varon (Drow)
-  - 
 ```
 
 - [[Schattensplitter]] 

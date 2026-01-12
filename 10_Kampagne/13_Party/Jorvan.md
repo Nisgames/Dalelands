@@ -3,7 +3,7 @@ tags:
   - PC
 Volk: Yuan-Ti
 Klasse: Magieschmied
-hp: "1"
+hp: "25"
 ac: "18"
 level: 3
 modifier: 0

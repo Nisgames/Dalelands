@@ -3,7 +3,7 @@ tags:
   - PC
 Volk: Zwerg
 Klasse: Paladin 2, Hexenmeister 1
-hp: "1"
+hp: "25"
 ac: "19"
 level: 3
 modifier: 0
