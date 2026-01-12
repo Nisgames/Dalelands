@@ -1,5 +1,26 @@
 
-**Fortsetzung von [[Zeitraub]]** 
+**Fortsetzung von [[Zeitraub]]**
+
+## Phase 1: Die Hatz durch die Gassen
+
+**Situation:** Varon hat Vorsprung. Die "Zeitblase" ist geplatzt, Ashabenford ist in Panik. Die Dunkelheit und der aufziehende Nebel erschweren die Sicht.
+**Mechanik:** Skill Challenge (3 Erfolge vor 3 Fehlschlägen).
+
+> [!narrator] Chaos in den Straßen
+> Als ihr aus dem Fenster klettert, schlägt euch die feuchtkalte Nachtluft ins Gesicht. Drinnen herrscht Panik, draußen herrscht unheimliche Normalität – noch.
+> Der Nebel von der Ashaba-Furt kriecht bereits in die Gassen. Ihr seht keine Spur des Diebes, aber ihr *spürt* ihn. Der Schattensplitter, der aus der Kiste gefallen ist, vibriert in eurer Tasche wie ein Kompass, der nach seinem Zwilling sucht. Das Summen zieht euch nach Süden, zum Fluss.
+
+**Mögliche Checks (DC 12):**
+- **Survival (WIS):** Spuren im Matsch lesen (Varon hinterlässt seltsam leichte Abdrücke).
+- **Perception (WIS):** Das Aufblitzen des violetten Lichts im Nebel sehen.
+- **Arcana (INT):** Die magische Resonanz des Amuletts orten.
+- **Athletics (STR):** Sich durch die Menge aus fliehenden Gästen und Ochsengespannen drängen.
+
+**Konsequenzen:**
+- **Erfolg:** Sie erreichen das Flussufer, kurz bevor Varon das andere Ufer erreicht. Sie sehen ihn ins Wasser steigen.
+- **Misserfolg:** Sie verlieren Zeit. Varon hat bereits Deckung gesucht, als sie den Fluss erreichen (Gegner hat im Endkampf *Vorteil* auf Stealth/Initiative oder hat bereits eine Falle/Falle gestellt).
+
+
 ## [[Ashaba]] 
 
 Die Vibration führt sie südlich am [[Ashaba]] entlang.
