@@ -10,6 +10,15 @@ modifier: 0
 Spieler: "[[Mika]]"
 ---
 
+## Persönlichkeit
+
+#### Merkmale
+- realtiv misstrauisch 
+- bischen verrückt 
+- will gutes tun
+#### Ideale
+- eine Welt, in der 
+
 ## Hintergrundgeschichte
 
 Jorvan wuchs als Kind in der Trank Brauerei seiner Eltern auf. Mit 8 wurde er von den Yuan Ti entführt und indoctriniert. Aus der Zeit vor seiner Entführung kennt Jorvan nur noch seinen Namen und verschwommene Erinnerungsfetzen.
