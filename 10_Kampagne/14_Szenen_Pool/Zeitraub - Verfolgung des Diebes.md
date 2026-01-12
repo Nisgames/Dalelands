@@ -26,7 +26,7 @@
 *Der Fluss ist hier breit, aber durch die Furt flach. Allerdings hat Varon die Furt gemieden, um Wachen zu umgehen, und ist direkt durch die Strömung geschwommen.*
 
 > [!narrator] Am Ufer
-> Der Ashaba gurgelt schwarz und bedrohlich vor euch. Nebelschwaden tanzen über dem Wasser, als wären es Geister.
+> Der [[Ashaba]] gurgelt schwarz und bedrohlich vor euch. Nebelschwaden tanzen über dem Wasser, als wären es Geister.
 > 
 > Das Vibrieren des Splitters wird stärker. Es deutet direkt auf das andere Ufer, wo der Waldrand wie eine schwarze Wand aufragt. Es gibt hier keine Brücke. Das Wasser sieht eisig aus.
 
