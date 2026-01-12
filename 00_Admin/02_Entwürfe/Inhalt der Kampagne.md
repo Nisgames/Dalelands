@@ -4,7 +4,7 @@ tags:
 ---
 # Inhalt der Kampagne: Wächter der Dalelands
 
-**Kern-Thema:** Die Folgen der Zerstörung von 1487 DR. "Schattensplitter" (Reste der fliegenden Stadt Thultanthar bzw des Mythals von Myth Drannor) tauchen in den Dales auf und sorgen für Chaos.
+**Kern-Thema:** Die Folgen der Zerstörung von 1487 DR. "Schattensplitter" (Reste der fliegenden Stadt Thultanthar bzw des [[Mythal]]s von Myth Drannor) tauchen in den Dales auf und sorgen für Chaos.
 
 - Wir befinden uns 1496DR
 
