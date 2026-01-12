@@ -43,10 +43,9 @@ Spieler: "[[Alina]]"
 
 ## Hintergrundgeschichte
 
-- **Herkunft:** Lebte mit ihrer Familie in **Myth Drannor**.
+- **Herkunft:** Lebte mit ihrer Familie in [[Myth Drannor]].
 - **Trauma:** Überlebte als Einzige aus ihrem Umfeld die Zerstörung der Stadt.
-- **Aktueller Wohnort:** Floh nach **Ashabenford** und lebt dort seit 10 Jahren.
-    
+- **Aktueller Wohnort:** Floh nach [[Ashabenford]] und lebt dort seit 10 Jahren.
 - **Berufung:** Arbeitet als Guide; ihr Leben besteht aktuell nur aus „Side-Quests“.
 
 ## Sessions
