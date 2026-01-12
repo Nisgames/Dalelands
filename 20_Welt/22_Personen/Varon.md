@@ -31,8 +31,10 @@ statblock: inline
 
 ## Werte & Loot:
 
-> [!info] Title
-> Contents
+> [!infobox] Title
+> d
+> d
+> d
 
 ```statblock
 name: Varon (Drow)
