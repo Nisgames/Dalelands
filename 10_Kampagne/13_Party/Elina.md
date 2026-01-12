@@ -27,8 +27,14 @@ Spieler: "[[Alina]]"
 
 ## Aussehen
 
-- Untere Gesichtshälfte mit Tuch bedeckt 
-- heruntergekommene Kleidung
+- normale Statur, sportlich
+- offene, wellige Haare
+- spitze Ohren (Elf)
+###### Frühling
+- braune Haare, grüne Augen
+###### Sommer
+
+###### 
 
 ## Hintergrundgeschichte
 
