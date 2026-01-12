@@ -10,6 +10,30 @@ modifier: 0
 Spieler: "[[Alina]]"
 ---
 
+## Persönlichkeit
+
+#### Merkmale
+- realtiv misstrauisch 
+- bischen verrückt 
+- will gutes tun
+#### Ideale
+- eine Welt, in der Unschuldige nicht versklavt werden (siehe [[Jorvan#Hintergrundgeschichte|Hintergrundgeschichte]])
+#### Bindungen
+- Rache an den Yuan Ti
+#### Makel
+- Indoktrination der Yuan Ti hat sein Verständnis von Gut und Böse verschwimmen lassen
+#### Feinde
+- Yuan Ti Zivilisation
+
+## Aussehen
+
+- Untere Gesichtshälfte mit Tuch bedeckt 
+- heruntergekommene Kleidung
+
+## Hintergrundgeschichte
+
+
+
 ## Sessions
 #### Teilgenommen
 ```dataview
