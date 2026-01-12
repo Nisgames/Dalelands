@@ -28,9 +28,7 @@ statblock: inline
 ## Werte & Loot:
 
 > [!statblock]-
-> ```statblock
-> name: 
-> ```
+> 
 
 > [!loot]- Loot
 > Ein Briefsiegel der Zhentarim (versteckt in einer hohlen Absatzsohle) 

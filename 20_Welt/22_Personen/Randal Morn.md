@@ -24,9 +24,7 @@ statblock: inline
 ## Werte & Loot:
 
 > [!statblock]-
-> ```statblock
-> name: 
-> ```
+> 
 
 > [!loot]- Loot
 > 

@@ -32,7 +32,7 @@ statblock: inline
 ## Werte & Loot:
 
 > [!statblock]- Statblock
-
+> ![[Statblock Varon]]
 
 > [!loot]- Loot
 > [[Amulett der Zeit]]
