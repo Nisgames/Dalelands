@@ -65,7 +65,7 @@ creatures:
 
 **Kampf-Verhalten:**
 * Er will nicht fliehen (er ist zu erschöpft), er will so viele wie möglich mitnehmen.
-* **Zitat bei Initiative:** "Das Haus Jaelre dankt für eure 'Spende'."
+* **Zitat bei Initiative:** "Das [[Haus Jaelre]] dankt für eure 'Spende'."
 
 > [!loot]- Beute bei Varon
 > * **Keine Kiste!**
