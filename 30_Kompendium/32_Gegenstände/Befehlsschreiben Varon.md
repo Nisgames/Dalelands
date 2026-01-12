@@ -29,9 +29,9 @@ Besitzer: "[[Varon]]"
 
 > *"Varon,*
 > 
-> *Sobald du die 'Herzen des Mythals' gesichert hast, übergib sie unverzüglich an den Kurier an der Furt. Verschwende keine Zeit mit Spielereien.*
+> *Sobald du die 'Herzen des Mythals' gesichert hast, übergib sie unverzüglich an den Kurier. Verschwende keine Zeit mit Spielereien.*
 > 
-> *Der Arkanist **[[Valzoun]]** erwartet die Lieferung in der **Sternenwarte bei Essembra**. Er behauptet, der Fokus sei bereit. Wir werden sehen.*
+> *Der Arkanist erwartet die Lieferung bereits in Essembra. Er behauptet, der Fokus sei bereit. Wir werden sehen.*
 > 
 > *Lass dich nicht fangen. Wenn du scheiterst, wird dein Tod das geringste deiner Übel sein.*
 > 
@@ -42,5 +42,4 @@ Besitzer: "[[Varon]]"
 
 - **Verfasserin:** Der Schreibstil und die magische Signatur der Tinte deuten auf [[Zesstra Oloré]] hin. Sie ist eine hochrangige Priesterin von **[[Haus Jaelre]]**, die dafür bekannt ist, Operationen an der Oberfläche mit brutaler Effizienz zu leiten.
 - **Kontext:** Der Brief beweist, dass der Diebstahl kein Zufall war. Es ist eine koordinierte militärische Operation.
-- **Die Begriffe:** - *"Herzen des Mythals"* ist ein poetischer Drow-Begriff für die **[[Schattensplitter]]**.
-    - *"Sternenwarte"* ist ein direkter Hinweis auf das Versteck in **[[Essembra]]**.
+- **Die Begriffe:** - *"Herzen des Mythals"* ist ein poetischer Drow-Begriff für die **[[Schattensplitter]]**. "*Der Arkanist"
