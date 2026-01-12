@@ -27,9 +27,13 @@ statblock: inline
 
 ## Werte & Loot:
 
-**Loot:** 
-- Ein Briefsiegel der Zhentarim (versteckt in einer hohlen Absatzsohle). 
-- 15 GM in verschiedenen Währungen (Sembia, Cormyr).
+> [!statblock]-
+> ```statblock
+> name: 
+> ```
+
+> [!loot]- Loot
+> Ein Briefsiegel der Zhentarim (versteckt in einer hohlen Absatzsohle) 
 
 ## DM Wissen
 

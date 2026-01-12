@@ -23,7 +23,13 @@ statblock: inline
 
 ## Werte & Loot:
 
-[Link zum Statblock / (HP, AC) , Loot]
+> [!statblock]-
+> ```statblock
+> name: 
+> ```
+
+> [!loot]- Loot
+> 
 
 ## DM Wissen
 
