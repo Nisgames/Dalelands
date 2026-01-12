@@ -44,27 +44,3 @@ Die Yuan Ti versklavten ihn aufgrund seiner Herkunft als Gehilfen führ einen ih
 Seine Haut wurde Lila, seine augen zu goldenen Schlangenaugen und seine Zunge spaltete sich.
 Nach 4 weiteren Jahren ergab sich endlich die Möglichkeit zur Flucht. Jorvan entkam nur knapp und wurde verfolgt.
 In diesem Moment traf er auf [[Tado]] und [[Elina]] die ihm gegen seine Verfolger hielfen. Sie erzählten ihm auch vom Job des Abenteurers, was für ihn der perfekte Job war um stark genug für seine Rache zu werden und gleichzeitig anderen in seiner Lage helfen zu können
-
-## Sessions
-#### Teilgenommen
-```dataview
-TABLE WITHOUT ID
-	file.link as Session,
-	DM as DM,
-	date as Datum
-FROM #Session AND !"3-DM"
-WHERE
-	contains(Players, this.file.link)
-SORT date ASC
-```
-#### Nicht teilgenommen
-```dataview
-TABLE WITHOUT ID
-	file.link as Session,
-	DM as DM,
-	date as Datum
-FROM #Session AND !"3-DM"
-WHERE
-	!contains(Players, this.file.link)
-SORT date ASC
-```
