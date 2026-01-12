@@ -4,8 +4,9 @@ tags:
 ---
 
 ## Zusammenfassung
-Das Mythal war der magische Schutzschild und die Atmosphäre, die **[[Myth Drannor]]** durchdrang und am Leben hielt. Es wurde während der **[[Die große Katastrophe]]** (1487 DR) zerschmettert, als die Schattenstadt Thultanthar darauf stürzte.
-Heute ist es keine schützende Blase mehr, sondern eine Quelle wilder, korrupter Magie.
+
+Das [[Mythal]] war der magische Schutzschild der [[Myth Drannor]] durchdrang und am Leben hielt. 
+Es wurde während der [[Die große Katastrophe]] (1487 DR) zerschmettert, als die Schattenstadt Thultanthar darauf stürzte.
 
 ## Details
 
