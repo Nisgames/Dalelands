@@ -47,7 +47,7 @@
 
 **DM-Wissen:**
 * Die Reiterin ist eine **Drow-Botin** von [[Haus Jaelre]].
-* Die "bleiche Haut" im Mondlicht ist typisch für Drow (oder Mondelfen), aber in Mistledale assoziiert man das sofort mit Geistern.
+* Die "bleiche Haut" im Mondlicht ist typisch für Drow (oder Mondelfen), aber in [[Mistledale]] assoziiert man das sofort mit Geistern.
 
 ## Kampf
 - [[Varon]]:
