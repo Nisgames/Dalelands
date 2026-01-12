@@ -1,12 +1,9 @@
 
 **Fortsetzung von [[Zeitraub]]**
 
-## Phase 1: Die Hatz durch die Gassen
+## Verfolgung d
 
-**Situation:** Varon hat Vorsprung. Die "Zeitblase" ist geplatzt, Ashabenford ist in Panik. Die Dunkelheit und der aufziehende Nebel erschweren die Sicht.
-**Mechanik:** Skill Challenge (3 Erfolge vor 3 Fehlschlägen).
-
-> [!narrator] Chaos in den Straßen
+> [!narrator] Die Straßen
 > Als ihr aus dem Fenster klettert, schlägt euch die feuchtkalte Nachtluft ins Gesicht. Drinnen herrscht Panik, draußen herrscht unheimliche Normalität – noch.
 > Der Nebel von der [[Ashaba]]-Furt kriecht bereits in die Gassen.
 > 
