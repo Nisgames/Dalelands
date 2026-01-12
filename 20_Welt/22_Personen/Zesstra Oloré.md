@@ -3,7 +3,7 @@ tags:
   - NPC
 Status: Lebendig
 Volk: Drow
-Klasse:
+Klasse: Priesterin der Lolth
 Level:
 Ort: Underdark
 Fraktionen: "[[Haus Jaelre]]"
@@ -23,6 +23,8 @@ statblock: inline
 	Eiskalt, effizient und humorlos. Im Gegensatz zu vielen chaotischen Drow schätzt sie militärische Disziplin. Versagen bestraft sie nicht mit Wut, sondern mit tödlicher Präzision.
 *Sprechweise:* 
 	[Langsam]
+*Rolle:* 
+	Feldkommandantin und Priesterin der Lolth für die Oberflächen-Operationen von [[Haus Jaelre]].
 
 ## Werte & Loot:
 
