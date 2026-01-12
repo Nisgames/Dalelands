@@ -54,6 +54,8 @@
     Er kauert an einem umgestürzten Baum und verbindet sich. Die Kiste ist weg.
     * *Zitat:* "Ihr... seid schneller als gedacht. Aber nicht schnell genug für das Haus Jaelre!"
 
+`encounter: Varon`
+
 ```encounter
 name: Varon
 creatures:
