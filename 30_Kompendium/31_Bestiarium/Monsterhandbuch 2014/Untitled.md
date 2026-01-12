@@ -17,4 +17,6 @@ statblock: inline
 ```encounter
 creatures:
   - Thomasson
+  - Aarakocra-Aeromant
+  - 
 ```
