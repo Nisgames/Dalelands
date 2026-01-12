@@ -1,6 +1,0 @@
-
-
-```encounter
-creatures:
-  - Th
-```

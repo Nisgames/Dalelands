@@ -57,21 +57,6 @@ encounter: inline
     Er kauert an einem umgestürzten Baum und verbindet sich. Die Kiste ist weg.
     * *Zitat:* "Ihr... seid schneller als gedacht. Aber nicht schnell genug für das Haus Jaelre!"
 
-`encounter: Varon`
-`encounter: 3: Hobgoblin, 1d5: Goblin, Custom Monster`
-
-`encounter: 3: Hobgoblin, 1d5: Goblin, Custom`
-
-| 1d2 | Encounter                                      |
-| --- | ---------------------------------------------- |
-| 1   | `encounter: 3: Hobgoblin, 1d5: Goblin, Custom` |
-| 2   | `encounter: 2 Hobgoblin`                       |
-
-^test-encounter
-
-`dice: [[Encounter#^test-encounter]]`
-
-
 ```encounter
 name: Varon
 creatures:
