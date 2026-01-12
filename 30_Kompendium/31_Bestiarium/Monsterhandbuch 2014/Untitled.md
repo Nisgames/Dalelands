@@ -13,7 +13,12 @@ statblock: inline
 > hp: 13
 > ac: 13
 > ```
-
+```statblock
+name: Thomasson
+source: Monsterhandbuch 2014
+hp: 13
+ac: 13
+```
 ```encounter
 creatures:
   - Thomasson
