@@ -2,6 +2,7 @@
 tags:
   - Item
 Klassifikation:
+  - Wundersamer Gegenstand
 Magisch: false
 Seltenheit: Gewöhnlich
 Wert_in_GM: 0
@@ -16,6 +17,7 @@ Besitzer: "[[Varon]]"
 *Seltenheit:* `=this.Seltenheit` 
 *Wert:* `=this.Wert_in_GM` GM
 *Klassifikation:* `=this.Klassifikation` 
+*Besitzer:* `=this.besitzer`
 *Beschreibung:* Ein Stück Pergament.
 
 ## Aussehen
@@ -23,6 +25,7 @@ Besitzer: "[[Varon]]"
 Ein Stück Pergament.
 Darauf das Siegel einer Spinne.
 
+Inha
 Sobald du die Ladung hast, übergib sie an den Kurier an der Furt. Die Splitter müssen noch vor Neumond [[Essembra]] erreichen. Der Erzmagier wartet.
 
 ## Lore
