@@ -10,6 +10,20 @@ modifier: 0
 Spieler: "[[Liam]]"
 ---
 
+## Persönlichkeit
+
+- [Noch in Arbeit]
+
+## Aussehen
+
+- Alter: 110 Jahre
+- Größe: 138cm
+- 
+
+## Hintergrundgeschichte
+
+- [Noch in Arbeit]
+
 ## Sessions
 #### Teilgenommen
 ```dataview
