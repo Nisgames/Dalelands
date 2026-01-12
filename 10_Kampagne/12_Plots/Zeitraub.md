@@ -1,9 +1,9 @@
 ---
 tags:
   - Plot
-Category: B
+Category: A
 resolved: false
-Parent: "[[Schatten-Invasion Haus Jaelre]]"
+Parent: "[[Schatten von Essembra]]"
 ---
 
 ## Zusammenfassung
