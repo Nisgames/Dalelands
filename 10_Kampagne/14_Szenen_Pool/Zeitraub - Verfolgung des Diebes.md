@@ -75,3 +75,5 @@ rollHP:  false
 >     *Text (Drow/Elfisch):* "Übergabe an der Furt bei Mondaufgang. Bring den Fokus nach [[Essembra]]. Warte nicht auf Rückendeckung."
 > * **Geld:** 12 GP, 5 SP (Sembia-Prägung).
 > * **Waffen:** Drow-Dolch (Gift abgewaschen), Handarmbrust.
+
+
