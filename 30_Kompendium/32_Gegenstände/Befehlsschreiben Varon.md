@@ -25,8 +25,9 @@ Besitzer: "[[Varon]]"
 Ein Stück Pergament.
 Darauf das Siegel einer Spinne.
 
-Inha
-Sobald du die Ladung hast, übergib sie an den Kurier an der Furt. Die Splitter müssen noch vor Neumond [[Essembra]] erreichen. Der Erzmagier wartet.
+Inhalt auf [[Elfisch]]:
+> [!narrator] Inhalt
+> Sobald du die Ladung hast, übergib sie an den Kurier an der Furt. Die Splitter müssen noch vor Neumond [[Essembra]] erreichen. Der Erzmagier wartet.
 
 ## Lore
 
