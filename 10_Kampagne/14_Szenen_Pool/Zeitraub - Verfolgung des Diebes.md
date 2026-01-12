@@ -1,3 +1,6 @@
+---
+encounter: inline
+---
 
 **Fortsetzung von [[Zeitraub]]**
 
@@ -56,6 +59,8 @@
 
 `encounter: Varon`
 `encounter: 3: Hobgoblin, 1d5: Goblin, Custom Monster`
+
+`encounter: 3: Hobgoblin, 1d5: Goblin, Custom`
 
 | 1d2 | Encounter                                      |
 | --- | ---------------------------------------------- |
