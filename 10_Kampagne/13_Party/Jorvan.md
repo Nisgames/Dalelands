@@ -29,7 +29,10 @@ Sprachen:
 
 ## Aussehen
 
-- Untere Gesichtshälfte mit Tuch bedeckt 
+- Alter: 15 Jahre
+- Größe: 127cm
+- lila Haut, goldene Schlangenaugen, gespaltene Zunge
+- untere Gesichtshälfte mit Tuch bedeckt 
 - heruntergekommene Kleidung
 
 ## Hintergrundgeschichte
