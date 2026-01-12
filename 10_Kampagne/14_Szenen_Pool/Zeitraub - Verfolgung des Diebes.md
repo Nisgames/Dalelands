@@ -60,7 +60,15 @@ creatures:
   - Varon (Drow)
 ```
 
-- [[Schattensplitter]] 
-    * **Item:** Das defekte [[Amulett der Zeit]] 
-    * **Intel:** Brief in Drow-Elfisch: *"Zum Stein des Paktes. Der Erzmagier ist ungeduldig."*
-    * **Schlüssel:** Ein einfacher Eisenschlüssel.
+**Kampf-Verhalten:**
+* Er will nicht fliehen (er ist zu erschöpft), er will so viele wie möglich mitnehmen.
+* **Zitat bei Initiative:** "Das Haus Jaelre dankt für eure 'Spende'."
+
+**Loot (Angepasst):**
+> [!loot] Beute bei Varon
+> * **Keine Kiste!**
+> * **Das Amulett der Zeit:** (Defekt/Ausgebrannt). 
+> * **Befehlsschreiben:** Ein Stück Pergament, eilig in eine Gürteltasche gestopft. Darauf das Siegel einer Spinne.
+>     *Text (Drow/Elfisch):* "Übergabe an der Furt bei Mondaufgang. Bring den Fokus nach [[Essembra]]. Warte nicht auf Rückendeckung."
+> * **Geld:** 12 GP, 5 SP (Sembia-Prägung).
+> * **Waffen:** Drow-Dolch (Gift abgewaschen), Handarmbrust.
