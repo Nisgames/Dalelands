@@ -67,20 +67,38 @@
 }
 
 
-/* Statblock Callout Type */
+
+
+/* Statblock Callout für Fancy-a-Story */
 .callout[data-callout="statblock"] {
-    --callout-color: 122, 22, 22; /* Ein dunkles D&D Rot */
-    --callout-icon: lucide-skull; /* Totenkopf Icon */
-    border: 1px solid rgba(var(--callout-color), 0.5);
+    /* Nutze die Akzentfarbe des Themes statt hartem Rot */
+    --callout-color: var(--color-accent-rgb, 122, 22, 22); 
+    --callout-icon: lucide-skull;
+    
+    /* Entferne den klobigen Hintergrund, damit es wie gedruckt aussieht */
+    background-color: transparent;
+    
+    /* Ein feinerer Rahmen, der zum Buch-Stil passt */
+    border: 1px solid rgba(var(--callout-color), 0.25);
+    border-left: 3px solid rgba(var(--callout-color), 0.8);
+    box-shadow: none; /* Kein Schlagschatten für flachen Look */
 }
 
-/* Anpassung des Inhalts: Kein Padding, damit der Statblock nahtlos passt */
+/* Der Titelbalken: Weniger "Button-Look", mehr "Überschrift" */
+.callout[data-callout="statblock"] .callout-title {
+    background-color: rgba(var(--callout-color), 0.05);
+    font-family: var(--font-head); /* Nutzt die Überschriften-Schrift des Themes */
+    color: rgb(var(--callout-color));
+    padding-bottom: 4px;
+}
+
+/* Der Inhalt: Nahtlos ohne Innenabstand für den Statblock */
 .callout[data-callout="statblock"] .callout-content {
     padding: 0;
-    background-color: transparent; /* Hintergrund des Themes durchlassen oder transparent für den Statblock */
+    margin-top: 5px;
 }
 
-/* Optional: Wenn du willst, dass der Callout im 'Dark Mode' etwas heller ist, damit er sich abhebt */
+/* Dark Mode Anpassung: Etwas mehr Kontrast, falls nötig */
 .theme-dark .callout[data-callout="statblock"] {
-    background-color: rgba(0, 0, 0, 0.2);
+    background-color: rgba(0, 0, 0, 0.1); 
 }
