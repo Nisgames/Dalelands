@@ -20,24 +20,12 @@ Besitzer: "[[Varon]]"
 *Besitzer:* `=this.besitzer`
 *Beschreibung:* Ein Stück Pergament.
 
-## Aussehen
-
-Ein Stück Pergament.
-Darauf das Siegel einer Spinne.
-
-Inhalt auf [[Elfisch]]:
-> [!narrator] Inhalt
-> Sobald du die Ladung hast, übergib sie an den Kurier an der Furt. Die Splitter müssen noch vor Neumond [[Essembra]] erreichen. Der Erzmagier wartet.
-
-
-## Aussehen
-
 - **Material:** Ein dünnes, fast durchscheinendes Pergament, das sich ölig anfühlt (geschwärzte Haut).
 - **Schrift:** Feine, spinnwebenartige Schriftzeichen in silbrig schimmernder Tinte. Die Schrift leuchtet im Mondlicht schwach auf.
 - **Siegel:** Am unteren Rand prangt ein Wachssiegel in tiefem Violett: Eine Spinne, die einen Dolch umklammert (Das Wappen einer Untergruppierung von **[[Haus Jaelre]]**).
 - **Geruch:** Das Papier riecht schwach nach Ozon und verbrannter Erde.
 
-## Inhalt (Übersetzung aus dem Drow-Elfischen)
+## Inhalt
 
 > *"Varon,*
 > 
