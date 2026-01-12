@@ -48,6 +48,17 @@ Spieler: "[[Alina]]"
 - **Aktueller Wohnort:** Floh nach [[Ashabenford]] und lebt dort seit 10 Jahren.
 - **Berufung:** Arbeitet als Guide; ihr Leben besteht aktuell nur aus „Side-Quests“.
 
+#### Bekanntschaften
+
+[[Baumhirte Steffen]] 
+- **Kennenlernen:** Sie hat ihn während einer Quest kennengelernt, bei der sie den Auftrag hatte, ihm seltene Kräuter zu bringen.
+- **Regelmäßiger Kontakt:** Die beiden treffen sich einmal pro Woche und rauchen dann gemeinsam Pfeife.    
+
+[[Halbling-Familie Wiesengrund]]
+- **Hintergrund:** Die Familie ist sehr wohlhabend („sehr reich“), da sie auf ihren Ländereien einen Schatz ausgegraben haben.
+- **Aktueller Status:** Sie befinden sich momentan auf einer Weltreise.
+- **Beziehung:** Die Spielerin hat die Familie als „Touri-Guide“ herumgeführt.
+
 ## Sessions
 #### Teilgenommen
 ```dataview
