@@ -11,7 +11,7 @@ Es wurde während der [[Die große Katastrophe]] (1487 DR) zerschmettert, als di
 ## Details
 
 - **Ursprüngliche Funktion:** Ein uraltes Hochmagie-Feld, das die Stadt schützte, Gebäude fliegen ließ und das Wetter kontrollierte.
-- **Der Bruch:** Beim Aufprall der Schattenstadt wurde das Mythal physisch und magisch "zerbrochen".
+- **Der Bruch:** Beim Aufprall der Schattenstadt wurde das [[Mythal]] physisch und magisch "zerbrochen".
 - **Die Folgen heute:** - Die Energie hat sich in [[Schattensplitter]]n kristallisiert (schwarze Kristalle im Wald).
 	- Das Gebiet um die Ruinen ist magisch instabil (Wilde Magie).
 
