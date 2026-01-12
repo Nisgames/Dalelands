@@ -61,6 +61,7 @@ encounter: inline
 name: Varon
 creatures:
   - Varon (Drow)
+rollHP:  false
 ```
 
 **Kampf-Verhalten:**
