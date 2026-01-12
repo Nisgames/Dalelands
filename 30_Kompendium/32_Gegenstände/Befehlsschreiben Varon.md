@@ -29,6 +29,30 @@ Inhalt auf [[Elfisch]]:
 > [!narrator] Inhalt
 > Sobald du die Ladung hast, übergib sie an den Kurier an der Furt. Die Splitter müssen noch vor Neumond [[Essembra]] erreichen. Der Erzmagier wartet.
 
+
+## Aussehen
+
+- **Material:** Ein dünnes, fast durchscheinendes Pergament, das sich ölig anfühlt (geschwärzte Haut).
+- **Schrift:** Feine, spinnwebenartige Schriftzeichen in silbrig schimmernder Tinte. Die Schrift leuchtet im Mondlicht schwach auf.
+- **Siegel:** Am unteren Rand prangt ein Wachssiegel in tiefem Violett: Eine Spinne, die einen Dolch umklammert (Das Wappen einer Untergruppierung von **[[Haus Jaelre]]**).
+- **Geruch:** Das Papier riecht schwach nach Ozon und verbrannter Erde.
+
+## Inhalt (Übersetzung aus dem Drow-Elfischen)
+
+> *"Varon,*
+> 
+> *Sobald du die 'Herzen des Mythals' gesichert hast, übergib sie unverzüglich an den Kurier an der Furt. Verschwende keine Zeit mit Spielereien.*
+> 
+> *Der Arkanist **[[Valzoun]]** erwartet die Lieferung in der **Sternenwarte bei Essembra**. Er behauptet, der Fokus sei bereit. Wir werden sehen.*
+> 
+> *Lass dich nicht fangen. Wenn du scheiterst, wird dein Tod das geringste deiner Übel sein.*
+> 
+> *Im Namen der Mutter,*
+> *Z."*
+
 ## Lore
 
-[Geschmiedet von Zwerg]
+- **Verfasserin:** Der Schreibstil und die magische Signatur der Tinte deuten auf [[Zesstra Oloré]] hin. Sie ist eine hochrangige Priesterin von **[[Haus Jaelre]]**, die dafür bekannt ist, Operationen an der Oberfläche mit brutaler Effizienz zu leiten.
+- **Kontext:** Der Brief beweist, dass der Diebstahl kein Zufall war. Es ist eine koordinierte militärische Operation.
+- **Die Begriffe:** - *"Herzen des Mythals"* ist ein poetischer Drow-Begriff für die **[[Schattensplitter]]**.
+    - *"Sternenwarte"* ist ein direkter Hinweis auf das Versteck in **[[Essembra]]**.
