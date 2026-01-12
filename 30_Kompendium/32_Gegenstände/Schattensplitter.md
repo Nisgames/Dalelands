@@ -31,7 +31,7 @@ Besitzer: Viele
 
 ## Lore
 
-- Wurden bei der Zerstörung von [[Myth Drannor]] und seinem Mythal
+- Wurden bei der Zerstörung von [[Myth Drannor]] und seinem Mythal erzeugt
 	- Liegen dementsprechend seit einigen Jahren in den ganzen Dalelands verteilt
 - Magisch hochreaktiv (Schattenfell-Energie & Wilde Magie).
 - Mutieren selten auch die Umgebung (Flora/Fauna).
