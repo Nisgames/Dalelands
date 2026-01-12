@@ -1,7 +1,7 @@
 
 **Fortsetzung von [[Zeitraub]]**
 
-## Verfolgung d
+## Verfolgung des Diebes
 
 > [!narrator] Die Straßen
 > Als ihr aus dem Fenster klettert, schlägt euch die feuchtkalte Nachtluft ins Gesicht. Drinnen herrscht Panik, draußen herrscht unheimliche Normalität – noch.
@@ -23,11 +23,16 @@
 
 ## [[Ashaba]] 
 
-Die Vibration führt sie südlich am [[Ashaba]] entlang.
+*Der Fluss ist hier breit, aber durch die Furt flach. Allerdings hat Varon die Furt gemieden, um Wachen zu umgehen, und ist direkt durch die Strömung geschwommen.*
 
-Die Spur des Splitters (Vibration) führt zum Fluss. Die Brücke ist zu weit weg.
-* **Check:** Athletics (STR) DC 12 (Schwimmen) oder Acrobatics (DEX) DC 12 (Treibholz).
-* **Fail:** 1 Stufe Erschöpfung durch das eisige Wasser.
+> [!narrator] Am Ufer
+> Der Ashaba gurgelt schwarz und bedrohlich vor euch. Nebelschwaden tanzen über dem Wasser, als wären es Geister.
+> Das Vibrieren des Splitters wird stärker. Es deutet direkt auf das andere Ufer, wo der Waldrand wie eine schwarze Wand aufragt. Es gibt hier keine Brücke. Das Wasser sieht eisig aus.
+
+**Hindernis:** Den Fluss durchqueren (ca. 15m schwimmen/waten).
+* **Check:** Athletics (STR) DC 12 (Gegen die Strömung) oder Acrobatics (DEX) DC 12 (Über Treibholz/Steine balancieren).
+* **Fail:** 1. Der Charakter wird abgetrieben (landet 30ft flussabwärts, kommt 1 Runde später zum Kampf/zur Szene).
+	2. **Kälteschock:** 1 Stufe Erschöpfung (Exhaustion) durch das eisige Herbstwasser.
 
 ## Begegnung im Nebel
 
