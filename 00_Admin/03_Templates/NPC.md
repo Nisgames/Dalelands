@@ -23,11 +23,10 @@ statblock: inline
 
 ## Werte & Loot:
 
-
-> [!stat] Title
-> Contents
-
-
+> [!statblock]-
+> ```statblock
+> name: 
+> ```
 
 > [!loot]- Loot
 > 
