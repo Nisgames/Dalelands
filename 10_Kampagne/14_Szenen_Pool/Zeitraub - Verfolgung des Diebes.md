@@ -19,9 +19,10 @@
 - **Athletik (STR):** Sich durch die Menge aus fliehenden Gästen und Ochsengespannen drängen.
 
 **Konsequenzen:**
-- **Erfolg:** Sie erreichen das Flussufer, kurz bevor Varon das andere Ufer erreicht. Sie sehen ihn ins Wasser steigen.
-- **Misserfolg:** Sie verlieren Zeit. Varon hat bereits Deckung gesucht, als sie den Fluss erreichen (Gegner hat im Endkampf *Vorteil* auf Stealth/Initiative oder hat bereits eine Falle/Falle gestellt).
+- **Erfolg:** Sie erreichen das Flussufer, kurz bevor [[Varon]] das andere Ufer erreicht. Sie sehen ihn ins Wasser steigen.
+- **Misserfolg:** Sie verlieren Zeit. [[Varon]] hat bereits Deckung gesucht, als sie den Fluss erreichen (Gegner hat im Endkampf *Vorteil* auf Stealth/Initiative oder hat bereits eine Falle/Falle gestellt).
 
+*Verfolgen den Dieb durch *
 
 ## [[Ashaba]] 
 
