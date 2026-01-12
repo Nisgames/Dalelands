@@ -2,13 +2,13 @@
 tags:
   - NPC
 Status: Lebendig
-Volk:
+Volk: Drow
 Klasse:
 Level:
-Ort:
-Fraktionen:
-Rolle:
-Relevanz:
+Ort: Underdark
+Fraktionen: "[[Haus Jaelre]]"
+Rolle: Feldkommandantin
+Relevanz: Mittel
 statblock: inline
 ---
 
@@ -17,10 +17,12 @@ statblock: inline
 *Klasse/Beruf:* `=this.Klasse` 
 *Volk:* `=this.Volk` 
 *Wohnort:* `=this.Ort` 
-*Aussehen:* [Klein mit Bart]
+*Aussehen:* 
+	[Klein mit Bart]
 *Charakterzug:*
 	Eiskalt, effizient und humorlos. Im Gegensatz zu vielen chaotischen Drow schätzt sie militärische Disziplin. Versagen bestraft sie nicht mit Wut, sondern mit tödlicher Präzision.
-*Sprechweise:* [Langsam]
+*Sprechweise:* 
+	[Langsam]
 
 ## Werte & Loot:
 
