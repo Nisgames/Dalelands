@@ -1,5 +1,6 @@
 ---
 tags:
+  - Monster
 sourcebook: Homebrew
 CR:
 statblock: inline
@@ -7,7 +8,7 @@ statblock: inline
 
 ```statblock
 name: string
-source: Monsterhandbuch 2024
+source: Homebrew
 size: string
 type: string
 subtype: string
@@ -17,7 +18,6 @@ hp: number
 hit_dice: string
 speed: string
 stats: [number, number, number, number, number, number]
-fage_stats: [number, number, number, number, number, number, number, number, number]
 saves:
 - Stärke: 0
 - Geschicklichkeit: 0
