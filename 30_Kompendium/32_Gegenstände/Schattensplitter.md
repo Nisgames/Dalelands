@@ -2,13 +2,14 @@
 tags:
   - Item
 Klassifikation:
+  - Wundersamer Gegenstand
 Magisch: true
-Seltenheit:
+Seltenheit: Sehr selten
 Wert_in_GM: 1000
 Gewicht in KG:
 Einstimmung: false
 Ort: "[[Dalelands]]"
-Besitzer:
+Besitzer: Viele
 ---
 
 ## Mechanik
@@ -16,7 +17,7 @@ Besitzer:
 *Seltenheit:* `=this.Seltenheit` 
 *Wert:* `=this.Wert_in_GM` GM
 *Klassifikation:* `=this.Klassifikation` 
-*Schaden:* `=this.Schaden`
+*Besitzer:* `=this.besitzer`
 *Beschreibung:* [Was tut es]
 
 ## Aussehen

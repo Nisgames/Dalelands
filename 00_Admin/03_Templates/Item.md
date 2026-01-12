@@ -16,7 +16,7 @@ Besitzer:
 *Seltenheit:* `=this.Seltenheit` 
 *Wert:* `=this.Wert_in_GM` GM
 *Klassifikation:* `=this.Klassifikation` 
-*Schaden:* `=this.Schaden`
+*Besitzer:* `=this.besitzer`
 *Beschreibung:* [Was tut es]
 
 ## Aussehen
