@@ -19,7 +19,10 @@ Spieler: "[[Liam]]"
 - Alter: 110 Jahre
 - Größe: 138cm
 - Dunkelbraune Haare, kurzrasierte Seiten und Wikinger-Zopf in der Mitte
-- Langer, ordentlich zu 5 Zopfen geflochtener Bart (2 Zöpfe in Schnurrbart, 3 in)
+- Langer, ordentlich zu 5 Zopfen geflochtener Bart (2 Zöpfe in Schnurrbart, 3 in Hauptbart)
+- Freundlich guckende, strahlend hellblaue Augen
+- Trägt einen Waffenrock über einer Kettenrüstung
+- In der linken Hand einen 
 
 ## Hintergrundgeschichte
 
