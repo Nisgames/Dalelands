@@ -14,6 +14,19 @@ Spieler: "[[Alina]]"
 
 - Je nach Jahreszeit ihrer Eladrin-Herkunft
 
+|**Jahreszeit**|**Emotionale Ausprägung**|
+|---|---|
+|**Frühling**|Fröhlich, energetisch, neugierig, optimistisch.|
+|**Sommer**|Leidenschaftlich, mutig, reizbar, aggressiv.|
+|**Herbst**|Gütig, hilfsbereit, freundlich, ruhiger.|
+|**Winter**|Melancholisch, distanziert, nachdenklich, zynisch.
+
+- **Eigenschaften:** Wachsam und teils abergläubisch. Sie interpretiert vieles als „höheres Zeichen“ und führt ein Notizbuch für ihre Beobachtungen.
+- **Bewältigung:** Verdrängt ihre tragische (Geschichte) konsequent.
+- **Ziele:** Sucht nach ihrem tieferen Sinn und ihrer Aufgabe im Leben.
+- **Tierliebe:** Tötet oder bekämpft keine Tiere, verharmlost sogar gefährliche Kreaturen und ist sehr ungern ohne tierische Begleitung alleine.
+- **Gesinnung:** Neutral Gut.
+
 ## Aussehen
 
 - normale Statur, sportlich
