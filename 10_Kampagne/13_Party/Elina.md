@@ -29,6 +29,8 @@ Spieler: "[[Alina]]"
 
 ## Aussehen
 
+![[Pasted image 20260112111147.png]]
+
 - normale Statur, sportlich
 - offene, wellige Haare
 - spitze Ohren (Elf)
