@@ -69,6 +69,8 @@
 
 
 
+
+
 /* Dezentere Statblock Callout (Loot-Style) */
 .callout[data-callout="statblock"] {
     /* Ein dunkleres, edleres Rot (RGB: 130, 20, 20) statt Knallrot */
@@ -81,7 +83,7 @@
     
     /* Optional: Ein sehr feiner Rahmen außen (wie bei Loot oft üblich). 
        Falls du gar keinen Rahmen willst, setze "border: none;" */
-    border: 1px solid rgba(var(--callout-color), 0.2);
+    border: 1px solid rgba(255, 115, 0, 0.4);
     
     margin: 1em 0;
     padding: 0;
