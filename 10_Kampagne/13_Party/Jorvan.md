@@ -23,7 +23,12 @@ Spieler: "[[Mika]]"
 #### Makel
 - Indoktrination der Yuan Ti hat sein Verständnis von Gut und Böse verschwimmen lassen
 #### Feinde
-- Yuan Ti Zu
+- Yuan Ti Zivilisation
+
+## Aussehen
+
+- Untere Gesichtshälfte mit Tuch bedeckt 
+- heruntergekommene Kleidung
 
 ## Hintergrundgeschichte
 
