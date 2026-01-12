@@ -43,7 +43,7 @@
 
 **Dialog:** 
 * **Was er sah:** "Ein bleicher Geist auf einem schwarzen Ross! Ihre Haare wehten wie weißer Rauch im Wind. Sie hat nicht mal das Wasser berührt, so schnell war das Teufelsvieh!"
-* **Über die Zweite Person (Varon):** "Und der andere... der Schattenmann. Er hat ihr etwas gegeben. Eine Kiste, schwer wie Sünde. Dann ist er da rein gekrochen, wie eine Ratte." *Deutet zum Waldrand.*
+* **Über die Zweite Person (Varon):** "Und der andere... der Schattenmann. Er hat ihr etwas gegeben. Eine Kiste. Dann ist er in die Richtung gelaufen." *Deutet zum Waldrand.*
 
 **DM-Wissen:**
 * Die Reiterin ist eine **Drow-Botin** von [[Haus Jaelre]].
