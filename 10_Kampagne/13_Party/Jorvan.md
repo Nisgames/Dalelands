@@ -16,7 +16,7 @@ Jorvan wuchs als Kind in der Trank Brauerei seiner Eltern auf. Mit 8 wurde er vo
 Die Yuan Ti versklavten ihn aufgrund seiner Herkunft als Gehilfen führ einen ihrer Artificer Alchemisten. Durch das Tüfteln und Experimentieren mit Tränken, was ihn an seine Vergangenheit erinnerte, hielt Jorvan sich seine Persöhnlichkeit so gut es ging zusammen. Nach 3 Jahren stieg er selbst zu einem Vollwertigen Alchemisten Artificer auf, wurde jedoch gezwungener Maßen einem Ritual unterzogen, das ihn zum Yuan Ti machte.
 Seine Haut wurde Lila, seine augen zu goldenen Schlangenaugen und seine Zunge spaltete sich.
 Nach 4 weiteren Jahren ergab sich endlich die Möglichkeit zur Flucht. Jorvan entkam nur knapp und wurde verfolgt.
-In diesem Moment traf er auf [[Tado]] und [[Elina]] die ihm gegen seine Verfolger hielfen. Sie erzählten ihm auch vom Job des Abenteurers, was für ihn der Perfekte Job war um stark genug für seine Rache zu werden und gleichzeitig anderen in seiner Lage helfen zu können
+In diesem Moment traf er auf [[Tado]] und [[Elina]] die ihm gegen seine Verfolger hielfen. Sie erzählten ihm auch vom Job des Abenteurers, was für ihn der perfekte Job war um stark genug für seine Rache zu werden und gleichzeitig anderen in seiner Lage helfen zu können
 
 ## Sessions
 #### Teilgenommen
