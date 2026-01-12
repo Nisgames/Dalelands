@@ -13,10 +13,10 @@
 > Ihr seht keine Spur des Diebes, aber ihr *spürt* ihn. Der Schattensplitter, der aus der Kiste gefallen ist, vibriert in eurer Tasche wie ein Kompass, der nach seinem Zwilling sucht. Das Summen zieht euch nach Süden, zum Fluss.
 
 **Mögliche Checks (DC 12):**
-- **Survival (WIS):** Spuren im Matsch lesen ([[Varon]] hinterlässt seltsam leichte Abdrücke).
-- **Perception (WIS):** Das Aufblitzen des violetten Lichts im Nebel sehen.
-- **Arcana (INT):** Die magische Resonanz des Amuletts orten.
-- **Athletics (STR):** Sich durch die Menge aus fliehenden Gästen und Ochsengespannen drängen.
+- **Überlebenskunst (WIS):** Spuren im Matsch lesen ([[Varon]] hinterlässt Abdrücke).
+- **Wahrnehmung (WIS):** Das Aufblitzen des violetten Lichts im Nebel sehen.
+- **Arkane Kunde (INT):** Die magische Resonanz des Amuletts orten.
+- **Athletik (STR):** Sich durch die Menge aus fliehenden Gästen und Ochsengespannen drängen.
 
 **Konsequenzen:**
 - **Erfolg:** Sie erreichen das Flussufer, kurz bevor Varon das andere Ufer erreicht. Sie sehen ihn ins Wasser steigen.
