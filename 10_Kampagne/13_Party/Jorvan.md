@@ -14,6 +14,7 @@ Sprachen:
 
 ## Persönlichkeit
 
+- **Gesinnung:** Chaotisch neutral
 #### Merkmale
 - realtiv misstrauisch 
 - bischen verrückt 
@@ -32,6 +33,7 @@ Sprachen:
 - Alter: 15 Jahre
 - Größe: 127cm
 - lila Haut, goldene Schlangenaugen, gespaltene Zunge
+- weiße Haare
 - untere Gesichtshälfte mit Tuch bedeckt 
 - heruntergekommene Kleidung
 
