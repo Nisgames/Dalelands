@@ -2550,7 +2550,7 @@
   "autoParse": true,
   "disableSRD": false,
   "tryToRenderLinks": true,
-  "debug": false,
+  "debug": true,
   "notifiedOfFantasy": false,
   "hideConditionHelp": false,
   "alwaysImport": false,
