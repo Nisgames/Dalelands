@@ -78,7 +78,8 @@ Er umklammert eine schwere, eisenbeschlagene Kiste mit beiden Händen, als wäre
 > "Hä? Wo... WO IST SIE HIN?!"
 > Er springt auf und wirft seinen Stuhl um. "Sie war eben noch hier! Ich hatte sie in den Händen!"
 
-
+*Was macht ihr?*
+*[[Orin]] sucht verzweifelt unter dem Tisch und im Raum*
 
 ---
 
