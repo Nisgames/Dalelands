@@ -75,10 +75,29 @@ Er umklammert eine schwere, eisenbeschlagene Kiste mit beiden Händen, als wäre
 > Schreie. Panik.  
 > Und [[Orin]], der auf seine leeren Hände starrt.
 
-**"Sie ist weg! Wer hat sie geklaut?!"**
-- *Befehl:* "Riegelt die Türen ab! Niemand verlässt den Raum! Ich hole die Jungs."
-	- *Rennt raus*
-- *Draußen:* Man hört schwere Stiefel der [[Zhentarim]] Schläger.
+
+## Phase 1: Die Goldene Sekunde
+
+*Der Zeitstopp endet. Die Realität kehrt schlagartig zurück.*
+
+> [!narrator] Das Erwachen
+> Die Stille zerspringt. Der Lärm der Taverne setzt wieder ein, als wäre nichts gewesen.
+> Nur an eurem Tisch herrscht das Auge des Sturms.
+> 
+> [[Orin]] blinzelt. Er spürt, dass das Gewicht in seinen Händen fehlt. Er blickt nach unten.
+> Seine Hände umklammern nichts als Luft. 
+> "Hä?", macht er, intelligent wie ein Stück Brot. Dann weichen seine Augen vor Schreck auf. "Wo... WO IST SIE HIN?!"
+> 
+> Er springt auf, wirft seinen Stuhl um. "Sie war eben noch hier! Ich habe sie festgehalten!"
+> Er hat den Dieb nicht gesehen. Er hat nichts gesehen. Für ihn hat sich die Kiste in Luft aufgelöst.
+
+**Situation am Tisch:**
+1.  **Der Splitter:** Liegt am Boden, wo die Kiste gegen den Rahmen schlug. Er pulsiert schwach violett.
+2.  **Das Fenster:** Schwingt im Wind.
+3.  **Die Spieler:** Haben jetzt genau eine Chance zu handeln (Splitter nehmen? Verstecken? Orin beruhigen?), bevor die Tür aufgeht.
+
+*Wenn die Spieler den Splitter offen liegen lassen oder ihn gut sichtbar in der Hand halten, wird das gleich ein Problem.*
+
 
 ---
 
