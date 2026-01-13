@@ -15,6 +15,8 @@ Sie bieten Schutz gegen Gold.
 Viele misstrauen ihnen, aber ohne ihre Karawanen würde der Handel zusammenbrechen.
 Man arbeitet mit ihnen, aber man dreht ihnen nie den Rücken zu.
 
+![[Pasted image 20260113145926.png|right|150]]
+
 ## Agenda
 
 [Großes Ziel]
