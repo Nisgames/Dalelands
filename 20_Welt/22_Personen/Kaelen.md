@@ -39,7 +39,7 @@ statblock: inline
 
 ## DM Wissen
 
-- War dafür zuständig, die Kiste mit [[Schattensplitter]]n von [[Orin]] entgegenzunehm
+- War dafür zuständig, die Kiste mit [[Schattensplitter]]n von [[Orin]] entegegen zu nehmen.
 
 #### Begegnungen
 ```dataview
