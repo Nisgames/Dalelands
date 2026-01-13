@@ -2,10 +2,10 @@
 tags:
   - NPC
 Status: Lebendig
-Volk:
-Klasse:
+Volk: Mensch
+Klasse: Schläger
 Level:
-Ort:
+Ort: "[[Ashabenford]]"
 Fraktionen: "[[Zhentarim]]"
 Rolle: Höherer Schläger
 Relevanz: Mittel
@@ -18,7 +18,9 @@ statblock: inline
 *Volk:* `=this.Volk` 
 *Wohnort:* `=this.Ort` 
 *Aussehen:* 
-	[Klein mit Bart]
+	Unglaublich breit gebaut und groß für einen Menschen.
+	Muskulös und Hände wie ein Oger.
+	
 *Charakterzug:* 
 	[Hasst Wein]
 *Sprechweise:* 
