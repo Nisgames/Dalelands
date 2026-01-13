@@ -75,19 +75,13 @@ Er umklammert eine schwere, eisenbeschlagene Kiste mit beiden Händen, als wäre
 > Schreie. Panik.  
 > Und [[Orin]], der auf seine leeren Hände starrt.
 
-
-## Phase 1: Die Goldene Sekunde
-
-*Der Zeitstopp endet. Die Realität kehrt schlagartig zurück.*
+*Einige Sekunden später*
 
 > [!narrator] Das Erwachen
 > Die Stille zerspringt. Der Lärm der Taverne setzt wieder ein, als wäre nichts gewesen.
-> Nur an eurem Tisch herrscht das Auge des Sturms.
 > 
-> [[Orin]] blinzelt. Er spürt, dass das Gewicht in seinen Händen fehlt. Er blickt nach unten.
-> Seine Hände umklammern nichts als Luft. 
-> "Hä?", macht er, intelligent wie ein Stück Brot. Dann weichen seine Augen vor Schreck auf. "Wo... WO IST SIE HIN?!"
-> 
+> "Hä? Wo... WO IST SIE HIN?!"
+> [[Orin]]
 > Er springt auf, wirft seinen Stuhl um. "Sie war eben noch hier! Ich habe sie festgehalten!"
 > Er hat den Dieb nicht gesehen. Er hat nichts gesehen. Für ihn hat sich die Kiste in Luft aufgelöst.
 
