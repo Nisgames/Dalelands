@@ -27,7 +27,7 @@ statblock: inline
 	Lässt lieber Taten als Worte sprechen.
 	Relativ leicht reizbar.
 *Sprechweise:* 
-	[Langsam]
+	Tief, langsam, gewählt. Trotz seines Auftretens handelt er meistens kühl.
 
 ## Werte & Loot:
 
@@ -39,7 +39,7 @@ statblock: inline
 
 ## DM Wissen
 
-[Motivation, Geheimnisse, Lügen]
+- War dafür zuständig, die Kiste mit [[Schattensplitter]]n von [[Orin]] entgegenzunehm
 
 #### Begegnungen
 ```dataview
