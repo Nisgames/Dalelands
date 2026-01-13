@@ -20,9 +20,12 @@ statblock: inline
 *Aussehen:* 
 	Unglaublich breit gebaut und groß für einen Menschen.
 	Muskulös und Hände wie ein Oger.
-	
+	Trägt eine hochwertige Lederrüstung mit schwarzen Nieten. 
+	Sein Kopf ist kahlrasiert, bis auf einen Zopf am Hinterkopf
+	Eine hässliche Brandnarbe zieht sich an seinem Hals hoch
 *Charakterzug:* 
-	[Hasst Wein]
+	Lässt lieber Taten als Worte sprechen.
+	Relativ leicht reizbar.
 *Sprechweise:* 
 	[Langsam]
 
