@@ -74,15 +74,10 @@ Er umklammert eine schwere, eisenbeschlagene Kiste mit beiden Händen, als wäre
 > Der Lärm aller Anwesenden explodiert förmlich in euren Ohren. Irgendwo fällt jemand krachend zu Boden. Gläser zerspringen durch die plötzlich entstandene Druckwelle. Das Feuer im Kamin lodert auf.  
 > Schreie. Panik.  
 > Und [[Orin]], der auf seine leeren Hände starrt.
+> 
 > "Hä? Wo... WO IST SIE HIN?!"
-> [[Orin]] springt auf und wirft seinen Stuhl um. "Sie war eben noch hier! Ich hatte sie in den Händen!"
+> Er springt auf und wirft seinen Stuhl um. "Sie war eben noch hier! Ich hatte sie in den Händen!"
 
-**Situation am Tisch:**
-1.  **Der Splitter:** Liegt am Boden, wo die Kiste gegen den Rahmen schlug. Er pulsiert schwach violett.
-2.  **Das Fenster:** Schwingt im Wind.
-3.  **Die Spieler:** Haben jetzt genau eine Chance zu handeln (Splitter nehmen? Verstecken? Orin beruhigen?), bevor die Tür aufgeht.
-
-*Wenn die Spieler den Splitter offen liegen lassen oder ihn gut sichtbar in der Hand halten, wird das gleich ein Problem.*
 
 
 ---
