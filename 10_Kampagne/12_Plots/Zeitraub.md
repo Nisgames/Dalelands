@@ -74,16 +74,8 @@ Er umklammert eine schwere, eisenbeschlagene Kiste mit beiden Händen, als wäre
 > Der Lärm aller Anwesenden explodiert förmlich in euren Ohren. Irgendwo fällt jemand krachend zu Boden. Gläser zerspringen durch die plötzlich entstandene Druckwelle. Das Feuer im Kamin lodert auf.  
 > Schreie. Panik.  
 > Und [[Orin]], der auf seine leeren Hände starrt.
-
-*Einige Sekunden später*
-
-> [!narrator] Das Erwachen
-> Die Stille zerspringt. Der Lärm der Taverne setzt wieder ein, als wäre nichts gewesen.
-> 
 > "Hä? Wo... WO IST SIE HIN?!"
-> [[Orin]]
-> Er springt auf, wirft seinen Stuhl um. "Sie war eben noch hier! Ich habe sie festgehalten!"
-> Er hat den Dieb nicht gesehen. Er hat nichts gesehen. Für ihn hat sich die Kiste in Luft aufgelöst.
+> [[Orin]] springt auf und wirft seinen Stuhl um. "Sie war eben noch hier! Ich hatte sie in den Händen!"
 
 **Situation am Tisch:**
 1.  **Der Splitter:** Liegt am Boden, wo die Kiste gegen den Rahmen schlug. Er pulsiert schwach violett.
