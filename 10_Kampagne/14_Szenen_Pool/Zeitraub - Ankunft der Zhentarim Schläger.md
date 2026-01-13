@@ -7,8 +7,8 @@
 > Die schwere Eichentür schwingt auf. Drei Männer treten aus dem Regen in die Wärme.
 > Zwei von ihnen sind typische Schläger – breite Schultern, stumpfe Gesichter, Knüppel am Gürtel.
 > 
-> Aber der Mann in der Mitte ist anders. Er ist drahtig, bewegt sich mit der Präzision eines Raubtiers und trägt eine hochwertige Lederrüstung mit schwarzen Nieten. Sein Kopf ist kahlrasier, bis auf einen Zopf am Hinterkopf, und eine hässliche Brandnarbe zieht sich an seinem Hals hoch.
-> Das ist **Kaelen**. Und er sieht nicht aus, als würde er verhandeln.
+> Aber der Mann in der Mitte stellt seine Begleiter sogar noch in den Schatten. Er trägt eine hochwertige Lederrüstung mit schwarzen Nieten. Sein Kopf ist kahlrasier, bis auf einen Zopf am Hinterkopf, und eine hässliche Brandnarbe zieht sich an seinem Hals hoch.
+> Das ist **[[Kaelen]]**. Und er sieht nicht aus, als würde er verhandeln.
 
 **Dialog:**
 Kaelen ignoriert den Raum. Er fixiert [[Orin]].
