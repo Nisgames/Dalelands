@@ -31,7 +31,7 @@ statblock: inline
 ## Werte & Loot:
 
 > [!statblock]-
-> ![]
+> ![[Statblock_Gideon_Thorne]]
 
 > [!loot]- Loot 
 > - Der Gehstock (ist eigentlich eine getarnte Degenscheide oder enthält ein Fach für Giftphiolen). 
