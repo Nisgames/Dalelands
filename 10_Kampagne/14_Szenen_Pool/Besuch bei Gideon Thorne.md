@@ -10,7 +10,7 @@ Plot: "[[Geschäft der Zhentarim]]"
 ## Ankunft am Morgen
 
 > [!narrator] Das Kontor
-> Der nächste Morgen ist neblig und kühl. Als ihr am Flussufer ankommt, herrscht bei "Thornes Import & Export" bereits Hochbetrieb.
+> Der Morgen ist neblig und kühl. Als ihr am Flussufer ankommt, herrscht bei [Thornes Kontor]() bereits Hochbetrieb.
 > Arbeiter schleppen Kisten auf einen flachen Flusskahn. Es riecht intensiv nach Zimt, gepökeltem Fisch und feuchtem Holz.
 >
 > Ein Vorarbeiter mit Klemmbrett fängt euch ab: "Wartet hier. Meister Thorne ist beschäftigt."
