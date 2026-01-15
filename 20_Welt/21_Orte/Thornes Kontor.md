@@ -52,7 +52,9 @@ Region: "[[Ashabenford]]"
 
 ## DM Wissen
 
-[Hintergrund, usw]
+* **Sicherheit:** Nachts patrouillieren hier 2 **Wachhunde** (Mastiffs) und ein Söldner (Loyalität gilt dem Gold).
+* **Die Falle:** Die Treppe zum Büro kann manipuliert werden (Hebel unter dem Schreibtisch), um sich in eine Rutsche zu verwandeln (DC 15 Wahrnehmung). Wer darauf steht, rutscht direkt durch eine Klappe ins kalte Flusswasser – oder in ein Netz im "Nassen Lager".
+* **Akustik:** Das Büro ist schallgedämpft. Schreie dringen nicht nach unten in den Verkaufsraum.
 
 #### Bewohner
 ```dataview
