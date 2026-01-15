@@ -32,7 +32,7 @@ statblock: inline
 ## Werte & Loot:
 
 > [!statblock]-
-> ![Statblock_NPC]
+> ![[Statblock_Kaelen]]
 
 > [!loot]- Loot
 > 
