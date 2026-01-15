@@ -7,10 +7,10 @@ statblock: inline
 ---
 
 ```statblock
-name: Varon (Drow)
+name: Varon
 size: Mittelgroß
-type: Humanoider
-subtype: Elf
+type: Elf
+subtype: Drow
 source: Homebrew
 alignment: Neutral Böse
 ac: 15 (Beschlagenes Leder)
