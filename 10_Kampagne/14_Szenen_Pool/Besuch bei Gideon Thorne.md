@@ -20,3 +20,11 @@ Plot: "[[Geschäft der Zhentarim]]"
 > Das Büro im ersten Stock ist eine andere Welt. Der Lärm des Lagers ist hier gedämpft. Ein Kaminfeuer knistert. [[Gideon Thorne]] sitzt hinter einem schweren Mahagoni-Schreibtisch und schreibt mit einer Fasanenfeder in ein Buch.
 > Er blickt auf, lächelt warm und deutet auf die Sessel vor ihm.
 > "Pünktlich. Das schätze ich. Tee? Oder ist es noch zu früh für Wein?"
+
+## Der Handel
+
+**Wenn die Spieler den Splitter aus dem Gasthaus haben:**
+* **Gideon:** *"Darf ich sehen?"* 
+	Er zieht einen Handschuh an, bevor er den Splitter berührt. Er betrachtet ihn gegen das Licht einer Lampe.
+* **Reaktion:** *"Faszinierend. Rohe, ungefilterte Energie. Gefährlich für Amateure, aber... nützlich für Kenner."*
+* **Bezahlung:** Er öffnet eine Schublade und zählt **200 Goldmünzen** (oder Edelsteine im gleichen Wert) auf den Tisch. *"Wie versprochen. Ich halte meine Verträge immer ein."*
