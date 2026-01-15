@@ -35,7 +35,15 @@ statblock: inline
 > ![[Statblock_Kaelen]]
 
 > [!loot]- Loot
-> 
+> * **Am Körper:**
+> 	* 1x Hochwertiger Morgenstern (Wuchtig, gut gepflegt)
+> 	* 1x Beschlagene Lederrüstung mit schwarzen Nieten
+> 	* 1x Silberner Ring mit Symbol der Zhentarim, Wert: 10 GM)
+> 	* 1x Schlüsselbund (Gehört zu einem Lagerhaus in Hillsfar, *Plot-Hook*)
+> * **Beutel:**
+> 	* 15 Goldmünzen (Sold für die Truppe)
+> 	* 1x Kleines, abgegriffenes Notizbuch.
+> 		* *Inhalt:* Eine Liste von Namen in Ashabenford mit Geldbeträgen. Orins Name steht ganz oben und ist dick rot durchgestrichen.
 
 ## DM Wissen
 
