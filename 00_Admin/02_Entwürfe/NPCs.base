@@ -1,10 +1,14 @@
 views:
-  - type: table
+  - type: cards
     name: Table
     filters:
       and:
         - file.tags.contains("NPC")
+        - "!Fraktionen.isEmpty()"
+    groupBy:
+      property: Fraktionen
+      direction: ASC
     order:
       - file.name
-      - Fraktionen
       - Rolle
+    cardSize: 190
