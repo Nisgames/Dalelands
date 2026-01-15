@@ -1,21 +1,26 @@
 ---
 tags:
   - Ort
+  - Gebäude
 Region: "[[Ashabenford]]"
 ---
 
 ## Beschreibung
 
-[Kurzbeschreibung]
+> [!narrator] Außenansicht
+> Das Kontor ragt halb über das Wasser hinaus, gestützt von massiven, algenbewachsenen Holzpfählen.
+> Im Erdgeschoss herrscht geschäftiges Treiben – Arbeiter verladen Kisten auf flache Flusskähne.
+> Im oberen Stockwerk, mit Blick auf den Fluss, brennt warmes Licht in einem großen Erkerfenster.
 
 - *Sehen:* 
-	
+	Ein großes, zweistöckiges Gebäude direkt am Ufer des [[Ashaba]] Flusses, am östlichen Rand von Ashabenford.
+	Das Schild über der Tür zeigt eine Waage, auf der eine Feder und eine Goldmünze im Gleichgewicht sind.
 - *Beleuchtung:* 
 	
 - *Hören:* 
 	
 - *Riechen:* 
-	
+	Es riecht nach exotischen Gewürzen, Sägemehl und feuchtem Flusswasser.
 - *Spüren:* 
 	
 - *Atmosphäre:* 
