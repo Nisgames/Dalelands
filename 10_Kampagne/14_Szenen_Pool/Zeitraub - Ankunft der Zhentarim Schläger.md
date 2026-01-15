@@ -26,5 +26,5 @@ Der Kampf bricht aus, wenn:
 name: Kampf gegen Zhentarim
 creatures:
   - Kaelen
-  - 2:Zhentarim Schläger
+  - 2: Zhentarim Schläger
 ```
