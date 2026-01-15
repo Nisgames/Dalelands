@@ -6,9 +6,9 @@ Volk: Mensch
 Klasse: Händler
 Level:
 Ort: "[[Ashabenford]]"
-Fraktionen:
-Rolle:
-Relevanz:
+Fraktionen: "[[Zhentarim]]"
+Rolle: Händler
+Relevanz: Hoch
 statblock: inline
 ---
 
