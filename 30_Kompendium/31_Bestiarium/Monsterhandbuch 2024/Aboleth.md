@@ -28,7 +28,7 @@ skillsaves:
 - Geschichte: 12
 - Wahrnehmung: 10
 senses: Dunkelsicht 36 m; Passive Wahrnehmung 20
-languages: Tiefensprache; Telepathie auf 36 m
+languages: [[Tiefensprache]]; [[Telepathie]] auf 36 m
 cr: 10
 traits:
 - [Amphibisch, "Der Aboleth kann Luft und Wasser atmen."]

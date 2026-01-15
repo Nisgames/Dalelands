@@ -27,7 +27,7 @@ saves:
 skillsaves:
 - Wahrnehmung: 5
 senses: Passive Wahrnehmung 15
-languages: [[Aarakocra]], [[Urtümlich (Aural)]]
+languages: [[Aarakocra]], [[Urtümlich]]
 cr: 1/4
 actions:
 - [Krallen, "Nahkampfangriffswurf: +4, Reichweite 1,5m. Treffer: 4 (1d4+2) Hiebschaden oder 9 (3d4+2) Hiebschaden, wenn der Aarakocra sich unmittelbar vor dem Treffer mindestens neun Meter weit in gerader Linie auf das Ziel zubewegt hat."]

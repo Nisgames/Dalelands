@@ -28,7 +28,7 @@ saves:
 damage_vulnerabilities: Kälte
 damage_immunities: Feuer
 senses: Dunkelsicht 18 m; Passive Wahrnehmung 10
-languages: Versteht Urtümlich, kann jedoch nicht sprechen
+languages: Versteht [[Urtümlich]], kann jedoch nicht sprechen
 cr: 1
 traits:
 - [Feueraura, "Am Ende jedes Zugs des Salamanders erleidet jede Kreatur seiner Wahl in einer Ausströmung von 1,5 Metern, die vom Salamander ausgeht, 3 (1d6) Feuerschaden"]

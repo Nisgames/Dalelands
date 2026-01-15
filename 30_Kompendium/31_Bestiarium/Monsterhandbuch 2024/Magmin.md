@@ -26,7 +26,7 @@ saves:
 - Charisma: 0
 damage_immunities: Feuer
 senses: Dunkelsicht 18 m; Passive Wahrnehmung 10
-languages: [[Urtümlich (Ignal)]]
+languages: [[Urtümlich]]
 cr: 1/2
 traits:
 - [Todesexplosion, "Der Magmin explodiert, wenn er stirbt Geschicklichkeitsrettungswurf: SG 11; jede Kreatur in einer Ausströmung von drei Metern, die vom Magmin ausgeht. Misserfolg: 7 (2d6) Feuerschaden. Erfolg: Halber Schaden."]

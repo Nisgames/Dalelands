@@ -29,7 +29,7 @@ skillsaves:
 - Naturkunde: 5
 - Wahrnehmung: 7
 senses: Passive Wahrnehmung 17
-languages: [[Aarakocra]], [[Urtümlich (Aural)]]
+languages: [[Aarakocra]], [[Urtümlich]]
 cr: 4
 spells: 
 - Der Aarakocra wirkt einen der folgenden Zauber mit Weisheit als Attribut zum Zauberwirken, ohne Materialkomponenten zu benötigen (Zauberrettungswurf-SG 13).
