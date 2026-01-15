@@ -32,7 +32,7 @@ creatures:
 
 **Orins Verhör:** 
 - *Was war in der Kiste?* "Schattensteine."
-- *Warum die Zhentarim?* "Sie sagen, die Steine sind Macht. Waffen. [[Kaelen]] sollte sie hier en"
+- *Warum die Zhentarim?* "Sie sagen, die Steine sind Macht. Waffen. [[Kaelen]] sollte sie hier entgegennehmen."
 
 *[[Holfast Harpell]] (Wirt) kommt unter der Theke hervor.*
 
