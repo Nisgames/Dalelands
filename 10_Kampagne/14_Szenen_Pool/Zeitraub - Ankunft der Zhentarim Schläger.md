@@ -32,4 +32,7 @@ creatures:
 
 "Bei [[Chauntea]]! Raus mit dem Abschaum! Und wer bezahlt mir den Tisch?"
 
-*3 Reiter von *
+*3 Wachen der [[Reiter von Mistledale]] betreten eilig den Raum.*
+
+- Nehmen [[Kaelen]] und seine Begleiter fest
+	- Oder schleifen die L
