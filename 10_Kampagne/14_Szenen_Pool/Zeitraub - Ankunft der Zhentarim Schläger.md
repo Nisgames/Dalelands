@@ -14,7 +14,7 @@
 Kaelen ignoriert den Raum. Er fixiert [[Orin]].
 * **Kaelen:** "Orin. Deine Zeit ist um. Ich hoffe für dich, die Kiste steht unter dem Tisch."
 * **Orin (panisch):** "[[Kaelen]]! Bruder! Sie... sie ist weg! Einfach weg! Es war Zauberei! Ein unsichtbarer Dämon!"
-* **Kaelen:** *Seufzt und zieht langsam einen Morgenstern.* "Ich hasse Lügner, Orin. Durchsucht ihn."
+* **Kaelen:** *Seufzt und zieht langsam einen Morgenstern.* "Ich hasse Lügner, [[Orin]]. Durchsucht ihn."
 
 **Eskalations-Trigger:**
 Der Kampf bricht aus, wenn:
