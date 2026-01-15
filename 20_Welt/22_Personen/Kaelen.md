@@ -38,7 +38,7 @@ statblock: inline
 > * **Am Körper:**
 > 	* 1x Hochwertiger Morgenstern (Wuchtig, gut gepflegt)
 > 	* 1x Beschlagene Lederrüstung mit schwarzen Nieten
-> 	* 1x Silberner Ring mit Symbol der Zhentarim, Wert: 10 GM)
+> 	* 1x Silberner Ring mit Symbol der Zhentarim, Wert: 10 GM
 > 	* 1x Schlüsselbund (Gehört zu einem Lagerhaus in Hillsfar, *Plot-Hook*)
 > * **Beutel:**
 > 	* 15 Goldmünzen (Sold für die Truppe)
