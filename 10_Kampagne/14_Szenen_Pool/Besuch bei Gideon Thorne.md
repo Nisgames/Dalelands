@@ -38,4 +38,4 @@ Plot: "[[Geschäft der Zhentarim]]"
 - Drow können bei Tageslicht nicht gut reisen
 - Seine Kontakte sollen jemanden im [[Eulenturm]] gesehen haben
 	- Könnte Kontakt sein
-- [[Eulenturm]] liegt 
+- [[Eulenturm]] liegt 3 Stunden südlich von [[Ashabenford]] 
