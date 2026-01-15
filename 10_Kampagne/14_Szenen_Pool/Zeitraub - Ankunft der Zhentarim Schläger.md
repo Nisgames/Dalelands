@@ -12,14 +12,14 @@
 
 **Dialog:**
 Kaelen ignoriert den Raum. Er fixiert [[Orin]].
-* **Kaelen:** "Orin. Deine Zeit ist um. Ich hoffe für dich, die Kiste steht unter dem Tisch."
-* **Orin (panisch):** "[[Kaelen]]! Bruder! Sie... sie ist weg! Einfach weg! Es war Zauberei! Ein unsichtbarer Dämon!"
-* **Kaelen:** *Seufzt und zieht langsam einen Morgenstern.* "Ich hasse Lügner, [[Orin]]. Durchsucht ihn."
+* **Kaelen:** "[[Orin]]. Deine Zeit ist um. Ich hoffe für dich, die Kiste steht unter dem Tisch."
+* **[[Orin]] (panisch):** "[[Kaelen]]! Bruder! Sie... sie ist weg! Einfach weg! Es war Zauberei! Ein unsichtbarer Dämon!"
+* **[[Kaelen]]:** *Seufzt und zieht langsam einen Morgenstern.* "Ich hasse Lügner, [[Orin]]. Durchsucht ihn."
 
 **Eskalations-Trigger:**
 Der Kampf bricht aus, wenn:
-1.  **Der Splitter sichtbar ist:** Einer der Schläger oder Kaelen sieht das violette Glimmen (bei einem Spieler oder am Boden). *"Was hast du da, Kleines? Das gehört dem Netzwerk."* 
-2.  **Orin geopfert wird:** Wenn die Spieler nichts tun, schleifen sie Orin raus. [[Kaelen]] sagt im Gehen zu den Spielern: *"Ihr habt nichts gesehen. Vergesst das."* (Dies beendet die Szene ohne Kampf, aber Orin stirbt off-screen).
+1.  **Der Splitter sichtbar ist:** Einer der Schläger oder [[Kaelen]] sieht das violette Glimmen (bei einem Spieler oder am Boden). *"Was hast du da, Kleines? Das gehört dem Netzwerk."* 
+2.  **Orin geopfert wird:** Wenn die Spieler nichts tun, schleifen sie Orin raus. [[Kaelen]] sagt im Gehen zu den Spielern: *"Ihr habt nichts gesehen. Vergesst das."* (Dies beendet die Szene ohne Kampf, aber [[Orin]] stirbt off-screen).
 
 ```encounter
 name: Kampf gegen Zhentarim
@@ -27,3 +27,4 @@ creatures:
   - Kaelen
   - 2: Zhentarim Schläger
 ```
+
