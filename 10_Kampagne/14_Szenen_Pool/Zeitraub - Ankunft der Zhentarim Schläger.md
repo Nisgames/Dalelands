@@ -30,10 +30,9 @@ creatures:
 
 #### Nach dem Kampf
 
-**Orins Verhör:**
-- *Was war in der Kiste?* "Schattensteine. Aus den alten Ruinen im Norden. Von Essembra."
-- *Wer war der Dieb?* "Sah aus wie ein Drow. Aber Drow gibt es hier nicht... oder?"
-    - *Warum die Zhentarim?* "Sie sagen, die Steine sind Macht. Waffen. Kaelen sollte sie nach Mulmaster bringen."
+**Orins Verhör:** 
+- *Was war in der Kiste?* "Schattensteine."
+- *Warum die Zhentarim?* "Sie sagen, die Steine sind Macht. Waffen. Kaelen sollte sie nach Mulmaster bringen."
 
 *[[Holfast Harpell]] (Wirt) kommt unter der Theke hervor.*
 
