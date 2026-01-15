@@ -28,7 +28,7 @@ skillsaves:
 - Heimlichkeit: 10
 - Wahrnehmung: 4
 senses: Dunkelsicht 36 m, passive Wahrnehmung 14
-languages: Elfisch, Gemeinsprache der Unterreiche
+languages: [[Elfisch]], [[Untergemeinsprache]]
 cr: 5
 spells:
 - <description>
