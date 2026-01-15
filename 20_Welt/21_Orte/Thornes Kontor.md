@@ -31,15 +31,16 @@ Region: "[[Ashabenford]]"
 ## POI
 
 #### Der Verkaufsraum (EG)
-* Regale voller "legitimer" Waren: Seide aus Sembia, Weine aus dem Süden, hochwertiges Werkzeug.
-* Hier empfängt Gideon normale Kunden. Alles wirkt extrem ordentlich.
+* Regale voller "legitimer" Waren: Seide aus [[Sembia]], Weine aus dem Süden, hochwertiges Werkzeug.
+* Alles wirkt extrem ordentlich.
+* Hier empfängt Gideon normale Kunden.
 
-####Gideons Büro (OG)**
+#### Gideons Büro (OG)
 * Erreichbar über eine enge Wendeltreppe.
 * Luxuriös eingerichtet: Bärenfell vor dem Kamin, Mahagoni-Schreibtisch, eine Wand voller Landkarten der Dalelands.
 * **Geheimnis:** Hinter einer Karte von Cormanthor befindet sich ein Wandtresor (DC 15 Untersuchung, DC 20 Schlossknacken). Inhalt: Echtes Gold, Zhentarim-Briefe und ggf. ein [[Schattensplitter]].
 
-**3. Das "Nasse Lager" (Untergeschoss/Flussebene)**
+#### Das "Nasse Lager" (Untergeschoss/Flussebene)
 * Ein geheimer Bereich unter dem Hauptboden, zwischen den Stützpfeilern.
 * **Zugang:** Eine Falltür unter einem Teppich im Büro oder direkt vom Fluss aus (nur bei Ebbe oder per Boot).
 * Hier lagert die Schmuggelware (Waffen, Gifte, und die Kisten mit [[Schattensplitter]]n).
