@@ -12,4 +12,5 @@
 > Er klatscht langsam in die Hände. Ein leises, fast höhnisches Geräusch in der Stille.
 > Er geht an den bewusstlosen Schlägern vorbei, ohne sie eines Blickes zu würdigen, und bleibt direkt vor euch stehen.
 >
-> "Beeindruckend", sagt er mit einer Stimme wie warmer Honig. "Wirklich beeindruckend. Wo andere panisch fliehen, bleibt ihr stehen. Talent ist in diesen Tagen so selten wie ein ehrlicher Politiker."
+> "Beeindruckend", sagt er mit warmer Stimme. "Wirklich beeindruckend. Wo andere panisch fliehen, bleibt ihr stehen. Talent ist in diesen Tagen so selten wie ein ehrlicher Politiker."
+
