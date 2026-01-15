@@ -21,3 +21,9 @@ Der Kampf bricht aus, wenn:
 1.  **Der Splitter sichtbar ist:** Einer der Schläger oder Kaelen sieht das violette Glimmen (bei einem Spieler oder am Boden). *"Was hast du da, Kleines? Das gehört dem Netzwerk."*
 2.  **Die Spieler intervenieren:** Wenn sie sich weigern, Platz zu machen oder Orin verteidigen.
 3.  **Orin geopfert wird:** Wenn die Spieler nichts tun, schleifen sie Orin raus. Kaelen sagt im Gehen zu den Spielern: *"Ihr habt nichts gesehen. Vergesst das."* (Dies beendet die Szene ohne Kampf, aber Orin stirbt off-screen).
+
+```encounter
+creatures:
+  - Kaelen
+  - 
+```
