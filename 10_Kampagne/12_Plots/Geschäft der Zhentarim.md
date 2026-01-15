@@ -17,7 +17,7 @@ Der scheinbar ehrbare Händler **[[Gideon Thorne]]** (heimlich ein hoher Agent d
 
 ## Ablauf
 
-[1. Start, 2. Mitte, 3. Ende]
+
 
 ## DM Wissen
 
