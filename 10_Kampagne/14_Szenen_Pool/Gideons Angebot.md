@@ -31,3 +31,4 @@
 > Bevor ihr antworten könnt, nickt er euch zu. Er wirft Holfast einen schweren Geldbeutel auf den Tresen.
 > "Für die Möbel, mein Guter. Und eine Runde für das Haus, auf mein Wohl."
 > Dann dreht er sich um und schreitet hinaus in die Nacht, den Gehstock rhythmisch auf den Dielen klackend.
+
