@@ -31,6 +31,10 @@ statblock: inline
 
 > [!loot]- Loot
 > 
+> [!loot]- Loot > * Der Gehstock (ist eigentlich eine getarnte Degenscheide oder enthält ein Fach für Giftphiolen). > * Ein Siegelring mit dem Wappen von Sembia (Fake). > * Schlüsselbund für das [[Thornes Kontor]]. > * Notizbuch mit verschlüsselten Transaktionen ("Lieferung S. an Z.").
+
+> [!loot]- Loot 
+> - Der Gehstock (ist eigentlich eine getarnte Degenscheide oder enthält ein Fach für Giftphiolen). > * Ein Siegelring mit dem Wappen von Sembia (Fake). > * Schlüsselbund für das [[Thornes Kontor]]. > * Notizbuch mit verschlüsselten Transaktionen ("Lieferung S. an Z.").
 
 ## DM Wissen
 
@@ -38,8 +42,6 @@ statblock: inline
 * **Beziehung zu Kaelen:** Er verachtet [[Kaelen]] und dessen brutale Methoden. Er sieht Kaelen als "notwendiges Übel" für die Drecksarbeit, würde ihn aber jederzeit opfern.
 * **Plan:** Er will das Monopol auf den Handel mit [[Schattensplitter]]n. Er nutzt die Abenteurer, um die Splitter zu finden (von Drow, [[Drachenkult]] oder Ruinen), bezahlt sie gut ("ehrliche Arbeit") und verkauft die Ware dann für das Zehnfache weiter.
 * **Der Verrat:** Sobald die Spieler zu viel wissen oder sich weigern, Splitter abzugeben, arrangiert er einen "Unfall" oder lädt sie zu einem vergifteten Abendessen ein.
-
-[Motivation, Geheimnisse, Lügen]
 
 #### Begegnungen
 ```dataview
