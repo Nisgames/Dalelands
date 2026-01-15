@@ -29,4 +29,7 @@ Plot: "[[Geschäft der Zhentarim]]"
 * **Reaktion:** *"Faszinierend. Rohe, ungefilterte Energie. Gefährlich für Amateure, aber... nützlich für Kenner."*
 * **Bezahlung:** Er öffnet eine Schublade und zählt **200 Goldmünzen** (oder Edelsteine im gleichen Wert) auf den Tisch. *"Wie versprochen. Ich halte meine Verträge immer ein."*
 
+#### Weiteres Gespräch
 
+- Es sind Drow
+- 
