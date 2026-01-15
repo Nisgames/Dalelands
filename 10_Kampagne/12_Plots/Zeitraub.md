@@ -11,7 +11,7 @@ Parent: "[[Schatten von Essembra]]"
 - Spieler werden in [[White Hart Inn]] von [[Zauber - Zeitstopp]] durch [[Amulett der Zeit]] erfasst
 - [[Varon]] klaut Kiste mit [[Schattensplitter]]n von [[Orin]] 
 - Verliert einen [[Schattensplitter]] und Spieler können es nehmen
-- [[Orin]] holt [[Zhentarim]] Schläger
+- [[Orin]] holt [[20_Welt/23_Fraktionen/Zhentarim]] Schläger
 - [[Varon]] übergibt Kiste an [[Haus Jaelre]] Boten
 
 ## Ablauf
@@ -89,6 +89,6 @@ Er umklammert eine schwere, eisenbeschlagene Kiste mit beiden Händen, als wäre
 
 ## DM Wissen
 
-[[Orin]] hat massive Spielschulden und die [[Zhentarim]] haben ihm "eine letzte Chance" gegeben. Wenn er die Kiste verliert, ist er so gut wie tot. Deshalb seine extreme Panik im Gasthaus.
+[[Orin]] hat massive Spielschulden und die [[20_Welt/23_Fraktionen/Zhentarim]] haben ihm "eine letzte Chance" gegeben. Wenn er die Kiste verliert, ist er so gut wie tot. Deshalb seine extreme Panik im Gasthaus.
 
 [[Varon]] klaut die Splitter für [[Haus Jaelre]].

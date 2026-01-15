@@ -52,7 +52,7 @@ Ein massives Gebäude aus Feldstein und Eiche am Flussufer, aus dem ständig Dam
 #### 4. [[Kaserne der Reiter]] (High Council Hall) 
 Ein befestigtes Langhaus, das gleichzeitig als Rathaus und Kaserne dient. 
 - **Funktion:** Sitz von [[Bürgermeisterin Andra]] und Hauptquartier der **[[Reiter von Mistledale]]**
-- **Sicherheit:** Der einzige Ort im Tal mit einer echten Steinmauer und einem kleinen Kerker (meist für betrunkene Händler oder [[Zhentarim]]-Spione)
+- **Sicherheit:** Der einzige Ort im Tal mit einer echten Steinmauer und einem kleinen Kerker (meist für betrunkene Händler oder [[20_Welt/23_Fraktionen/Zhentarim]]-Spione)
 #### 5. Tempel der Chauntea ("Die Grüne Scheune") 
 Kein prunkvoller Tempel, sondern eine riesige, offene Scheune mit Altar, umgeben von gepflegten Gärten. 
 - **Aktivität:** Bauern bringen täglich kleine Opfergaben (die erste Rübe, ein Bund Korn) für eine milde Ernte. 

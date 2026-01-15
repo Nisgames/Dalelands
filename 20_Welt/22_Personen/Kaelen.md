@@ -6,7 +6,7 @@ Volk: Mensch
 Klasse: Schläger
 Level:
 Ort: "[[Ashabenford]]"
-Fraktionen: "[[Zhentarim]]"
+Fraktionen: "[[20_Welt/23_Fraktionen/Zhentarim]]"
 Rolle: Höherer Schläger
 Relevanz: Mittel
 statblock: inline

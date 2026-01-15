@@ -30,4 +30,4 @@ Besitzer: "[[Varon]]"
 ## Lore
 
 - Das Amulett scheint eine Konstruktion zu sein, um die volatile Energie eines [[Schattensplitter]]s zu bündeln, ohne dass er den Träger sofort korrumpiert. 
-- Die Handwerkskunst deutet auf Überreste der [[Zhentarim]] oder alte netherische Techniken hin, die versuchen, die [[Wissen - Die große Katastrophe (Vor knapp 10 Jahren)|Große Katastrophe]] für ihre Zwecke zu nutzen.
+- Die Handwerkskunst deutet auf Überreste der [[20_Welt/23_Fraktionen/Zhentarim]] oder alte netherische Techniken hin, die versuchen, die [[Wissen - Die große Katastrophe (Vor knapp 10 Jahren)|Große Katastrophe]] für ihre Zwecke zu nutzen.
