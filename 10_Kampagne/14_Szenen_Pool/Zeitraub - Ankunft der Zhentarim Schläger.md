@@ -28,6 +28,13 @@ creatures:
   - 2: Zhentarim Schläger
 ```
 
+#### Nach dem Kampf
+
+**Orins Verhör:**
+- *Was war in der Kiste?* "Schattensteine. Aus den alten Ruinen im Norden. Von Essembra."
+- *Wer war der Dieb?* "Sah aus wie ein Drow. Aber Drow gibt es hier nicht... oder?"
+    - *Warum die Zhentarim?* "Sie sagen, die Steine sind Macht. Waffen. Kaelen sollte sie nach Mulmaster bringen."
+
 *[[Holfast Harpell]] (Wirt) kommt unter der Theke hervor.*
 
 "Bei [[Chauntea]]! Raus mit dem Abschaum! Und wer bezahlt mir den Tisch?"
