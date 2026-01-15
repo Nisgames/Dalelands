@@ -35,9 +35,10 @@ Plot: "[[Geschäft der Zhentarim]]"
 	- Name des Diebes ist [[Varon]] 
 	- Er ist Mitglied des [[Haus Jaelre]]
 	- Hat die Kiste an jemanden übergeben
+- Nicht gut, wenn Drow solche Macht ([[Schattensplitter]]) haben
 - Drow können bei Tageslicht nicht gut reisen
 - Seine Kontakte sollen jemanden im [[Eulenturm]] gesehen haben
 	- Könnte Kontakt sein
 - [[Eulenturm]] liegt etwa 6 Stunden südlich von [[Ashabenford]] 
-	- Wenn man auf dem Fluss reist nur 3
+	- Wenn man auf dem [[Ashaba]] reist nur 3 Stunden
 - 
