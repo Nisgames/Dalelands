@@ -36,6 +36,7 @@ Plot: "[[Geschäft der Zhentarim]]"
 	- Er ist Mitglied des [[Haus Jaelre]]
 	- Hat die Kiste an jemanden übergeben
 - Nicht gut, wenn Drow solche Macht ([[Schattensplitter]]) haben
+	- Wenn Drow an Macht gewinnen, könnten sie Dörfer einnehmen und jede Menge Leute Versklaven (Motivation für )
 - Drow können bei Tageslicht nicht gut reisen
 - Seine Kontakte sollen jemanden im [[Eulenturm]] gesehen haben
 	- Könnte Kontakt sein
