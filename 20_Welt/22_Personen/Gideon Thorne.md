@@ -23,16 +23,10 @@ statblock: inline
 	Wache grüne Augen
 	Trägt stets hochwertige, aber robuste Kleidung und einen markanten Gehstock
 *Charakterzug:* 
-	Charmant, väterlich
 	Bietet Gästen sofort Tee oder Wein an
-	Motto: **
+	Motto: *Information ist die einzige Währung, die nie an Wert verliert. Gold ist nur das Wechselgeld.* 
 *Sprechweise:* 
-	[Langsam]
-
-* **Aussehen:** Ein gutaussehender Mann Anfang 50 mit gepflegtem, dunkelbraunem Bart (grau meliert) und wachen, grünen Augen. Er wirkt vital und nicht wie ein Schreibtischtäter.
-* **Kleidung:** Trägt stets hochwertige, aber robuste Kleidung (kein unnötiger Prunk), dazu einen markanten Gehstock mit einem **Silberknauf in Form eines Rabenkopfes**.
-* **Auftreten:** Charmant, jovial, väterlich. Er wirkt wie der einzige vernünftige Mensch in einer verrückten Welt. Er bietet Gästen sofort Tee oder Wein an.
-* **Motto:** *"Information ist die einzige Währung, die nie an Wert verliert. Gold ist nur das Wechselgeld."*
+	Charmant, väterlich
 
 ## Werte & Loot:
 
