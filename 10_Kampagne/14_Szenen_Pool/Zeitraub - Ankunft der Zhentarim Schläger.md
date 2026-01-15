@@ -31,3 +31,5 @@ creatures:
 *[[Holfast Harpell]] (Wirt) kommt unter der Theke hervor.*
 
 "Bei [[Chauntea]]! Raus mit dem Abschaum! Und wer bezahlt mir den Tisch?"
+
+*3 Reiter von *
