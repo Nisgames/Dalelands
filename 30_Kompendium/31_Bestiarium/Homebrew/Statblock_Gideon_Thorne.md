@@ -7,46 +7,41 @@ statblock: inline
 ---
 
 ```statblock
-name: string
+name: Gideon Thorne
 source: Homebrew
-size: string
-type: string
-subtype: string
-alignment: string
-ac: number
-hp: number
-hit_dice: string
-speed: string
-stats: [number, number, number, number, number, number]
+size: Mittelgroß
+type: Humanoider (Mensch)
+subtype: Zhentarim
+alignment: Rechtschaffen Böse
+ac: 16 (Verstärktes Leder)
+hp: 66
+hit_dice: 12d8 + 12
+speed: 9m
+stats: [10, 18, 12, 16, 14, 16]
 saves:
-- Stärke: 0
-- Geschicklichkeit: 0
-- Konstitution: 0
-- Intelligenz: 0
-- Weisheit: 0
-- Charisma: 0
+- Geschicklichkeit: 6
+- Intelligenz: 5
 skillsaves:
-- <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: string
-languages: string
-cr: number
-spells:
-- <description>
-- <spell level>: <spell-list>
+- Täuschen: 7
+- Überzeugen: 7
+- Wahrnehmung: 4
+- Heimlichkeit: 6
+damage_vulnerabilities: 
+damage_resistances: 
+damage_immunities: 
+condition_immunities: 
+senses: Passive Wahrnehmung 14
+languages: [[Gemeinsprache]], [[Elfisch]], [[Diebessprache]], [[Untergemeinsprache]]
+cr: 3
 traits:
-- [<trait-name>, <trait-description>]
-- ...
+- [Hinterhältiger Angriff (1/Zug), "Gideon verursacht zusätzlich 7 (2d6) Schaden, wenn er im Vorteil ist oder ein Verbündeter neben dem Ziel steht."]
+- [Gerissene Aktion, "Gideon kann seine Bonusaktion nutzen, um sich zu Verstecken, die Aktion Rückzug oder Spurt zu nutzen."]
+- [Meister der Taktik, "Gideon kann die 'Hilfe'-Aktion als Bonusaktion nutzen. Zusätzlich kann er, wenn er die Hilfe-Aktion nutzt, einem Verbündeten in 9m Reichweite helfen, diesen Gegner anzugreifen."]
 actions:
-- [<trait-name>, <trait-description>]
-- ...
-legendary_actions:
-- [<legendary_actions-name>, <legendary_actions-description>]
-- ...
+- [Mehrfachangriff, "Gideon führt zwei Angriffe mit seinem Rapierstock aus."]
+- [Rapierstock, "Nahkampf-Waffenangriff: +6 zum Treffen, Reichweite 1,5 m, ein Ziel. Treffer: 8 (1d8 + 4) Stichschaden. Die Klinge ist im Gehstock verborgen."]
+- [Giftiger Dolch, "Nahkampf-Waffenangriff: +6 zum Treffen, Reichweite 1,5 m (oder Wurfwaffe 6/18m), ein Ziel. Treffer: 6 (1d4 + 4) Stichschaden + 10 (3d6) Giftschaden (DC 13 Konstitution halbiert)."]
 reactions:
-- [<reaction-name>, <reaction-description>]
-- ...
+- [Umlenken, "Wenn Gideon von einer Kreatur angegriffen wird, die er sehen kann, und ein Verbündeter in 1,5 m Reichweite steht, kann Gideon den Angriff auf den Verbündeten umleiten."]
+- [Parieren, "Gideon addiert 3 zu seiner RK gegen einen Nahkampfangriff, der ihn treffen würde. Er muss eine Finesse-Waffe führen."]
 ```
