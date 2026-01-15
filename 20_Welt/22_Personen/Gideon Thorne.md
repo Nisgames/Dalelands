@@ -29,12 +29,11 @@ statblock: inline
 > [!statblock]-
 > ![]
 
-> [!loot]- Loot
-> 
-> [!loot]- Loot > * Der Gehstock (ist eigentlich eine getarnte Degenscheide oder enthält ein Fach für Giftphiolen). > * Ein Siegelring mit dem Wappen von Sembia (Fake). > * Schlüsselbund für das [[Thornes Kontor]]. > * Notizbuch mit verschlüsselten Transaktionen ("Lieferung S. an Z.").
-
 > [!loot]- Loot 
-> - Der Gehstock (ist eigentlich eine getarnte Degenscheide oder enthält ein Fach für Giftphiolen). > * Ein Siegelring mit dem Wappen von Sembia (Fake). > * Schlüsselbund für das [[Thornes Kontor]]. > * Notizbuch mit verschlüsselten Transaktionen ("Lieferung S. an Z.").
+> - Der Gehstock (ist eigentlich eine getarnte Degenscheide oder enthält ein Fach für Giftphiolen). 
+> - Ein Siegelring mit dem Wappen von [[Sembia]] (Fake). 
+> - Schlüsselbund für das [[Thornes Kontor]]. 
+> - Notizbuch mit verschlüsselten Transaktionen ("Lieferung S. an Z.").
 
 ## DM Wissen
 
