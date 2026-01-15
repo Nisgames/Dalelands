@@ -18,7 +18,10 @@ statblock: inline
 *Volk:* `=this.Volk` 
 *Wohnort:* `=this.Ort` 
 *Aussehen:* 
-	Gutaussehender
+	Gutaussehender Mann Anfang 50
+	Gepflegter dunkelbrauner Bart
+	Wache grüne Augen
+	Trägt stets hochwertige, aber robuste Kleidung und einen markanten Gehstock
 *Charakterzug:* 
 	[Hasst Wein]
 *Sprechweise:* 
