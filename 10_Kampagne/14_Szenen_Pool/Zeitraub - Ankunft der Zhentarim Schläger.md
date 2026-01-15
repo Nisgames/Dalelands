@@ -23,6 +23,7 @@ Der Kampf bricht aus, wenn:
 3.  **Orin geopfert wird:** Wenn die Spieler nichts tun, schleifen sie Orin raus. Kaelen sagt im Gehen zu den Spielern: *"Ihr habt nichts gesehen. Vergesst das."* (Dies beendet die Szene ohne Kampf, aber Orin stirbt off-screen).
 
 ```encounter
+name: Kampf gegen Zhentarim
 creatures:
   - Kaelen
   - 
