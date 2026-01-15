@@ -38,7 +38,7 @@ Region: "[[Ashabenford]]"
 #### Gideons Büro (OG)
 * Erreichbar über eine enge Wendeltreppe.
 * Luxuriös eingerichtet: Bärenfell vor dem Kamin, Mahagoni-Schreibtisch, eine Wand voller Landkarten der Dalelands.
-* **Geheimnis:** Hinter einer Karte von Cormanthor befindet sich ein Wandtresor (DC 15 Untersuchung, DC 20 Schlossknacken). Inhalt: Echtes Gold, Zhentarim-Briefe und ggf. ein [[Schattensplitter]].
+* **Geheim:** Hinter einer Karte von [[Cormanthor]] befindet sich ein Wandtresor (DC 15 Untersuchung, DC 20 Schlossknacken). Inhalt: Echtes Gold, [[Zhentarim]]-Briefe und ggf. ein [[Schattensplitter]].
 
 #### Das "Nasse Lager" (Untergeschoss/Flussebene)
 * Ein geheimer Bereich unter dem Hauptboden, zwischen den Stützpfeilern.
