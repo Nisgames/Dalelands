@@ -17,6 +17,6 @@ Plot: "[[Geschäft der Zhentarim]]"
 > Ihr wartet fast zwanzig Minuten zwischen Kistenstapeln, während Arbeiter um euch herumeilen.
 > Schließlich winkt man euch nach oben.
 >
-> Das Büro im ersten Stock ist eine andere Welt. Der Lärm des Lagers ist hier gedämpft. Ein Kaminfeuer knistert. Gideon Thorne sitzt hinter einem schweren Mahagoni-Schreibtisch und schreibt mit einer Fasanenfeder in ein Buch.
+> Das Büro im ersten Stock ist eine andere Welt. Der Lärm des Lagers ist hier gedämpft. Ein Kaminfeuer knistert. [[Gideon Thorne]] sitzt hinter einem schweren Mahagoni-Schreibtisch und schreibt mit einer Fasanenfeder in ein Buch.
 > Er blickt auf, lächelt warm und deutet auf die Sessel vor ihm.
 > "Pünktlich. Das schätze ich. Tee? Oder ist es noch zu früh für Wein?"
