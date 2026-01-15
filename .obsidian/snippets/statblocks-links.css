@@ -1,0 +1,13 @@
+/* Ändert die Farbe von Wiki-Links speziell innerhalb von Statblocks */
+.fantasy-statblock a.internal-link,
+.statblock-5e a.internal-link {
+    color: #d27b11 !important; /* Ein dunkleres Orange/Gold für bessere Lesbarkeit */
+    text-decoration: underline; /* Optional: Unterstreichung für bessere Sichtbarkeit */
+}
+
+/* Hover-Effekt für die Links */
+.fantasy-statblock a.internal-link:hover,
+.statblock-5e a.internal-link:hover {
+    color: #ff9d22 !important;
+    filter: brightness(1.2);
+}

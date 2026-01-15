@@ -6,6 +6,7 @@
   "nativeMenus": false,
   "accentColor": "#5cf5ce",
   "enabledCssSnippets": [
-    "callouts"
+    "callouts",
+    "statblocks-links"
   ]
 }
