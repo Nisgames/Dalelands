@@ -4,3 +4,7 @@ views:
     filters:
       and:
         - file.tags.contains("NPC")
+    order:
+      - file.name
+      - Fraktionen
+      - Rolle
