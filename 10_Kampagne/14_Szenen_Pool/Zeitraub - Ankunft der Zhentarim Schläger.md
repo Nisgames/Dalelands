@@ -28,3 +28,6 @@ creatures:
   - 2: Zhentarim Schläger
 ```
 
+*[[Holfast]] (Wirt) kommt unter der Theke hervor*
+
+"Bei [[Chauntea]]! Raus mit dem Abschaum! Und wer bezahlt mir den T"
