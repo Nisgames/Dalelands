@@ -35,4 +35,7 @@ Plot: "[[Geschäft der Zhentarim]]"
 	- Name des Diebes ist [[Varon]] 
 	- Er ist Mitglied des [[Haus Jaelre]]
 	- Hat die Kiste an jemanden übergeben
-- Drow kön
+- Drow können bei Tageslicht nicht gut reisen
+- Seine Kontakte sollen jemanden im [[Eulenturm]] gesehen haben
+	- Könnte Kontakt sein
+- [[Eulenturm]] liegt 
