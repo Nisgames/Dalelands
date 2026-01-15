@@ -30,10 +30,3 @@ Plot: "[[Geschäft der Zhentarim]]"
 * **Bezahlung:** Er öffnet eine Schublade und zählt **200 Goldmünzen** (oder Edelsteine im gleichen Wert) auf den Tisch. *"Wie versprochen. Ich halte meine Verträge immer ein."*
 
 
-
-## DM Wissen
-
-* **Die Lüge:** Varon wollte die Ware nicht "auf eigene Faust verkaufen". Er ist eigentlich ein Doppelagent für **[[Haus Jaelre]]** (die Drow). Gideon weiß das, aber er will nicht zugeben, dass er sich von einem Drow hat austricksen lassen.
-* **Der Eulenturm:** Dort warten tatsächlich Kontakte von Varon (Drow-Späher). Die Spieler laufen in einen Übergabe-Deal hinein.
-* **Gideons Test:** Er schickt die Spieler los, um zu sehen, ob sie gegen Drow bestehen können. Wenn sie sterben -> Pech. Wenn sie gewinnen -> Nützliche Werkzeuge.
-* **Ausrüstung:** Wenn die Spieler gut verhandeln (Persuasion DC 15), gibt Gideon ihnen **2x Heiltrank** als Vorschuss.
