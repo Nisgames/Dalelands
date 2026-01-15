@@ -14,10 +14,6 @@
 >
 > "Beeindruckend", sagt er mit warmer Stimme. "Wirklich beeindruckend. Wo andere panisch fliehen, bleibt ihr stehen. Talent ist in diesen Tagen so selten wie ein ehrlicher Politiker."
 
-* **Über Kaelen/Den Kampf:**
-    * *"Bitte entschuldigt die Unannehmlichkeiten. Dieser [[Kaelen]]... er ist ein Grobian. Ein stumpfes Werkzeug für stumpfe Aufgaben. Er hat keinen Sinn für Nuancen."*
-    * (Falls Kaelen tot ist): *"Schade um die Rüstung. Aber Dummheit ist nun mal tödlich."*
-
 * **Über den Splitter (Falls sichtbar):**
     * Er deutet diskret auf den Splitter / die Tasche.
     * *"Ich bin ein Sammler von... Kuriositäten. Und ich zahle exzellente Preise für Dinge, die andere für gefährlich halten. Sagen wir... 200 Goldmünzen für diesen Stein?"*
