@@ -23,7 +23,9 @@ statblock: inline
 	Wache grüne Augen
 	Trägt stets hochwertige, aber robuste Kleidung und einen markanten Gehstock
 *Charakterzug:* 
-	[Hasst Wein]
+	Charmant, väterlich
+	Bietet Gästen sofort Tee oder Wein an
+	Motto: **
 *Sprechweise:* 
 	[Langsam]
 
