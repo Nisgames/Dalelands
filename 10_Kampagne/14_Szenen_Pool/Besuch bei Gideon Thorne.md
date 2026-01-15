@@ -32,4 +32,7 @@ Plot: "[[Geschäft der Zhentarim]]"
 #### Weiteres Gespräch
 
 - Es sind Drow
-- 
+	- Name des Diebes ist [[Varon]] 
+	- Er ist Mitglied des [[Haus Jaelre]]
+	- Hat die Kiste an jemanden übergeben
+- Drow kön
