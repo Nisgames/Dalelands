@@ -1,6 +1,6 @@
 views:
   - type: cards
-    name: Table
+    name: Cards
     filters:
       and:
         - file.tags.contains("NPC")
@@ -11,4 +11,4 @@ views:
     order:
       - file.name
       - Rolle
-    cardSize: 190
+    cardSize: 200
