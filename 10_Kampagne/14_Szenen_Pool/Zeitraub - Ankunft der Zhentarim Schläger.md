@@ -35,4 +35,6 @@ creatures:
 *3 Wachen der [[Reiter von Mistledale]] betreten eilig den Raum.*
 
 - Nehmen [[Kaelen]] und seine Begleiter fest
-	- Oder schleifen die L
+	- Oder schleifen die Leichen weg
+- Prüfen auch die Spieler
+
