@@ -30,4 +30,4 @@ creatures:
 
 *[[Holfast]] (Wirt) kommt unter der Theke hervor*
 
-"Bei [[Chauntea]]! Raus mit dem Abschaum! Und wer bezahlt mir den T"
+"Bei [[Chauntea]]! Raus mit dem Abschaum! Und wer bezahlt mir den Tisch?"
