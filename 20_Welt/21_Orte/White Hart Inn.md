@@ -21,6 +21,7 @@ Region: "[[Ashabenford]]"
 - *Details:* 
 	Die Tische sind massiv und tragen die Schnitzereien von Generationen von Gästen.
 	Eine alte Armbrust hängt geladen, aber verstaubt, hinter der Theke ("Friedensstifter")
+	Wirt: [[Holfast Harpell]] 
 
 ## POI
 
