@@ -25,7 +25,7 @@ skillsaves:
   - Akrobatik: +6
   - Wahrnehmung: +3
 senses: Dunkelsicht 120 Fuß, passive Wahrnehmung 13
-languages: Elfisch, Untergemeinsprache, Gemeinsprache
+languages: [[Elfisch]], [[Untergemeinsprache]], [[Gemeinsprache]]
 cr: 2
 traits:
   - name: Feenblut

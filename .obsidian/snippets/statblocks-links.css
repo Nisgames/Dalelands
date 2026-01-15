@@ -3,7 +3,7 @@
 .markdown-rendered .statblock a.internal-link,
 .markdown-source-view.mod-cm6 .obsidian-statblock-plugin a.internal-link,
 div[class*="statblock"] a.internal-link {
-    color: #a52a2a !important; /* Ein dunkles Braun/Rot, passend zum D&D-Stil */
+    color: #d27b11 !important; /* Ein dunkles Braun/Rot, passend zum D&D-Stil */
     text-decoration: underline !important;
     font-weight: bold !important;
 }
@@ -11,6 +11,6 @@ div[class*="statblock"] a.internal-link {
 /* Hover-Zustand für bessere Rückmeldung */
 .obsidian-statblock-plugin a.internal-link:hover,
 .statblock a.internal-link:hover {
-    color: #7a200d !important;
-    filter: brightness(1.1);
+    color: #ff9d22 !important;
+    filter: brightness(1.2);
 }

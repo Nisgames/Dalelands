@@ -24,7 +24,7 @@ saves:
 skillsaves:
 - Einschüchtern: 2
 senses: Passive Wahrnehmung 10
-languages: Gemeinsprache
+languages: [[Gemeinsprache]]
 cr: 0.125
 traits:
 actions:

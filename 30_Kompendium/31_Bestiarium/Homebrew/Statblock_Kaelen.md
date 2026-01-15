@@ -29,7 +29,7 @@ damage_resistances:
 damage_immunities: 
 condition_immunities: 
 senses: Passive Wahrnehmung 10
-languages: Gemeinsprache, Diebessprache
+languages: [[Gemeinsprache]], [[Diebessprache]]
 cr: 2
 spells:
 traits:
