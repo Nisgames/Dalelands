@@ -43,6 +43,7 @@ table without id file.link as Name
 from #NPC and !"00_Admin/03_Templates"
 where contains(Ort, this.file.link) 
 	and status != "Tot"
+sort file.name asc
 ```
 #### Historie
 ```dataview
