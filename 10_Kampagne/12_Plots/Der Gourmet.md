@@ -15,7 +15,9 @@ Die Gruppe muss den Käse retten, bevor der Oger ihn in einem kulinarischen Expe
 ## Ablauf
 
 - [[Odo Fassbinder]] kommt auf euch zugerannt
-- Erzählt, dass der 
+*"Katastrophe! Der Nebeltaler! Mein Lebenswerk! Einfach weg! Ein Riese mit einer Kochmütze... er hat ihn einfach unter den Arm geklemmt und ist in den Wald gestapft!"*
+
+Spur ist leicht zu finden, da der Oger 
 
 ## DM Wissen
 
