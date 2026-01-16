@@ -5,11 +5,11 @@ Aktueller-Ort: "[[Ashabenford]]"
 # 🛡️ DnD Wächter der Dalelands
 
 ## ☑️ To-Do´s
-- [x] Session 1 vorbereiten
+
 ```dataview
 task
 from #Session 
-where !done
+where !completed
 ```
 
 ---
@@ -19,6 +19,8 @@ where !done
 👥 Alle Charaktere: [[Charaktere \|CHARAKTER-ÜBERSICHT]] 
 
 Session Bewertungen: [Bewertungen](https://docs.google.com/spreadsheets/d/1lrYEuFlWl42Ezlp9MG29IAiasV_SwR5LY9N6ni8Z-6w/edit?gid=1104407416#gid=1104407416)
+
+Letzte Session: `dataview: `
 
 #### Offene Plots
 ```dataview
