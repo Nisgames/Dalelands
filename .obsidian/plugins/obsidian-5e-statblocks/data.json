@@ -2526,6 +2526,16 @@
           "heading": "Lager Aktionen",
           "conditioned": true,
           "dice": true
+        },
+        {
+          "type": "property",
+          "id": "98987bba5818",
+          "properties": [
+            "taktik"
+          ],
+          "fallback": "-",
+          "display": "Taktik",
+          "conditioned": true
         }
       ],
       "name": "Basic 5e Layout DE",

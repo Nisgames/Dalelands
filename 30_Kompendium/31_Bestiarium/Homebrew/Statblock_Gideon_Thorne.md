@@ -44,4 +44,5 @@ actions:
 reactions:
 - [Umlenken, "Wenn Gideon von einer Kreatur angegriffen wird, die er sehen kann, und ein Verbündeter in 1,5 m Reichweite steht, kann Gideon den Angriff auf den Verbündeten umleiten."]
 - [Parieren, "Gideon addiert 3 zu seiner RK gegen einen Nahkampfangriff, der ihn treffen würde. Er muss eine Finesse-Waffe führen."]
+taktik: 
 ```
