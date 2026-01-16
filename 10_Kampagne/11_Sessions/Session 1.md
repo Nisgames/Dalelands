@@ -17,6 +17,9 @@ Start: [[Zeitraub]]
 
 Wenn sie im [[White Hart Inn]] bleiben: [[Zeitraub - Ankunft der Zhentarim Schläger]] 
 Wenn sie den Dieb verfolgen: [[Zeitraub - Verfolgung des Diebes]] 
+	Danach [[Zeitraub - Ankunft der Zhentarim Schläger]]
+
+Dann: 
 
 ## Log
 
