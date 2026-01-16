@@ -2,7 +2,7 @@
 tags:
   - NPC
 Status: Lebendig
-Volk:
+Volk: Halbling
 Klasse:
 Level:
 Ort:
@@ -26,8 +26,6 @@ statblock: inline
 	Fasst sich oft theatralisch an die Brust.
 *Rolle:*
 	Käsemeister von [[Ashabenford]].
-*Motivation:*
-	Will den "Nebeltaler Stinkekäse" beim jährlichen Wettbewerb präsentieren und seinen Rivalen aus [[Glen]] schlagen.
 
 ## Werte & Loot:
 
@@ -39,7 +37,7 @@ statblock: inline
 
 ## DM Wissen
 
-[Motivation, Geheimnisse, Lügen]
+- Will den "Nebeltaler Stinkekäse" beim jährlichen Wettbewerb präsentieren und seinen Rivalen aus [[Glen]] schlagen.
 
 #### Begegnungen
 ```dataview
