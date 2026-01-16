@@ -8,5 +8,6 @@
   ],
   "showInlineTitle": true,
   "spellcheck": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview"
 }
