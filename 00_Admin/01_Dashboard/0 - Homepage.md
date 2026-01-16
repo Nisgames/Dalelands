@@ -17,7 +17,7 @@ GROUP BY file.link
 
 > [!ABSTRACT]+ **Schnellzugriff & Planung**
 
-👥 **Helden-Galerie:** [[Charaktere|CHARAKTER-ÜBERSICHT]]
+👥 **Helden-Galerie:** [[Spielercharaktere - Übersicht|CHARAKTER-ÜBERSICHT]]
 
 📝 **Spieler-Feedback:** [Session-Bewertungen](https://docs.google.com/spreadsheets/d/1lrYEuFlWl42Ezlp9MG29IAiasV_SwR5LY9N6ni8Z-6w/edit?gid=1104407416#gid=1104407416)
 
@@ -53,16 +53,4 @@ FROM #Session
 WHERE date != null
 SORT date DESC
 LIMIT 10
-```
-
-#### Spielercharaktere
-```dataview
-TABLE WITHOUT ID
-  file.link as Charakter,
-  Spieler AS "Gespielt von",
-  volk AS "Volk",
-  klasse AS "Klasse"
-FROM #PC 
-WHERE Spieler != null
-SORT file.name ASC
 ```
