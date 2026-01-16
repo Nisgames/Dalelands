@@ -28,7 +28,10 @@ Die Gruppe muss den Käse retten, bevor der Oger ihn in einem kulinarischen Expe
 
 Kampf: [[Gourmet]] kämpft mit riesiger Pfanne
 
-Kochen: Sein Rezept braucht eigentlich gar keinen Käse. 
+Kochen: Sein Rezept braucht eigentlich gar keinen Käse. Es ist ein Eintopf.
+* *Nature/Naturkunde:* Passende Kräuter finden. 
+* *Survival/Überleben:* Die Hitze des Feuers regulieren. 
+* *Performance/Auftreten:* Gorg Anweisungen geben wie ein Chefkoch ("Ja, Chef!").
 
 ## DM Wissen
 
