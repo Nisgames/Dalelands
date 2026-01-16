@@ -19,7 +19,8 @@ Die Gruppe muss den Käse retten, bevor der Oger ihn in einem kulinarischen Expe
 
 - Spur ist leicht zu finden, da der Oger tiefe Abdrücke hinterlässt
 - Ist in [[Cormanthor]] verschwunden
-- Optional: Begegnung mit `dice: 1d4` Wildschweinen
+- *Optional: Begegnung mit `dice: 1d4` Wildschweinen*
+- La
 
 ## DM Wissen
 

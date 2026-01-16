@@ -5,7 +5,7 @@
   "copyContentButton": true,
   "customFormulas": [],
   "displayFormulaForMod": true,
-  "displayResultsInline": true,
+  "displayResultsInline": false,
   "displayFormulaAfter": true,
   "escapeDiceMod": true,
   "signed": false,
