@@ -3,12 +3,12 @@ tags:
   - NPC
 Status: Lebendig
 Volk: Halbling
-Klasse:
+Klasse: Koch
 Level:
-Ort:
+Ort: "[[Ashabenford]]"
 Fraktionen:
 Rolle:
-Relevanz:
+Relevanz: Niedrig
 statblock: inline
 ---
 
