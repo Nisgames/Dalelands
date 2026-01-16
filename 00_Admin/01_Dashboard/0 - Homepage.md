@@ -5,7 +5,7 @@ Aktueller-Ort: "[[Ashabenford]]"
 # 🛡️ DnD Wächter der Dalelands
 
 ## ☑️ To-Do´s
-- [ ] Session 1 vorbereiten
+- [x] Session 1 vorbereiten
 
 ---
 
@@ -37,8 +37,7 @@ SORT relevanz, file.name ASC
 #### Historie
 ```dataview
 TABLE
-  date AS "Datum",
-  join(Players.Spieler, ", ") AS "Teilnehmer"
+  date AS "Datum"
 FROM #Session 
 WHERE date != null
 SORT date DESC
