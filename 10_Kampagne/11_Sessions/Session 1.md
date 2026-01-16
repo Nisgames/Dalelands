@@ -19,7 +19,7 @@ Wenn sie im [[White Hart Inn]] bleiben: [[Zeitraub - Ankunft der Zhentarim SchlÃ
 Wenn sie den Dieb verfolgen: [[Zeitraub - Verfolgung des Diebes]] 
 	Danach [[Zeitraub - Ankunft der Zhentarim SchlÃ¤ger]]
 
-Dann: 
+Dann: [[Besuch bei Gideon Thorne]]?
 
 ## Log
 
