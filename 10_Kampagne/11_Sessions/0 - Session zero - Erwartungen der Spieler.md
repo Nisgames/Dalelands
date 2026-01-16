@@ -9,16 +9,15 @@ Players:
 DM: "[[Jannis]]"
 ---
 
----
+## 1. Organisatorisches
 
-# 1. Organisatorisches
 - [x] **Terminfindung:** Wie oft spielen wir? Plan: 2 Wöchentlich
 - [x] **Absagen:** Was passiert, wenn einer fehlt? Plan: 1 Woche vorziehen oder nach hinten schieben
 - [x] **Dauer:** Wie lange geht eine Session? Plan: 18 - 22Uhr
 - [x] **Essen & Trinken:** Wer besorgt was? (Oder jeder für sich?)
----
 
-# 2. Spielstil & Erwartungen
+## 2. Spielstil & Erwartungen
+
 - [x] **Säulen des Spiels:** Wie ist die Verteilung?
 	- Kampf vs. Roleplay vs. Erkundung/Rätsel -> Bitte in % sagen, was ihr wünscht
 	- -> muss nicht jede Session Kampf sein
@@ -45,9 +44,9 @@ DM: "[[Jannis]]"
 - [x] **No-Gos:** Gibt es No-Gos? Thematisch?
 	- -> Kein Horror-Theme
 	- -> Spannend ja, Horror nein
----
 
-# 3. Charakter-Erstellung
+## 3. Charakter-Erstellung
+
 - [x] **Level 3 Start-Bonus:** Jeder bekommt von mir 1 besonderes Item. Ansonsten normale Start-Ausrüstung nach Handbuch.
 	- Bei speziellen Wünschen nochmal fragen
 - [x] **Gruppenzusammenhalt:** Woher kennt ihr euch? Wohnen alle in [[Ashabenford]] 
@@ -55,11 +54,15 @@ DM: "[[Jannis]]"
 - [x] **Wissen der Charaktere:** Bekommen von mir noch PDF mit standard-Wissen. Für weiteres bitte fragen
 - [x] **Jobs:** Was war bisher eure Aufgabe in [[Ashabenford]]?
 	- Spieler denken sich was aus
----
 
-# 4. Hausregeln & Mechaniken
+## 4. Hausregeln & Mechaniken
+
 - [x] **Überleben & Ressourcen:** Wie wollt ihr Essen tracken?
 	- -> Mit tracken
 - [x] **Zeit zwischen Sessions:** In der Regel keine. Falls doch, spreche ich vorher an, damit ihr euch überlegen könnt, was ihr machen wollt. (Gerne Sachen herstellen und so)
 	- -> Sowas wie einkaufen muss nicht jedes Mal ausgespielt werden
 - [x] **Hausregeln:** Ich schreibe alle Hausregeln auf - vorher und während den Session - damit ihr nachlesen könnt
+
+## To-Do's
+
+- []

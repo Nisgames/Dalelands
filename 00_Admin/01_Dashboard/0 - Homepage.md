@@ -9,7 +9,8 @@ Aktueller-Ort: "[[Ashabenford]]"
 ```dataview
 task
 from #Session 
-where !completed
+where !completed  
+GROUP BY file.link
 ```
 
 ---
