@@ -17,10 +17,12 @@ Die Gruppe muss den Käse retten, bevor der Oger ihn in einem kulinarischen Expe
 - [[Odo Fassbinder]] kommt auf euch zugerannt
 *"Katastrophe! Der Nebeltaler! Mein Lebenswerk! Einfach weg! Ein Riese mit einer Kochmütze... er hat ihn einfach unter den Arm geklemmt und ist in den Wald gestapft!"*
 
-- Spur ist leicht zu finden, da der Oger tiefe Abdrücke hinterlässt
+- Spur ist leicht zu finden, da der [[Gourmet]] tiefe Abdrücke hinterlässt
 - Ist in [[Cormanthor]] verschwunden
 - *Optional: Begegnung mit `dice: 1d4` Wildschweinen*
-- La
+- Lager des [[Gourmets]]:
+	- Kleine Lichtung mit riesiger improvisierter Kochstelle
+- [[Gourmet]] ist nicht sofort feindselig. Er ist gestresst, weil sein Rezept nicht funktioniert.
 
 ## DM Wissen
 
