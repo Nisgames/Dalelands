@@ -25,7 +25,7 @@ skillsaves:
 - Überleben: 0
 - Naturkunde: -2
 senses: Dunkelsicht 18 m, Passive Wahrnehmung 8
-languages: Gemeinsprache, Riese
+languages: [[Gemeinsprache]], [[Riese]]
 cr: 2
 traits:
 actions:
