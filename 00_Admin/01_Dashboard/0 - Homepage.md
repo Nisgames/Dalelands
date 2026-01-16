@@ -4,7 +4,7 @@ Aktueller-Ort: "[[Ashabenford]]"
 
 # 🛡️ DnD Wächter der Dalelands
 
-## ☑️ To-Do´s
+> [!ABSTRACT]+ **To-Do's**
 
 ```dataview
 task
@@ -15,19 +15,11 @@ GROUP BY file.link
 
 ---
 
-## 🧭 Schnellzugriff
-
-👥 Alle Charaktere: [[Charaktere \|CHARAKTER-ÜBERSICHT]] 
-
-Session Bewertungen: [Bewertungen](https://docs.google.com/spreadsheets/d/1lrYEuFlWl42Ezlp9MG29IAiasV_SwR5LY9N6ni8Z-6w/edit?gid=1104407416#gid=1104407416)
-
-Letzte Session: `$= dv.pages("#Session").where(p => p.date < dv.date('today')).sort(p => p.date, 'desc').first().file.link` 
-
-Nächste Session: `$= dv.pages("#Session").where(p => p.date >= dv.date('today')).sort(p => p.date, 'asc').first().file.link`
-
 > [!ABSTRACT]+ **Schnellzugriff & Planung**
-- 👥 **Helden-Galerie:** [[Charaktere|CHARAKTER-ÜBERSICHT]]
-- 📝 **Spieler-Feedback:** [Session-Bewertungen](https://docs.google.com/spreadsheets/d/1lrYEuFlWl42Ezlp9MG29IAiasV_SwR5LY9N6ni8Z-6w/edit?gid=1104407416#gid=1104407416)
+
+👥 **Helden-Galerie:** [[Charaktere|CHARAKTER-ÜBERSICHT]]
+
+📝 **Spieler-Feedback:** [Session-Bewertungen](https://docs.google.com/spreadsheets/d/1lrYEuFlWl42Ezlp9MG29IAiasV_SwR5LY9N6ni8Z-6w/edit?gid=1104407416#gid=1104407416)
 
 | **Status**               | **Session**                                                                                                 |
 | ------------------------ | ----------------------------------------------------------------------------------------------------------- |
