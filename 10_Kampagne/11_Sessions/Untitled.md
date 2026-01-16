@@ -1,7 +1,7 @@
 ---
 tags:
   - Session
-date:
+date: 2026-01-17
 ---
 
 ## Recap
