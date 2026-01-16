@@ -23,6 +23,7 @@ Die Gruppe muss den Käse retten, bevor der Oger ihn in einem kulinarischen Expe
 - Lager des [[Gourmets]]:
 	- Kleine Lichtung mit riesiger improvisierter Kochstelle
 - [[Gourmet]] ist nicht sofort feindselig. Er ist gestresst, weil sein Rezept nicht funktioniert.
+- Will den Käse nicht zurückgeben
 
 ## DM Wissen
 
