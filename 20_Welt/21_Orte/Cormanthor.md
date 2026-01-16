@@ -10,9 +10,10 @@ Region: "[[Dalelands]]"
 Riesiger dichter Wald im Herzen der [[Dalelands]]. Bis zur großen Katastrophe ([[Die große Katastrophe]]) haben hier die Elfen aus [[Myth Drannor]] regiert und gelebt. 
 
 - *Sehen:* 
-	
+	Ein super dichter Wald
+	Einige Bäume sind über 30 m hoch gewachsen
 - *Beleuchtung:* 
-	
+	Meist dunkel. Selbst tagsüber erreicht einige Orte nur wenig Licht.
 - *Hören:* 
 	
 - *Riechen:* 
