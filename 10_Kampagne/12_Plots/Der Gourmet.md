@@ -24,7 +24,11 @@ Die Gruppe muss den Käse retten, bevor der Oger ihn in einem kulinarischen Expe
 	- Kleine Lichtung mit riesiger improvisierter Kochstelle
 - [[Gourmet]] ist nicht sofort feindselig. Er ist gestresst, weil sein Rezept nicht funktioniert.
 - Will den Käse nicht zurückgeben, er will auch so lecker speisen wie die Menschen
-- 
+	- Entweder *Kampf* oder sie helfen ihm beim *kochen*
+
+Kampf: [[Gourmet]] kämpft mit riesiger Pfanne
+
+Kochen: Sein Rezept braucht eigentlich gar keinen Käse. 
 
 ## DM Wissen
 
