@@ -9,6 +9,10 @@ date: 2026-01-16
 Noch kein Recap
 Stattdessen Einleitungstext
  ![[Einleitungstext#Einleitungstext]]
+
+*Ihr kennt euch irgendwo her?*
+- Vielleicht nochmal erzählen woher genau
+
 Plot: [[Zeitraub]]
 
 ## Planung
