@@ -7,7 +7,7 @@ Region: "[[Dalelands]]"
 
 ## Beschreibung
 
-Riesiger dichter Wald im Herzen der [[Dalelands]]. 
+Riesiger dichter Wald im Herzen der [[Dalelands]]. Bis zur großen Katastrophe ([[Die große Katastrophe]]) haben hier die Elfen aus [[Myth Drannor]] regiert und gelebt. 
 
 - *Sehen:* 
 	
