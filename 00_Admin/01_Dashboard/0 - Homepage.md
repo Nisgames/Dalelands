@@ -6,6 +6,11 @@ Aktueller-Ort: "[[Ashabenford]]"
 
 ## ☑️ To-Do´s
 - [x] Session 1 vorbereiten
+```dataview
+task
+from #Session 
+where !done
+```
 
 ---
 
