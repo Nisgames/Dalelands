@@ -22,15 +22,13 @@ statblock: inline
 *Charakterzug:* 
 	Er ist hektisch, laut, aber gutherzig.
 *Sprechweise:* 
-	[Langsam]
+	Nutzt viele kulinarische Metaphern ("Das ist doch Käse!", "Alles in Butter").
+	Fasst sich oft theatralisch an die Brust.
 *Rolle:*
 	Käsemeister von [[Ashabenford]].
 *Motivation:*
-	Will den "Nebeltaler Stinkekäse" beim jährlichen Wettbewerb präsentieren und seinen Rivalen aus [[Mistledale]] schlagen.
+	Will den "Nebeltaler Stinkekäse" beim jährlichen Wettbewerb präsentieren und seinen Rivalen aus [[Glen]] schlagen.
 
-**Sprache/Verhalten:**
-* Nutzt viele kulinarische Metaphern ("Das ist doch Käse!", "Alles in Butter").
-* Fasst sich oft theatralisch an die Brust.
 ## Werte & Loot:
 
 > [!statblock]-
