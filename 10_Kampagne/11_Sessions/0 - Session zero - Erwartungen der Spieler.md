@@ -65,4 +65,6 @@ DM: "[[Jannis]]"
 
 ## To-Do's
 
-- []
+- [ ] Session 1 vorbereiten
+- [x] [[Ashabenford]] ausarbeiten
+- [ ] [[Cormanthor]] bisschen ausarbeiten
