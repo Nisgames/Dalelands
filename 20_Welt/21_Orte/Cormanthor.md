@@ -7,7 +7,7 @@ Region: "[[Dalelands]]"
 
 ## Beschreibung
 
-[Kurzbeschreibung]
+Riesiger dichter Wald im Herzen der [[Dalelands]]. 
 
 - *Sehen:* 
 	
