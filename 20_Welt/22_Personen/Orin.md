@@ -23,7 +23,7 @@ statblock: inline
 	Seine Augen scannen ständig den Raum.
 *Charakterzug:* Leicht reizbar
 *Sprechweise:* Hastig, verschluckt oft Wortenden. 
-	Wenn er sich sicher fühlt (oder [[20_Welt/23_Fraktionen/Zhentarim]] im Rücken hat), wird er arrogant.
+	Wenn er sich sicher fühlt (oder [[Zhentarim]] im Rücken hat), wird er arrogant.
 
 ## Werte & Loot:
 
