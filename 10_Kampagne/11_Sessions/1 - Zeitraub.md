@@ -38,7 +38,10 @@ Dann: [[Besuch bei Gideon Thorne]]?
 - Ein violett pulsierender Splitter ([[Schattensplitter]]) fällt heraus, als er durchs Fenster flüchtet
 - Plötzlich geht die Zeit weiter
 - Kneipe rastet aus
-- Bestohlener Typ ([[Orin]]) rastet aus und legt sich mit [[Tado]] und [[Jorvan]] an, die versuc
+- Bestohlener Typ ([[Orin]]) rastet aus und legt sich mit [[Tado]] und [[Jorvan]] an, die versuchen ihn zu beruhigen
+- Sie finden [[Orin]]s Namen heraus und [[Elina]] weiß, dass er Schmuggler der [[Zhentarim]] ist
+- Sie wollen die Kiste holen und an [[Reiter von Mistledale]] übergeben
+- Verfolgen die Spir bis zum Fluss
 
 
 Bewertung: https://forms.gle/rBqBUKD5Uhsdpdib6
