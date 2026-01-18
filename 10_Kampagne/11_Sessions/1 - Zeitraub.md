@@ -28,13 +28,8 @@ Dann: [[Besuch bei Gideon Thorne]]?
 
 Bewertung: https://forms.gle/rBqBUKD5Uhsdpdib6
 
-
-| Zeitstempel         | Session (z.B. "2") | Wie fandest du die Session? | Wie war die Balance? | Hatte dein Charakter genügend Spotlight? | Was hat dir besonders gefallen?                                                           | Hast du Verbesserungswünsche? | Sonstiges?                                                                           |
-| ------------------- | ------------------ | --------------------------- | -------------------- | ---------------------------------------- | ----------------------------------------------------------------------------------------- | ----------------------------- | ------------------------------------------------------------------------------------ |
-| 16.01.2026 21:14:23 | 1                  | 4                           | Genau richtig        | Ja                                       | Die nutzung der Zentharim und die generelle beschreibung des Settings                     | Noch keine                    | HDGDL :*                                                                             |
-| 16.01.2026 21:14:41 | 1                  | 4                           | Genau richtig        | Ja                                       | Dass direkt ein actionreicher Start gegeben war                                           | Bisher nicht :)               | noch nichts, falls mir was einfällt, sage ich dann Bescheid.                         |
-| 16.01.2026 21:16:26 | 1                  | 4                           | Zu viel Kampf        | Ja                                       | Glaube die charekter Konstellation hat viel Potential, sowohl für Kampf als auch roleplay | Noch nicht                    | Zu viel Kampf wahrscheinlich nur, weil wir die Charakter noch nicht gut genug kennen |
-
 ## Todo
 
-[Konsequenzen für nächste Sessions]
+- [ ] [[2 - Session]] vorbereiten
+- [ ] [[Varon]] Plot weiterdenken (*er ist ja entkommen*)
+- [ ] [[Orin]] 
