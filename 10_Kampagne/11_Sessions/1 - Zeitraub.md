@@ -41,7 +41,10 @@ Dann: [[Besuch bei Gideon Thorne]]?
 - Bestohlener Typ ([[Orin]]) rastet aus und legt sich mit [[Tado]] und [[Jorvan]] an, die versuchen ihn zu beruhigen
 - Sie finden [[Orin]]s Namen heraus und [[Elina]] weiß, dass er Schmuggler der [[Zhentarim]] ist
 - Sie wollen die Kiste holen und an [[Reiter von Mistledale]] übergeben
-- Verfolgen die Spir bis zum Fluss
+- Verfolgen die Spir bis zum Flussufer des [[Ashaba]]
+- [[Jorvan]] baut einen Enterhaken aus seinem [[Allzweckwerkzeug]] und wirft es auf die andere Seite
+- [[Tado]] hält das Ende des Seils, während die anderen beiden rüberklettern
+- 
 
 
 Bewertung: https://forms.gle/rBqBUKD5Uhsdpdib6
