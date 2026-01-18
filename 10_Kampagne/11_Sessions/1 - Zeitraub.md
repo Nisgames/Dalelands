@@ -72,7 +72,9 @@ Dann: [[Besuch bei Gideon Thorne]]?
 - **Ende**
 
 DM Ergänzungen:
-- Kampf gegen [[Kaelen]] 
+- Kampf gegen [[Kaelen]] und Kollegen hat sich ziemlich lang gezogen, da die Spieler echt schlecht gewürfelt haben
+	- Spieler kennen ihre Charaktere auch noch nicht gut, deshalb dauern Aktionen länger
+- War relativ unspannt
 
 Bewertung: https://forms.gle/rBqBUKD5Uhsdpdib6
 
