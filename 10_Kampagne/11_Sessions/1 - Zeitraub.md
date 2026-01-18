@@ -35,7 +35,10 @@ Dann: [[Besuch bei Gideon Thorne]]?
 - Ein merkwürdiger Mensch ([[Orin]]) sitzt in der Ecke mit Kiste
 - Plötzlich steht alles still
 - Person ([[Varon]]) gleitet durch den Raum mit pulsierendem Amulett ([[Amulett der Zeit]]) und klaut die Kiste
-- Ein violett pulsierender Splitter ([[Schattensplitter]]) fällt heraus, als er durchs Fenster fl
+- Ein violett pulsierender Splitter ([[Schattensplitter]]) fällt heraus, als er durchs Fenster flüchtet
+- Plötzlich geht die Zeit weiter
+- Kneipe rastet aus
+- Bestohlener Typ ([[Orin]]) rastet aus und legt sich mit [[Tado]] und [[Jorvan]] an, die versuc
 
 
 Bewertung: https://forms.gle/rBqBUKD5Uhsdpdib6
