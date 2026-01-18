@@ -44,6 +44,9 @@ Dann: [[Besuch bei Gideon Thorne]]?
 - Verfolgen die Spir bis zum Flussufer des [[Ashaba]]
 - [[Jorvan]] baut einen Enterhaken aus seinem [[Allzweckwerkzeug]] und wirft es auf die andere Seite
 - [[Tado]] hält das Ende des Seils, während die anderen beiden rüberklettern
+- Dann versucht [[Tado]] sich rüber zu ziehen, während [[Jorvan]] festhält
+- Er ist zu schwach und beide fallen ins Wasser und werden 20 m südlich angespült
+	- *(Bekommen Erschöpfung Grad 1)*
 - 
 
 
