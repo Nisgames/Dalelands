@@ -34,7 +34,8 @@ Dann: [[Besuch bei Gideon Thorne]]?
 - Sie sind im [[White Hart Inn]] und essen gemeinsam
 - Ein merkwürdiger Mensch ([[Orin]]) sitzt in der Ecke mit Kiste
 - Plötzlich steht alles still
-- 
+- Person ([[Varon]]) gleitet durch den Raum mit pulsierendem Amulett ([[Amulett der Zeit]]) und klaut die Kiste
+- Ein violett pulsierender Splitter ([[Schattensplitter]]) fällt heraus, als er durchs Fenster fl
 
 
 Bewertung: https://forms.gle/rBqBUKD5Uhsdpdib6
