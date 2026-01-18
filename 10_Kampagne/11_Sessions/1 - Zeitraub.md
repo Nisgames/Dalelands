@@ -66,7 +66,8 @@ Dann: [[Besuch bei Gideon Thorne]]?
 - Im Kampf wird [[Orin]] von einem der Handlanger abgestochen (*noch nicht sicher ob nur ohnmächtig oder ganz tot*)
 - [[Jorvan]] bringt einen der Handlanger um (schneidet ihm nach dem Kampf die Kehle durch)
 - [[Tado]] klaut allen dreien + [[Orin]] die Waffen und Rüstungen, damit es nicht zu noch einem Konflikt kommen kann
-- Aus einer Ecke des [[White Hart Inn]] kommt ein Typ ([[Gideon Thorne]]), lobt sie und sagt sie sol 
+- Aus einer Ecke des [[White Hart Inn]] kommt ein Typ ([[Gideon Thorne]]), lobt sie und sagt sie sollen ihm morgen (16. [[Harptos]] 1496) die "Scherbe" ([[Schattensplitter]]) bringen
+- Er bietet ihnen 
 
 
 Bewertung: https://forms.gle/rBqBUKD5Uhsdpdib6
