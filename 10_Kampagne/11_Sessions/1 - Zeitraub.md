@@ -52,7 +52,10 @@ Dann: [[Besuch bei Gideon Thorne]]?
 - Mann erschreckt sich so doll, dass er zusammenbricht und kurz ohnmächtig wird
 - Sie beruhigen ihn und erfahren, dass er einen "Geist" auf einem Pferd ([[Zesstra Oloré]]) auf dem Fluss hat reiten sehen
 - Durch die vielen Spuren im Matsch kann [[Elina]] die Spur des Diebes ([[Varon]]) nicht mehr finden
-- Sie bringen den alten Mann nach [[Ashabenford]] zu seinem Haus zurück und kehren ins [[White Hart Inn]] 
+- Sie bringen den alten Mann nach [[Ashabenford]] zu seinem Haus zurück und kehren ins [[White Hart Inn]] zurück
+- [[Orin]] ist immernoch am ausrasten und bedroht Leute
+- [[Elina]] holt sich bei [[Holfast Harpell]] an der Bar 3 Bier für die Gruppe
+- [[Tado]] haut [[Orin]] zu B
 
 
 Bewertung: https://forms.gle/rBqBUKD5Uhsdpdib6
