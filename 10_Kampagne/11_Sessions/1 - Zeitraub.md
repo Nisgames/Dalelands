@@ -51,7 +51,8 @@ Dann: [[Besuch bei Gideon Thorne]]?
 - [[Elina]] rennt mit Krummsäbeln auf ihn zu und kommt erst kurz vor ihm zum stehen
 - Mann erschreckt sich so doll, dass er zusammenbricht und kurz ohnmächtig wird
 - Sie beruhigen ihn und erfahren, dass er einen "Geist" auf einem Pferd ([[Zesstra Oloré]]) auf dem Fluss hat reiten sehen
-- 
+- Durch die vielen Spuren im Matsch kann [[Elina]] die Spur des Diebes ([[Varon]]) nicht mehr finden
+- Sie bringen den alten Mann nach [[Ashabenford]] zu seinem Haus zurück und kehren ins [[White Hart Inn]] 
 
 
 Bewertung: https://forms.gle/rBqBUKD5Uhsdpdib6
