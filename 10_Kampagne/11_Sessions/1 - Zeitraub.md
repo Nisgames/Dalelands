@@ -50,6 +50,7 @@ Dann: [[Besuch bei Gideon Thorne]]?
 - Sehen den Umriss einer Gestalt im aufgezogenen Nebel
 - [[Elina]] rennt mit Krummsäbeln auf ihn zu und kommt erst kurz vor ihm zum stehen
 - Mann erschreckt sich so doll, dass er zusammenbricht und kurz ohnmächtig wird
+- Sie beruhigen ihn und erfahren, dass er einen "Geist" auf einem Pferd ([[Zesstra Oloré]]) auf dem Fluss hat reiten sehen
 - 
 
 
