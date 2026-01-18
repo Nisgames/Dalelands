@@ -61,7 +61,9 @@ Dann: [[Besuch bei Gideon Thorne]]?
 - [[Kaelen]] (*[[Elina]] kennt ihn vom sehen und kennt seinen Namen*) und seine zwei Begleiter betreten die Bar
 - [[Tado]] ändert noch schnell mit einem Zauber [[Orin]]s Gesicht, aber [[Kaelen]] durchschaut es
 - Sie suchen [[Orin]] und bedrohen ihn
-- 
+- Sie bedrohen [[Jorvan]], bei dem sie den Splitter gesehen haben
+- Sie Kämpfen im [[White Hart Inn]] und besiegen alle drei
+- [[Jorvan]] bringt einen der Handlanger um (schneidet ihm nach dem K)
 
 
 Bewertung: https://forms.gle/rBqBUKD5Uhsdpdib6
