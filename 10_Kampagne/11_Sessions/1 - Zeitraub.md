@@ -28,7 +28,9 @@ Dann: [[Besuch bei Gideon Thorne]]?
 
 ## Log
 
-[Mitschriften]
+- 1496 nach der Tal-Rechnung
+- 
+
 
 Bewertung: https://forms.gle/rBqBUKD5Uhsdpdib6
 
