@@ -9,5 +9,5 @@
   "showInlineTitle": true,
   "spellcheck": false,
   "alwaysUpdateLinks": true,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "source"
 }
