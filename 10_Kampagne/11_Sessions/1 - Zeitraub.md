@@ -28,6 +28,7 @@ Dann: [[Besuch bei Gideon Thorne]]?
 
 ## Log
 
+- **Start mit [[Einleitungstext]]**
 - 1496 nach der Tal-Rechnung
 - 10 Jahre nach dem Untergang von [[Myth Drannor]]
 - Start in [[Ashabenford]]
@@ -67,8 +68,11 @@ Dann: [[Besuch bei Gideon Thorne]]?
 - [[Jorvan]] bringt einen der Handlanger um (schneidet ihm nach dem Kampf die Kehle durch)
 - [[Tado]] klaut allen dreien + [[Orin]] die Waffen und Rüstungen, damit es nicht zu noch einem Konflikt kommen kann
 - Aus einer Ecke des [[White Hart Inn]] kommt ein Typ ([[Gideon Thorne]]), lobt sie und sagt sie sollen ihm morgen (16. [[Harptos]] 1496) die "Scherbe" ([[Schattensplitter]]) bringen
-- Er bietet ihnen 
+- Er bietet ihnen ganze 200 Gold dafür
+- **Ende**
 
+DM Ergänzungen:
+- Kampf gegen [[Kaelen]] 
 
 Bewertung: https://forms.gle/rBqBUKD5Uhsdpdib6
 
