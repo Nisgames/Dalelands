@@ -32,4 +32,6 @@ Bewertung: https://forms.gle/rBqBUKD5Uhsdpdib6
 
 - [ ] [[2 - Session]] vorbereiten
 - [ ] [[Varon]] Plot weiterdenken (*er ist ja entkommen*)
-- [ ] [[Orin]] 
+- [ ] [[Orin]] überlebt oder tot?
+- [ ] [[Gideon Thorne]] muss auftrag geben
+- [ ] Sidequest vom alten Mann?
