@@ -57,7 +57,9 @@ Dann: [[Besuch bei Gideon Thorne]]?
 - [[Elina]] holt sich bei [[Holfast Harpell]] an der Bar 3 Bier für die Gruppe
 - [[Tado]] haut [[Orin]] zu Boden und [[Jorvan]] legt ihm selbst erzeugte Handschellen an
 - Sie setzen sich an einen Tisch neben dem Kamin
-- [[Jorvan]] untersucht (*mit dem Ritual für Identifizieren*) den 
+- [[Jorvan]] untersucht (*mit dem Ritual für Identifizieren*) den Splitter ([[Schattensplitter]])
+- [[Kaelen]] (*[[Elina]] kennt ihn vom sehen und kennt seinen Namen*) und seine zwei Begleiter betreten die Bar
+- Sie suchen [[Orin]] und bedrohen ihn
 
 
 Bewertung: https://forms.gle/rBqBUKD5Uhsdpdib6
