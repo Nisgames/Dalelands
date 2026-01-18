@@ -47,6 +47,9 @@ Dann: [[Besuch bei Gideon Thorne]]?
 - Dann versucht [[Tado]] sich rüber zu ziehen, während [[Jorvan]] festhält
 - Er ist zu schwach und beide fallen ins Wasser und werden 20 m südlich angespült
 	- *(Bekommen Erschöpfung Grad 1)*
+- Sehen den Umriss einer Gestalt im aufgezogenen Nebel
+- [[Elina]] rennt mit Krummsäbeln auf ihn zu und kommt erst kurz vor ihm zum stehen
+- Mann erschreckt sich so doll, dass er zusammenbricht und kurz ohnmächtig wird
 - 
 
 
