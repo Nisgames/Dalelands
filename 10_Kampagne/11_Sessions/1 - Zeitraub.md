@@ -55,7 +55,9 @@ Dann: [[Besuch bei Gideon Thorne]]?
 - Sie bringen den alten Mann nach [[Ashabenford]] zu seinem Haus zurück und kehren ins [[White Hart Inn]] zurück
 - [[Orin]] ist immernoch am ausrasten und bedroht Leute
 - [[Elina]] holt sich bei [[Holfast Harpell]] an der Bar 3 Bier für die Gruppe
-- [[Tado]] haut [[Orin]] zu B
+- [[Tado]] haut [[Orin]] zu Boden und [[Jorvan]] legt ihm selbst erzeugte Handschellen an
+- Sie setzen sich an einen Tisch neben dem Kamin
+- [[Jorvan]] untersucht (*mit dem Ritual für Identifizieren*) den 
 
 
 Bewertung: https://forms.gle/rBqBUKD5Uhsdpdib6
