@@ -63,9 +63,10 @@ Dann: [[Besuch bei Gideon Thorne]]?
 - Sie suchen [[Orin]] und bedrohen ihn
 - Sie bedrohen [[Jorvan]], bei dem sie den Splitter gesehen haben
 - Sie Kämpfen im [[White Hart Inn]] und besiegen alle drei
-- Im Kampf wird [[Orin]] von einem der Handlanger umgebracht
+- Im Kampf wird [[Orin]] von einem der Handlanger abgestochen (*noch nicht sicher ob nur ohnmächtig oder ganz tot*)
 - [[Jorvan]] bringt einen der Handlanger um (schneidet ihm nach dem Kampf die Kehle durch)
 - [[Tado]] klaut allen dreien + [[Orin]] die Waffen und Rüstungen, damit es nicht zu noch einem Konflikt kommen kann
+- Aus einer Ecke des [[White Hart Inn]] kommt ein Typ ([[Gideon Thorne]]), lobt sie und sagt sie sol 
 
 
 Bewertung: https://forms.gle/rBqBUKD5Uhsdpdib6
