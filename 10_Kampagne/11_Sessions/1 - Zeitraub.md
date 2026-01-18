@@ -29,6 +29,11 @@ Dann: [[Besuch bei Gideon Thorne]]?
 ## Log
 
 - 1496 nach der Tal-Rechnung
+- 10 Jahre nach dem Untergang von [[Myth Drannor]]
+- Start in [[Ashabenford]]
+- Sie sind im [[White Hart Inn]] und essen gemeinsam
+- Ein merkwürdiger Mensch ([[Orin]]) sitzt in der Ecke mit Kiste
+- Plötzlich steht alles still
 - 
 
 
