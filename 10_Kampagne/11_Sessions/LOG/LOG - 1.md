@@ -4,6 +4,8 @@ tags:
 date:
 ---
 
+## LOG
+
 - **Start mit [[Einleitungstext]]**
 - 1496 nach der Tal-Rechnung
 - 10 Jahre nach dem Untergang von [[Myth Drannor]]
@@ -47,3 +49,16 @@ date:
 - Er bietet ihnen ganze 200 Gold dafür
 - **Ende**
 
+## DM-Feedback
+
+- Kampf gegen [[Kaelen]] und Kollegen hat sich ziemlich lang gezogen, da die Spieler echt schlecht gewürfelt haben
+	- Spieler kennen ihre Charaktere auch noch nicht gut, deshalb dauern Aktionen länger (auch außerhalb des Kampfes)
+- Der Kampf war relativ unspannend, da die Umgebung nicht aktiv eingebunden wurde oder interveniert hat
+
+## Spieler-Feedback
+
+| Zeitstempel         | Session (z.B. "2") | Wie fandest du die Session? | Wie war die Balance? | Hatte dein Charakter genügend Spotlight? | Was hat dir besonders gefallen?                                                           | Hast du Verbesserungswünsche? | Sonstiges?                                                                           |
+| ------------------- | ------------------ | --------------------------- | -------------------- | ---------------------------------------- | ----------------------------------------------------------------------------------------- | ----------------------------- | ------------------------------------------------------------------------------------ |
+| 16.01.2026 21:14:23 | 1                  | 4                           | Genau richtig        | Ja                                       | Die nutzung der Zentharim und die generelle beschreibung des Settings                     | Noch keine                    | HDGDL :*                                                                             |
+| 16.01.2026 21:14:41 | 1                  | 4                           | Genau richtig        | Ja                                       | Dass direkt ein actionreicher Start gegeben war                                           | Bisher nicht :)               | noch nichts, falls mir was einfällt, sage ich dann Bescheid.                         |
+| 16.01.2026 21:16:26 | 1                  | 4                           | Zu viel Kampf        | Ja                                       | Glaube die charekter Konstellation hat viel Potential, sowohl für Kampf als auch roleplay | Noch nicht                    | Zu viel Kampf wahrscheinlich nur, weil wir die Charakter noch nicht gut genug kennen |
