@@ -193,9 +193,6 @@ creatures:
 	- Oder schleifen die Leichen weg
 - Prüfen auch die Spieler
 
-## Bewertung
-
-Bewertung: https://forms.gle/rBqBUKD5Uhsdpdib6
 
 ## Todo
 
