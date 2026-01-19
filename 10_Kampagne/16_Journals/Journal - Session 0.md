@@ -1,7 +1,7 @@
 ---
 tags:
   - Journal
-date:
+date: 2025-12-17
 session: "[[0 - Session zero - Erwartungen der Spieler]]"
 ---
 
