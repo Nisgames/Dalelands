@@ -55,6 +55,10 @@ ingame_date: X. Marpenoth 1496
 > Er blickt auf, lächelt warm und deutet auf die Sessel vor ihm.
 > "Pünktlich. Das schätze ich. Tee? Oder ist es noch zu früh für Wein?"
 
+* **Gideon:** *"Darf ich den Splitter sehen?"* 
+	Er zieht einen Handschuh an, bevor er den Splitter berührt. Er betrachtet ihn gegen das Licht einer Lampe.
+* **Reaktion:** *"Faszinierend. Rohe, ungefilterte Energie. Gefährlich für Amateure, aber... nützlich für Kenner."* 
+* **Bezahlung:** Er öffnet eine Schublade und zählt **200 Goldmünzen** (oder Edelsteine im gleichen Wert) auf den Tisch. *"Wie versprochen. Ich halte meine Verträge immer ein."*
 
 
 #### Begegnung Kutscher

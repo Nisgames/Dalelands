@@ -10,10 +10,6 @@ Plot: "[[Zukunft mit Gideon Thorne]]"
 ## Der Handel
 
 **Wenn die Spieler den Splitter aus dem Gasthaus haben:**
-* **Gideon:** *"Darf ich sehen?"* 
-	Er zieht einen Handschuh an, bevor er den Splitter berührt. Er betrachtet ihn gegen das Licht einer Lampe.
-* **Reaktion:** *"Faszinierend. Rohe, ungefilterte Energie. Gefährlich für Amateure, aber... nützlich für Kenner."* 
-* **Bezahlung:** Er öffnet eine Schublade und zählt **200 Goldmünzen** (oder Edelsteine im gleichen Wert) auf den Tisch. *"Wie versprochen. Ich halte meine Verträge immer ein."*
 
 #### Weiteres Gespräch
 
@@ -28,4 +24,3 @@ Plot: "[[Zukunft mit Gideon Thorne]]"
 	- Könnte Kontakt sein
 - [[Eulenturm]] liegt etwa 6 Stunden südlich von [[Ashabenford]] 
 	- Wenn man auf dem [[Ashaba]] reist nur 3 Stunden
-- 
