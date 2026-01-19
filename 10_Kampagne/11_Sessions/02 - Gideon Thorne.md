@@ -77,6 +77,38 @@ DM Wissen
 - Sicherheit: Zwei kräftige Söldner stehen unauffällig bei den Warenlagern
 - Hinterhalt: Gideon erwartet sie, keine Fallen aktiv
 
+#### Gideon Thorne
+
+Erscheinung & Art
+- Sitzt entspannt am Schreibtisch, trinkt Tee aus feinem Porzellan
+- Wirkt besorgt aber väterlich
+- Kleidung ist makellos, trotz der Ereignisse am Vorabend
+
+Gesprächsleitfaden
+1. Die Bezahlung
+- Legt sofort 200 Goldmünzen auf den Tisch (Säckchen)
+- Lobt ihr Eingreifen im White Hart Inn
+- Zitat: Ihr habt gestern bewiesen, dass ihr nicht nur schlagkräftig, sondern auch vernünftig seid. Seltene Kombination.
+
+2. Der Splitter (Analyse)
+- Betrachtet den Splitter (wenn übergeben) mit einer Juwelierlupe
+- Behauptet: Es ist ein Schattensplitter. Uralte Magie aus der Zeit von Netheril oder Cormanthor. Gefährlich in falschen Händen.
+- Lüge: Er will sie sammeln, um sie sicher zu verwahren oder zu neutralisieren (eigentlich Verkauf an Sembia)
+
+3. Der Feind (Varon & Haus Jaelre)
+- Identifiziert den Dieb Varon als Drow aus dem Haus Jaelre
+- Erklärt: Diese Drow sind Ausgestoßene. Sie suchen nach alter Magie, um ihre Macht im Unterreich zurückzugewinnen
+- Gefahr: Wenn sie genug Splitter finden, bedrohen sie das ganze Tal
+
+4. Der Hinweis (Eulenturm)
+- Gideons Späher haben ungewöhnliche Aktivitäten flussabwärts gemeldet
+- Ort: Eulenturm (alte Ruine, ca. 6 Stunden südlich zu Fuß, 3 Stunden per Boot)
+- Vermutung: Varon hat sich dort mit Kontaktleuten getroffen oder ein Lager aufgeschlagen
+
+Checks
+- Insight DC 16: Gideon verbirgt etwas (seine wahren Motive), aber seine Sorge um die Drow wirkt echt (er hasst Konkurrenz)
+- History DC 14 (Zhentarim): Gideon nutzt Codes oder Symbole, die vage an Zhentarim-Händler erinnern, aber er ist sehr diskret
+
 #### Begegnung Kutscher
 
 Ein Brauerei-Wagen aus [[Ashabenford]], beladen mit Fässern des berühmten Ales. Der Kutscher summt ein Lied an **[[Chauntea]]** (Göttin der Ernte).
