@@ -34,7 +34,7 @@ Sprachen:
 
 #### Herkunft & Ausbildung
 
-Tado wuchs in [[Mulptan]] ([[Rashemen]]) bei seinen Eltern auf. Sein Vater, Brokkar, ist ein Priester des [[Lathander]], während seine Mutter, Gola, der Stadtwache angehört.
+Tado wuchs in [[Mulptan]] ([[Rashemen]]) bei seinen Eltern auf. Sein Vater, [[Brokkar Tatrat]], ist ein Priester des [[Lathander]], während seine Mutter, [[Gola Tatrat]], der Stadtwache angehört.
 
 Durch diese Erziehung wurde er gleichermaßen in den Tugenden des [[Lathander]] unterwiesen sowie im Umgang mit Waffen geschult. Im Alter von 30 Jahren schwor er [[Lathander]] die Treue und wurde zum Paladin geweiht.
 
@@ -47,3 +47,9 @@ Gemeinsam mit seinem Kindheitsfreund [[Zeek Reißzahn]], verließ er seine Heima
 Nach der Flucht vor einer unbekannten Bedrohung schlugen sie ihr Lager im Schatten einer Felsnadel auf. Mitten in der Nacht erwachte Tado und sah, dass die Felsnadel leuchtete – es wirkte wie magische Schriftzeichen.
 
 Als er sich der Nadel näherte und eines der Zeichen berührte, verlor er das Bewusstsein und ihm wurde schwarz vor Augen.
+
+#### Ankunft in den Dalelands
+
+Tado erwachte allein in einem Wald in der Nähe einer Siedlung. Dort traf er auf [[Elina]], die ihn zur nächsten größeren Ortschaft führen wollte.
+
+Auf dem Weg retteten sie [[Jorvan]], der vor Kultisten floh. Gemeinsam setzten sie ihre Reise fort und gelangten schließlich nach [[Ashabenford]].
