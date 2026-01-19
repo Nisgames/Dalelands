@@ -7,7 +7,16 @@ ingame_date: X. Marpenoth 1496
 
 ## Recap
 
-[Was geschah zuletzt]
+> [!narrator] Recap
+> Willkommen zurück in den Dalelands. Wir schreiben das Jahr 1496 nach der Tal-Rechnung.
+> 
+> Eigentlich wolltet ihr im White Hart Inn nur einen entspannten Abend verbringen, doch die Ruhe war trügerisch. Plötzlich fror die Zeit um euch herum ein. Ihr saht, wie ein Mann namens Varon mit einem pulsierenden Amulett durch den stillstehenden Raum glitt und dem Schmuggler Orin eine Kiste entwendete. Dabei fiel ein violetter Splitter zu Boden – ein Schattensplitter.
+> 
+> Als die Zeit weiterlief, nahmt ihr die Verfolgung auf. Eure Jagd führte euch zum Ufer des Ashaba, wo Jorvans und Tados Kletterkünste... sagen wir, "wenig heldenhaft" endeten. Nass und erschöpft wurdet ihr flussabwärts gespült. Zwar entkam der Dieb Varon, doch ihr trefft auf einen verängstigten alten Mann, der eine geisterhafte Reiterin auf dem Wasser gesehen haben will.
+> 
+> Zurück im Gasthaus eskalierte die Lage. Ihr gerietet ins Visier von Kaelen und seinen Schlägern, die es auf den Splitter abgesehen hatten. Ein blutiger Kampf entbrannte mitten im Schankraum. Ihr konntet sie besiegen, doch Orin wurde dabei schwer verwundet.
+> 
+> Der Abend endete mit einem Angebot aus dem Schatten: Ein Mann namens Gideon Thorne trat hervor. Er will den Splitter. Und er zahlt gut.
 
 ## Ablauf
 
