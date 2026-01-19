@@ -77,9 +77,8 @@ Erscheinung & Art
 - Lobt ihr Eingreifen im [[White Hart Inn]]
 - Zitat: Ihr habt gestern bewiesen, dass ihr nicht nur schlagkräftig, sondern auch vernünftig seid. Seltene Kombination.
 
-1. Der Feind ([[Varon]] & [[Haus Jaelre]])
+3. Der Feind ([[Varon]] & [[Haus Jaelre]])
 - Identifiziert den Dieb als Drow aus dem [[Haus Jaelre]]
-- Weiß 
 - Gefahr: Wenn sie genug Splitter finden, bedrohen sie das ganze Tal
 
 4. Der Hinweis (Eulenturm)
