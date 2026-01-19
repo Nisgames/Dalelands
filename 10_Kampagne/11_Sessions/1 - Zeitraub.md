@@ -2,7 +2,7 @@
 tags:
   - Session
 date: 2026-01-16
-ingame_date:
+ingame_date: 15. Marpenoth 1496
 ---
 
 ## Recap

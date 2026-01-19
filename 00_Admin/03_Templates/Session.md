@@ -2,6 +2,7 @@
 tags:
   - Session
 date:
+ingame_date: X. Marpenoth 1496
 ---
 
 ## Recap

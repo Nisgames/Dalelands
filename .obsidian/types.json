@@ -18,6 +18,6 @@
     "Zaubergrad": "number",
     "Klassen": "multitext",
     "Sprachen": "multitext",
-    "ingame_date": "datetime"
+    "ingame_date": "text"
   }
 }
