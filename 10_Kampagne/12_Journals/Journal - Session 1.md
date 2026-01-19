@@ -50,6 +50,8 @@ session: "[[01 - Zeitraub]]"
 - Er bietet ihnen ganze 200 Gold dafür
 - **Ende**
 
+---
+
 ## DM-Feedback
 
 - Kampf gegen [[Kaelen]] und Kollegen hat sich ziemlich lang gezogen, da die Spieler echt schlecht gewürfelt haben
