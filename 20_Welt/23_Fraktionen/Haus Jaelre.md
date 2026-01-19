@@ -14,7 +14,8 @@ Relevanz: Hoch
 
 ## Agenda
 
-- Machteinfluss an der Oberfläche 
+- Machteinfluss an der Oberfläche erhöhen
+- Die Drow von [[Haus Jaelre]] wollen die Oberfläche erobern und nutzen Splitter, um "Schatten-Monolithen" zu bauen, die permanente Dunkelheit erzeugen.
 
 ## Beziehungen
 
