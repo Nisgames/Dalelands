@@ -6,7 +6,7 @@ Volk: Mensch
 Klasse: Schmuggler
 Level:
 Ort: "[[Ashabenford]]"
-Fraktionen: "[[Kaelen]]"
+Fraktionen: "[[Zhentarim]]"
 Rolle: Handlanger
 Relevanz: Mittel
 statblock: inline
@@ -35,7 +35,7 @@ statblock: inline
 
 ## DM Wissen
 
-**Hintergrund:** Orin ist ein niederrangiger Kurier der [[20_Welt/23_Fraktionen/Zhentarim]], der hofft durch wichtige Lieferungen aufzusteigen. 
+**Hintergrund:** Orin ist ein niederrangiger Kurier der [[Zhentarim]], der hofft durch wichtige Lieferungen aufzusteigen. 
 
 **Motivation:** Er hat massive Spielschulden und die Zhentarim haben ihm "eine letzte Chance" gegeben. Wenn er die Kiste verliert, ist er so gut wie tot. Deshalb seine extreme Panik im Gasthaus.
 
