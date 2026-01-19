@@ -36,10 +36,6 @@ Region: "[[Ashabenford]]"
 * Hier lagert die Schmuggelware (Waffen, Gifte, und die Kisten mit [[Schattensplitter]]n).
 * Ein kleines Ruderboot ist hier immer vertäut, bereit für eine schnelle Flucht.
 
-## Events
-
-[Was passiert, wenn Bedingung X erfüllt ist?]
-
 ## DM Wissen
 
 * **Sicherheit:** Nachts patrouillieren hier 2 **Wachhunde** (Mastiffs) und ein Söldner (Loyalität gilt dem Gold).
