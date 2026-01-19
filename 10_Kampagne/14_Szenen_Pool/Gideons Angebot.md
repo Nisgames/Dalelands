@@ -5,7 +5,7 @@
 
 * **Das Angebot:**
     * Er reicht dem Anführer der Gruppe eine Visitenkarte (Dickes, cremefarbenes Papier mit Goldprägung: Eine Waage).
-    * *"Mein Name ist Gideon Thorne. Ich betreibe das Kontor am Fluss. Kommt morgen früh zu mir. Ich habe Verwendung für Problemlöser wie euch. Und ich zahle besser als die Stadtwache."*
+    * *"Mein Name ist [[Gideon Thorne]]. Ich betreibe das Kontor am Fluss. Kommt morgen früh zu mir."*
 
 **Insight Check (Motiv erkennen):**
 * **DC 10:** Er ist definitiv ein reicher Händler. Er wirkt arrogant, aber ehrlich beeindruckt.

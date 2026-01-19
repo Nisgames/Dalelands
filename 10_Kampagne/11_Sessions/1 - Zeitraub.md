@@ -192,8 +192,6 @@ creatures:
 	- Oder schleifen die Leichen weg
 - Prüfen auch die Spieler
 
-
-
 #### Gideon
 
 > [!narrator] Nach dem Sturm
