@@ -16,7 +16,7 @@ ingame_date: X. Marpenoth 1496
 > 
 > Zurück im Gasthaus eskalierte die Lage. Ihr gerietet ins Visier von Kaelen und seinen Schlägern, die es auf den Splitter abgesehen hatten. Ein blutiger Kampf entbrannte mitten im Schankraum. Ihr konntet sie besiegen, doch Orin wurde dabei schwer verwundet.
 > 
-> Als letztes kam ein Mann auf euch zu und hat euch 200 Gold für den Splitter geboten, wenn ihr ihn morgen be
+> Als letztes kam ein Mann auf euch zu und hat euch 200 Gold für den Splitter geboten, wenn ihr ihn morgen besuchen kommt.
 
 ## Ablauf
 
@@ -29,8 +29,11 @@ ingame_date: X. Marpenoth 1496
 * **DC 15:** Er verachtet [[Kaelen]]. Er scheint keine Angst vor den [[Zhentarim]] zu haben – oder er hält sich für mächtiger.
 * **DC 20:** Sein Lächeln erreicht seine Augen nicht ganz. Er analysiert euch nicht als Menschen, sondern als Investition.
 
+- Wirft [[Holfast Harpell]] einen schweren Geldbeutel auf den Tresen.
+	- *"Für die Möbel, mein Guter."
+
 > [!narrator] Abgang
-> Bevor ihr antworten könnt, nickt er euch zu. Er wirft [[Holfast Harpell]] einen schweren Geldbeutel auf den Tresen.
+> Bevor ihr antworten könnt, nickt er euch zu. Er 
 > "Für die Möbel, mein Guter. Und eine Runde für das Haus, auf mein Wohl."
 > Dann dreht er sich um und schreitet hinaus in die Nacht, den Gehstock rhythmisch auf den Dielen klackend.
 
