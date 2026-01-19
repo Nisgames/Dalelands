@@ -26,7 +26,7 @@ Die [[Zhentarim]] wollen die [[Schattensplitter]] als Waffen an [[Sembia]] verka
 
 ## Beziehungen
 
-Seit [[Varon]] die Kiste mit [[Schattensplitter]]n von 
+Seit [[Varon]] die Kiste mit [[Schattensplitter]]n von [[Orin]] geklaut hat, sind die [[Zhentarim]] mit [[Haus Jaelre]] im Streit.
 
 ## DM Wissen
 

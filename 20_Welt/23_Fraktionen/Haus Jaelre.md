@@ -14,7 +14,7 @@ Relevanz: Hoch
 
 ## Agenda
 
-[Großes Ziel]
+- Machteinfluss an der Oberfläche 
 
 ## Beziehungen
 
