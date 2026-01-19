@@ -6,7 +6,7 @@ Volk: Mensch
 Klasse: Schmuggler
 Level:
 Ort: "[[Ashabenford]]"
-Fraktionen: "[[20_Welt/23_Fraktionen/Zhentarim]]"
+Fraktionen: "[[Kaelen]]"
 Rolle: Handlanger
 Relevanz: Mittel
 statblock: inline

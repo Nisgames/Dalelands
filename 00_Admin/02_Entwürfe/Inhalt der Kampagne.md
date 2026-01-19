@@ -43,7 +43,7 @@ tags:
 
 ### Weitere Fraktionen
 
-**[[20_Welt/23_Fraktionen/Zhentarim]] (Die Profiteure)**
+**[[Zhentarim]] (Die Profiteure)**
 - **Rolle:** Wollen die Splitter kaufen und als Waffen an [[Sembia]] verkaufen oder selbst benutzen.
 - **Verhalten:** Treten als Händler, Questgeber oder Rivalen auf. Sie wollen die Welt nicht zerstören, nur beherrschen.
 
