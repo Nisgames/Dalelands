@@ -1,6 +1,6 @@
 ---
 tags:
-  - Session
+  - Journal
 date:
 ---
 
