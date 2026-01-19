@@ -60,6 +60,22 @@ ingame_date: X. Marpenoth 1496
 * **Reaktion:** *"Faszinierend. Rohe, ungefilterte Energie. Gefährlich für Amateure, aber... nützlich für Kenner."* 
 * **Bezahlung:** Er öffnet eine Schublade und legt **200 Goldmünzen** in Stapeln auf den Tisch. *"Wie versprochen."*
 
+#### Das Kontor
+
+Atmosphäre
+- Geruch nach Zimt, Pfeffer und feuchtem Flusswasser
+- Knarren der Holzdielen über dem Wasser
+- Geschäftiges Treiben von Arbeitern, die Kisten verladen
+- Ruhige, gedämpfte Stimmung im oberen Büro
+
+POI
+- Der Verkaufstresen: Ein junger Halbling sortiert Papiere (schickt die Gruppe hoch)
+- Die Wendeltreppe: Eng, führt zum Büro im ersten Stock
+- Das Bürofenster: Großer Erker mit Blick auf den Ashaba
+
+DM Wissen
+- Sicherheit: Zwei kräftige Söldner stehen unauffällig bei den Warenlagern
+- Hinterhalt: Gideon erwartet sie, keine Fallen aktiv
 
 #### Begegnung Kutscher
 
