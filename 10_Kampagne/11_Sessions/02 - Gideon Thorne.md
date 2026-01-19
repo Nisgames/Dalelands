@@ -66,7 +66,8 @@ Erscheinung & Art
 - Wirkt besorgt
 
 *Gespräch*
-2. Der Splitter (Analyse)
+
+1. Der Splitter (Analyse)
 - Betrachtet den Splitter (wenn übergeben) mit einer Juwelierlupe
 - Behauptet: Es ist ein [[Schattensplitter]]. Uralte Magie aus der Zeit von Netheril oder [[Cormanthor]]. Gefährlich in falschen Händen.
 - Lüge: Er will sie sammeln, um sie sicher zu verwahren oder zu neutralisieren (eigentlich Verkauf an [[Sembia]])
