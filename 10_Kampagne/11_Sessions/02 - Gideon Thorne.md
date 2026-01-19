@@ -41,9 +41,9 @@ ingame_date: X. Marpenoth 1496
 
 [Szene 2]
 
-#### Szene 2
+#### [[Gideon Thornes Kontor]]
 
-[Szene 2]
+
 
 #### Begegnung Kutscher
 

@@ -2,7 +2,7 @@
 tags:
   - Szene
   - Social
-Ort: "[[Thornes Kontor]]"
+Ort: "[[Gideon Thornes Kontor]]"
 NPCs: "[[Gideon Thorne]]"
 Plot: "[[Zukunft mit Gideon Thorne]]"
 ---

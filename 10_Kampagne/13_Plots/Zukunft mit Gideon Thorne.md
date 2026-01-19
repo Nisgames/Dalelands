@@ -22,7 +22,7 @@ Sein Ziel: Er will das Monopol auf die **[[Schattensplitter]]**, um sie gewinnbr
 #### Start (Der Köder)
 * **Ort:** [[White Hart Inn]] (Nach dem Kampf mit Kaelen).
 * **Ereignis:** Gideon spricht die Spieler an. Er lobt ihr Kampftalent und distanziert sich von Kaelen ("Ein stumpfes Instrument").
-* **Angebot:** Er lädt sie in sein [[Thornes Kontor]] ein. Er bietet 200 GM für den ersten Splitter und "diskretere Aufträge" für die Zukunft.
+* **Angebot:** Er lädt sie in sein [[Gideon Thornes Kontor]] ein. Er bietet 200 GM für den ersten Splitter und "diskretere Aufträge" für die Zukunft.
 
 #### Mitte (Die Aufträge)
 * **Mission 1:** Eskorte einer "Gewürzlieferung" nach [[Archendale]].
