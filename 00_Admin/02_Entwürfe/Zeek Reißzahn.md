@@ -5,7 +5,7 @@ Status: Lebendig
 Volk: Ork
 Klasse: Paladin
 Level:
-Ort:
+Ort: "[[Rashemen]]"
 Fraktionen:
 Rolle:
 Relevanz: Mittel
@@ -34,7 +34,8 @@ statblock: inline
 
 ## DM Wissen
 
-Ork Kleriker [[Lathander]]
+Ork Kleriker [[Lathander]].
+Kindheitsfreund von [[Tado]] 
 
 #### Begegnungen
 ```dataview
