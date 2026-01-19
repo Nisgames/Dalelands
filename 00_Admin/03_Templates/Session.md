@@ -8,7 +8,7 @@ date:
 
 [Was geschah zuletzt]
 
-## Log
+## 
 
 [Mitschriften]
 
