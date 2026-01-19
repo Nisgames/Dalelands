@@ -62,19 +62,19 @@ DM Wissen
 
 Erscheinung & Art
 - Sitzt entspannt am Schreibtisch, trinkt Tee aus feinem Porzellan
-- Wirkt besorgt aber väterlich
 - Kleidung ist makellos, trotz der Ereignisse am Vorabend
+- Wirkt besorgt
 
-Gesprächsleitfaden
-1. Die Bezahlung
+*Gespräch*
+2. Der Splitter (Analyse)
+- Betrachtet den Splitter (wenn übergeben) mit einer Juwelierlupe
+- Behauptet: Es ist ein [[Schattensplitter]]. Uralte Magie aus der Zeit von Netheril oder [[Cormanthor]]. Gefährlich in falschen Händen.
+- Lüge: Er will sie sammeln, um sie sicher zu verwahren oder zu neutralisieren (eigentlich Verkauf an [[Sembia]])
+
+2. Die Bezahlung
 - Legt sofort 200 Goldmünzen auf den Tisch (Säckchen)
 - Lobt ihr Eingreifen im [[White Hart Inn]]
 - Zitat: Ihr habt gestern bewiesen, dass ihr nicht nur schlagkräftig, sondern auch vernünftig seid. Seltene Kombination.
-
-2. Der Splitter (Analyse)
-- Betrachtet den Splitter (wenn übergeben) mit einer Juwelierlupe
-- Behauptet: Es ist ein Schattensplitter. Uralte Magie aus der Zeit von Netheril oder Cormanthor. Gefährlich in falschen Händen.
-- Lüge: Er will sie sammeln, um sie sicher zu verwahren oder zu neutralisieren (eigentlich Verkauf an Sembia)
 
 3. Der Feind (Varon & Haus Jaelre)
 - Identifiziert den Dieb Varon als Drow aus dem Haus Jaelre
