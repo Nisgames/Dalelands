@@ -32,10 +32,7 @@ ingame_date: X. Marpenoth 1496
 - Wirft [[Holfast Harpell]] einen schweren Geldbeutel auf den Tresen.
 	- *"Für die Möbel, mein Guter."
 
-> [!narrator] Abgang
-> Bevor ihr antworten könnt, nickt er euch zu. Er 
-> "Für die Möbel, mein Guter. Und eine Runde für das Haus, auf mein Wohl."
-> Dann dreht er sich um und schreitet hinaus in die Nacht, den Gehstock rhythmisch auf den Dielen klackend.
+- Dann dreht er sich um und schreitet hinaus in die Nacht, den Gehstock rhythmisch auf den Dielen klackend.
 
 #### Szene 2
 
