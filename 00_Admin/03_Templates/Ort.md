@@ -8,28 +8,14 @@ Region:
 
 [Kurzbeschreibung]
 
-- *Sehen:* 
-	
-- *Beleuchtung:* 
-	
-- *Hören:* 
-	
-- *Riechen:* 
-	
-- *Spüren:* 
-	
-- *Atmosphäre:* 
-	
-- *Details:* 
-	
+- [Sehen / Licht] 
+- [Hören] 
+- [Riechen / Temperatur] 
+- [Stimmung]
 
 ## POI
 
-[Raum 1]
-
-## Events
-
-[Was passiert, wenn Bedingung X erfüllt ist?]
+- [Interaktives Element 1] - [Interaktives Element 2]
 
 ## DM Wissen
 
