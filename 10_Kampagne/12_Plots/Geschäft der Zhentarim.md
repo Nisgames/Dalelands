@@ -8,12 +8,12 @@ Parent: "[[Jagd nach SchattensplitternÂLT]]"
 
 ## Zusammenfassung
 
-Die [[20_Welt/23_Fraktionen/Zhentarim]] wollen die [[Schattensplitter]] als Waffen an [[Sembia]] verkaufen
+Die [[Zhentarim]] wollen die [[Schattensplitter]] als Waffen an [[Sembia]] verkaufen
 
 - Kaufen Splitter ohne Fragen zu stellen, schüchtern Finder ein.
 - [[Sembia]] Händler aus dem Süden fluten die Märkte und fragen spezifisch nach "magischen Erzen".
 
-Der scheinbar ehrbare Händler **[[Gideon Thorne]]** (heimlich ein hoher Agent der **[[20_Welt/23_Fraktionen/Zhentarim]]**) rekrutiert die Spieler. Er verurteilt die brutalen Methoden von Kaelen und bietet den Spielern eine "zivilisierte Partnerschaft" an. Sein Ziel: Er will das Monopol auf die **[[Schattensplitter]]**, um sie gewinnbringend nach [[Sembia]] zu verkaufen. Die Spieler sollen die "Drecksarbeit" machen (Sammeln/Eskortieren), bis sie zu viel wissen.
+Der scheinbar ehrbare Händler **[[Gideon Thorne]]** (heimlich ein hoher Agent der **[[Zhentarim]]**) rekrutiert die Spieler. Er verurteilt die brutalen Methoden von Kaelen und bietet den Spielern eine "zivilisierte Partnerschaft" an. Sein Ziel: Er will das Monopol auf die **[[Schattensplitter]]**, um sie gewinnbringend nach [[Sembia]] zu verkaufen. Die Spieler sollen die "Drecksarbeit" machen (Sammeln/Eskortieren), bis sie zu viel wissen.
 
 ## Ablauf
 
