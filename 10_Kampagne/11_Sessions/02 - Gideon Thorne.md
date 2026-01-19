@@ -81,10 +81,10 @@ Erscheinung & Art
 - Identifiziert den Dieb als Drow aus dem [[Haus Jaelre]]
 - Gefahr: Wenn sie genug Splitter finden, bedrohen sie das ganze Tal
 
-4. Der Hinweis (Eulenturm)
+1. Der Hinweis ([[Eulenturm]])
 - Gideons Späher haben ungewöhnliche Aktivitäten flussabwärts gemeldet
-- Ort: Eulenturm (alte Ruine, ca. 6 Stunden südlich zu Fuß, 3 Stunden per Boot)
-- Vermutung: Varon hat sich dort mit Kontaktleuten getroffen oder ein Lager aufgeschlagen
+- Ort: [[Eulenturm]] (alte Ruine, ca. 9 Stunden südlich zu Fuß, 4 Stunden per Boot)
+- Vermutung: Dieb hat sich dort mit Kontaktleuten getroffen oder ein Lager aufgeschlagen
 
 Checks
 - Insight DC 16: Gideon verbirgt etwas (seine wahren Motive), aber seine Sorge um die Drow wirkt echt (er hasst Konkurrenz)
