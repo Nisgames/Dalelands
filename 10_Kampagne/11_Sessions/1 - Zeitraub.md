@@ -2,6 +2,7 @@
 tags:
   - Session
 date: 2026-01-16
+ingame_date:
 ---
 
 ## Recap

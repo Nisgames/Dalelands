@@ -17,6 +17,7 @@
     "Grad": "number",
     "Zaubergrad": "number",
     "Klassen": "multitext",
-    "Sprachen": "multitext"
+    "Sprachen": "multitext",
+    "ingame_date": "datetime"
   }
 }
