@@ -16,7 +16,7 @@ ingame_date: X. Marpenoth 1496
 > 
 > Zurück im Gasthaus eskalierte die Lage. Ihr gerietet ins Visier von Kaelen und seinen Schlägern, die es auf den Splitter abgesehen hatten. Ein blutiger Kampf entbrannte mitten im Schankraum. Ihr konntet sie besiegen, doch Orin wurde dabei schwer verwundet.
 > 
-> Der Abend endete mit einem Angebot aus dem Schatten: Ein Mann namens Gideon Thorne trat hervor. Er will den Splitter. Und er zahlt gut.
+> Als letztes kam ein Mann auf euch zu und hat euch 200 Gold für den Splitter geboten, wenn ihr ihn morgen be
 
 ## Ablauf
 
