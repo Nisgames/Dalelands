@@ -2,7 +2,7 @@
 tags:
   - Journal
 date: 2026-01-16
-session: "[[1 - Zeitraub]]"
+session: "[[01 - Zeitraub]]"
 ---
 
 ## LOG

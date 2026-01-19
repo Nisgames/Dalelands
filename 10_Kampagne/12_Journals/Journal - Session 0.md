@@ -2,7 +2,7 @@
 tags:
   - Journal
 date: 2025-12-17
-session: "[[0 - Session zero - Erwartungen der Spieler]]"
+session: "[[00 - Session zero]]"
 ---
 
 ## LOG
