@@ -19,7 +19,7 @@ statblock: inline
 *Wohnort:* `=this.Ort` 
 *Aussehen:* 
 	Trägt gut geschnittene, dunkle Reisekleidung.
-	Er hat glattes, öliges schwarzes Haar und ein blasses Gesicht. 
+	Er hat glattes, öliges schwarzes Haar und ein blasses Gesicht.
 	Seine Augen scannen ständig den Raum.
 *Charakterzug:* Leicht reizbar
 *Sprechweise:* Hastig, verschluckt oft Wortenden.
