@@ -38,6 +38,8 @@ Deshalb kann man an der ein oder anderen Stelle nützliche Gegenstände im Fluss
 > [!narrator] Auf dem Fluss 
 > Das Wasser ist heute unruhig. Treibholz schießt schneller als gewöhnlich an euch vorbei, und der Pegel scheint in der letzten Stunde um eine Handbreit gestiegen zu sein. Irgendwo im Norden muss es stark geregnet haben – oder Schlimmeres.
 
+Spült manchmal tote Fische an wegen Verseuchung.
+
 ## DM Wissen
 
 Ein sehr langer Fluss quer durch die Dalelands. 

@@ -4,7 +4,7 @@ tags:
   - Social
 Ort: "[[Thornes Kontor]]"
 NPCs: "[[Gideon Thorne]]"
-Plot: "[[Geschäft der Zhentarim]]"
+Plot: "[[Zukunft mit Gideon Thorne]]"
 ---
 
 ## Ankunft am Morgen
