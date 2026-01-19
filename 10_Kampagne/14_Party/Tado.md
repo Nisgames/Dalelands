@@ -34,7 +34,10 @@ Sprachen:
 
 #### Herkunft & Ausbildung
 
-Tado wuchs in Mulptan (Rashemen) bei seinen Eltern auf. Sein Vater, Brokkar, ist ein Priester des Lathander, während seine Mutter, Gola, der Stadtwache angehört.
+Tado wuchs in [[Mulptan]] (Rashemen) bei seinen Eltern auf. Sein Vater, Brokkar, ist ein Priester des [[Lathander]], während seine Mutter, Gola, der Stadtwache angehört.
 
-Durch diese Erziehung wurde er gleichermaßen in den Tugenden des Lathander unterwiesen sowie im Umgang mit Waffen geschult. Im Alter von 30 Jahren schwor er Lathander die Treue und wurde zum Paladin geweiht.
+Durch diese Erziehung wurde er gleichermaßen in den Tugenden des [[Lathander]] unterwiesen sowie im Umgang mit Waffen geschult. Im Alter von 30 Jahren schwor er [[Lathander]] die Treue und wurde zum Paladin geweiht.
 
+#### Der Aufbruch
+
+Gemeinsam mit seinem Kindheitsfreund [[Zeek Reißzahn]], verließ er seine Heimat, um nach Artefakten des Lathander zu suchen. Ihre Reise führte sie durch die Weiten von Rashemen, wo sie sich gelegentlich gegen Monster wie Goblins, Gnolle und Kobolde verteidigen mussten.
