@@ -31,8 +31,6 @@ session: "[[00 - Session zero]]"
 - Startort: Ashabenford
 - Hintergrund: Die Charaktere kennen sich bereits und leben im Ort.
 
----
-
 ## DM-Feedback
 
 - [Was habe ich zur Session zu sagen]

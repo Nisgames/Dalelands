@@ -50,13 +50,12 @@ session: "[[01 - Zeitraub]]"
 - Er bietet ihnen ganze 200 Gold dafür
 - **Ende**
 
----
-
 ## DM-Feedback
 
 - Kampf gegen [[Kaelen]] und Kollegen hat sich ziemlich lang gezogen, da die Spieler echt schlecht gewürfelt haben
 	- Spieler kennen ihre Charaktere auch noch nicht gut, deshalb dauern Aktionen länger (auch außerhalb des Kampfes)
 - Der Kampf war relativ unspannend, da die Umgebung nicht aktiv eingebunden wurde oder interveniert hat
+- Roleplay mehr fördern, was Artificer basteln angeht
 
 ## Spieler-Feedback
 
