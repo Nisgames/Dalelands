@@ -43,25 +43,6 @@ ingame_date: X. Marpenoth 1496
 
 #### [[Gideon Thornes Kontor]]
 
-> [!narrator] Das Kontor
-> Der Morgen ist neblig und kühl. Als ihr am Flussufer ankommt, herrscht bei "Thornes Import & Export" bereits Hochbetrieb.
-> Arbeiter schleppen Kisten auf einen flachen Flusskahn. Es riecht intensiv nach Zimt, gepökeltem Fisch und feuchtem Holz.
->
-> Ein Vorarbeiter mit Klemmbrett fängt euch ab: "Wartet hier. Meister Thorne ist beschäftigt."
-> Ihr wartet fast zwanzig Minuten zwischen Kistenstapeln, während Arbeiter um euch herumeilen.
-> Schließlich winkt man euch nach oben.
->
-> Das Büro im ersten Stock ist eine andere Welt. Der Lärm des Lagers ist hier gedämpft. Ein Kaminfeuer knistert. [[Gideon Thorne]] sitzt hinter einem schweren Mahagoni-Schreibtisch und schreibt mit einer Fasanenfeder in ein Buch.
-> Er blickt auf, lächelt warm und deutet auf die Sessel vor ihm.
-> "Pünktlich. Das schätze ich. Tee? Oder ist es noch zu früh für Wein?"
-
-* **Gideon:** *"Darf ich den Splitter sehen?"* 
-	Er zieht einen Handschuh an, bevor er den Splitter berührt. Er betrachtet ihn gegen das Licht einer Lampe.
-* **Reaktion:** *"Faszinierend. Rohe, ungefilterte Energie. Gefährlich für Amateure, aber... nützlich für Kenner."* 
-* **Bezahlung:** Er öffnet eine Schublade und legt **200 Goldmünzen** in Stapeln auf den Tisch. *"Wie versprochen."*
-
-#### Das Kontor
-
 Atmosphäre
 - Geruch nach Zimt, Pfeffer und feuchtem Flusswasser
 - Knarren der Holzdielen über dem Wasser
@@ -87,7 +68,7 @@ Erscheinung & Art
 Gesprächsleitfaden
 1. Die Bezahlung
 - Legt sofort 200 Goldmünzen auf den Tisch (Säckchen)
-- Lobt ihr Eingreifen im White Hart Inn
+- Lobt ihr Eingreifen im [[White Hart Inn]]
 - Zitat: Ihr habt gestern bewiesen, dass ihr nicht nur schlagkräftig, sondern auch vernünftig seid. Seltene Kombination.
 
 2. Der Splitter (Analyse)
