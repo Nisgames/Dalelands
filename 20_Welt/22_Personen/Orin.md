@@ -18,11 +18,11 @@ statblock: inline
 *Volk:* `=this.Volk` 
 *Wohnort:* `=this.Ort` 
 *Aussehen:* 
-	Trägt gut geschnittene, dunkle Reisekleidung. 
+	Trägt gut geschnittene, dunkle Reisekleidung.
 	Er hat glattes, öliges schwarzes Haar und ein blasses Gesicht. 
 	Seine Augen scannen ständig den Raum.
 *Charakterzug:* Leicht reizbar
-*Sprechweise:* Hastig, verschluckt oft Wortenden. 
+*Sprechweise:* Hastig, verschluckt oft Wortenden.
 	Wenn er sich sicher fühlt (oder [[Zhentarim]] im Rücken hat), wird er arrogant.
 
 ## Werte & Loot:
