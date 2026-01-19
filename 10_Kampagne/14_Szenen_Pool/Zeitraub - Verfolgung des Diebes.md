@@ -2,9 +2,7 @@
 encounter: inline
 ---
 
-**Fortsetzung von [[Zeitraub]]**
-
-## Verfolgung des Diebes
+#### Verfolgung des Diebes
 
 > [!narrator] Die Straßen
 > Als ihr aus dem Fenster klettert, schlägt euch die feuchtkalte Nachtluft ins Gesicht. Drinnen herrscht Panik, draußen herrscht unheimliche Normalität – noch.
@@ -24,7 +22,7 @@ encounter: inline
 
 *Verfolgen den Dieb bis zum Stadtrand und dann durch die nahegelegenen Felder, bis zum [[Ashaba]]*
 
-## [[Ashaba]] 
+#### [[Ashaba]] 
 
 *Der Fluss ist hier breit, aber durch die Furt flach. Allerdings hat Varon die Furt gemieden, um Wachen zu umgehen, und ist direkt durch die Strömung geschwommen.*
 
