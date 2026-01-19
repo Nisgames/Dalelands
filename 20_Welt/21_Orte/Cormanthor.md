@@ -31,7 +31,7 @@ Riesiger dichter Wald im Herzen der [[Dalelands]]. Bis zur großen Katastrophe (
 
 ## Events
 
-[Was passiert, wenn Bedingung X erfüllt ist?]
+Die Flora und Fauna beginnt sich seltsam zu verändern (Mutationen durch wilde Magie).
 
 ## DM Wissen
 
