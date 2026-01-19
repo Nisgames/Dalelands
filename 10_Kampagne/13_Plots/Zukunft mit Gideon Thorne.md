@@ -1,7 +1,7 @@
 ---
 tags:
   - Plot
-Category: B
+Category: A
 resolved: false
 Parent: "[[Jagd nach SchattensplitternÂLT]]"
 ---
