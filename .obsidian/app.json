@@ -3,8 +3,7 @@
   "newFileFolderPath": "00_Admin/02_Entwürfe",
   "attachmentFolderPath": "90_Ressourcen",
   "userIgnoreFilters": [
-    "3-DM/",
-    "1-Planung/"
+    "00_Admin/03_Templates/"
   ],
   "showInlineTitle": true,
   "spellcheck": false,
