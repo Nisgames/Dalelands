@@ -1,7 +1,7 @@
 ---
 tags:
   - Plot
-Category:
+Category: C
 resolved: false
 Parent:
 ---
