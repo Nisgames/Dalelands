@@ -14,7 +14,7 @@ Manchmal sieht man seltsame Blitze über dem verlassenen Anwesen des alten Mante
 
 ## Agenda
 
-Ep
+Experimentieren mit [[Schattensplitter]]n, um einen [[Dracolich]] zu erwecken.
 
 ## Beziehungen
 

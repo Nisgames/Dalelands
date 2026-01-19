@@ -7,10 +7,9 @@ ingame_date: 15. Marpenoth 1496
 
 ## Recap
 
-[Was geschah zuletzt]
+![[Einleitungstext#Einleitungstext]]
 
 ## Ablauf
-
 
 #### White Hart Inn
 
