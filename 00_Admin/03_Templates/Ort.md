@@ -15,7 +15,8 @@ Region:
 
 ## POI
 
-- [Interaktives Element 1] - [Interaktives Element 2]
+- [Interaktives Element 1] 
+- [Interaktives Element 2]
 
 ## DM Wissen
 
