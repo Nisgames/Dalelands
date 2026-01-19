@@ -15,18 +15,8 @@ Region: "[[Ashabenford]]"
 - *Sehen:* 
 	Ein großes, zweistöckiges Gebäude direkt am Ufer des [[Ashaba]] Flusses, am östlichen Rand von Ashabenford.
 	Das Schild über der Tür zeigt eine Waage, auf der eine Feder und eine Goldmünze im Gleichgewicht sind.
-- *Beleuchtung:* 
-	
-- *Hören:* 
-	
 - *Riechen:* 
 	Es riecht nach exotischen Gewürzen, Sägemehl und feuchtem Flusswasser.
-- *Spüren:* 
-	
-- *Atmosphäre:* 
-	
-- *Details:* 
-	
 
 ## POI
 
