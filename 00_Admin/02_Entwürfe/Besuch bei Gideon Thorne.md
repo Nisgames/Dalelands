@@ -7,10 +7,6 @@ NPCs: "[[Gideon Thorne]]"
 Plot: "[[Zukunft mit Gideon Thorne]]"
 ---
 
-## Der Handel
-
-**Wenn die Spieler den Splitter aus dem Gasthaus haben:**
-
 #### Weiteres Gespräch
 
 - Es sind Drow
