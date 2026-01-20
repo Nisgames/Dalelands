@@ -101,7 +101,7 @@ Erscheinung & Art
 	Weniger riskant
 	Man muss sich zurechtfinden können
 
-###### Entscheidung: Fluss
+#### Reise - Fluss
 
 - [[Gideon Thorne]] stellt euch ein Ruderboot
 - Ein paar seine Männer tragen ein etwas älteres schmales Ruderboot aus dem Kontor
@@ -112,7 +112,7 @@ Erscheinung & Art
 > [!narrator] Reise
 > Es ist ein kalter Herbsttag. Der Himmel ist verhangen grau und droht ständig mit Regen.
 
-###### Entscheidung: Fußmarsch
+#### Entscheidung: Fußmarsch
 
 - [[Gideon Thorne]] bietet eine grobe Karte [[Cormanthor]]s an und kreist den ungefähren Standort des [[Eulenturm]]s ein
 - "*Seid ihr ausgestattet mit Verpflegung?*"
