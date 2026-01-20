@@ -81,7 +81,7 @@ Erscheinung & Art
 - Identifiziert den Dieb als Drow aus dem [[Haus Jaelre]]
 - Gefahr: Wenn sie genug Splitter finden, bedrohen sie das ganze Tal
 
-1. Der Hinweis ([[Eulenturm]])
+4. Der Hinweis ([[Eulenturm]])
 - Gideons Späher haben ungewöhnliche Aktivitäten flussabwärts gemeldet
 - Ort: [[Eulenturm]] (alte Ruine, ca. 9 Stunden südlich zu Fuß, 4 Stunden per Boot)
 - Vermutung: Dieb hat sich dort mit Kontaktleuten getroffen oder ein Lager aufgeschlagen
