@@ -103,7 +103,8 @@ Erscheinung & Art
 
 ###### Entscheidung: Fluss
 
-
+- [[Gideon Thorne]] stellt euch ein Ruderboot
+- Ein paar seine Männer tragen ein etwas älteres schmales Ruderboot 
 
 #### Begegnung Kutscher
 
