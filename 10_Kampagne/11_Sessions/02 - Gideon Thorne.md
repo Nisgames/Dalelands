@@ -93,7 +93,9 @@ Erscheinung & Art
 - Boot: 
 	4h Fahrt
 	Wasserpegel momentan niedrig - gut zu befahren
-	
+	Müssen aufpassen mit flachen Stellen
+	Gefahr: Uferräuber (Überfallen Händler)
+- Zu Fuß_
 
 #### Begegnung Kutscher
 
