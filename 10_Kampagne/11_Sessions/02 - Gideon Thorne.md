@@ -112,13 +112,16 @@ Erscheinung & Art
 > [!narrator] Reise
 > Es ist ein kalter Herbsttag. Der Himmel ist verhangen grau und droht ständig mit Regen.
 
-#### Entscheidung: Fußmarsch
+> [!narrator] Encounter
+> Ihr seid seit Stunden unterwegs, die Muskeln brennen vom Gegensteuern. Der Fluss wird hier enger, die Felswände ragen wie Mauern auf. Plötzlich wird es dunkel über euch. Nicht wegen Wolken. Vor euch liegt ein massiver Baumstamm quer über dem Fluss. Und darauf... riecht ihr es, bevor ihr es seht? Den Gestank von ungewaschenem Fleisch und Sumpf?" INITIATIVE.
+
+#### Reise - Fußmarsch
 
 - [[Gideon Thorne]] bietet eine grobe Karte [[Cormanthor]]s an und kreist den ungefähren Standort des [[Eulenturm]]s ein
 - "*Seid ihr ausgestattet mit Verpflegung?*"
 - Gideon gibt euch noch jedem einen kleinen Heiltrank mit
 
-#### Begegnung Kutscher
+###### Begegnung Kutscher
 
 Ein Brauerei-Wagen aus [[Ashabenford]], beladen mit Fässern des berühmten Ales. Der Kutscher summt ein Lied an **[[Chauntea]]** (Göttin der Ernte).
 
