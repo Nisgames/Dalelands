@@ -101,6 +101,10 @@ Erscheinung & Art
 	Weniger riskant
 	Man muss sich zurechtfinden können
 
+###### Entscheidung: Fluss
+
+
+
 #### Begegnung Kutscher
 
 Ein Brauerei-Wagen aus [[Ashabenford]], beladen mit Fässern des berühmten Ales. Der Kutscher summt ein Lied an **[[Chauntea]]** (Göttin der Ernte).
