@@ -95,7 +95,11 @@ Erscheinung & Art
 	Wasserpegel momentan niedrig - gut zu befahren
 	Müssen aufpassen mit flachen Stellen
 	Gefahr: Uferräuber (Überfallen Händler)
-- Zu Fuß_
+- Zu Fuß:
+	9h Marsch
+	Durch tiefen Wald
+	Weniger riskant
+	Man muss sich zurechtfinden können
 
 #### Begegnung Kutscher
 
