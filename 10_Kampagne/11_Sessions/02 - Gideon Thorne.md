@@ -110,7 +110,7 @@ Erscheinung & Art
 - Gideon gibt euch noch jedem einen kleinen Heiltrank mit
 
 > [!narrator] Reise
-> Es ist ein kalter Herbsttag. Der Himmel ist verhangen grau
+> Es ist ein kalter Herbsttag. Der Himmel ist verhangen grau und droht ständig mit Regen.
 
 ###### Entscheidung: Fußmarsch
 
