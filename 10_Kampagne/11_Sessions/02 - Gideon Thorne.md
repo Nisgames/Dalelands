@@ -104,7 +104,9 @@ Erscheinung & Art
 ###### Entscheidung: Fluss
 
 - [[Gideon Thorne]] stellt euch ein Ruderboot
-- Ein paar seine Männer tragen ein etwas älteres schmales Ruderboot 
+- Ein paar seine Männer tragen ein etwas älteres schmales Ruderboot aus dem Kontor
+	- 2 Leute können rudern, 1 am Steuer
+- Gideon gibt euch noch einen kleinen Heiltrank mit
 
 #### Begegnung Kutscher
 
