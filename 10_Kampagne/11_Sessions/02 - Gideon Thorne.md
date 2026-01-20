@@ -109,6 +109,9 @@ Erscheinung & Art
 - "*Seid ihr ausgestattet mit Verpflegung?*"
 - Gideon gibt euch noch jedem einen kleinen Heiltrank mit
 
+> [!narrator] Reise
+> Es ist ein kalter Herbsttag. Der Himmel ist verhangen grau
+
 ###### Entscheidung: Fußmarsch
 
 - [[Gideon Thorne]] bietet eine grobe Karte [[Cormanthor]]s an und kreist den ungefähren Standort des [[Eulenturm]]s ein
