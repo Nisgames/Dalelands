@@ -106,12 +106,14 @@ Erscheinung & Art
 - [[Gideon Thorne]] stellt euch ein Ruderboot
 - Ein paar seine Männer tragen ein etwas älteres schmales Ruderboot aus dem Kontor
 	- 2 Leute können rudern, 1 am Steuer
+- "*Seid ihr ausgestattet mit Verpflegung?*"
 - Gideon gibt euch noch jedem einen kleinen Heiltrank mit
 
 ###### Entscheidung: Fußmarsch
 
 - [[Gideon Thorne]] bietet eine grobe Karte [[Cormanthor]]s an und kreist den ungefähren Standort des [[Eulenturm]]s ein
-- 
+- "*Seid ihr ausgestattet mit Verpflegung?*"
+- Gideon gibt euch noch jedem einen kleinen Heiltrank mit
 
 #### Begegnung Kutscher
 
