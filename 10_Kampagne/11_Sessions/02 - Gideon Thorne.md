@@ -86,6 +86,8 @@ Erscheinung & Art
 - Ort: [[Eulenturm]] (alte Ruine, ca. 9 Stunden südlich zu Fuß, 4 Stunden per Boot)
 - Vermutung: Dieb hat sich dort mit Kontaktleuten getroffen oder ein Lager aufgeschlagen
 
+- Bietet 250 GM für jeden weiteren [[Schattensplitter]] 
+
 Checks
 - Insight DC 16: Gideon verbirgt etwas (seine wahren Motive), aber seine Sorge um die Drow wirkt echt (er hasst Konkurrenz)
 - History DC 14 (Zhentarim): Ein Stempel auf dem Schreibtisch von [[Gideon Thorne]] kommt dir seltsam bekannt vor. 
