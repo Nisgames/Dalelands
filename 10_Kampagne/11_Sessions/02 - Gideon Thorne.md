@@ -89,7 +89,11 @@ Erscheinung & Art
 
 - Bietet 250 GM für jeden weiteren [[Schattensplitter]] 
 
-
+*Weg zum [[Eulenturm]]*:
+- Boot: 
+	4h Fahrt
+	Wasserpegel momentan niedrig - gut zu befahren
+	
 
 #### Begegnung Kutscher
 
