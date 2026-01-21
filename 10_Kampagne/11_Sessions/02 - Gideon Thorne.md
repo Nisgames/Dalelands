@@ -134,6 +134,7 @@ _[[Elina]]_: Was siehst du hinter einer Flussbiegung?
 Während ihr euch unterhaltet vergeht einige Zeit. Mittlerweile seid ihr etwa drei Stunden unterwegs und es müsste früher Nachmittag sein.
 
 *Steuermann:* PASSIVE WAHRNEHMUNG 
+	**> 15**: Du entdeckst einen spitzen Stze 
 
 Wasser wird flacher - Mit einem *BUMPF* setzt das Boot auf dem an dieser Stelle flachen Flussbett auf. Ihr steckt fest.
 
