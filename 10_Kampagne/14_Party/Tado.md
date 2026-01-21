@@ -48,6 +48,8 @@ Nach der Flucht vor einer unbekannten Bedrohung schlugen sie ihr Lager im Schatt
 
 Als er sich der Nadel näherte und eines der Zeichen berührte, verlor er das Bewusstsein und ihm wurde schwarz vor Augen.
 
+*DM-Wissen: Hier traf er*
+
 #### Ankunft in den Dalelands
 
 Tado erwachte allein in einem Wald in der Nähe einer Siedlung. Dort traf er auf [[Elina]], die ihn zur nächsten größeren Ortschaft führen wollte.

@@ -109,7 +109,7 @@ Erscheinung & Art
 - "*Seid ihr ausgestattet mit Verpflegung?*"
 - Gideon gibt euch noch jedem einen kleinen Heiltrank mit
 
-**Wer sitzt am Steuer? Die anderen beiden Rude**
+**Wer sitzt am Steuer? Die anderen beiden Rudern**
 
 > [!narrator] Reise
 > Es ist ein kalter Herbsttag. Der Himmel ist verhangen grau und droht ständig mit Regen.
