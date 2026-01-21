@@ -7,47 +7,33 @@ statblock: inline
 ---
 
 ```statblock
-name: string
+name: Oger
 source: Monsterhandbuch 2024
-size: string
-type: string
-subtype: string
-alignment: string
-ac: number
-hp: number
-hit_dice: string
-speed: string
-stats: [number, number, number, number, number, number]
-fage_stats: [number, number, number, number, number, number, number, number, number]
+size: Groß
+type: Riese
+alignment: chaotisch böse
+hp: 68
+hit_dice: 8W10 + 24
+ac: 11
+speed: 12 m
+stats: [19, 8, 16, 5, 7, 7]
 saves:
-- Stärke: 0
-- Geschicklichkeit: 0
-- Konstitution: 0
-- Intelligenz: 0
-- Weisheit: 0
-- Charisma: 0
-skillsaves:
-- <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: string
-languages: string
-cr: number
-spells:
-- <description>
-- <spell level>: <spell-list>
+  - Stärke: 4
+  - Geschicklichkeit: -1
+  - Konstitution: 3
+  - Intelligenz: -3
+  - Weisheit: -2
+  - Charisma: -2
+skills: []
+senses: Dunkelsicht 18 m, Passive Wahrnehmung 8
+languages: Gemeinsprache, Riesisch
+cr: 2
 traits:
-- [<trait-name>, <trait-description>]
-- ...
+  - name: Ausrüstung
+    desc: Wurfspeere (3), Zweihandknüppel
 actions:
-- [<trait-name>, <trait-description>]
-- ...
-legendary_actions:
-- [<legendary_actions-name>, <legendary_actions-description>]
-- ...
-reactions:
-- [<reaction-name>, <reaction-description>]
-- ...
+  - name: Wurfspeer
+    desc: "Nah- oder Fernkampfangriffswurf: +6, Reichweite 1,5 m oder Reichweite 9/36 m. Treffer: 11 (2W6 + 4) Stichschaden."
+  - name: Zweihandknüppel
+    desc: "Nahkampfangriffswurf: +6, Reichweite 1,5 m. Treffer: 13 (2W8 + 4) Wuchtschaden."
 ```
