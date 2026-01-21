@@ -48,7 +48,7 @@ Nach der Flucht vor einer unbekannten Bedrohung schlugen sie ihr Lager im Schatt
 
 Als er sich der Nadel näherte und eines der Zeichen berührte, verlor er das Bewusstsein und ihm wurde schwarz vor Augen.
 
-*DM-Wissen: Hier traf er*
+*DM-Wissen: Hier traf er seinen Patreon und wurde zum Hexenmeister. Bis heute weiß er nicht, dass er Hexenmeister ist und kennt seinen Patreon nicht.*
 
 #### Ankunft in den Dalelands
 
