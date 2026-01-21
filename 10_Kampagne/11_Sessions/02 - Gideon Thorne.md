@@ -113,9 +113,9 @@ Erscheinung & Art
 
 > [!narrator] Reise
 > Es ist ein kalter Herbsttag. Der Himmel ist verhangen grau und droht ständig mit Regen.
-> Der Fluss zieht euch mit einiger Geschwindigkeit mit und lässt euch den kalten Herbstwind um die Ohren zischen. Schon nach kurzer Zeit lasst ihr die offenen Felder des Tals hinter euch und passiert die ersten Bäume [[Cormanthor]]s.
+> Der Fluss zieht euch mit hoher Geschwindigkeit mit und lässt den kalten Herbstwind um eure Ohren zischen. Schon nach kurzer Zeit lasst ihr die offenen Felder des Tals hinter euch und passiert die ersten Bäume [[Cormanthor]]s.
 
-*Nach etwa einer Stunde wird der Fluss erstmals enger und die Strömung schneller*
+*Nach etwa einer Stunde wird der Fluss erstmals deutlich enger und die Strömung schneller*
 
 *Skill Challenge:*
 - Tückische Stromschnellen: 
