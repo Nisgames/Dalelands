@@ -140,6 +140,11 @@ Während ihr euch unterhaltet vergeht einige Zeit. Mittlerweile seid ihr etwa dr
 > [!narrator] Encounter
 > Ihr seid seit diesem Zwischenfall etwa eine weitere Stunde gefahren. Die Muskeln brennen vom Gegensteuern. Der Fluss wird hier erneut enger, die Felswände ragen wie Mauern auf. Plötzlich wird es dunkel über euch. Nicht wegen Wolken. Vor euch liegt ein massiver Baumstamm quer über dem Fluss. Und darauf... ihr könnt es riechen, bevor ihr es seht. Den Gestank von ungewaschenem Fleisch und Sumpf" INITIATIVE.
 
+```encounter
+creatures:
+  - 
+```
+
 #### Reise - Fußmarsch
 
 - [[Gideon Thorne]] bietet eine grobe Karte [[Cormanthor]]s an und kreist den ungefähren Standort des [[Eulenturm]]s ein
