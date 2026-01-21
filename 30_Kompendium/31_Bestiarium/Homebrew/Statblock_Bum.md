@@ -9,5 +9,5 @@ statblock: inline
 ```statblock
 name: Bum
 creature: Oger
-hp: 
+hp: 45 
 ```
