@@ -118,7 +118,8 @@ Erscheinung & Art
 *Nach etwa einer Stunde wird der Fluss erstmals deutlich enger und die Strömung schneller*
 
 *Skill Challenge:*
-- Tückische Stromschnellen: 
+- Tückische Stromschnellen: *Ruderer müssen Athletik Check DC 15 machen*
+	- Bei Fehlschlag:
 
 _[[Elina]]_: Was siehst du hinter einer Flussbiegung?
 
