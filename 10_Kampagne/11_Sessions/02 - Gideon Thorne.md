@@ -142,7 +142,7 @@ Während ihr euch unterhaltet vergeht einige Zeit. Mittlerweile seid ihr etwa dr
 
 ```encounter
 creatures:
-  - Oger
+  - 2: Oger
   - 
 ```
 

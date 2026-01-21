@@ -26,7 +26,7 @@ saves:
   - Charisma: -2
 skills: []
 senses: Dunkelsicht 18 m, Passive Wahrnehmung 8
-languages: Gemeinsprache, Riesisch
+languages: [[Gemeinsprache]], [[Riesisch]]
 cr: 2
 traits:
   - name: Ausrüstung
