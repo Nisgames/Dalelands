@@ -119,7 +119,7 @@ Erscheinung & Art
 
 *Skill Challenge:*
 - Tückische Stromschnellen: *Ruderer müssen Athletik Check DC 20 (Summe) machen*
-	- Bei Fehlschlag: 
+	- Bei Fehlschlag: [[Jorvan]]s Allzweckwerk
 
 _[[Elina]]_: Was siehst du hinter einer Flussbiegung?
 
