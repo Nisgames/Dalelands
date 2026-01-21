@@ -119,10 +119,12 @@ Erscheinung & Art
 
 *Skill Challenge:*
 - Tückische Stromschnellen: *Ruderer müssen Athletik Check DC 20 (Summe) machen*
-	- Bei Fehlschlag: [[Jorvan]]s Allzweckwerkzeug / [[Tado]]s Hammer fällt vom Boot
-	- Bei Erfolg: Können gerade noch gegenru
+	- Bei Fehlschlag: Die Strömung schmettert euch trotz versuchtem Gegenrudern gegen einen  [[Jorvan]]s Allzweckwerkzeug / [[Tado]]s Hammer fällt vom Boot
+	- Bei Erfolg: Können gerade noch gegenrudern und einem großen Findling am Flussufer ausweichen
 
 _[[Elina]]_: Was siehst du hinter einer Flussbiegung?
+
+
 
 > [!narrator] Encounter
 > Ihr seid seit Stunden unterwegs, die Muskeln brennen vom Gegensteuern. Der Fluss wird hier enger, die Felswände ragen wie Mauern auf. Plötzlich wird es dunkel über euch. Nicht wegen Wolken. Vor euch liegt ein massiver Baumstamm quer über dem Fluss. Und darauf... ihr könnt es riechen, bevor ihr es seht. Den Gestank von ungewaschenem Fleisch und Sumpf" INITIATIVE.
