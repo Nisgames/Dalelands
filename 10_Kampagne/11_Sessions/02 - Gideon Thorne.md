@@ -135,9 +135,7 @@ Während ihr euch unterhaltet vergeht einige Zeit. Mittlerweile seid ihr etwa dr
 
 *Steuermann:* PASSIVE WAHRNEHMUNG 
 	**> 15**: Du entdeckst einen spitzen Stein im Wasser frühzeitig und kannst gerade noch gegenlenken. Doch an dieser Stelle wird das Wasser flacher - Mit einem *BUMPF* setzt das Boot auf dem an dieser Stelle flachen Flussbett auf. Ihr steckt fest.
-	**< 15**: Du bemerkst einen Spitzen Stein zu spät. Mit einem **
-
-
+	**< 15**: Du bemerkst einen Spitzen Stein zu spät. Mit einem *KRZZZT* schrammt er am Bug entlang und reist ein etwa Faustgroßes Loch in die Planken. Sofort beginnt sich das Boot Wasser zu füllen.
 
 > [!narrator] Encounter
 > Ihr seid seit Stunden unterwegs, die Muskeln brennen vom Gegensteuern. Der Fluss wird hier enger, die Felswände ragen wie Mauern auf. Plötzlich wird es dunkel über euch. Nicht wegen Wolken. Vor euch liegt ein massiver Baumstamm quer über dem Fluss. Und darauf... ihr könnt es riechen, bevor ihr es seht. Den Gestank von ungewaschenem Fleisch und Sumpf" INITIATIVE.
