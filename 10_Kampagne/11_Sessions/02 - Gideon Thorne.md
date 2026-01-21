@@ -133,7 +133,7 @@ _[[Elina]]_: Was siehst du hinter einer Flussbiegung?
 
 Während ihr euch unterhaltet vergeht einige Zeit. Mittlerweile seid ihr etwa drei Stunden unterwegs und es müsste früher Nachmittag sein.
 
-Wasser wird flacher - Mit einem *BUMPF* setzt das Boot auf dem an dieser Stelle flachen Flussbett auf. Ihr steckt f
+Wasser wird flacher - Mit einem *BUMPF* setzt das Boot auf dem an dieser Stelle flachen Flussbett auf. Ihr steckt fest.
 
 > [!narrator] Encounter
 > Ihr seid seit Stunden unterwegs, die Muskeln brennen vom Gegensteuern. Der Fluss wird hier enger, die Felswände ragen wie Mauern auf. Plötzlich wird es dunkel über euch. Nicht wegen Wolken. Vor euch liegt ein massiver Baumstamm quer über dem Fluss. Und darauf... ihr könnt es riechen, bevor ihr es seht. Den Gestank von ungewaschenem Fleisch und Sumpf" INITIATIVE.
