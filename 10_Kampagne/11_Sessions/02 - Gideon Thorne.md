@@ -109,6 +109,8 @@ Erscheinung & Art
 - "*Seid ihr ausgestattet mit Verpflegung?*"
 - Gideon gibt euch noch jedem einen kleinen Heiltrank mit
 
+**Wer sitzt am Steuer? Die anderen beiden Rude**
+
 > [!narrator] Reise
 > Es ist ein kalter Herbsttag. Der Himmel ist verhangen grau und droht ständig mit Regen.
 > Der Fluss zieht euch mit einiger Geschwindigkeit mit und lässt euch den kalten Herbstwind um die Ohren zischen. Schon nach kurzer Zeit lasst ihr die offenen Felder des Tals hinter euch und passiert die ersten Bäume [[Cormanthor]]s.
