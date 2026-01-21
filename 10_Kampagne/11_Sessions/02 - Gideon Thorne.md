@@ -138,7 +138,7 @@ Während ihr euch unterhaltet vergeht einige Zeit. Mittlerweile seid ihr etwa dr
 	**< 15**: Du bemerkst einen Spitzen Stein zu spät. Mit einem *KRZZZT* schrammt er am Bug entlang und reist ein etwa Faustgroßes Loch in die Planken. Sofort beginnt sich das Boot Wasser zu füllen.
 
 > [!narrator] Encounter
-> Ihr seid seit Stunden unterwegs, die Muskeln brennen vom Gegensteuern. Der Fluss wird hier enger, die Felswände ragen wie Mauern auf. Plötzlich wird es dunkel über euch. Nicht wegen Wolken. Vor euch liegt ein massiver Baumstamm quer über dem Fluss. Und darauf... ihr könnt es riechen, bevor ihr es seht. Den Gestank von ungewaschenem Fleisch und Sumpf" INITIATIVE.
+> Ihr seid seit diesem Zwischenfall etwa eine weitere Stunde gefahren. Die Muskeln brennen vom Gegensteuern. Der Fluss wird hier erneut enger, die Felswände ragen wie Mauern auf. Plötzlich wird es dunkel über euch. Nicht wegen Wolken. Vor euch liegt ein massiver Baumstamm quer über dem Fluss. Und darauf... ihr könnt es riechen, bevor ihr es seht. Den Gestank von ungewaschenem Fleisch und Sumpf" INITIATIVE.
 
 #### Reise - Fußmarsch
 
