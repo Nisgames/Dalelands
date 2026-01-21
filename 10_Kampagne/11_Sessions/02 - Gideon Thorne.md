@@ -111,7 +111,7 @@ Erscheinung & Art
 
 > [!narrator] Reise
 > Es ist ein kalter Herbsttag. Der Himmel ist verhangen grau und droht ständig mit Regen.
-> 
+> Der Fluss zieht euch mit einiger Geschwindigkeit mit und lässt euch den kalten Herbstwind um d
 
 > [!narrator] Encounter
 > Ihr seid seit Stunden unterwegs, die Muskeln brennen vom Gegensteuern. Der Fluss wird hier enger, die Felswände ragen wie Mauern auf. Plötzlich wird es dunkel über euch. Nicht wegen Wolken. Vor euch liegt ein massiver Baumstamm quer über dem Fluss. Und darauf... ihr könnt es riechen, bevor ihr es seht. Den Gestank von ungewaschenem Fleisch und Sumpf" INITIATIVE.
