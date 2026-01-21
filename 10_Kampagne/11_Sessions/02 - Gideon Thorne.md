@@ -120,7 +120,7 @@ Erscheinung & Art
 *Skill Challenge:*
 - Tückische Stromschnellen: *Ruderer müssen Athletik Check DC 20 (Summe) machen*
 	- Bei Fehlschlag: [[Jorvan]]s Allzweckwerkzeug / [[Tado]]s Hammer fällt vom Boot
-	- Bei Erfolg: 
+	- Bei Erfolg: Können gerade noch gegenru
 
 _[[Elina]]_: Was siehst du hinter einer Flussbiegung?
 
