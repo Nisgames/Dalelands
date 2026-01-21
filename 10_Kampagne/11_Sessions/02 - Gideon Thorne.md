@@ -155,7 +155,7 @@ Ein Brauerei-Wagen aus [[Ashabenford]], beladen mit Fässern des berühmten Ales
 
 ## Bewertung
 
-Bewertung: https://forms.gle/rBqBUKD5Uhsdpdib6
+Bewertung: https://forms.gle/rBqBUKD5Uhsdpdib6 
 
 ## Todo
 
