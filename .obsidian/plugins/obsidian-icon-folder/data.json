@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiLandPlot",
-      "LiDices",
       "LiTimer",
       "LiHome",
-      "🏙"
+      "🏙",
+      "LiBrain",
+      "LiFolder"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -49,13 +49,6 @@
         "for": "everything",
         "order": 4,
         "useFilePath": true
-      },
-      {
-        "rule": "1-Plots/",
-        "icon": "LiLandPlot",
-        "for": "everything",
-        "order": 5,
-        "useFilePath": true
       }
     ],
     "extraMargin": {
@@ -80,6 +73,5 @@
   },
   "4-Âratûn": "🏙",
   "4-Âratûn/Orte/Silberquell": "🏙",
-  "4-Âratûn/Orte/Nebelwald": "🏙",
-  "00_Admin/01_Dashboard/0 - Homepage.md": "LiHome"
+  "4-Âratûn/Orte/Nebelwald": "🏙"
 }
