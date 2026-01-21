@@ -2534,7 +2534,7 @@
     }
   ],
   "default": "788aabfa6b29",
-  "useDice": false,
+  "useDice": true,
   "renderDice": false,
   "export": true,
   "showAdvanced": false,
@@ -2543,11 +2543,13 @@
     "minor": 10,
     "patch": 2
   },
-  "paths": [],
+  "paths": [
+    "30_Kompendium/31_Bestiarium"
+  ],
   "autoParse": true,
   "disableSRD": false,
   "tryToRenderLinks": true,
-  "debug": false,
+  "debug": true,
   "notifiedOfFantasy": false,
   "hideConditionHelp": false,
   "alwaysImport": false,
