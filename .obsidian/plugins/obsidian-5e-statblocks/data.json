@@ -2526,16 +2526,6 @@
           "heading": "Lager Aktionen",
           "conditioned": true,
           "dice": true
-        },
-        {
-          "type": "property",
-          "id": "98987bba5818",
-          "properties": [
-            "taktik"
-          ],
-          "fallback": "-",
-          "display": "Taktik",
-          "conditioned": true
         }
       ],
       "name": "Basic 5e Layout DE",
@@ -2544,7 +2534,7 @@
     }
   ],
   "default": "788aabfa6b29",
-  "useDice": true,
+  "useDice": false,
   "renderDice": false,
   "export": true,
   "showAdvanced": false,
@@ -2553,14 +2543,11 @@
     "minor": 10,
     "patch": 2
   },
-  "paths": [
-    "30_Kompendium/31_Bestiarium",
-    "20_Welt/22_Personen"
-  ],
+  "paths": [],
   "autoParse": true,
   "disableSRD": false,
   "tryToRenderLinks": true,
-  "debug": true,
+  "debug": false,
   "notifiedOfFantasy": false,
   "hideConditionHelp": false,
   "alwaysImport": false,
