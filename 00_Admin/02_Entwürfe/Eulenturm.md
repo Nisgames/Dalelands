@@ -6,9 +6,9 @@ Region: "[[Cormanthor]]"
 
 ## Beschreibung
 
-Ein alter Wachturm der 
+Ein alter Wachturm der [[Myth Drannor Elfen]]. Mittlerweile eine Ruine und unbewohnt.
 
-- [Sehen / Licht] 
+- 
 - [Hören] 
 - [Riechen / Temperatur] 
 - [Stimmung]
