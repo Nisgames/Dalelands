@@ -21,7 +21,7 @@ Ein alter Wachturm der [[Myth Drannor Elfen]]. Mittlerweile eine Ruine und unbew
 
 ## DM Wissen
 
-[Hintergrund, usw]
+- Wurde von den [[Cor]]
 
 #### Bewohner
 ```dataview
