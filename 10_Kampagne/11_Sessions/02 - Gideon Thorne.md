@@ -80,6 +80,8 @@ Erscheinung & Art
 3. Der Feind ([[Varon]] & [[Haus Jaelre]])
 - Identifiziert den Dieb als Drow aus dem [[Haus Jaelre]]
 - Gefahr: Wenn sie genug Splitter finden, bedrohen sie das ganze Tal
+	- Könnten Leute versklaven (*Motivation für [[Jorvan]]*)
+	- Oder es könnte sich eine Katastrophe ereignen ()
 
 4. Der Hinweis ([[Eulenturm]])
 - Gideons Späher haben ungewöhnliche Aktivitäten flussabwärts gemeldet
