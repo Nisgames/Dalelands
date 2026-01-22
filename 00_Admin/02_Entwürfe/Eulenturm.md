@@ -30,6 +30,8 @@ Ein alter Wachturm der [[Myth Drannor Elfen]]. Mittlerweile eine Ruine und unbew
 
 - Großer Steintisch mitten im Raum. Darauf liegen umgekippte Silberbecher (7) und ein paar verstreute Würfel (5)
 	- Grobe Holzstühle drum herum
+	- Am Kopfende ein besonders verzierter Becher
+		- [[]]
 - 
 
 ## DM Wissen
