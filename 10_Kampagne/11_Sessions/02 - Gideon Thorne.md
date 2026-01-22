@@ -37,10 +37,6 @@ ingame_date: X. Marpenoth 1496
 
 - Dann dreht er sich um und schreitet hinaus in die Nacht, den Gehstock rhythmisch auf den Dielen klackend.
 
-#### Szene 2
-
-[Szene 2]
-
 #### [[Gideon Thornes Kontor]]
 
 Atmosphäre
