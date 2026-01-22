@@ -9,7 +9,7 @@ statblock: inline
 ```statblock
 name: Phu (Urtier des Landes)
 size: Mittelgroß
-type: Tier
+type: Schwarzbär
 alignment: neutral
 ac: 13
 hp: 5

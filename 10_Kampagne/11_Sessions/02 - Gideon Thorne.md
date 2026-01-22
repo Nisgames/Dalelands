@@ -39,7 +39,7 @@ ingame_date: X. Marpenoth 1496
 #### Nacht
 
 *Wo schlaft ihr?*
-	*Wo schläft [[Puh]]?*
+	*Wo schläft [[Phu]]?*
 
 #### [[Gideon Thornes Kontor]]
 

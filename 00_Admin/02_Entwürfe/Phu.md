@@ -23,14 +23,14 @@ statblock: inline
 ## Werte & Loot:
 
 > [!statblock]-
-> ![]
+> ![[Statblock_Phu]]
 
 > [!loot]- Loot
 > 
 
 ## DM Wissen
 
-[Motivation, Geheimnisse, Lügen]
+Urtier des Landes von [[Elina]]
 
 #### Begegnungen
 ```dataview
