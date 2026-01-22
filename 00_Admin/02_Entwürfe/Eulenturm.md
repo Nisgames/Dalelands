@@ -40,7 +40,12 @@ Ein alter Wachturm der [[Myth Drannor Elfen]]. Mittlerweile eine Ruine und unbew
 			*Schiebt Wandstück an der Wendeltreppe nach unten vor - Man kommt nicht mehr nach unten, bis erneut gedrückt wird*
 - Hölzerner Schrank an gegenüberliegender Wand
 	- Verschlossen - *Athletik DC 12 zum aufbrechen*
-		- 
+		- Ein enormer Gestank kommt entgegen
+		- Auf dem Boden des Schranks liegen 2 tote Fledermäuse
+
+#### 2. Stock
+
+- Fensterl
 
 ## DM Wissen
 
