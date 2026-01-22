@@ -8,7 +8,7 @@ Region: "[[Cormanthor]]"
 
 Ein alter Wachturm der [[Myth Drannor Elfen]]. Mittlerweile eine Ruine und unbewohnt.
 
-- Ein etwa 10 m hoher, runder Turm aus hellem Stein. Schießsch
+- Ein etwa 10 m hoher, runder Turm aus hellem Stein. In etwa 4 m Höhe ist ein Loch in der Außenwand des Turms. Die
 - [Hören] 
 - [Riechen / Temperatur] 
 - [Stimmung]
