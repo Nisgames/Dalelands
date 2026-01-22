@@ -30,7 +30,7 @@ statblock: inline
 
 ## DM Wissen
 
-Urtier des Landes von [[Elina]]
+Urtier des Landes von [[Elina]] als Waldläufer Herrin der Tiere.
 
 #### Begegnungen
 ```dataview
