@@ -152,6 +152,7 @@ creatures:
 > - Kette aus Goldmünzen (15 GM)
 > - Zweihandknüppel
 > - 3 Wurfspeere
+> - [[Kugel der Zeit]]
 
 #### Reise - Fußmarsch
 
