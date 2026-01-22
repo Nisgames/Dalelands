@@ -154,11 +154,6 @@ creatures:
 > - 3 Wurfspeere
 > - [[Kugel der Zeit]]
 
-###### Ankunft
-
-Nach einer insgesamten Reisezeit von etwa 5 Stunden kommt ihr an.
-Ihr seht den alten Turm schon aus einiger Entfernung.
-
 #### Reise - Fußmarsch
 
 - [[Gideon Thorne]] bietet eine grobe Karte [[Cormanthor]]s an und kreist den ungefähren Standort des [[Eulenturm]]s ein
@@ -171,6 +166,10 @@ Ein Brauerei-Wagen aus [[Ashabenford]], beladen mit Fässern des berühmten Ales
 
 - _Interaktion:_ Er bietet den Spielern einen Krug "Wegzehrung" gegen die Kälte an. 
 	Er erzählt stolz, dass dieses Jahr der Hopfen besonders gut war, trotz des schlechten Wetters.
+
+#### [[Eulenturm]]
+
+Nach einer
 
 ## Bewertung
 
