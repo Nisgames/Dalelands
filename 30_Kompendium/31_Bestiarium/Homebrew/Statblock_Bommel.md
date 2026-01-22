@@ -7,7 +7,7 @@ statblock: inline
 ---
 
 ```statblock
-name: Bum
+name: Bommel
 creature: Oger
-hp: 45 
+hp: 35
 ```
