@@ -17,7 +17,7 @@ Ein alter Wachturm der [[Myth Drannor Elfen]]. Mittlerweile eine Ruine und unbew
 
 #### Erdgeschoss
 
-- 
+- Runder Raum mit 
 
 ## DM Wissen
 
