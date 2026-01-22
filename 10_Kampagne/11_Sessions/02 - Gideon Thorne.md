@@ -144,9 +144,7 @@ Während ihr euch unterhaltet vergeht einige Zeit. Mittlerweile seid ihr etwa dr
 
 ```encounter
 creatures:
-  - Bum
-  - Bommel
-  - 
+  - 2: Oger
 ```
 
 >[!loot]- Loot
