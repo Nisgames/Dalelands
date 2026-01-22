@@ -24,7 +24,10 @@ Besitzer:
 
 ## Aussehen
 
-
+- Eine schwere, handgroße Kugel aus mattem, rauchfarbenem Glas.
+- Im Inneren wirbelt ein sanfter, goldener Nebel, der fast wie flüssiges Licht wirkt.
+- Die Oberfläche fühlt sich glatt und beruhigend kühl an.
+- Je nach Tageszeit verändert sich das Licht im Kern: Es leuchtet hell wie die Mittagssonne oder verblasst zu einem tiefen, sternenklaren Blau.
 
 ## Lore
 
