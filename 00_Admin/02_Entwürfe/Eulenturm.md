@@ -34,6 +34,8 @@ Ein alter Wachturm der [[Myth Drannor Elfen]]. Mittlerweile eine Ruine und unbew
 		- [[Everclean Becher]] 
 - Stein-Nischen in den Wänden; haben früher als Regale gedient
 	- *Nachforschungen:* 
+		Eine alte Tachenuhr (stehengeblieben)
+		
 
 ## DM Wissen
 
