@@ -19,9 +19,11 @@ Ein alter Wachturm der [[Myth Drannor Elfen]]. Mittlerweile eine Ruine und unbew
 
 - Vollgestellt mit großen Holzkisten
 	- Größtenteils leer (*vielleicht geplündert?*)
-	- Hier und da Seile (4 m Stücke) oder Kupferringe in verschiedenen
+	- Hier und da Seile (4 m Stücke) oder Kupferringe in verschiedenen Größen
 - Karten von [[Cormanthor]] an den Wänden
 	- Zeigen Verlauf des [[Ashaba]] und mögliche Gefahrenstellen (Strömungen, flache Stellen)
+- Scherben von zerbrochenen Tonkrügen auf den Boden
+- 
 
 ## DM Wissen
 
