@@ -26,6 +26,10 @@ Ein alter Wachturm der [[Myth Drannor Elfen]]. Mittlerweile eine Ruine und unbew
 - Scherben von zerbrochenen Tonkrügen auf den Boden
 - Fenster mit Blick in den Wald
 
+#### 1. Stock
+
+- Großer Steintisch mitten im Raum. Darauf
+
 ## DM Wissen
 
 - Wurde von den [[Myth Drannor Elfen]] errichtet, um reisenden in Not auf dem [[Ashaba]] zu helfen
