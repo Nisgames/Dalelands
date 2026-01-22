@@ -22,7 +22,7 @@ Besitzer:
 
 ## Aussehen
 
-Ein Silberbecher
+Ein glänzender Silberbecher verziert mit elfischen Mustern und Symbolen.
 
 ## Lore
 
