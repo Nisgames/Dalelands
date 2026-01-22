@@ -156,7 +156,8 @@ creatures:
 
 ###### Ankunft
 
-
+Nach einer insgesamten Reisezeit von etwa 5 Stunden kommt ihr an.
+Ihr seht den alten Turm schon aus einiger Entfernung.
 
 #### Reise - Fußmarsch
 
