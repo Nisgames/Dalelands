@@ -11,4 +11,3 @@
 > In diesem Moment spürst du dieselbe Übelkeit wie heute Abend in der Taverne. Dasselbe metallische Schmecken. Die Zeit scheint für einen Herzschlag stillzustehen.
 >
 > Du wachst keuchend auf.
-> Deine Hand, die den Splitter berührt hat, kribbelt nicht mehr. Sie fühlt sich an, als würde sie sich *erinnern*.
