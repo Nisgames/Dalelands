@@ -173,7 +173,8 @@ Nach einer anstrengenden Reise seht ihr endlich euer Ziel. Der [[Eulenturm]] rag
 
 ![[Eulenturm#Beschreibung]]
 
-*Wenn Abends: [[Varon]] befindet sich im 1. Stock und macht sich gerade bereit (wickelt sich*
+*Wenn Abends:* [[Varon]] befindet sich im 1. Stock und macht sich gerade bereit (wickelt sich Binden)
+*Wenn Tagsüber:* [[Varon]] ruht sich im 2. Stock auf einem Strohbett aus. Die Fenster im 2. Sotck sind von innen mit Fellen zugehangen.
 
 ![[Eulenturm#POI]]
 
