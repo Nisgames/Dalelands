@@ -36,7 +36,8 @@ Ein alter Wachturm der [[Myth Drannor Elfen]]. Mittlerweile eine Ruine und unbew
 	- *Nachforschungen:* 
 		Eine alte Tachenuhr (stehengeblieben)
 		Ein bronzefarbener Dolch mit verziertem Griff
-		Versteckter Stein-Knopf in einem der 
+		Versteckter Stein-Knopf in einem der Fächer (Nahe Wendeltreppe)
+			Schiebt Wandstück an der Wendeltreppe nach unten vor - Man kommt nicht mehr nach unten
 
 ## DM Wissen
 
