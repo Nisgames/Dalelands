@@ -39,7 +39,8 @@ Ein alter Wachturm der [[Myth Drannor Elfen]]. Mittlerweile eine Ruine und unbew
 		Versteckter Stein-Knopf in einem der Fächer (Nahe Wendeltreppe)
 			*Schiebt Wandstück an der Wendeltreppe nach unten vor - Man kommt nicht mehr nach unten, bis erneut gedrückt wird*
 - Hölzerner Schrank an gegenüberliegender Wand
-	- Verschlossen
+	- Verschlossen - *Athletik DC 12 zum aufbrechen*
+		- 
 
 ## DM Wissen
 
