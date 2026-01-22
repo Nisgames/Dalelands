@@ -148,7 +148,8 @@ creatures:
 ```
 
 >[!loot] Loot
->
+> - Leere Fiole (Drow Gift)
+> - 
 
 #### Reise - Fußmarsch
 
