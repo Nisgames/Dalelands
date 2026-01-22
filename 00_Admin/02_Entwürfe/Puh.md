@@ -5,7 +5,7 @@ Status: Lebendig
 Volk: Bär
 Klasse:
 Level:
-Ort:
+Ort: "[[Elina]]"
 Fraktionen:
 Rolle:
 Relevanz: Hoch
@@ -18,11 +18,7 @@ statblock: inline
 *Volk:* `=this.Volk` 
 *Wohnort:* `=this.Ort` 
 *Aussehen:* 
-	[Klein mit Bart]
-*Charakterzug:* 
-	[Hasst Wein]
-*Sprechweise:* 
-	[Langsam]
+	Ein müstisch aussehender Bär.
 
 ## Werte & Loot:
 
