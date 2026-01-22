@@ -8,10 +8,10 @@ Region: "[[Cormanthor]]"
 
 Ein alter Wachturm der [[Myth Drannor Elfen]]. Mittlerweile eine Ruine und unbewohnt.
 
-- Ein etwa 10 m hoher, runder Turm aus hellem Stein. 
-- In etwa 4 m Höhe ist ein Loch in der Außenwand des Turms. Die Steine sind nach innen eingebrochen an dieser Stelle
+- Ein etwa 10 m hoher, runder Turm aus hellem Stein.
 - Das Wasser des [[Ashaba]] plätschert nur wenige Meter entfernt am Turm vorbei.
-- 
+- Zum Wasser hin läuft ein kurzer Steg vom Ufer des [[Ashaba]] zu einer T
+- In etwa 4 m Höhe ist ein Loch in der Außenwand des Turms. Die Steine sind nach innen eingebrochen an dieser Stelle
 
 ## POI
 
