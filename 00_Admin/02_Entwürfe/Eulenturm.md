@@ -8,9 +8,9 @@ Region: "[[Cormanthor]]"
 
 Ein alter Wachturm der [[Myth Drannor Elfen]]. Mittlerweile eine Ruine und unbewohnt.
 
-- Ein etwa 10 m hoher, runder Turm aus hellem Stein. In etwa 4 m Höhe ist ein Loch in der Außenwand des Turms. Die
-- [Hören] 
-- [Riechen / Temperatur] 
+- Ein etwa 10 m hoher, runder Turm aus hellem Stein. 
+- In etwa 4 m Höhe ist ein Loch in der Außenwand des Turms. Die Steine sind nach innen eingebrochen an dieser Stelle
+- Das Wasser plätschert nur weni
 - [Stimmung]
 
 ## POI
