@@ -48,7 +48,8 @@ Ein alter Wachturm der [[Myth Drannor Elfen]]. Mittlerweile eine Ruine und unbew
 - An mehreren Stellen wurde Stroh zu Betten zusammengeschoben
 	- Hier scheinen früher Wachen geschlafen zu haben
 - Ein Spiegel in hübsch verziertem Rahmen hängt an der Wand
-	- Extrem verstaubt - Man müsste ihn polieren
+	- Extrem verstaubt - Man müsste ihn polieren um mehr als Umrisse erkennen zu können
+- In der Mitte des Raumes hängt ein Windspiel an der Decke, dass leise harmonische Töne von sich gibt
 - Fenster haben kleine Landeflächen für Vögel (Eulen)
 	- *Geschichte DC 12: Von hier wurden früher Nachrichten per Eulen versendet und Druiden empfangen*
 
