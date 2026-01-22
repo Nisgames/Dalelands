@@ -169,7 +169,7 @@ Ein Brauerei-Wagen aus [[Ashabenford]], beladen mit Fässern des berühmten Ales
 
 #### [[Eulenturm]]
 
-Nach einer
+Nach einer anstrengenden Reise kommt ihr endlich an.
 
 ## Bewertung
 
