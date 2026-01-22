@@ -81,7 +81,7 @@ Erscheinung & Art
 - Identifiziert den Dieb als Drow aus dem [[Haus Jaelre]]
 - Gefahr: Wenn sie genug Splitter finden, bedrohen sie das ganze Tal
 	- Könnten Leute versklaven (*Motivation für [[Jorvan]]*)
-	- Oder es könnte sich eine Katastrophe ereignen ()
+	- Oder es könnte sich eine Katastrophe ereignen (*Motivation für [[Elina]]*)
 
 4. Der Hinweis ([[Eulenturm]])
 - Gideons Späher haben ungewöhnliche Aktivitäten flussabwärts gemeldet

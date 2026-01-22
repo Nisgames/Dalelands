@@ -1,6 +1,6 @@
 
-> [!recite] Traum-Sequenz für [[Elina]] (Handout oder Vorlesen)
-> "Die Anspannung des Abends fällt von dir ab, und du gleitest in einen unruhigen Schlaf.
+> [!narrator] Traum-Sequenz für [[Elina]] (Handout oder Vorlesen)
+> Die Anspannung des Abends fällt von dir ab, und du gleitest in einen unruhigen Schlaf.
 >
 > Doch du bist nicht hier. Du bist wieder im [[Cormanthor]]. Aber der Wald ist jünger.
 > Du blickst nach oben. Der Himmel reißt auf. Lautlos.
@@ -11,4 +11,4 @@
 > In diesem Moment spürst du dieselbe Übelkeit wie heute Abend in der Taverne. Dasselbe metallische Schmecken. Die Zeit scheint für einen Herzschlag stillzustehen.
 >
 > Du wachst keuchend auf.
-> Deine Hand, die den Splitter berührt hat, kribbelt nicht mehr. Sie fühlt sich an, als würde sie sich *erinnern*."
+> Deine Hand, die den Splitter berührt hat, kribbelt nicht mehr. Sie fühlt sich an, als würde sie sich *erinnern*.
