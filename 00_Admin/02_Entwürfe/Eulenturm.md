@@ -17,10 +17,11 @@ Ein alter Wachturm der [[Myth Drannor Elfen]]. Mittlerweile eine Ruine und unbew
 
 #### Erdgeschoss
 
+- Vollgestellt mit großen Holzkisten
+	- Größtenteils leer (*vielleicht geplündert?*)
+	- Hier und da 
 - Karten von [[Cormanthor]] an den Wänden
 	- Zeigen Verlauf des [[Ashaba]] und mögliche Gefahrenstellen (Strömungen, flache Stellen)
-- Große Holzkisten an den Wänden
-	- 
 
 ## DM Wissen
 
