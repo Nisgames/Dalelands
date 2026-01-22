@@ -147,7 +147,8 @@ creatures:
   - 2: Oger
 ```
 
-
+>[!loot] Loot
+>
 
 #### Reise - Fußmarsch
 
