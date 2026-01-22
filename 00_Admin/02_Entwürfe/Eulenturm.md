@@ -45,9 +45,10 @@ Ein alter Wachturm der [[Myth Drannor Elfen]]. Mittlerweile eine Ruine und unbew
 
 #### 2. Stock
 
+- An mehreren Stellen wurde Stroh zu Betten zusammengeschoben
+	- Hier scheinen früher Wachen geschlafen zu haben
 - Fenster haben kleine Landeflächen für Vögel (Eulen)
 	- *Geschichte DC 12: Von hier wurden früher Nachrichten per Eulen versendet und Druiden empfangen*
-- 
 
 ## DM Wissen
 
