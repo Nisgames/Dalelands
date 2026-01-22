@@ -5,8 +5,8 @@ Klassifikation:
   - Wundersamer Gegenstand
 Magisch: true
 Seltenheit: Gewöhnlich
-Wert_in_GM:
-Gewicht in KG:
+Wert_in_GM: 60
+Gewicht in KG: 0.5
 Einstimmung: false
 Ort:
 Besitzer:
