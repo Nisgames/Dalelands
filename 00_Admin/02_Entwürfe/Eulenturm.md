@@ -45,7 +45,8 @@ Ein alter Wachturm der [[Myth Drannor Elfen]]. Mittlerweile eine Ruine und unbew
 
 #### 2. Stock
 
-- Fensterl
+- Fenster haben kleine Landeflächen für Vögel (Eulen)
+	- *Geschichte DC *
 
 ## DM Wissen
 
