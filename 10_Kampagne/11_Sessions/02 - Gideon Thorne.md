@@ -147,10 +147,11 @@ creatures:
   - 2: Oger
 ```
 
->[!loot] Loot
+>[!loot]- Loot
 > - Leere Fiole (Drow Gift)
 > - Kette aus Goldmünzen (15 GM)
-> - Knüppel
+> - Zweihandknüppel
+> - 3 Wurfspeere
 
 #### Reise - Fußmarsch
 
