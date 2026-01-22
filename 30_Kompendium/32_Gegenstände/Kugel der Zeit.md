@@ -18,11 +18,13 @@ Besitzer:
 *Wert:* `=this.Wert_in_GM` GM
 *Klassifikation:* `=this.Klassifikation` 
 *Besitzer:* `=this.besitzer`
-*Beschreibung:* [Was tut es]
+*Effekt:* 
+	Du kannst eine Aktion nutzen, um zu bestimmen, ob es draußen gerade Morgen, Nachmittag, Abend oder Nacht ist.
+	Die Eigenschaft funktioniert nur, wenn du dich auf der Materiellen Ebene befindest.
 
 ## Aussehen
 
-[Klein]
+
 
 ## Lore
 
