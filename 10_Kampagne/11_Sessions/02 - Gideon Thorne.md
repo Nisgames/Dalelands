@@ -143,7 +143,6 @@ Während ihr euch unterhaltet vergeht einige Zeit. Mittlerweile seid ihr etwa dr
 ```encounter
 creatures:
   - 2: Oger
-  - 
 ```
 
 #### Reise - Fußmarsch
