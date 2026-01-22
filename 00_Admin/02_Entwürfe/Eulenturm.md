@@ -21,7 +21,8 @@ Ein alter Wachturm der [[Myth Drannor Elfen]]. Mittlerweile eine Ruine und unbew
 
 ## DM Wissen
 
-- Wurde von den [[Cor]]
+- Wurde von den [[Myth Drannor Elfen]] errichtet, um reisenden in Not auf dem [[Ashaba]] zu helfen
+	- Hier konnten Boote repariert oder Nahrung aufgestockt werden
 
 #### Bewohner
 ```dataview
