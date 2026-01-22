@@ -28,7 +28,7 @@ Ein alter Wachturm der [[Myth Drannor Elfen]]. Mittlerweile eine Ruine und unbew
 
 #### 1. Stock
 
-- Großer Steintisch mitten im Raum. Darauf liegen umgekippte Silberbecher (5) und ein paar verstreute Würfel
+- Großer Steintisch mitten im Raum. Darauf liegen umgekippte Silberbecher (7) und ein paar verstreute Würfel (5)
 
 ## DM Wissen
 
