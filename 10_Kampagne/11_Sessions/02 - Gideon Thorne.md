@@ -169,7 +169,11 @@ Ein Brauerei-Wagen aus [[Ashabenford]], beladen mit Fässern des berühmten Ales
 
 #### [[Eulenturm]]
 
-Nach einer anstrengenden Reise seht ihr endlich euer Ziel. Der [[E]]
+Nach einer anstrengenden Reise seht ihr endlich euer Ziel. Der [[Eulenturm]] ragt vor euch auf.
+
+![[Eulenturm#Beschreibung]]
+
+![[Eulenturm#POI]]
 
 ## Bewertung
 
