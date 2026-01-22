@@ -149,7 +149,8 @@ creatures:
 
 >[!loot] Loot
 > - Leere Fiole (Drow Gift)
-> - 
+> - Kette aus Goldmünzen (15 GM)
+> - Knüppel
 
 #### Reise - Fußmarsch
 
