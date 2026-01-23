@@ -6,7 +6,7 @@ Volk: Bär
 Klasse:
 Level:
 Ort: "[[Elina]]"
-Fraktionen:
+Fraktionen: "[[Spieler Party]]"
 Rolle:
 Relevanz: Hoch
 statblock: inline

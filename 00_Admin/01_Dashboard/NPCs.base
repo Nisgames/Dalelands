@@ -4,7 +4,6 @@ views:
     filters:
       and:
         - file.tags.contains("NPC")
-        - "!Fraktionen.isEmpty()"
     groupBy:
       property: Fraktionen
       direction: ASC
