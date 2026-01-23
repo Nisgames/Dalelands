@@ -21,7 +21,8 @@ Handelshaus in [[Ashabenford]]. Ist bekannt dafür, _alles_ zu kaufen und zu ver
 
 #### Theke
 
-
+- Vollgestellt mit Büchern, Gläsern und Werkzeugen
+- [[Multhimmer]] verkauft persönlich
 
 ## DM Wissen
 
