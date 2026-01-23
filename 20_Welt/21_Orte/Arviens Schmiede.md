@@ -6,12 +6,11 @@ Region: "[[Ashabenford]]"
 
 ## Beschreibung
 
-Einzige Schmiede in [[Ashabenford]]. Eigentlich spezialisiert auf Zinn- und Kupferarbeiten sowie Werkzeuge für Bauern, wird aber oft von Abenteurern genötigt
+Einzige Schmiede in [[Ashabenford]]. Eigentlich spezialisiert auf Zinn- und Kupferarbeiten sowie Werkzeuge für Bauern, wird aber oft von Abenteurern zu Waffenreparaturen genötigt.
 
-- [Sehen / Licht] 
-- [Hören] 
-- [Riechen / Temperatur] 
-- [Stimmung]
+- Eine offene Werkstadt 
+- Schwerter, Rüstungen und Werkzeuge an den Wänden
+- Sehr laut und heiß aufgrund der Öfen
 
 ## POI
 
