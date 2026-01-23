@@ -57,7 +57,10 @@ Direkt am Marktplatz gelegen. Das soziale Herz der Stadt.
 
 - [[Multhimmers Laden]]: Allgemeiner Handelsladen von [[Multhimmer]]
 - [[Jarwains Importe]]: Spezialisiert auf seltene Import (Seide, Gewürze, Glas)
-- [[Lhuins Lederwaren]]: Sehr bekannter Lederer. Verkäuft Sättel, Stiefel, Rüstungen. e
+- [[Lhuins Lederwaren]]: Sehr bekannter Lederer. Verkäuft Sättel, Stiefel, Rüstungen, etc
+- [[Almaes Tränke]]: Tränke, alchemistische Zutaten und manchmal kleine magische Gegenstände
+
+#### 
 
 #### Glauben
 In Ashabenford betet man pragmatisch:
