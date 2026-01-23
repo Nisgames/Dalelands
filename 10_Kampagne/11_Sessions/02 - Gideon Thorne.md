@@ -210,7 +210,10 @@ _Plötzlich hört ihr einen lauten Knall, als hätte jemand einen Haufen Pfannen
 	- Geräusch kam wohl daraus
 - Keine Tür im Türrahmen
 
-- 
+_Innen:_
+- Viele Holzregale und Kisten an den Wänden
+- An einigen Stellen hat die Natur den Schuppen begonnen zu erobern
+	- Moos auf dem Boden, Ra
 
 [[Tom Flinken]]
 
