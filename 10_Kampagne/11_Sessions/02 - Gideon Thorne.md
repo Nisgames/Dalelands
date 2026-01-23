@@ -79,6 +79,8 @@ Erscheinung & Art
 
 *Gespräch*
 
+- Fragt [[Tado]] nach
+
 1. Der Splitter (Analyse)
 - Betrachtet den Splitter (wenn übergeben) mit einer Juwelierlupe
 - Behauptet: Es ist ein [[Schattensplitter]]. Uralte Magie aus der Zeit von Netheril oder [[Cormanthor]]. Gefährlich in falschen Händen.
@@ -163,7 +165,7 @@ creatures:
 
 **Oger haben bereits Pfeile im Rücken und auf den Armen**
 - Scheinen nicht die erste Gruppe zu sein, denen sie heute auflauern
-- _DM: Oger starten mit _
+- _DM: Oger starten mit 20 Schaden_
 
 >[!loot]- Loot
 > - Leere Fiole (Drow Gift)
