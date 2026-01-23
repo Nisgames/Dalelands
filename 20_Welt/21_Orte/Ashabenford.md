@@ -55,7 +55,8 @@ Direkt am Marktplatz gelegen. Das soziale Herz der Stadt.
 
 #### Handel
 
-- [[Mu]]
+- [[Multhimmers Laden]]: Allgemeiner Handelsladen von [[Multhimmer]]
+- [[Jarwains Importe]]: Spezial
 
 #### Glauben
 In Ashabenford betet man pragmatisch:
