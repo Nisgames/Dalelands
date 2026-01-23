@@ -236,7 +236,10 @@ _Geschichte CD 15:_ Wahrscheinlich ein Schauplatz eines Kampfes zwischen Elfen u
 
 >[!loot] Findbar
 >- Griff eines [[Mondschwert]]es
->- 
+>- Versteinerte Elfenhand, die ein Medaillon umklammert
+>	- Medaillon von [[Corellon]] (Elfengott)
+>	- Wer es nimmt, verspürt enormen Hass auf Menschen
+>	- 
 
 #### [[Eulenturm]]
 
