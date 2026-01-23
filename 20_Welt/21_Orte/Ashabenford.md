@@ -68,7 +68,7 @@ Direkt am Marktplatz gelegen. Das soziale Herz der Stadt.
 
 #### Regierung
 
-- [[]]
+- [[Halle des Hohen Rates]]: Regierungssitz des [[Hoher Rat der Sechs]] und gleichzeitig 
 
 #### Glauben
 In Ashabenford betet man pragmatisch:
