@@ -182,6 +182,8 @@ creatures:
 - "*Seid ihr ausgestattet mit Verpflegung?*"
 - Gideon gibt euch noch jedem einen kleinen Heiltrank mit
 
+Ihr marschiert am [[Ashaba]] entlang in Richtung [[Cormanthor]] Wald. Links und rechts vom Fluss erstrecken sich riesige Felder. Hier 
+
 ###### Begegnung Kutscher
 
 Ein Brauerei-Wagen aus [[Ashabenford]], beladen mit Fässern des berühmten Ales. Der Kutscher summt ein Lied an **[[Chauntea]]** (Göttin der Ernte).
@@ -191,7 +193,7 @@ Ein Brauerei-Wagen aus [[Ashabenford]], beladen mit Fässern des berühmten Ales
 
 ###### Reise
 
-Ihr ma
+Ihr marschiert am
 
 #### [[Eulenturm]]
 
