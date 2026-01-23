@@ -239,7 +239,9 @@ _Geschichte CD 15:_ Wahrscheinlich ein Schauplatz eines Kampfes zwischen Elfen u
 >- Versteinerte Elfenhand, die ein Medaillon umklammert
 >	- Medaillon von [[Corellon]] (Elfengott)
 >	- Wer es nimmt, verspürt enormen Hass auf Menschen
->	- 
+>	- _Hintergrund: Der Träger hat im Moment seines Todes geglaubt, von den Menschen verraten worden zu sein_
+>- Beschädigte Rüstungsteile von Kettenpanzern und Lederrüstungen
+>- Schädel eines 
 
 #### [[Eulenturm]]
 
