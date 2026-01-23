@@ -196,7 +196,9 @@ Ein Brauerei-Wagen aus [[Ashabenford]], beladen mit Fässern des berühmten Ales
 ###### Reise
 
 Ihr lauft weiter flussabwärts und erreicht schließlich den Waldrand. Ab hier wird die Reise langsamer vorangehen, da ihr an vielen Stellen Umwege machen müsst.
-Etwa zwei Stunden schlagt ihr euch in den Wald hinnein. Ohne [[Elina]] hättet ihr euch sicherlich schon verlaufen, es ist nämlich nicht gerade einfach, die Orientierung u
+Etwa zwei Stunden schlagt ihr euch in den Wald hinnein. Ohne [[Elina]] hättet ihr euch sicherlich schon verlaufen, es ist nämlich nicht gerade einfach, die Orientierung zu behalten.
+
+
 
 > [!narrator] Reise
 > Die weitere Fahrt führt euch immer tiefer in den Wald hinein. Um euch herum wird es langsam dunkler und zu jeder Seite seht ihr euch dichtem Gestrüpp gegenüber. Zur aktuellen Jahreszeit ist der Wald weniger grün, sondern vielmehr eine farbenfrohe Mischung roter, gelber und sogar blauer Blätter.
