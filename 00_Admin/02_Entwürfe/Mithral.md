@@ -5,4 +5,9 @@ Aus Mithral hergestellte Rüstung gibt keinen Nachteil auf Heimlichkeit und hat 
 ## Fundort
 
 Wird in den [[Dalelands]] nicht oder nur sehr selten gehandelt.
-Meist tief in Ber
+Meist tief in Bergwergen gefunden. Kann in einigen Orten in [[Sembia]] gekauft werden.
+
+## Preis
+
+Genügend Mithral für eine Rüstung kostet etwa 400GM.
+Das Verstärken einer Rüstung m
