@@ -172,9 +172,9 @@ creatures:
 
 ![[Elina#Elina verliert Bewusstsein]]
 
-![[Elina#Elina verliert Bewusstsein]]
+![[Jorvan#Jorvan verliert Bewusstsein]]
 
-![[Elina#Elina verliert Bewusstsein]]
+![[Tado#Tado verliert Bewusstsein]]
 
 #### Reise - Fußmarsch
 
