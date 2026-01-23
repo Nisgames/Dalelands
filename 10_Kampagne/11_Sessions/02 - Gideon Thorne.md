@@ -182,7 +182,9 @@ creatures:
 - "*Seid ihr ausgestattet mit Verpflegung?*"
 - Gideon gibt euch noch jedem einen kleinen Heiltrank mit
 
-Ihr marschiert am [[Ashaba]] entlang in Richtung [[Cormanthor]] Wald. Links und rechts vom Fluss erstrecken sich riesige Felder. Hier 
+Ihr marschiert am [[Ashaba]] entlang in Richtung [[Cormanthor]] Wald. Links und rechts vom Fluss erstrecken sich riesige Felder. 
+Hier wird die Nahrung des Tals angebaut und auch das Tierfutter produziert. 
+An einigen Stellen seht ihr noch Strohballen auf den Feldern liegen oder den eine
 
 ###### Begegnung Kutscher
 
