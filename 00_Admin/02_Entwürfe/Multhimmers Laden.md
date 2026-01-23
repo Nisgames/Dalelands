@@ -6,12 +6,10 @@ Region:
 
 ## Beschreibung
 
-Handelshaus in [[Ashabenford]]. Ist bekannt dafür, _alles_ zu kaufen und zu verkaufen
+Handelshaus in [[Ashabenford]]. Ist bekannt dafür, _alles_ zu kaufen und zu verkaufen.
 
-- [Sehen / Licht] 
-- [Hören] 
-- [Riechen / Temperatur] 
-- [Stimmung]
+- Ein großes, chaotisches Gebäude. Sieht aus als wäre mehrfach angebaut worden.
+- Innen 
 
 ## POI
 
