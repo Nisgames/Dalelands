@@ -55,3 +55,8 @@ Als er sich der Nadel näherte und eines der Zeichen berührte, verlor er das Be
 Tado erwachte allein in einem Wald in der Nähe einer Siedlung. Dort traf er auf [[Elina]], die ihn zur nächsten größeren Ortschaft führen wollte.
 
 Auf dem Weg retteten sie [[Jorvan]], der vor Kultisten floh. Gemeinsam setzten sie ihre Reise fort und gelangten schließlich nach [[Ashabenford]].
+#### [[Tado]] verliert Bewusstsein
+*Vorlesen wenn er das erste Mal ohnmächtig wird.*
+
+>[!narrator]- Tado wird ohnmächtig
+>

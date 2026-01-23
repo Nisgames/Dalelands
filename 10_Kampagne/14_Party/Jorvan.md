@@ -50,4 +50,4 @@ In diesem Moment traf er auf [[Tado]] und [[Elina]] die ihm gegen seine Verfolge
 
 >[!narrator]- Jorvan wird ohnmächtig
 >Die Welt verschwimmt und wird grünlich verzerrt, als würdest du durch dickes Glas schauen. Du schmeckst Kupfer und bittere Alchemie. Ein Phantom-Schmerz durchzuckt deinen ganzen Körper – die Erinnerung an das Ritual, das deine Knochen verformt hat. Du hörst kein Kampfgeschrei mehr, sondern nur ein leises, rhythmisches Zischen.
->
+>Vor deinen Augen siehst du das Gesicht des Jungen, der du mal warst. Er dreht sich um und geht weg. Du willst schreien: 'Warte!', aber aus deiner Kehle kommt nur ein weiteres leises Zischen.
