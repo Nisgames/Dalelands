@@ -9,7 +9,9 @@ Region:
 Handelshaus in [[Ashabenford]]. Ist bekannt dafür, _alles_ zu kaufen und zu verkaufen.
 
 - Ein großes, chaotisches Gebäude. Sieht aus als wäre mehrfach angebaut worden.
-- Innen 
+- **Innen**: Ein Labyrinth aus Gängen voller Regale. Nicht wirklich sortiert.
+	- Es riecht nach Pökelfleisch, Wolle und Lampenöl
+	- Beluchtung ist spärlich, was das Suchen noch erschwert
 
 ## POI
 
