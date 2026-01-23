@@ -232,7 +232,10 @@ Ihr kommt auf eine Lichtung
 - Der Boden ist uneben und an etlichen Stellen sieht man zerbrochenes Eisen von Schwertern oder rostige Rüstungen aus dem moosigen Untergrund ragen
 
 _Geschichte CD 15:_ Wahrscheinlich ein Schauplatz eines Kampfes zwischen Elfen und [[Shadovar]] (Menschen des [[Netheril]] Imperiums)
-- Erkennbar an Rüstungen und 
+- Erkennbar an Rüstungen und Schmiedekunst
+
+>[!loot] Findbar
+>
 
 #### [[Eulenturm]]
 
