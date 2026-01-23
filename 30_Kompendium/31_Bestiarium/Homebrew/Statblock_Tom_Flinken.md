@@ -27,7 +27,7 @@ senses: Passive Wahrnehmung 13
 languages: [[Gemeinsprache]]
 cr: 1
 traits:
-  - name: "Magischer Gegenstand: Ogerkraft-Handschuhe"
+  - name: "Magischer Gegenstand: [[Panzerhandschuhe der Ogerkraft]]"
     desc: "Toms Stärke wird auf 19 gesetzt (bereits eingerechnet). Er erhält dadurch +4 auf Stärke-Checks und Angriffe."
   - name: "Kampfstil: Kampf mit großen Waffen"
     desc: "Bei einer 1 oder 2 auf dem Schadenswürfel (Zweihänder) darf der Würfel einmal neu geworfen werden."
