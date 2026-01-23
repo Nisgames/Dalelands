@@ -59,8 +59,11 @@ Direkt am Marktplatz gelegen. Das soziale Herz der Stadt.
 - [[Jarwains Importe]]: Spezialisiert auf seltene Import (Seide, Gewürze, Glas)
 - [[Lhuins Lederwaren]]: Sehr bekannter Lederer. Verkäuft Sättel, Stiefel, Rüstungen, etc
 - [[Almaes Tränke]]: Tränke, alchemistische Zutaten und manchmal kleine magische Gegenstände
+- [[Braunstar]]: Wagenbauer für Karawanen, die auf dem [[Moonsea Ride]] liegenbleiben
 
-#### 
+#### Glaube
+
+- 
 
 #### Glauben
 In Ashabenford betet man pragmatisch:
