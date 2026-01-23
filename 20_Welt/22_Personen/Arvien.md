@@ -18,9 +18,10 @@ statblock: inline
 *Volk:* `=this.Volk` 
 *Wohnort:* `=this.Ort` 
 *Aussehen:* 
-	Schlanke Frau mit golden
+	Schlanke Frau mit gold-blondem Haar. Man sieht ihr ihren Job nicht an.
+	Trägt meist eine Schmiede-Schürze
 *Charakterzug:* 
-	[Hasst Wein]
+	People-pleaser. Wenn man sie bittet, stellt sie fast alles für einen her.
 *Sprechweise:* 
 	[Langsam]
 
