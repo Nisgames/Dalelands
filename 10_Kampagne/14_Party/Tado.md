@@ -62,4 +62,4 @@ Auf dem Weg retteten sie [[Jorvan]], der vor Kultisten floh. Gemeinsam setzten s
 >[!narrator]- Tado wird ohnmächtig
 >Lathanders Licht, das dich sonst immer wärmt, flackert und erlischt. Kälte kriecht in deine Rüstung. Für einen Herzschlag bist du nicht mehr auf dem Schlachtfeld, sondern wieder an jener Felsnadel in Rashemen. Die leuchtenden Runen brennen sich in deine Netzhaut. Du spürst eine Präsenz hinter dir – riesig, uralt und _hungrig_.
 >
->Dann hörst du die Stimme von [[Zeek Reißzahn]], klar und panisch: _'Tado! Wo bist du?!'_ Du streckst die Hand aus, aber dein Schildarm ist schwer wie ein Gebirge. Du siehst Zeeks Umriss im Nebel verschwinden. Du hast ihn damals nicht beschützt, und jetzt kannst du dich selbst nicht schützen.
+>Dann hörst du die Stimme von [[Zeek Reißzahn]], klar und panisch: _'Tado! Wo bist du?!'_ Du streckst die Hand aus, aber dein Schildarm ist schwer wie Blei. Du siehst Zeeks Umriss im Nebel verschwinden. Du hast ihn damals im Stich gelassen, und jetzt lässt du schon wieder deine Kamerade.
