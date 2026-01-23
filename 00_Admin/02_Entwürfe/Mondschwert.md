@@ -3,7 +3,7 @@ tags:
   - Item
 Klassifikation:
 Magisch: false
-Seltenheit:
+Seltenheit: Sehr selten
 Wert_in_GM:
 Gewicht in KG:
 Einstimmung: false
@@ -25,4 +25,4 @@ Besitzer:
 
 ## Lore
 
-[Geschmiedet von Zwerg]
+Legendäre Klingen der [[Myth Drannor Elfen]]. Sie waren mit [[Mythal]] verstärkt und konnten so gut wie alles schneiden

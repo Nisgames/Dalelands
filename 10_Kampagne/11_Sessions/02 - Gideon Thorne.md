@@ -236,6 +236,7 @@ _Geschichte CD 15:_ Wahrscheinlich ein Schauplatz eines Kampfes zwischen Elfen u
 
 >[!loot] Findbar
 >- Griff eines [[Mondschwert]]es
+>- 
 
 #### [[Eulenturm]]
 
