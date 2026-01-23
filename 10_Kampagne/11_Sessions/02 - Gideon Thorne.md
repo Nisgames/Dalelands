@@ -1,8 +1,8 @@
 ---
 tags:
   - Session
-date:
-ingame_date: X. Marpenoth 1496
+date: 2026-01-23
+ingame_date: 16. Marpenoth 1496
 ---
 
 ## Recap
