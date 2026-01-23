@@ -20,7 +20,7 @@ Alles mögliche an komisch aussehenden Substanzen und Kräutern
 
 ## DM Wissen
 
-[Hintergrund, usw]
+Geführt von [[Almaes]]
 
 #### Bewohner
 ```dataview
