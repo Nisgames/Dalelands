@@ -26,7 +26,7 @@ Einzige Schmiede in [[Ashabenford]]. Eigentlich spezialisiert auf Zinn- und Kupf
 
 ## DM Wissen
 
-Verkauft zu
+Verkauft zum üblichen Marktpreis.
 Hier könnten +1 Waffen und Wüstungen gefertigt werden. _Benötigtes Material: [[Mithral]]_ 
 
 #### Bewohner
