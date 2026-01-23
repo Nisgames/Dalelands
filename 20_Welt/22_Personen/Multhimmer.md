@@ -18,11 +18,12 @@ statblock: inline
 *Volk:* `=this.Volk` 
 *Wohnort:* `=this.Ort` 
 *Aussehen:* 
-	Ein 
+	Mittelalt, strubbeliger Bart
+	Braune Haare, wache Augen
 *Charakterzug:* 
-	[Hasst Wein]
+	Scheut sich nicht, Reisende übers Ohr zu hauen
 *Sprechweise:* 
-	[Langsam]
+	Kalt und bedacht
 
 ## Werte & Loot:
 
