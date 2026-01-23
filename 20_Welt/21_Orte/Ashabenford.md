@@ -53,7 +53,7 @@ Das Zentrum des Handels. Es gibt keine Brücke, nur eine flache, markierte Stell
 #### Handel
 
 - [[Multhimmers Laden]]: Allgemeiner Handelsladen von [[Multhimmer]]
-- [[Jarwains Importe]]: Spezialisiert auf seltene Import (Seide, Gewürze, Glas)
+- [[Jarwains Importe]]: Spezialisiert auf seltene Import (Seide, Gewürze, Glas). Hat auch einige Komponenten für Zauber.
 - [[Lhuins Lederwaren]]: Sehr bekannter Lederer. Verkäuft Sättel, Stiefel, Rüstungen, etc
 - [[Almaes Tränke]]: Tränke, alchemistische Zutaten und manchmal kleine magische Gegenstände
 - [[Braunstar]]: Wagenbauer für Karawanen, die auf dem [[Moonsea Ride]] liegenbleiben
