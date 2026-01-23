@@ -94,7 +94,7 @@ Erscheinung & Art
 - Zitat: Ihr habt gestern bewiesen, dass ihr nicht nur schlagkräftig, sondern auch vernünftig seid. Seltene Kombination.
 
 3. Der Feind ([[Varon]] & [[Haus Jaelre]])
-- Identifiziert den Dieb als Drow aus dem [[Haus Jaelre]]
+- Identifiziert den Dieb als Drow aus dem [[Haus Jaelre]] 
 - Gefahr: Wenn sie genug Splitter finden, bedrohen sie das ganze Tal
 	- Könnten Leute versklaven (*Motivation für [[Jorvan]]*)
 	- Oder es könnte sich eine Katastrophe ereignen (*Motivation für [[Elina]]*)
