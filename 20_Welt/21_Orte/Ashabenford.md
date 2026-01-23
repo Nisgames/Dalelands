@@ -47,18 +47,9 @@ Direkt am Marktplatz gelegen. Das soziale Herz der Stadt.
 - **Angebot:** Berühmt für Fasan in Kräuterkruste und das lokale Ale. 
 - **Leitung:** [[Holfast Harpell]] (Ältestenrat). Hier tagen oft die Händler. 
 
-#### 4. [[Kaserne der Reiter]] (High Council Hall) 
-Ein befestigtes Langhaus, das gleichzeitig als Rathaus und Kaserne dient. 
-- **Funktion:** Sitz von [[Bürgermeisterin Andra]] und Hauptquartier der **[[Reiter von Mistledale]]**
-- **Sicherheit:** Der einzige Ort im Tal mit einer echten Steinmauer und einem kleinen Kerker (meist für betrunkene Händler oder [[Zhentarim]]-Spione)
+#### Gasthäuser / Tavernen
 
-#### 5. Tempel der Chauntea ("Die Grüne Scheune") 
-Kein prunkvoller Tempel, sondern eine riesige, offene Scheune mit Altar, umgeben von gepflegten Gärten. 
-- **Aktivität:** Bauern bringen täglich kleine Opfergaben (die erste Rübe, ein Bund Korn) für eine milde Ernte. 
-
-#### 6. Schrein der Tymora 
-Ein kleiner, aber reich geschmückter Pavillon nahe dem Marktplatz. 
-- **Brauch:** Händler werfen eine Münze in den Brunnen davor, bevor sie die Furt durchqueren ("Ein Kupfer für eine trockene Überfahrt").
+- [[Ashabenford Arms]]: 
 
 #### Glauben
 In Ashabenford betet man pragmatisch:
