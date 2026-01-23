@@ -247,7 +247,10 @@ _Geschichte CD 15:_ Wahrscheinlich ein Schauplatz eines Kampfes zwischen Elfen u
 >	- Lockt aber Untote an
 >	- _Hintergrund: Dunkle Magie haftet dem Schädel noch an_
 
-_Wenn keine Rast, dann ab hier KON RW gegen SG 15, sonst Erschöpfung Gr_
+_Wenn keine Rast, dann ab hier KON RW gegen SG 15, sonst Erschöpfung Grad 1_
+
+> [!narrator] Restliche Reise
+> Bis in den frühen Abend hinnein seid ihr unterwegs. Ihr seht noch den ein oder anderen Fuchs, Waschbären und hört an einer Stelle sogar einen Wolf in der Ferne 
 
 #### [[Eulenturm]]
 
