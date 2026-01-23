@@ -221,7 +221,15 @@ _Innen:_
 > [!narrator] Reise
 > Der weitere Weg führt euch immer tiefer in den Wald hinein. Um euch herum wird es langsam dunkler und zu jeder Seite seht ihr euch dichtem Gestrüpp gegenüber. Zur aktuellen Jahreszeit ist der Wald weniger grün, sondern vielmehr eine farbenfrohe Mischung roter, gelber und sogar blauer Blätter.
 
-Nach weiteren 2 Stunden seid ihr mittlerweile sehr erschöpft vom gehen und durch die Natur kämpfen. Eure Körper sagen euch es wä
+Nach weiteren 2 Stunden seid ihr mittlerweile sehr erschöpft vom gehen und durch die Natur kämpfen. Eure Körper sagen euch es wäre Zeit für eine Pause.
+
+Ihr kommt auf eine Lichtung
+
+**Lichtung**
+
+- Etwa 50 m Durchmesser
+- Es sieht aus w
+
 #### [[Eulenturm]]
 
 Nach einer anstrengenden Reise seht ihr endlich euer Ziel. Der [[Eulenturm]] ragt vor euch auf.
