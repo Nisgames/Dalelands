@@ -22,10 +22,11 @@ Einzige Schmiede in [[Ashabenford]]. Eigentlich spezialisiert auf Zinn- und Kupf
 #### Hochofen
 
 - Hier ist [[Arvien]] meist zugange
-- Glühendes Metall wird unter lautem Hämmern auf einem Amboss ge
+- Glühendes Metall wird unter lautem Hämmern auf einem Amboss geformt
 
 ## DM Wissen
 
+Verkauft zu
 Hier könnten +1 Waffen und Wüstungen gefertigt werden. _Benötigtes Material: [[Mithral]]_ 
 
 #### Bewohner
