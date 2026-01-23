@@ -24,7 +24,7 @@ skillsaves:
   - Wahrnehmung: +3
   - Überleben: +3
 senses: Passive Wahrnehmung 13
-languages: Gemeinsprache
+languages: [[Gemeinsprache]]
 cr: 1
 traits:
   - name: "Magischer Gegenstand: Ogerkraft-Handschuhe"
