@@ -241,7 +241,11 @@ _Geschichte CD 15:_ Wahrscheinlich ein Schauplatz eines Kampfes zwischen Elfen u
 >	- Wer es nimmt, verspürt enormen Hass auf Menschen
 >	- _Hintergrund: Der Träger hat im Moment seines Todes geglaubt, von den Menschen verraten worden zu sein_
 >- Beschädigte Rüstungsteile von Kettenpanzern und Lederrüstungen
->- Schädel eines 
+>- Schädel eines Schattenmagiers (Mensch)
+>	- [[Phu]] bekommt enorme Angst
+>	- Schreckt natürliche Tiere ab
+>	- Lockt aber Untote an
+>	- _Hintergrund: _
 
 #### [[Eulenturm]]
 
