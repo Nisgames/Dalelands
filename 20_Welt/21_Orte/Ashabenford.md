@@ -60,7 +60,7 @@ Direkt am Marktplatz gelegen. Das soziale Herz der Stadt.
 - [[Lhuins Lederwaren]]: Sehr bekannter Lederer. Verkäuft Sättel, Stiefel, Rüstungen, etc
 - [[Almaes Tränke]]: Tränke, alchemistische Zutaten und manchmal kleine magische Gegenstände
 - [[Braunstar]]: Wagenbauer für Karawanen, die auf dem [[Moonsea Ride]] liegenbleiben
-- [[Arviens Schmiede]]: Repariert Waffen, verbessert Rüstungen
+- [[Arviens Schmiede]]: Repariert Waffen, verbessert Rüstungen und kann sogar Gegenstände versilbern
 
 #### Glaube
 
