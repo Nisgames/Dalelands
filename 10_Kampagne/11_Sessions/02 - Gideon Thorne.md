@@ -228,7 +228,10 @@ Ihr kommt auf eine Lichtung
 **Lichtung**
 
 - Etwa 50 m Durchmesser
-- Es sieht aus w
+- Es sieht aus wie ein ehemaliges Schlachtfeld
+- Der Boden ist uneben und an etlichen Stellen sieht man zerbrochenes Eisen von Schwertern oder rostige Rüstungen aus dem moosigen Untergrund ragen
+
+__
 
 #### [[Eulenturm]]
 
