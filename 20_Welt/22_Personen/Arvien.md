@@ -23,7 +23,7 @@ statblock: inline
 *Charakterzug:* 
 	People-pleaser. Wenn man sie bittet, stellt sie fast alles für einen her.
 *Sprechweise:* 
-	[Langsam]
+	Vorsichtig.
 
 ## Werte & Loot:
 
