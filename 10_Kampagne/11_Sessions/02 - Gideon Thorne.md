@@ -189,6 +189,10 @@ Ein Brauerei-Wagen aus [[Ashabenford]], beladen mit Fässern des berühmten Ales
 - _Interaktion:_ Er bietet den Spielern einen Krug "Wegzehrung" gegen die Kälte an. 
 	Er erzählt stolz, dass dieses Jahr der Hopfen besonders gut war, trotz des schlechten Wetters.
 
+###### Reise
+
+Ihr ma
+
 #### [[Eulenturm]]
 
 Nach einer anstrengenden Reise seht ihr endlich euer Ziel. Der [[Eulenturm]] ragt vor euch auf.
