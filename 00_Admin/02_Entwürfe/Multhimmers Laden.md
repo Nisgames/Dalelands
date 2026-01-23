@@ -15,8 +15,9 @@ Handelshaus in [[Ashabenford]]. Ist bekannt dafür, _alles_ zu kaufen und zu ver
 
 ## POI
 
-- [Interaktives Element 1] 
-- [Interaktives Element 2]
+#### Regale
+
+- Gefüllt mit jeglichen Dingen: Lebensmittel, St
 
 ## DM Wissen
 
