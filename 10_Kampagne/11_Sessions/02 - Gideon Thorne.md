@@ -198,6 +198,8 @@ Ein Brauerei-Wagen aus [[Ashabenford]], beladen mit Fässern des berühmten Ales
 Ihr lauft weiter flussabwärts und erreicht schließlich den Waldrand. Ab hier wird die Reise langsamer vorangehen, da ihr an vielen Stellen Umwege machen müsst.
 Etwa zwei Stunden schlagt ihr euch in den Wald hinnein. Ohne [[Elina]] hättet ihr euch sicherlich schon verlaufen, es ist nämlich nicht gerade einfach, die Orientierung zu behalten.
 
+_Plötzlich hört ihr einen lauten Knall, als hätte jemand einen Haufen Pfannen und Töpfe fallen lassen. (rechts von euch)_
+
 
 
 > [!narrator] Reise
