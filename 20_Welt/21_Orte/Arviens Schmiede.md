@@ -6,7 +6,7 @@ Region: "[[Ashabenford]]"
 
 ## Beschreibung
 
-Einzige Schmiede in [[Ashabenford]]
+Einzige Schmiede in [[Ashabenford]]. Eigentlich spezialisiert auf Zinn- und Kupferarbeiten sowie Werkzeuge für Bauern, wird aber oft von Abenteurern genötigt
 
 - [Sehen / Licht] 
 - [Hören] 
