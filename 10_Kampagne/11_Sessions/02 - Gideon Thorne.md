@@ -36,6 +36,7 @@ ingame_date: 16. Marpenoth 1496
 	- *"Für die Möbel, mein Guter."
 
 - Dann dreht er sich um und schreitet hinaus in die Nacht, den Gehstock rhythmisch auf den Dielen klackend.
+
 #### Nacht
 
 *Wo schlaft ihr?*
