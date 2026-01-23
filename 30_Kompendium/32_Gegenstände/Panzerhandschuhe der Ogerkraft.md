@@ -3,7 +3,7 @@ tags:
   - Item
 Magisch: true
 Seltenheit: Ungewöhnlich
-Wert_in_GM: "8000"
+Wert_in_GM: "6000"
 Gewicht in KG:
 Klassifikation: Wundersamer Gegenstand
 Schaden:
