@@ -14,12 +14,10 @@ Einzige Schmiede in [[Ashabenford]]. Eigentlich spezialisiert auf Zinn- und Kupf
 
 ## POI
 
-- [Interaktives Element 1] 
-- [Interaktives Element 2]
 
 ## DM Wissen
 
-[Hintergrund, usw]
+Hier könnten +1 Waffen und Wüstungen gefertigt werden. _Benötigtes Material: [[Mithral]]_ 
 
 #### Bewohner
 ```dataview
