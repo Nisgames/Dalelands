@@ -10,8 +10,7 @@ Alchemistenladen von [[Ashabenford]]. Direkt am [[Ashaba]] gelegen, damit man ih
 
 - Langes, flaches Gebäude mit einem roten Ziegeldach 
 - Es riecht schon draußen nach Schwefel und seltsamen Dämpfen
-- [Riechen / Temperatur] 
-- [Stimmung]
+- **Innen:** Vollgestopft mit Kräutern, Gläsern, eingelegten Organen und bunten Flüssigkeiten und verschiedenförmigen Gefäßen
 
 ## POI
 
