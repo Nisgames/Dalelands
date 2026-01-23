@@ -50,6 +50,7 @@ Direkt am Marktplatz gelegen. Das soziale Herz der Stadt.
 #### Gasthäuser / Tavernen
 
 - [[Ashabenford Arms]]: Luxus-Hotel des Ortes. Zieht reiche Händler an
+- [[White Hart Inn]]
 - [[Der Samtschleier]]: Tanzhaus mit Glücksspiel und Musik
 - [[Six Shields]]: Billige Absteige für ärmere Reisende
 

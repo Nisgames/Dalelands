@@ -10,4 +10,4 @@ Meist tief in Bergwergen gefunden. Kann in einigen Orten in [[Sembia]] gekauft w
 ## Preis
 
 Genügend Mithral für eine Rüstung kostet etwa 400GM.
-Das Verstärken einer Rüstung m
+Das Verstärken einer Rüstung mit dem Metall kostet je nach Schmied nochmal 200 - 500GM extra.
