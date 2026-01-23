@@ -234,7 +234,7 @@ Ihr kommt auf eine Lichtung
 _Geschichte CD 15:_ Wahrscheinlich ein Schauplatz eines Kampfes zwischen Elfen und [[Shadovar]] (Menschen des [[Netheril]] Imperiums)
 - Erkennbar an Rüstungen und Schmiedekunst
 
->[!loot] Findbar
+>[!loot]- Findbar
 >- Griff eines [[Mondschwert]]es
 >- Versteinerte Elfenhand, die ein Medaillon umklammert
 >	- Medaillon von [[Corellon]] (Elfengott)
@@ -245,7 +245,9 @@ _Geschichte CD 15:_ Wahrscheinlich ein Schauplatz eines Kampfes zwischen Elfen u
 >	- [[Phu]] bekommt enorme Angst
 >	- Schreckt natürliche Tiere ab
 >	- Lockt aber Untote an
->	- _Hintergrund: _
+>	- _Hintergrund: Dunkle Magie haftet dem Schädel noch an_
+
+_Wenn keine Rast, dann ab hier KON RW gegen SG 15, sonst Erschöpfung Gr_
 
 #### [[Eulenturm]]
 
