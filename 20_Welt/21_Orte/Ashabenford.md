@@ -64,7 +64,7 @@ Direkt am Marktplatz gelegen. Das soziale Herz der Stadt.
 #### Glaube
 
 - [[Halle der strahlenden Gerechtigkeit]]: Ein Tempel des [[Tyr]]. Arbeitet eng mit den [[Reiter von Mistledale]] zusammen
-- 
+- [[Kloster der Goldenen Garbe]]: Großes Kloster der [[Chauntea]]. Liegt etwas außerhalb der Stadt
 
 #### Glauben
 In Ashabenford betet man pragmatisch:
