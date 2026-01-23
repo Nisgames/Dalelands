@@ -49,7 +49,8 @@ Direkt am Marktplatz gelegen. Das soziale Herz der Stadt.
 
 #### Gasthäuser / Tavernen
 
-- [[Ashabenford Arms]]: 
+- [[Ashabenford Arms]]: Luxus-Hotel des Ortes. Zieht reiche Händler an
+- [[Der Samtschleier]]: 
 
 #### Glauben
 In Ashabenford betet man pragmatisch:
