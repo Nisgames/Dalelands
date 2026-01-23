@@ -21,9 +21,9 @@ statblock: inline
 	[Klein mit Bart]
 *Charakterzug:* 
 	Er ist ein Genie, ist aber sehr verstreut.
-	Vergisst ständig
+	Vergisst ständig, worum das aktuelle Gespräch eigentlich ging
 *Sprechweise:* 
-	[Langsam]
+	Schnell
 
 ## Werte & Loot:
 
