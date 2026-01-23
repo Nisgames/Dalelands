@@ -79,7 +79,8 @@ Erscheinung & Art
 
 *Gespräch*
 
-- Fragt [[Tado]] nach
+- Fragt [[Tado]], welchem Gott er dient
+	- So jemanden hat er noch nie getroffen
 
 1. Der Splitter (Analyse)
 - Betrachtet den Splitter (wenn übergeben) mit einer Juwelierlupe
@@ -270,6 +271,11 @@ Nach einer anstrengenden Reise seht ihr endlich euer Ziel. Der [[Eulenturm]] rag
 
 ![[Eulenturm#POI]]
 
+```encounter
+creatures:
+  - Varon
+  - 
+```
 ## Bewertung
 
 Bewertung: https://forms.gle/rBqBUKD5Uhsdpdib6 
