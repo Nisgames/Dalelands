@@ -195,7 +195,8 @@ Ein Brauerei-Wagen aus [[Ashabenford]], beladen mit Fässern des berühmten Ales
 
 ###### Reise
 
-Ihr lauft weiter den Fluss entlang und erreicht schließlich den Waldrand. Ab hier wird die Reise langsamer werden, da ihr an vielen Stellen Umwege aufgrund der 
+Ihr lauft weiter flussabwärts und erreicht schließlich den Waldrand. Ab hier wird die Reise langsamer vorangehen, da ihr an vielen Stellen Umwege machen müsst.
+
 
 #### [[Eulenturm]]
 
