@@ -161,6 +161,10 @@ creatures:
   - 2: Oger
 ```
 
+**Oger haben bereits Pfeile im Rücken und auf den Armen**
+- Scheinen nicht die erste Gruppe zu sein, denen sie heute auflauern
+- _DM: Oger starten mit _
+
 >[!loot]- Loot
 > - Leere Fiole (Drow Gift)
 > - Kette aus Goldmünzen (15 GM)
