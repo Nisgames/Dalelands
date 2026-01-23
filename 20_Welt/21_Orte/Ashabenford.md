@@ -69,8 +69,8 @@ Direkt am Marktplatz gelegen. Das soziale Herz der Stadt.
 #### Regierung
 
 - [[Halle des Hohen Rates]]: Regierungssitz des [[Hoher Rat der Sechs]], Gericht und Kaserne der [[Reiter von Mistledale]] zugleich
-- [[Ashabenford]] wird vom [[Hoher Rat der Sechs]] regiert ([[Bürgermeisterin Andra]]). 
-Sie suchen händeringend nach Söldnern, um die Straßen sicher zu halten.
+- [[Ashabenford]] wird vom [[Hoher Rat der Sechs]] regiert. 
+	Sie suchen händeringend nach Söldnern, um die Straßen sicher zu halten.
 
 ## Events
 
