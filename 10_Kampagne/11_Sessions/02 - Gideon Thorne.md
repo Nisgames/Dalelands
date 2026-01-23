@@ -208,7 +208,9 @@ _Plötzlich hört ihr einen lauten Knall, als hätte jemand einen Haufen Pfannen
 - Alter Schuppen aus verrottetem Holz
 	- An einigen Stellen eingebrochen oder von Ratten zerfressen
 	- Geräusch kam wohl daraus
-- Keine Tür drin, sondern 
+- Keine Tür im Türrahmen
+
+- 
 
 [[Tom Flinken]]
 
