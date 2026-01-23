@@ -50,7 +50,12 @@ Direkt am Marktplatz gelegen. Das soziale Herz der Stadt.
 #### Gasthäuser / Tavernen
 
 - [[Ashabenford Arms]]: Luxus-Hotel des Ortes. Zieht reiche Händler an
-- [[Der Samtschleier]]: 
+- [[Der Samtschleier]]: Tanzhaus mit Glücksspiel und Musik
+- [[Six Shields]]: Billige Absteige für ärmere Reisende
+
+#### Handel
+
+- [[Mu]]
 
 #### Glauben
 In Ashabenford betet man pragmatisch:
