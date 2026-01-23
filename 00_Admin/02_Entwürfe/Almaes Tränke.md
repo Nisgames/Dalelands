@@ -6,10 +6,10 @@ Region: "[[Ashabenford]]"
 
 ## Beschreibung
 
-Alchemistenladen von [[Ashabenford]]. Direkt am Wasser gelegen, dam
+Alchemistenladen von [[Ashabenford]]. Direkt am [[Ashaba]] gelegen, damit man ihn im Notfall schnell löschen kann.
 
-- [Sehen / Licht] 
-- [Hören] 
+- Langes, flaches Gebäude mit einem roten Ziegeldach 
+- Es riecht schon draußen nach Schwefel und seltsamen Dämpfen
 - [Riechen / Temperatur] 
 - [Stimmung]
 
