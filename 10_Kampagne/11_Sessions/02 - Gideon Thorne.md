@@ -213,9 +213,10 @@ _Plötzlich hört ihr einen lauten Knall, als hätte jemand einen Haufen Pfannen
 _Innen:_
 - Viele Holzregale und Kisten an den Wänden
 - An einigen Stellen hat die Natur den Schuppen begonnen zu erobern
-	- Moos auf dem Boden, Ra
+	- Moos auf dem Boden, Ranken wachsen durch die Wände
+- [[Tom Flinken]] ist drin und auf der Suche nach elfischen Relikten oder magischen Gegenständen
 
-[[Tom Flinken]]
+![[Tom Flinken#Erscheinung]]
 
 > [!narrator] Reise
 > Die weitere Fahrt führt euch immer tiefer in den Wald hinein. Um euch herum wird es langsam dunkler und zu jeder Seite seht ihr euch dichtem Gestrüpp gegenüber. Zur aktuellen Jahreszeit ist der Wald weniger grün, sondern vielmehr eine farbenfrohe Mischung roter, gelber und sogar blauer Blätter.
