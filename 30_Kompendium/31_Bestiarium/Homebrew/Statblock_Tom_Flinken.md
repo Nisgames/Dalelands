@@ -27,9 +27,9 @@ traits:
     desc: "Tom führt eine zusätzliche Aktion aus."
 actions:
   - name: "Zweihänder (Haut drauf)"
-    desc: "+6 zum Treffen. <br>**Treffer:** 2d6+4 Hiebschaden. (Regeln: 1er/2er zählen als 3. Würfle Schaden 2x und nimm das beste Ergebnis).<br>**Verfehlt:** Das Ziel nimmt trotzdem **4 Schaden** (Streifen)."
+    desc: "+6 zum Treffen. <br>**Treffer:** 2d6+4 Hiebschaden. (Regeln: 1er/2er zählen als 3. Würfle Schaden 2x und nimm das beste Ergebnis).<br>**Verfehlt:** Das Ziel nimmt trotzdem **4 Schaden** (Waffenmeisterung _Streifen_)."
   - name: "Handaxt (Taktisch)"
-    desc: "+6 zum Treffen (6/18m). <br>**Treffer:** 1d6+4 Hiebschaden. Tom hat **Vorteil** auf seinen nächsten Angriff gegen dieses Ziel (Irritieren)."
+    desc: "+6 zum Treffen (6/18m). <br>**Treffer:** 1d6+4 Hiebschaden. Tom hat **Vorteil** auf seinen nächsten Angriff gegen dieses Ziel (Waffenmeisterung _Irritieren_)."
   - name: "Manöver: Präzisionsangriff"
     desc: "Verbrauche 1 W8: Addiere das Ergebnis zum **Angriffswurf** (auch nachträglich)."
   - name: "Manöver: Zu Fall bringen"
