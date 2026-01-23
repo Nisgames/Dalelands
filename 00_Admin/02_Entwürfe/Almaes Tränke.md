@@ -14,8 +14,9 @@ Alchemistenladen von [[Ashabenford]]. Direkt am [[Ashaba]] gelegen, damit man ih
 
 ## POI
 
-- [Interaktives Element 1] 
-- [Interaktives Element 2]
+#### Regale
+
+Alles mögliche an komisch aussehenden Substanzen und Kräutern
 
 ## DM Wissen
 
