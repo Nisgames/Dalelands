@@ -68,16 +68,8 @@ Direkt am Marktplatz gelegen. Das soziale Herz der Stadt.
 
 #### Regierung
 
-- [[Halle des Hohen Rates]]: Regierungssitz des [[Hoher Rat der Sechs]], Gericht und Kaserne der [[Reiter von Mistledale]] zugleich.
-- [[Reiter-Patrouille]] 
-
-#### Glauben
-In Ashabenford betet man pragmatisch:
-- **Chauntea:** Für die Ernte (es ist ein Bauerntal).
-- **Tymora:** Für das Glück im Handel.
-
-#### Hoher Rat
-[[Ashabenford]] wird von einem Rat regiert ([[Bürgermeisterin Andra]]). 
+- [[Halle des Hohen Rates]]: Regierungssitz des [[Hoher Rat der Sechs]], Gericht und Kaserne der [[Reiter von Mistledale]] zugleich
+- [[Ashabenford]] wird vom [[Hoher Rat der Sechs]] regiert ([[Bürgermeisterin Andra]]). 
 Sie suchen händeringend nach Söldnern, um die Straßen sicher zu halten.
 
 ## Events
