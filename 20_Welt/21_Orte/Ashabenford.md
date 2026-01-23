@@ -63,6 +63,7 @@ Direkt am Marktplatz gelegen. Das soziale Herz der Stadt.
 
 #### Glaube
 
+- [[Halle der strahlenden Gerechtigkeit]]: Ein Tempel des [[Tyr]]. Arbeitet eng mit den [[Reiter von Mistledale]] zusammen
 - 
 
 #### Glauben
