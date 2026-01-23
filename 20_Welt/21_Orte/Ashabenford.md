@@ -68,7 +68,8 @@ Direkt am Marktplatz gelegen. Das soziale Herz der Stadt.
 
 #### Regierung
 
-- [[Halle des Hohen Rates]]: Regierungssitz des [[Hoher Rat der Sechs]] und gleichzeitig 
+- [[Halle des Hohen Rates]]: Regierungssitz des [[Hoher Rat der Sechs]], Gericht und Kaserne der [[Reiter von Mistledale]] zugleich.
+- [[Reiter-Patrouille]] 
 
 #### Glauben
 In Ashabenford betet man pragmatisch:
