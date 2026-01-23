@@ -70,6 +70,8 @@ Sprachen:
 #### [[Elina]] verliert Bewusstsein
 *Vorlesen wenn sie das erste Mal ohnmächtig wird.*
 
->[!narrator]-
+>[!narrator]- Elina wird ohnmächtig
 >Der Schmerz des Treffers verblasst seltsam schnell. Stattdessen riechst du Rauch. Nicht von einem Lagerfeuer, sondern von brennendem Stein und uraltem Holz.
->Dennoch frier
+>Dennoch frierst du am ganzen Körper. Du siehst dein Notizbuch vor dir, die Seiten flattern im Wind, aber sie sind alle leer. Keine Zeichen, keine Bedeutung. Nur Stille. Du hast das Gefühl, vergessen worden zu sein.
+>Mal wieder konntest du nichts tun um dein Schicksal abzuwenden.
+
