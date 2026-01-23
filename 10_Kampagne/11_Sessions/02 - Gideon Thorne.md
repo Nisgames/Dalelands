@@ -168,6 +168,14 @@ creatures:
 > - 3 Wurfspeere
 > - [[Kugel der Zeit]]
 
+###### Jemand wird ohnmächtig
+
+![[Elina#Elina verliert Bewusstsein]]
+
+![[Elina#Elina verliert Bewusstsein]]
+
+![[Elina#Elina verliert Bewusstsein]]
+
 #### Reise - Fußmarsch
 
 - [[Gideon Thorne]] bietet eine grobe Karte [[Cormanthor]]s an und kreist den ungefähren Standort des [[Eulenturm]]s ein
