@@ -49,4 +49,5 @@ In diesem Moment traf er auf [[Tado]] und [[Elina]] die ihm gegen seine Verfolge
 *Vorlesen wenn er das erste Mal ohnmächtig wird.*
 
 >[!narrator]- Jorvan wird ohnmächtig
+>Die Welt verschwimmt und wird grünlich verzerrt, als würdest du durch dickes Glas schauen. Du schmeckst Kupfer und bittere Alchemie. Ein Phantom-Schmerz durchzuckt deinen ganzen Körper – die Erinnerung an das Ritual, das deine Knochen verformt hat. Du hörst kein Kampfgeschrei mehr, sondern nur ein leises, rhythmisches Zischen.
 >
