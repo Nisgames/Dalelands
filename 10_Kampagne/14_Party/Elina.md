@@ -66,3 +66,8 @@ Sprachen:
 - **Hintergrund:** Die Familie ist sehr wohlhabend („sehr reich“), da sie auf ihren Ländereien einen Schatz ausgegraben haben.
 - **Aktueller Status:** Sie befinden sich momentan auf einer Weltreise.
 - **Beziehung:** Die Spielerin hat die Familie als „Touri-Guide“ herumgeführt.
+
+#### [[Elina]] verliert Bewusstsein
+*Vorlesen wenn sie das erste Mal ohnmächtig wird.*
+
+>[!narrato]

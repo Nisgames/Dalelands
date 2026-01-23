@@ -168,7 +168,6 @@ creatures:
 > - 3 Wurfspeere
 > - [[Kugel der Zeit]]
 
-
 #### Reise - Fußmarsch
 
 - [[Gideon Thorne]] bietet eine grobe Karte [[Cormanthor]]s an und kreist den ungefähren Standort des [[Eulenturm]]s ein
