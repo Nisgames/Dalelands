@@ -17,7 +17,12 @@ Einzige Schmiede in [[Ashabenford]]. Eigentlich spezialisiert auf Zinn- und Kupf
 #### Waffen an den Wänden
 
 - Schwerter, Dolche, Hellebarden, aber auch Äxte, Sensen und Sägen
-- Hier und da stehen Rüstungen, die sehr teuer  aussehen
+- Hier und da stehen Rüstungen, die sehr schwer und teuer aussehen
+
+#### Hochofen
+
+- Hier ist [[Arvien]] meist zugange
+- Glühendes Metall wird unter lautem Hämmern auf einem Amboss ge
 
 ## DM Wissen
 
