@@ -219,7 +219,7 @@ _Innen:_
 ![[Tom Flinken#Erscheinung]]
 
 > [!narrator] Reise
-> Die weitere Fahrt führt euch immer tiefer in den Wald hinein. Um euch herum wird es langsam dunkler und zu jeder Seite seht ihr euch dichtem Gestrüpp gegenüber. Zur aktuellen Jahreszeit ist der Wald weniger grün, sondern vielmehr eine farbenfrohe Mischung roter, gelber und sogar blauer Blätter.
+> Der weitere Reise führt euch immer tiefer in den Wald hinein. Um euch herum wird es langsam dunkler und zu jeder Seite seht ihr euch dichtem Gestrüpp gegenüber. Zur aktuellen Jahreszeit ist der Wald weniger grün, sondern vielmehr eine farbenfrohe Mischung roter, gelber und sogar blauer Blätter.
 
 #### [[Eulenturm]]
 

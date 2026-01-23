@@ -20,6 +20,8 @@ statblock: inline
 *Aussehen:* 
 	Klein, blond, etwa 20 Jahre alt
 	Wirkt sehr energetisch
+	Muskulös gebaut, sieht nicht schwach aus
+	Trägt stolz ein gelbes [[Zhentarim]] Cape und eine Anstecknadel an seinem Kettenpanzer
 *Charakterzug:* 
 	Neu bei den [[Zhentarim]] und sehr engagiert
 *Sprechweise:* 
