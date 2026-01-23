@@ -17,11 +17,15 @@ Handelshaus in [[Ashabenford]]. Ist bekannt dafür, _alles_ zu kaufen und zu ver
 
 #### Regale
 
-- Gefüllt mit jeglichen Dingen: Lebensmittel, St
+- Gefüllt mit jeglichen Dingen: Lebensmittel, Stoffe, Abenteurerausrüstungen (Fackeln, Seile, etc)
+
+#### Theke
+
+
 
 ## DM Wissen
 
-[Hintergrund, usw]
+Der Laden wird geführt von [[Multhimmer]].
 
 #### Bewohner
 ```dataview
