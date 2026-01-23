@@ -23,10 +23,12 @@ Handelshaus in [[Ashabenford]]. Ist bekannt dafür, _alles_ zu kaufen und zu ver
 
 - Vollgestellt mit Büchern, Gläsern und Werkzeugen
 - [[Multhimmer]] verkauft persönlich
+![[Multhimmer#Erscheinung]]
 
 ## DM Wissen
 
 Der Laden wird geführt von [[Multhimmer]].
+Verkauft Gegenstände für 20% über Marktpreis.
 
 #### Bewohner
 ```dataview

@@ -35,7 +35,7 @@ statblock: inline
 
 ## DM Wissen
 
-[Motivation, Geheimnisse, Lügen]
+Verkauft in [[Multhimmers Laden]] Gegenstände für 20% über dem Marktpreis
 
 #### Begegnungen
 ```dataview
