@@ -8,7 +8,7 @@ ingame_date: 16. Marpenoth 1496
 ## Recap
 
 > [!narrator] Intro
-> Wir schreiben das Jahr 1496 nach der Talrechnung. In den uralten Wäldern und verstreuten Siedlungen der Talländer verblassen die Spuren der Vergangenheit, doch im Verborgenen ziehen bereits neue Gefahren auf. In einer Zeit, in der alte Pakte bröckeln und die Geschichte neu geschrieben wird, liegt es an euch, das Gleichgewicht zu wahren. Willkommen in einer Welt, in der euer Mut über das Schicksal der Talländer entscheidet.
+> Wir schreiben das Jahr 1496 nach der Talrechnung. In den uralten Wäldern und verstreuten Siedlungen der Talländer verblassen die Spuren der Vergangenheit, doch im Verborgenen ziehen bereits neue Gefahren auf. In einer Zeit, in der alte Pakte bröckeln und die Geschichte neu geschrieben wird, liegt es an euch, das Gleichgewicht zu wahren. Willkommen in einer Welt, in der euer Mut über das Schicksal der Dalelands entscheidet.
 
 > [!narrator] Recap
 > Willkommen zurück in den Dalelands. Wir schreiben das Jahr 1496 nach der Tal-Rechnung.
