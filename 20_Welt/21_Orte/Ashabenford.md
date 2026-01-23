@@ -38,19 +38,15 @@ Hier trifft ländliche Gemütlichkeit auf geschäftiges Markttreiben, stets begl
 ## POI
 
 #### Die Ashaba-Furt
+
 Das Zentrum des Handels. Es gibt keine Brücke, nur eine flache, markierte Stelle im Fluss. 
 - **Besonderheit:** Bei Hochwasser oder starkem Nebel wird die Furt gesperrt. Das führt sofort zu Stau auf dem *Moonsea Ride*. 
 - **NPCs:** Wachposten der *Reiter*, die den Verkehr regeln und Maut für Nicht-Talbewohner kassieren (1 SM pro Wagen). 
 
-#### Gasthaus [[White Hart Inn]] 
-Direkt am Marktplatz gelegen. Das soziale Herz der Stadt. 
-- **Angebot:** Berühmt für Fasan in Kräuterkruste und das lokale Ale. 
-- **Leitung:** [[Holfast Harpell]] (Ältestenrat). Hier tagen oft die Händler. 
-
 #### Gasthäuser / Tavernen
 
 - [[Ashabenford Arms]]: Luxus-Hotel des Ortes. Zieht reiche Händler an
-- [[White Hart Inn]]
+- [[White Hart Inn]]: Das soziale Herz der Stadt. Berühmt für Fasan in Kräuterkruste
 - [[Der Samtschleier]]: Tanzhaus mit Glücksspiel und Musik
 - [[Six Shields]]: Billige Absteige für ärmere Reisende
 
