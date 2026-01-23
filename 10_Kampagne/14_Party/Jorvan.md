@@ -44,3 +44,9 @@ Die Yuan Ti versklavten ihn aufgrund seiner Herkunft als Gehilfen führ einen ih
 Seine Haut wurde Lila, seine augen zu goldenen Schlangenaugen und seine Zunge spaltete sich.
 Nach 4 weiteren Jahren ergab sich endlich die Möglichkeit zur Flucht. Jorvan entkam nur knapp und wurde verfolgt.
 In diesem Moment traf er auf [[Tado]] und [[Elina]] die ihm gegen seine Verfolger hielfen. Sie erzählten ihm auch vom Job des Abenteurers, was für ihn der perfekte Job war um stark genug für seine Rache zu werden und gleichzeitig anderen in seiner Lage helfen zu können
+
+#### [[Jorvan]] verliert Bewusstsein
+*Vorlesen wenn er das erste Mal ohnmächtig wird.*
+
+>[!narrator]- Jorvan wird ohnmächtig
+>
