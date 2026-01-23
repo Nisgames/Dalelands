@@ -41,7 +41,7 @@ ingame_date: 16. Marpenoth 1496
 *Wo schlaft ihr?*
 	*Wo schläft [[Phu]]?*
 
-> [!narrator] Traum-Sequenz für [[Elina]] (Handout oder Vorlesen)
+> [!narrator] Traum-Sequenz für [[Elina]] (_optional_)
 > Die Anspannung des Abends fällt von dir ab, und du gleitest in einen unruhigen Schlaf.
 >
 > Als du die Augen wieder öffnest, bist du nicht hier. Du bist wieder im [[Cormanthor]]. Aber der Wald ist jünger. Du blickst nach oben. Der Himmel reißt auf. Lautlos.
