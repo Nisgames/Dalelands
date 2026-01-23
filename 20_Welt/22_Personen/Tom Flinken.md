@@ -18,7 +18,8 @@ statblock: inline
 *Volk:* `=this.Volk` 
 *Wohnort:* `=this.Ort` 
 *Aussehen:* 
-	[Klein mit Bart]
+	Klein, blond, etwa 20 Jahre alt
+	Wirkt sehr energe
 *Charakterzug:* 
 	[Hasst Wein]
 *Sprechweise:* 
@@ -27,7 +28,7 @@ statblock: inline
 ## Werte & Loot:
 
 > [!statblock]-
-> ![]
+> ![[Statblock_Tom_Flinken]]
 
 > [!loot]- Loot
 > 
