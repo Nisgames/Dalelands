@@ -14,6 +14,10 @@ Einzige Schmiede in [[Ashabenford]]. Eigentlich spezialisiert auf Zinn- und Kupf
 
 ## POI
 
+#### Waffen an den Wänden
+
+- Schwerter, Dolche, Hellebarden, aber auch Äxte, Sensen und Sägen
+- Hier und da stehen Rüstungen, die sehr teuer  aussehen
 
 ## DM Wissen
 
