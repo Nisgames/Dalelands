@@ -70,4 +70,6 @@ Sprachen:
 #### [[Elina]] verliert Bewusstsein
 *Vorlesen wenn sie das erste Mal ohnmächtig wird.*
 
->[!narrato]
+>[!narrator]-
+>Der Schmerz des Treffers verblasst seltsam schnell. Stattdessen riechst du Rauch. Nicht von einem Lagerfeuer, sondern von brennendem Stein und uraltem Holz.
+>Dennoch frier
