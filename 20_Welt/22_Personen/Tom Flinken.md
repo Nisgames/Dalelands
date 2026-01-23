@@ -3,7 +3,7 @@ tags:
   - NPC
 Status: Lebendig
 Volk: Mensch
-Klasse:
+Klasse: Kämpfer
 Level:
 Ort:
 Fraktionen: "[[Zhentarim]]"
