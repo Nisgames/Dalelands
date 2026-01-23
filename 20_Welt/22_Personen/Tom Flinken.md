@@ -4,11 +4,11 @@ tags:
 Status: Lebendig
 Volk: Mensch
 Klasse: Kämpfer
-Level:
-Ort:
+Level: 3
+Ort: "[[Cormanthor]]"
 Fraktionen: "[[Zhentarim]]"
 Rolle: Neuling
-Relevanz:
+Relevanz: Niedrig
 statblock: inline
 ---
 
@@ -19,11 +19,11 @@ statblock: inline
 *Wohnort:* `=this.Ort` 
 *Aussehen:* 
 	Klein, blond, etwa 20 Jahre alt
-	Wirkt sehr energe
+	Wirkt sehr energetisch
 *Charakterzug:* 
-	[Hasst Wein]
+	Neu bei den [[Zhentarim]] und sehr engagiert
 *Sprechweise:* 
-	[Langsam]
+	Sehr höflich und zuvorkommend
 
 ## Werte & Loot:
 

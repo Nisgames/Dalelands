@@ -210,6 +210,8 @@ _Plötzlich hört ihr einen lauten Knall, als hätte jemand einen Haufen Pfannen
 	- Geräusch kam wohl daraus
 - Keine Tür drin, sondern 
 
+[[Tom Flinken]]
+
 > [!narrator] Reise
 > Die weitere Fahrt führt euch immer tiefer in den Wald hinein. Um euch herum wird es langsam dunkler und zu jeder Seite seht ihr euch dichtem Gestrüpp gegenüber. Zur aktuellen Jahreszeit ist der Wald weniger grün, sondern vielmehr eine farbenfrohe Mischung roter, gelber und sogar blauer Blätter.
 
