@@ -42,7 +42,7 @@ Nach einer anstrengenden Reise seht ihr endlich euer Ziel. Der [[Eulenturm]] rag
 
 ###### Karte im Tisch im 1. Stock
 
-- Zeigt Weg zum [[Weißer Hain]]
+- Zeigt Weg zum [[Weißer Hain]] 
 
 ## Todo
 
