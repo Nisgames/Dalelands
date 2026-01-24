@@ -2,6 +2,7 @@
 tags:
   - Journal
 date:
+session:
 ---
 
 ## LOG
