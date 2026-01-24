@@ -28,10 +28,14 @@ Nach einer anstrengenden Reise seht ihr endlich euer Ziel. Der [[Eulenturm]] rag
 
 *Während die Spieler im 2. Stock sind, kommt [[Tom Flinken]] unten durch die Tür in den Turm*
 
-## Bewertung
-
-Bewertung: https://forms.gle/rBqBUKD5Uhsdpdib6
-
 ## Todo
 
 [Konsequenzen für nächste Sessions]
+
+## Jemand wird ohnmächtig
+
+![[Elina#Elina verliert Bewusstsein]]
+
+![[Jorvan#Jorvan verliert Bewusstsein]]
+
+![[Tado#Tado verliert Bewusstsein]]
