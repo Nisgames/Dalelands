@@ -31,10 +31,14 @@ Nach einer anstrengenden Reise seht ihr endlich euer Ziel. Der [[Eulenturm]] rag
 ![[Tom Flinken#Erscheinung]]
 
 **Gespräch mit Tom**
+- Er gehört den [[Zhentarim]] an, also _den Guten_
+	- Er muss die [[Dalelands]] beschützen
 - Ist auf der Jagd nach dem Dieb
 	- Soll sich um einen Drow von [[Haus Jaelre]] handeln
 - Er kam heute morgen hier an; Dieb war leider schon weg
 	- Er konnte keine Hinweise, Karten, Überreste oder ähnliches finden
+	- Nur den [[Everclean Becher]] auf dem Tisch im 2. Stock
+- 
 
 ## Todo
 
