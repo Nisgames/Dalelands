@@ -23,7 +23,8 @@ statblock: inline
 	Muskulös gebaut, sieht nicht schwach aus
 	Trägt stolz ein gelbes [[Zhentarim]] Cape und eine Anstecknadel an seinem Kettenpanzer
 *Charakterzug:* 
-	Neu bei den [[Zhentarim]] und sehr engagiert
+	Neu bei den [[Zhentarim]] und sehr engagiert. Denkt, er arbeitet für die Guten.
+	Ist sehr mutig und aufgeschlossen
 *Sprechweise:* 
 	Sehr höflich und zuvorkommend
 
