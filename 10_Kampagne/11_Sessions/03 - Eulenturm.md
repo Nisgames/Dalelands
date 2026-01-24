@@ -31,7 +31,10 @@ Nach einer anstrengenden Reise seht ihr endlich euer Ziel. Der [[Eulenturm]] rag
 ![[Tom Flinken#Erscheinung]]
 
 **Gespräch mit Tom**
-
+- Ist auf der Jagd nach dem Dieb
+	- Soll sich um einen Drow von [[Haus Jaelre]] handeln
+- Er kam heute morgen hier an; Dieb war leider schon weg
+	- Er konnte keine Hinweise, Karten, Überreste oder ähnliches finden
 
 ## Todo
 
