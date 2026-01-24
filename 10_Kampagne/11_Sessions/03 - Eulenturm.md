@@ -40,6 +40,10 @@ Nach einer anstrengenden Reise seht ihr endlich euer Ziel. Der [[Eulenturm]] rag
 	- Nur den [[Everclean Becher]] auf dem Tisch im 1. Stock
 	- Der Kerl ist "_Wie ein Geist_" (_DM Anspielung, dass der "Geist", den der Bauer in [[01 - Zeitraub]] gesehen hat, vielleicht auch ein Drow gewesen sein könnte_)
 
+###### Karte im Tisch im 1. Stock
+
+- Zeigt Weg zum [[Weißer Hain]]
+
 ## Todo
 
 [Konsequenzen für nächste Sessions]
