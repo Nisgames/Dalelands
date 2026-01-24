@@ -32,6 +32,8 @@ Ein alter Wachturm der [[Myth Drannor Elfen]]. Mittlerweile eine Ruine und unbew
 	- Grobe Holzstühle drum herum
 	- Am Kopfende ein besonders verzierter Becher (nicht gerostet)
 		- [[Everclean Becher]] 
+	- **Perception (Wahrnehmung) DC 13:** Zwischen den hunderten alten Kerben und Kratzern der letzten Jahrhunderte wirken einige Linien frischer. Das Holz ist dort heller, die Kanten schärfer.
+	- **Investigation (Nachforschung) DC 15 (oder Jorvan mit Handwerk):** Das sind keine zufälligen Kratzer. Jemand hat hier mit großem Druck auf einem Papier geschrieben oder gezeichnet, das auf dem Tisch lag. Die Spitze hat sich durch das Papier ins Holz gedrückt.
 - Stein-Nischen in den Wänden; haben früher als Regale gedient
 	- *Nachforschungen:* 
 		Eine alte Tachenuhr (stehengeblieben)
