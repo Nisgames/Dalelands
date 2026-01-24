@@ -37,8 +37,8 @@ Nach einer anstrengenden Reise seht ihr endlich euer Ziel. Der [[Eulenturm]] rag
 	- Soll sich um einen Drow von [[Haus Jaelre]] handeln
 - Er kam heute morgen hier an; Dieb war leider schon weg
 	- Er konnte keine Hinweise, Karten, Überreste oder ähnliches finden
+	- Nur den [[Everclean Becher]] auf dem Tisch im 1. Stock
 	- Der Kerl ist "_Wie ein Geist_" (_DM Anspielung, dass der "Geist", den der Bauer in [[01 - Zeitraub]] gesehen hat, vielleicht auch ein Drow gewesen sein könnte_)
-	- Nur den [[Everclean Becher]] auf dem Tisch im 2. Stock
 
 ## Todo
 
