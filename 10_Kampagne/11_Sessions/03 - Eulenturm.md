@@ -26,7 +26,7 @@ Nach einer anstrengenden Reise seht ihr endlich euer Ziel. Der [[Eulenturm]] rag
 
 ![[Eulenturm#POI]]
 
-*Während die Spieler*
+*Während die Spieler im 2. Stock sind, kommt [[Tom Flinken]] unten durch die Tür in den Turm*
 
 ## Bewertung
 
