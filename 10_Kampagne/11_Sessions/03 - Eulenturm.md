@@ -15,13 +15,18 @@ ingame_date: 17. Marpenoth 1496
 
 ## Ablauf
 
-#### Szene 1
+#### [[Eulenturm]]
 
-[Szene 1]
+Nach einer anstrengenden Reise seht ihr endlich euer Ziel. Der [[Eulenturm]] ragt vor euch auf.
 
-#### Szene 2
+![[Eulenturm#Beschreibung]]
 
-[Szene 2]
+*Wenn Abends:* [[Varon]] befindet sich im 1. Stock und macht sich gerade bereit (wickelt sich Binden)
+*Wenn Tagsüber:* [[Varon]] ruht sich im 2. Stock auf einem Strohbett aus. Die Fenster im 2. Sotck sind von innen mit Fellen zugehangen.
+
+![[Eulenturm#POI]]
+
+*Während die Spieler*
 
 ## Bewertung
 

@@ -261,17 +261,6 @@ _Wenn keine Rast, dann ab hier KON RW gegen SG 15, sonst Erschöpfung Grad 1_
 > Bis in den frühen Abend hinnein seid ihr unterwegs. Ihr seht noch den ein oder anderen Fuchs, Waschbären und hört an einer Stelle sogar einen Wolf in der Ferne heulen.
 > Schließlich hört ihr wieder das plätschern des [[Ashaba]] und seht euer Ziel.
 
-#### [[Eulenturm]]
-
-Nach einer anstrengenden Reise seht ihr endlich euer Ziel. Der [[Eulenturm]] ragt vor euch auf.
-
-![[Eulenturm#Beschreibung]]
-
-*Wenn Abends:* [[Varon]] befindet sich im 1. Stock und macht sich gerade bereit (wickelt sich Binden)
-*Wenn Tagsüber:* [[Varon]] ruht sich im 2. Stock auf einem Strohbett aus. Die Fenster im 2. Sotck sind von innen mit Fellen zugehangen.
-
-![[Eulenturm#POI]]
-
 ## Todo
 
 - [ ] Wo ist [[Varon]]?
