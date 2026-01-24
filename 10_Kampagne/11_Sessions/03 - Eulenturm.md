@@ -28,6 +28,11 @@ Nach einer anstrengenden Reise seht ihr endlich euer Ziel. Der [[Eulenturm]] rag
 
 *Während die Spieler im 2. Stock sind, kommt [[Tom Flinken]] unten durch die Tür in den Turm*
 
+![[Tom Flinken#Erscheinung]]
+
+**Gespräch mit Tom**
+
+
 ## Todo
 
 [Konsequenzen für nächste Sessions]
