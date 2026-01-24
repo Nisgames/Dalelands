@@ -13,7 +13,7 @@ Er benötigt die gestohlenen [[Schattensplitter]], um die Maschine zu betreiben 
 
 ## Ablauf
 
-[[Varon]] hat [[Befehlsschreiben Varon]] bekommen mit Andeutung, dass [[Schattensplitter]] nach [[Essembra]] gebracht werden. Dort soll ein Erzmagier ([[Valzoun]]) sie entgegennehmen.
+[[Varon]] hat [[Befehlsschreiben Varon]] von [[Zesstra Oloré]] bekommen mit Andeutung, dass [[Schattensplitter]] nach [[Essembra]] gebracht werden. Dort soll ein Erzmagier ([[Valzoun]]) sie entgegennehmen.
 
 In [[Essembra]] herrscht bedrückte Stimmung. Hinweise von Bewohnern aus der Gegend, dass in den Ruinen etwas vor sich geht. Sehr häufig wurden Drow des [[Haus Jaelre]] gesichtet.
 
