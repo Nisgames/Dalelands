@@ -272,15 +272,7 @@ Nach einer anstrengenden Reise seht ihr endlich euer Ziel. Der [[Eulenturm]] rag
 
 ![[Eulenturm#POI]]
 
-```encounter
-creatures:
-  - Varon
-  - 
-```
-## Bewertung
-
-Bewertung: https://forms.gle/rBqBUKD5Uhsdpdib6 
-
 ## Todo
 
-[Konsequenzen für nächste Sessions]
+- [ ] Wo ist [[Varon]]?
+- [ ] Was war noch in der Kiste? (_Spieler vermuten es sind nicht nur [[Schattensplitter]]_)
