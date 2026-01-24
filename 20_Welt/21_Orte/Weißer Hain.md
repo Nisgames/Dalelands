@@ -6,7 +6,8 @@ Region: "[[Cormanthor]]"
 
 ## Beschreibung
 
-
+Der weiße Hain war einst ein offener Pavillon der Elfen 
+Ein Ort der Kunst und Musik, bestehend aus weißen Marmorsäulen unter freiem Himmel
 
 - [Sehen / Licht] 
 - [Hören] 
