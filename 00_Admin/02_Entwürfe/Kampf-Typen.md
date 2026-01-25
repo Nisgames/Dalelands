@@ -49,4 +49,9 @@ Spieler werden an ihre eigene Stärke erinnert
 Kann sehr gut in Roleplay enden:
 - Gegner schmeißen Waffen weg und flehen um Gnade
 - Gegner sind bis zum Ende selbstbewusst, dass sie das gewinnen können, obwohl sie ganz eindeutig nicht den Hauch eine Chance haben
-Einen Kampf zusammenstellen in dem 
+Einen Kampf zusammenstellen in dem die Gegner auf ganzer Linie verlieren
+
+#### Boss-Battle
+
+Kampagnen-endene Kämpfe
+Aufgebaut über Sessions und Monate hinweg
