@@ -60,6 +60,6 @@ Hier sollten Spieler hohe Chancen haben, zu sterben
 - Der dramatischste und tödlichste Kampf bis zu diesem Punkt der Kampagne
 Boss sollten auf jeden Fall legendäre Aktionen haben und die Regeln des Spiels ausreizen
 Humble die Spieler
-
+- Kreatur sollte zum Beispiel Mystisch sein: Wenn Gegner 0 TP hat, wird er wieder full geheilt und bekommt noch neue Fähigkeiten dazu
 
 #### 
