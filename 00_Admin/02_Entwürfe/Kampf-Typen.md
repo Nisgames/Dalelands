@@ -62,4 +62,8 @@ Boss sollten auf jeden Fall legendäre Aktionen haben und die Regeln des Spiels 
 Humble die Spieler
 - Kreatur sollte zum Beispiel Mystisch sein: Wenn Gegner 0 TP hat, wird er wieder full geheilt und bekommt noch neue Fähigkeiten dazu
 
-#### 
+#### Puzzles
+
+Der Kampf ist nebensächlich
+Sie müssen zum Beispiel aus einem Raum entkommen, der immer kleiner wird, während sie einen Gegner bekämpfen
+
