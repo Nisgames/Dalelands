@@ -23,4 +23,5 @@ Die Spieler lauern einem Gegner auf und überraschen diesen
 - Spieler müssen sie heute ausschalten, sonst greifen sie morgen das Dorf an
 - Die Gegner wissen nicht, dass die Spieler bei ihnen sind
 Spieler können und müssen sich genau auf den Kampf vorbereiten und vielleicht Fallen stellen
-Sie fühl
+Sie fühlen sich stark und schlau - Können auch stärkere Gegner ausschalten
+
