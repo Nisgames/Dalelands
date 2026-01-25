@@ -11,3 +11,4 @@ Spieler gehen durch eine Tür und entdecken 5 Goblins
 #### Hinterhalt
 
 Goblins lauern den Spielern auf und greifen aus dem Nichts an
+- Am besten nicht alle Gegner auf einmal z
