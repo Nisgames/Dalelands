@@ -35,4 +35,7 @@ Lässt Spieler sich sehr stark fühlen - Besiegen wie Avengers einen riesen Hauf
 
 #### Elite-Team
 
-
+Ein perfekt zusammengestelltes Team
+Balanced in Fähigkeiten, Offensive vs Defensive und abgestimmten Aktionen
+Abgestimmte Rollen
+- Solche Encounter sollten über Sessions hinw
