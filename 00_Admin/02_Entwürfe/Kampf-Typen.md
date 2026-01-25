@@ -55,3 +55,7 @@ Einen Kampf zusammenstellen in dem die Gegner auf ganzer Linie verlieren
 
 Kampagnen-endene Kämpfe
 Aufgebaut über Sessions und Monate hinweg
+Der Klimax der Kampagne
+Hier sollten Spieler hohe Chancen haben, zu sterben
+- Der dramatischste und tödlichste Kampf bis zu diesem Punkt der Kampagne
+- 
