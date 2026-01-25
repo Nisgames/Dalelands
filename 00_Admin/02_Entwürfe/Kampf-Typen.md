@@ -38,4 +38,7 @@ Lässt Spieler sich sehr stark fühlen - Besiegen wie Avengers einen riesen Hauf
 Ein perfekt zusammengestelltes Team
 Balanced in Fähigkeiten, Offensive vs Defensive und abgestimmten Aktionen
 Abgestimmte Rollen
-- Solche Encounter sollten über Sessions hinw
+- Solche Encounter sollten über Sessions hinweg aufgebaut werden
+- Vielleicht zusammengestellt aus mehreren ehemaligen "Boss-fights"
+- Bereits als stark angepriesene NPCs zusammen im Team
+- 
