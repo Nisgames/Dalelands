@@ -48,4 +48,5 @@ Kampf gegen eindeutig unterlegene Gegner
 Spieler werden an ihre eigene Stärke erinnert
 Kann sehr gut in Roleplay enden:
 - Gegner schmeißen Waffen weg und flehen um Gnade
-- Gegner sind bis zum Ende selbstbewusst, d
+- Gegner sind bis zum Ende selbstbewusst, dass sie das gewinnen können, obwohl sie ganz eindeutig nicht den Hauch eine Chance haben
+Einen Kampf zusammenstellen in dem 
