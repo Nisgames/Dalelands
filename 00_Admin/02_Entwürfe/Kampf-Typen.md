@@ -18,4 +18,5 @@ Hinterhälte erzählen eine Geschichte - Warum passiert das plötzlich und was s
 
 #### Gezielter Angriff
 
-Die Spieler lauern einem 
+Die Spieler lauern einem Gegner auf und überraschen diesen
+- Orks oder Oger sitzen an einem Lagerfeuer und essen gemütl
