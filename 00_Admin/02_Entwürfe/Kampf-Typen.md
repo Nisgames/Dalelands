@@ -46,3 +46,6 @@ Abgestimmte Rollen
 
 Kampf gegen eindeutig unterlegene Gegner
 Spieler werden an ihre eigene Stärke erinnert
+Kann sehr gut in Roleplay enden:
+- Gegner schmeißen Waffen weg und flehen um Gnade
+- Gegner sind bis zum Ende selbstbewusst, d
