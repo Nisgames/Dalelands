@@ -25,3 +25,8 @@ Die Spieler lauern einem Gegner auf und überraschen diesen
 Spieler können und müssen sich genau auf den Kampf vorbereiten und vielleicht Fallen stellen
 Sie fühlen sich stark und schlau - Können auch stärkere Gegner ausschalten
 
+#### Gruppenangriff
+
+Sehr hohe Anzahl an schwacher Monster - vielleicht 60 Goblins
+- Spieler müssen schonend mit Ressourcen umgehen
+- Funktioniert 
