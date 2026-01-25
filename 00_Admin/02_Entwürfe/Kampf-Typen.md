@@ -41,4 +41,8 @@ Abgestimmte Rollen
 - Solche Encounter sollten über Sessions hinweg aufgebaut werden
 - Vielleicht zusammengestellt aus mehreren ehemaligen "Boss-fights"
 - Bereits als stark angepriesene NPCs zusammen im Team
-- 
+
+#### Überlegenheitskampf
+
+Kampf gegen eindeutig unterlegene Gegner
+Spieler werden an ihre eigene Stärke erinnert
