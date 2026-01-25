@@ -31,4 +31,8 @@ Sehr hohe Anzahl an schwacher Monster - vielleicht 60 Goblins
 - Spieler müssen schonend mit Ressourcen umgehen
 - Funktioniert gut als Vorspiel für einen stärkeren Kampf
 	- Sollte ich als Spieler hier schon an meine Grenzen gehen?
-- 
+Lässt Spieler sich sehr stark fühlen - Besiegen wie Avengers einen riesen Haufen an Monstern
+
+#### Elite-Team
+
+
