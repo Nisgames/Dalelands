@@ -66,4 +66,6 @@ Humble die Spieler
 
 Der Kampf ist nebensächlich
 Sie müssen zum Beispiel aus einem Raum entkommen, der immer kleiner wird, während sie einen Gegner bekämpfen
-
+Oder sie bekämpfen ein Monster, dass sie ohne eine Bestimmte Strategie / Schwachpunkt gar nicht besiegen können
+- Monster mit 1000 TP, dass aber 10-fachen Schaden durch Feuer bekommt
+- 
