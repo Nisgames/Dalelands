@@ -58,4 +58,8 @@ Aufgebaut über Sessions und Monate hinweg
 Der Klimax der Kampagne
 Hier sollten Spieler hohe Chancen haben, zu sterben
 - Der dramatischste und tödlichste Kampf bis zu diesem Punkt der Kampagne
-- 
+Boss sollten auf jeden Fall legendäre Aktionen haben und die Regeln des Spiels ausreizen
+Humble die Spieler
+
+
+#### 
