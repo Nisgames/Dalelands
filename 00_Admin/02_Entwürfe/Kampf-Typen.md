@@ -29,4 +29,6 @@ Sie fühlen sich stark und schlau - Können auch stärkere Gegner ausschalten
 
 Sehr hohe Anzahl an schwacher Monster - vielleicht 60 Goblins
 - Spieler müssen schonend mit Ressourcen umgehen
-- Funktioniert 
+- Funktioniert gut als Vorspiel für einen stärkeren Kampf
+	- Sollte ich als Spieler hier schon an meine Grenzen gehen?
+- 
