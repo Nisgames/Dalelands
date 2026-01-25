@@ -70,4 +70,8 @@ Oder sie bekämpfen ein Monster, dass sie ohne eine Bestimmte Strategie / Schwac
 - Monster mit 1000 TP, dass aber 10-fachen Schaden durch Feuer bekommt
 - Eine Kreatur, die als Reaktion 1 mal pro Runde den erhaltenen Schaden auf den Angreifer zurückwirft
 	- Spieler müssen einen Angriff besonders schwach machen
-- 
+
+## Mix
+
+All diese Typen können auch gemischt werden.
+Aufgebaut hintereinander können sie eine ganze Kampagne bilden.
