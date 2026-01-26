@@ -67,4 +67,5 @@ Magnet-Turm
 
 Köder
 - Vielleicht einer Mimik-Kolonie
-- Legen ihn offen auf den Weg und greifen dann
+- Legen ihn offen auf den Weg und greifen dann an
+- Wegweiser, Bäume und Steine sind Mimiks
