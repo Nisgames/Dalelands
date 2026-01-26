@@ -63,3 +63,8 @@ Falsches Drachenei
 Magnet-Turm
 - Splitter steckt oben in einem hohen Turm
 - Zieht alles metallische extrem stark an
+- Leute in Rüstungen kleben an der Wand
+
+Köder
+- Vielleicht einer Mimik-Kolonie
+- Legen ihn offen auf den Weg und greifen dann
