@@ -18,4 +18,10 @@ Gefrorener See
 - Wasser ist auch im Sommer gefroren
 	- Anwohner bekommen keine Fische mehr - Dorf verhungert fast
 - Wasserelementar von der Energie angezogen und bewohnt den See jetzt
-- Kampf auf rut
+- Kampf auf rutschigem, brechenden Eis?
+
+Überfall
+- Karawane transportiert Splitter
+- [[Zhentarim]]? [[Haus Jaelre]]? Vielleicht [[Sembia]]?
+- Spieler müssen den Transport überfallen und bestehlen
+
