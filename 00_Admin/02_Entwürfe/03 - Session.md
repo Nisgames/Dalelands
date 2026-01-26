@@ -10,11 +10,11 @@ ingame_date:
 **Loot der Oger:**
 - [ ] 24 Goldmünzen
 - [ ] Ein seltsamer Knochenschlüssel
-- [ ] ![[Kugel der Zeit#]]  <-- (Du embeddest das Item direkt hier!)
+- [ ] ![[Kugel der Zeit#Aussehen]]  <-- (Du embeddest das Item direkt hier!)
 
 ---
 
-## 2. Reise zum Eulenturm
+## 2. Reise zum [[Eulenturm]]
 > [!narrator] Vorlesetext
 > Ihr schiebt das Boot wieder ins Wasser... (Hier darfst du deinen Text schreiben!)
 
