@@ -26,4 +26,9 @@ Gefrorener See
 - Spieler müssen den Transport überfallen und bestehlen
 
 Monster-hunt
-- Ein Monster (z.B. Ankheg) hat einen Splitter geferes
+- Ein Monster (z.B. Ankheg) hat einen Splitter gefressen
+- Spielt nun verrückt
+	- Speiht vielleicht Feuer oder hinterlässt eine Spur der Verwüstung
+- Spieler müssen es verfolgen und erlegen
+
+Als Heiliges Relikt in einem Kloster
