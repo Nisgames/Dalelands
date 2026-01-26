@@ -7,3 +7,7 @@ Dorf
 - Spieler müssen ihnen die Waffen abnehmen
 	- Ohne sie zu töten?
 
+Pilzgrotte
+- Kleines Tal, in das ein Splitter gefallen ist
+- Die Pilze im Tal haben ein Schwarm-bewusstsein entwickelt und sind in Symbiose getreten
+- 
