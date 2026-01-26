@@ -4,41 +4,44 @@ tags:
 date: 
 ingame_date: 
 ---
-## 1. Start & Loot (Der Oger-Kampf)
-*(Loot gehört direkt dahin, wo die Spieler gerade stehen! Nicht ans Ende der Datei)*
-
-**Loot der Oger:**
-- [ ] 24 Goldmünzen
-- [ ] Ein seltsamer Knochenschlüssel
-- [ ] ![[Kugel der Zeit#Aussehen]]  <-- (Du embeddest das Item direkt hier!)
+## 1. Looting (Am Turm)
+*(Alles was sie hier finden. Direkt hier hin. Nicht in eine Loot-Liste am Ende!)*
+- [x] 200 Goldmünzen
+- [x] ![[Everclean Becher#Aussehen]]
+- [x] Hinweis auf den Weißen Hain (Karte).
 
 ---
+## 2. Reise zum Weißen Hain (Der Lückenfüller)
+*(Du sagtest, Reise improvisieren fällt schwer. Also bereite hier 3 feste Punkte vor. Nicht ausformulieren, nur Stichworte für dein Gehirn.)*
 
-## 2. Reise zum [[Eulenturm]]
-> [!narrator] Vorlesetext
-> Ihr schiebt das Boot wieder ins Wasser... (Hier darfst du deinen Text schreiben!)
-
----
-
-## 3. Ankunft Eulenturm
-*(Statt die Datei zu wechseln, lassen wir Obsidian die Arbeit machen)*
-
-![[Eulenturm#Beschreibung]]
-
-![[Eulenturm#POI]]
-
-**DM Notiz:** Wenn sie suchen -> ![[Eulenturm#Secrets]] (Falls du dort welche hinterlegt hast)
+* **Wetter:** Nieselregen, Sicht unter 20m.
+* **Hindernis:** Ein umgestürzter Baum im Fluss erzwingt einen Landgang.
+* **Stimmung:** Man fühlt sich beobachtet (Rascheln im Gebüsch).
 
 ---
+## 3. Ankunft Weißer Hain
+*(Jetzt kommt der Ort. Wir embedden nur das Bild/Beschreibung, damit du Atmosphäre hast)*
 
-## 4. Begegnung: Tom Flinken
-*(Tom kommt rein. Du willst nicht klicken? Dann embedde ihn!)*
+![[Weißer Hain#Beschreibung]]
 
-![[Tom Flinken#Erscheinung]]
-![[Tom Flinken#Roleplay-Tips]] <--(Erstell dir diesen Abschnitt im NPC!)
+---
+## 4. Begegnung: Die Spinnen
+*(Kein Blättern im Monsterhandbuch!)*
 
-**Was Tom weiß (Die Secrets):**
-*(Kopier dir hier einfach 3-4 Secrets aus deiner Master-Liste rein oder embedde sie)*
-- Er ist Zhentarim (aber ein Guter).
-- Er jagt einen Drow von Haus Jaelre.
-- Der Dieb ist "wie ein Geist" entkommen.
+**Gegner:** 2x ![[Riesenspinne#Statblock]]
+*(Wenn du den Statblock als Bild oder Text hast, embedde ihn hier. Wenn du ein Plugin nutzt, verlinke es hier.)*
+
+**Taktik:**
+- Sie greifen von oben aus den Bäumen an.
+- Wollen die Spieler einspinnen und hochziehen.
+
+---
+## 5. NPC: Der verwundete Waldläufer
+*(Stell dir vor, sie treffen hier jemanden. Du hast keine Lust, den Dialog zu schreiben? Kopier die Fakten.)*
+
+**Name:** Garret
+**Aussehen:** Blutige Bandage am Bein, bleich, zittert.
+**Erster Satz:** "Nicht... nicht weitergehen. Der Boden bewegt sich!"
+**Was er weiß:**
+- ![[Weißer Hain#Geheimnis]] *(Falls du das im Ort notiert hast)*
+- Unter der Erde ist eine Ruine.
