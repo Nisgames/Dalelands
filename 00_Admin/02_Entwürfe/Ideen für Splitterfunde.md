@@ -53,3 +53,5 @@ Schwarzmarkt
 - Vielleicht auch von den [[Zhentarim]] 
 - Spieler müssen erstehen oder stehlen
 
+Kornfeld
+- 
