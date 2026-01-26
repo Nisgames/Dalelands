@@ -42,4 +42,7 @@ Preis bei einem Wettbewerb
 Geisterschiff ?
 - Hat beim Einschlag einen Kahn versenkt
 - Steigt jetzt immer bei Nebel aus dem Wasser und "spukt"
+
+Schmuckstück
+- Ein Adeliger trägt ihn als Souvenier oder als Kette
 - 
