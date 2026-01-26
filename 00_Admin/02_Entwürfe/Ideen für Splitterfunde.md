@@ -46,4 +46,10 @@ Geisterschiff ?
 Schmuckstück
 - Ein Adeliger trägt ihn als Souvenier oder als Kette
 - Ist dadurch vielleicht unglaublich Charismatisch
-- Müssen ihn bestehlen od
+- Müssen ihn bestehlen oder töten
+
+Schwarzmarkt
+- Wird im Untergrund verkauft
+- Vielleicht auch von den [[Zhentarim]] 
+- Spieler müssen erstehen oder stehlen
+
