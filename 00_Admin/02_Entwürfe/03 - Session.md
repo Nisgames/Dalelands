@@ -4,45 +4,40 @@ tags:
 date: 
 ingame_date: 
 ---
+## 1. Start & Loot (Der Oger-Kampf)
+*(Loot gehört direkt dahin, wo die Spieler gerade stehen! Nicht ans Ende der Datei)*
 
-## 1. Strong Start (Dein Sicherheitsnetz)
-> [!narrator] Intro (Vorlesen)
-> Hier schreibst du den Einstiegssatz oder den Cliffhanger der letzten Runde komplett aus. Das liest du stur vor, um in Stimmung zu kommen.
-> *Beispiel: "Der kalte Wind pfeift durch die zerbrochenen Fenster des Eulenturms, während Tom Flinken schwer atmend die Tür aufstößt..."*
+**Loot der Oger:**
+- [ ] 24 Goldmünzen
+- [ ] Ein seltsamer Knochenschlüssel
+- [ ] ![[Kugel der Zeit#]]  <-- (Du embeddest das Item direkt hier!)
 
-## 2. Secrets & Clues (Der Wissens-Pool)
-*Schreibe hier 6-10 Geheimnisse oder Hinweise auf, die die Spieler heute finden KÖNNTEN. Ordne sie noch niemandem zu!*
-- [ ] Der Dieb war ein Drow von Haus Jaelre.
-- [ ] Gideon Thorne sucht eigentlich nach magischen Erzen (Schattensplitter).
-- [ ] Es gibt einen Geheimgang hinter dem Bücherregal (DC 15).
-- [ ] Tom Flinken gehört zu den Guten (Harpers/Zhentarim je nach Lore).
-- [ ] ...
+---
 
-## 3. Szenen (Mögliche Ereignisse)
-*Was könnte heute passieren? Denk nicht in Reihenfolge, sondern in "Momenten".*
-- **Kampf:** Überfall durch Spinnen im Keller.
-- **Roleplay:** Diskussion mit Tom Flinken über Loyalität.
-- **Erkundung:** Den 2. Stock des Turms durchsuchen.
-- **Cliffhanger:** Sie finden den Brief von Gideon.
+## 2. Reise zum Eulenturm
+> [!narrator] Vorlesetext
+> Ihr schiebt das Boot wieder ins Wasser... (Hier darfst du deinen Text schreiben!)
 
-## 4. Die Bühne (Orte & NPCs)
-*Hier verlinkst du deine genialen Datenbank-Einträge. Du musst nichts neu schreiben.*
+---
 
-**Wichtige NPCs heute:**
-- [[Tom Flinken]] (Verbindungsagent)
-- [[Gideon Thorne]] (Auftraggeber/Verräter)
+## 3. Ankunft Eulenturm
+*(Statt die Datei zu wechseln, lassen wir Obsidian die Arbeit machen)*
 
-**Fantastische Orte:**
-- [[Eulenturm]]
-- [[Ashabenford]]
+![[Eulenturm#Beschreibung]]
+![[Eulenturm#POI]]
 
-## 5. Monster & Loot
-*Welche Statblocks brauchst du griffbereit?*
-- [[Drow-Elitekrieger]]
-- [[Riesenspinne]]
+**DM Notiz:** Wenn sie suchen -> ![[Eulenturm#Secrets]] (Falls du dort welche hinterlegt hast)
 
-*Loot:*
-- [[Everclean Becher]]
-- 200 GM
+---
 
-![[Everclean Becher]]-
+## 4. Begegnung: Tom Flinken
+*(Tom kommt rein. Du willst nicht klicken? Dann embedde ihn!)*
+
+![[Tom Flinken#Erscheinung]]
+![[Tom Flinken#Roleplay-Tips]] <--(Erstell dir diesen Abschnitt im NPC!)
+
+**Was Tom weiß (Die Secrets):**
+*(Kopier dir hier einfach 3-4 Secrets aus deiner Master-Liste rein oder embedde sie)*
+- Er ist Zhentarim (aber ein Guter).
+- Er jagt einen Drow von Haus Jaelre.
+- Der Dieb ist "wie ein Geist" entkommen.
