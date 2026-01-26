@@ -14,4 +14,8 @@ Pilzgrotte
 - Spieler müssen das Herz der Pilzgrotte erreichen
 
 Gefrorener See
-- Ein Splitter liegt am
+- Ein Splitter liegt am Grunde eines Sees
+- Wasser ist auch im Sommer gefroren
+	- Anwohner bekommen keine Fische mehr - Dorf verhungert fast
+- Wasserelementar von der Energie angezogen und bewohnt den See jetzt
+- Kampf auf rut
