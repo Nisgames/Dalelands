@@ -21,7 +21,7 @@ ingame_date:
 ## 3. Szenen-Ablauf
 
 ### Szene A: [[Ort Name]]
-*(Nutze Stichpunkte für Reise/Wetter/Stimmung - das kannst du ja improvisieren)*
+
 * **Atmosphäre:** Neblig, Kalt, Geruch nach Moder.
 * **Ereignis:** Sie finden das verlassene Boot.
 
