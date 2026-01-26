@@ -37,4 +37,9 @@ Heiliges Relikt in einem Kloster
 
 Preis bei einem Wettbewerb
 - Vielleicht Preis bei einem Erntedankfest oder Zirkus-Event
-- Spieler müssen
+- Spieler müssen gewinnen oder klauen
+
+Geisterschiff ?
+- Hat beim Einschlag einen Kahn versenkt
+- Steigt jetzt immer bei Nebel aus dem Wasser und "spukt"
+- 
