@@ -54,4 +54,5 @@ Schwarzmarkt
 - Spieler müssen erstehen oder stehlen
 
 Kornfeld
-- 
+- Ein Kornfeld ist riesig hoch gewachsen
+- Vogelscheuchen und Pflanzen greifen beim Betreten an
