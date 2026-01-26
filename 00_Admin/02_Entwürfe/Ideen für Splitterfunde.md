@@ -25,3 +25,5 @@ Gefrorener See
 - [[Zhentarim]]? [[Haus Jaelre]]? Vielleicht [[Sembia]]?
 - Spieler müssen den Transport überfallen und bestehlen
 
+Monster-hunt
+- Ein Monster (z.B. Ankheg) hat einen Splitter geferes
