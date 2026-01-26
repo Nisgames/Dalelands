@@ -10,8 +10,6 @@ ingame_date:
 - [x] ![[Everclean Becher#Aussehen]]
 - [x] Hinweis auf den Weißen Hain (Karte).
 
-## #Ashabenford 
-
 ---
 ## 2. Reise zum Weißen Hain (Der Lückenfüller)
 *(Du sagtest, Reise improvisieren fällt schwer. Also bereite hier 3 feste Punkte vor. Nicht ausformulieren, nur Stichworte für dein Gehirn.)*
