@@ -34,4 +34,7 @@ Monster-hunt
 Heiliges Relikt in einem Kloster
 - Wird als Heiliges Item genutzt um Leute vermeindlich zu heilen
 - Spieler stehen vielleicht vor dem Konflikt, ob sie den heilenden Stein überhaupt wegnehmen wollen
-- 
+
+Preis bei einem Wettbewerb
+- Vielleicht Preis bei einem Erntedankfest oder Zirkus-Event
+- Spieler müssen
