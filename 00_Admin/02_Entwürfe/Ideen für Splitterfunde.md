@@ -58,4 +58,8 @@ Kornfeld
 - Vogelscheuchen und Pflanzen greifen beim Betreten an
 
 Falsches Drachenei
-- Kobolde oder Echsenmenschen halten h
+- Kobolde oder Echsenmenschen halten ihn für ein Drachenei
+
+Magnet-Turm
+- Splitter steckt oben in einem hohen Turm
+- Zieht alles metallische extrem stark an
