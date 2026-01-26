@@ -56,3 +56,6 @@ Schwarzmarkt
 Kornfeld
 - Ein Kornfeld ist riesig hoch gewachsen
 - Vogelscheuchen und Pflanzen greifen beim Betreten an
+
+Falsches Drachenei
+- Kobolde oder Echsenmenschen halten h
