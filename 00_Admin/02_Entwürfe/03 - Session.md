@@ -16,4 +16,5 @@
 - Flussfahrt
 - [[Eulenturm]]
 - [[Tom Flinken]] kommt rein
-- 
+- Weg zum nächsten [[Schattensplitter]]
+- Weg zurück nach [[Ashabenford]]
