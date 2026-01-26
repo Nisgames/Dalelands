@@ -45,4 +45,4 @@ Geisterschiff ?
 
 Schmuckstück
 - Ein Adeliger trägt ihn als Souvenier oder als Kette
-- 
+- Ist dadu
