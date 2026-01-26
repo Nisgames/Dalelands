@@ -44,3 +44,5 @@ ingame_date:
 *Loot:*
 - [[Everclean Becher]]
 - 200 GM
+
+![[Everclean Becher]]-
