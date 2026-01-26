@@ -31,4 +31,7 @@ Monster-hunt
 	- Speiht vielleicht Feuer oder hinterlässt eine Spur der Verwüstung
 - Spieler müssen es verfolgen und erlegen
 
-Als Heiliges Relikt in einem Kloster
+Heiliges Relikt in einem Kloster
+- Wird als Heiliges Item genutzt um Leute vermeindlich zu heilen
+- Spieler stehen vielleicht vor dem Konflikt, ob sie den heilenden Stein überhaupt wegnehmen wollen
+- 
