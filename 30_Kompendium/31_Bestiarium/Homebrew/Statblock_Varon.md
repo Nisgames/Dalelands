@@ -18,7 +18,7 @@ hit_dice: 11d8 + 22
 speed: 9 m
 stats: [13, 18, 14, 11, 13, 12]
 saves:
-  - dexterity: 7
+  - Geschicklichkeit: 7
   - constitution: 5
   - wisdom: 4
 skills:
