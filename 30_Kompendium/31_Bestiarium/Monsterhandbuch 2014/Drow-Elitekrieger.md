@@ -8,38 +8,40 @@ statblock: inline
 
 ```statblock
 name: Drow-Elitekrieger
-source: Monsterhandbuch 2014
 size: Mittelgroß
-type: Humanuider
-subtype: Elf
-alignment: Neutral Böse
+type: Humanoider (Elf)
+alignment: neutral böse
 ac: 18
+armor_desc: beschlagene Lederrüstung, Schild
 hp: 71
-hit_dice: 11d8+22
+hit_dice: 11w8 + 22
 speed: 9 m
+stats: [13, 18, 14, 11, 13, 12]
 saves:
-- Stärke: 1
-- Geschicklichkeit: 7
-- Konstitution: 5
-- Intelligenz: 0
-- Weisheit: 4
-- Charisma: 1
-skillsaves:
-- Heimlichkeit: 10
-- Wahrnehmung: 4
+  - dexterity: 7
+  - constitution: 5
+  - wisdom: 4
+skills:
+  - Heimlichkeit: 10
+  - Wahrnehmung: 4
 senses: Dunkelsicht 36 m, passive Wahrnehmung 14
-languages: [[Elfisch]], [[Untergemeinsprache]]
+languages: Elfisch, Gemeinsprache der Unterreiche
 cr: 5
-spells:
-- <description>
-- <spell level>: <spell-list>
 traits:
-- [Feenblut, "Der Drow hat einen Vorteil bei Rettungswürfen, wenn er bezaubert werden soll, und Magie kann ihn nicht einschläfern."]
-- ["Empfindlich gegenüber Sonnenlicht", "Solange sich der Drow im Sonnenlicht befindet, erledet er einen Nachteil auf Angriffswürfe, sowie auf Würfe mit Weißheit (Wahrnehmung), die auf Sicht beruhen."]
+  - name: Feenblut
+    desc: "Der Drow hat einen Vorteil bei Rettungswürfen, wenn er bezaubert werden soll, und Magie kann ihn nicht einschläfern."
+  - name: Angeborenes Zauberwirken
+    desc: "Das Attribut zum Wirken angeborener Zauber für den Drow ist Charisma (Zauberrettungswurf-SG 12). Der Drow kann angeboren die folgenden Zauber wirken, wobei keine Materialkomponenten nötig sind:\n\n* **Willentlich:** Tanzende Lichter\n* **Jeweils 1/Tag:** Dunkelheit, Feenfeuer, Schweben (nur selbst)"
+  - name: Empfindlich gegenüber Sonnenlicht
+    desc: "Solange sich der Drow im Sonnenlicht befindet, erleidet er einen Nachteil auf Angriffswürfe, sowie auf Würfe mit Weisheit (Wahrnehmung), die auf Sicht beruhen."
 actions:
-- [Mehrfachangriff, "Der Drow führt zwei Kurzschwert-Angriffe aus."]
-- [Kurzschwert, "Nahkampf-Waffenangriff: +7 zum Treffen, Reichweite 1,5 m, ein Ziel. Treffer 7 (1d6 + 4) Stichschaden plus 10 (3d6) Giftschaden"]
-- [Handarmbrust, "Fernkampf-Waffenangriff"]
+  - name: Mehrfachangriff
+    desc: "Der Drow führt zwei Kurzschwert-Angriffe aus."
+  - name: Kurzschwert
+    desc: "Nahkampf-Waffenangriff: +7 zum Treffen, Reichweite 1,5 m, ein Ziel. Treffer: 7 (1W6 + 4) Stichschaden plus 10 (3W6) Giftschaden."
+  - name: Handarmbrust
+    desc: "Fernkampf-Waffenangriff: +7 zum Treffen, Reichweite 9/36 m, ein Ziel. Treffer: 7 (1W6 + 4) Stichschaden, und das Ziel muss einen Konstitutionsrettungswurf gegen SG 13 ablegen, um nicht für 1 Stunde vergiftet zu werden. Wenn der Rettungswurf um 5 oder mehr Punkte misslingt, wird das Ziel auch bewusstlos, solange es auf diese Weise vergiftet ist. Das Ziel erwacht, wenn es Schaden erleidet oder eine andere Kreatur eine Aktion ausführt, um es wachzurütteln."
 reactions:
-- [Parade, "Der Drow addiert 3 auf seine RK gegen einen Nahkampfangriff, der ihn treffen würde. Dazu muss der Drow den Angreifer sehen und eine Nahkampfwaffe führen."]
+  - name: Parade
+    desc: "Der Drow addiert 3 auf seine RK gegen einen Nahkampfangriff, der ihn treffen würde. Dazu muss der Drow den Angreifer sehen und eine Nahkampfwaffe führen."
 ```
