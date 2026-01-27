@@ -20,7 +20,10 @@ ingame_date: 17. Marpenoth 1496
 ## Ablauf
 
 Ihr steht oben an der Schlucht.
-Das Boot ist unten festgebunden und
+Das Boot ist unten mit einem Seik festgebunden und die Oger liegen besiegt am Boden.
+
+> [!check]- Wahrnehmung DC 10
+> Nur ein kleines Stück von der Schlucht 
 
 > [!narrator] 
 > Die Sonne steht bereits tief und taucht den Cormanthor-Wald in ein blutrotes Licht, als sich der Fluss wieder verbreitert. Vor euch, halb vom Wald verschluckt, ragt eine Ruine aus hellem Stein auf: Der **[[Eulenturm]]**.
