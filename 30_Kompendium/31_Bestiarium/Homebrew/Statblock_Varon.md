@@ -19,8 +19,8 @@ speed: 9 m
 stats: [13, 18, 14, 11, 13, 12]
 saves:
   - Geschicklichkeit: 7
-  - constitution: 5
-  - wisdom: 4
+  - Konstitution: 5
+  - Weisheit: 4
 skills:
   - Heimlichkeit: 10
   - Wahrnehmung: 4
