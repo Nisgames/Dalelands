@@ -47,3 +47,8 @@ bonus_actions:
   - name: Listige Aktion
     desc: "Varon kann in jedem seiner Züge die Aktion Sputen, Rückzug oder Verstecken als Bonusaktion nehmen."
 ```
+
+```statblock
+creature: Drow-Elitekrieger
+name: Varon
+```
