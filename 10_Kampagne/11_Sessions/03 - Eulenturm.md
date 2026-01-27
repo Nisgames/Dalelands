@@ -71,9 +71,7 @@ creatures:
 
 ![[Weißer Hain#Beschreibung]]
 
-###### Statue
-
-
+![[Weißer Hain#Statue]]
 
 ###### Beim Splitter
 
