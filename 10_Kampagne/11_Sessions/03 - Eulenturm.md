@@ -27,6 +27,7 @@ Das Boot ist unten mit einem Seik festgebunden und die Oger liegen besiegt am Bo
 > - Große Felle liegen auf dem Boden drum herum
 > - Scheinbar zwei Schlafplätze
 > - Das ein oder ander Fell könnte noch verkauft werden (5 SM / Stück) - `dice: 1d10` Felle
+> - `dice: 3d6` Silbermünzen und 
 
 > [!narrator] 
 > Die Sonne steht bereits tief und taucht den Cormanthor-Wald in ein blutrotes Licht, als sich der Fluss wieder verbreitert. Vor euch, halb vom Wald verschluckt, ragt eine Ruine aus hellem Stein auf: Der **[[Eulenturm]]**.
