@@ -76,7 +76,15 @@ creatures:
 > 
 > In der Mitte des Pavillons steht eine Statue: Eine Elfe, die eine Harfe spielt. Doch der Kopf der Statue fehlt. Dort, wo das Herz der Statue wäre, pulsiert ein Licht. Es ist der [[Schattensplitter]]. Er steckt tief im Marmor.
 
+###### Statue
 
+Jeder, der sich der Statue auf 3 Meter nähert, muss einen **Weisheits-Rettungswurf (WIS Save DC 13)** machen.
+
+• **Bei Erfolg:** Der Charakter spürt die Trauer, kann aber handeln. Er kann versuchen, den Splitter mit einem **Stärke-Check (DC 14)** oder Werkzeugen ([[Jorvan]]) aus der Statue zu brechen.
+
+• **Bei Misserfolg (Bezaubert):** Der Charakter ist **bezaubert** (Charmed).
+
+    ◦ _Effekt:_ Er bleibt stehen, starrt den Splitter an und weint leise oder lächelt entrückt. Er will den Splitter _beschützen_.
 
 ## Todo
 
