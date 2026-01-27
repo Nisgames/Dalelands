@@ -69,13 +69,14 @@ creatures:
 
 #### Reise zum [[Weißer Hain]]
 
-[!narrator] Vorlesetext Der dichte Wald lichtet sich abrupt. Vor euch liegt ein kreisrundes Plateau, eingefasst von uralten Eichen, deren Blätter hier nicht herbstlich rot, sondern schneeweiß sind.
-
-In der Mitte steht ein offener Pavillon aus weißem Marmor. Schlanke Säulen ragen in den grauen Himmel, teilweise von Efeu überwuchert, der leise violett schimmert.
-
-In der Mitte des Pavillons steht eine Statue: Eine Elfe, die eine Harfe spielt. Doch der Kopf der Statue fehlt. Dort, wo das Herz der Statue wäre, pulsiert ein Licht. Es ist der **Schattensplitter**. Er steckt tief im Marmor.
-
-Und ihr hört es – eine leise, summende Melodie, die nicht durch die Ohren, sondern direkt in eure Gedanken dringt. Sie klingt nach Verlust, nach Myth Drannor... und nach Hause.
+> [!narrator] Vorlesetext 
+> Der dichte Wald lichtet sich abrupt. Vor euch liegt ein kreisrundes Plateau, eingefasst von uralten Eichen, deren Blätter hier nicht herbstlich rot, sondern schneeweiß sind.
+> 
+> In der Mitte steht ein offener Pavillon aus weißem Marmor. Schlanke Säulen ragen in den grauen Himmel, teilweise von Efeu überwuchert, der leise violett schimmert.
+> 
+> In der Mitte des Pavillons steht eine Statue: Eine Elfe, die eine Harfe spielt. Doch der Kopf der Statue fehlt. Dort, wo das Herz der Statue wäre, pulsiert ein Licht. Es ist der **Schattensplitter**. Er steckt tief im Marmor.
+> 
+> Und ihr hört es – eine leise, summende Melodie, die nicht durch die Ohren, sondern direkt in eure Gedanken dringt. Sie klingt nach Verlust, nach Myth Drannor... und nach Hause.
 
 ## Todo
 
