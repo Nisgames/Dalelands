@@ -12,11 +12,11 @@ Ein Ort der Kunst und Musik, bestehend aus weißen Marmorsäulen unter freiem Hi
 - Kreisrundes Plateau aus Marmor
 - Umringt von uralten Eichen
 	- Nicht herbstlich rot, sondern schneeweiß
-- Offener Pavillon in der mitte von schlanken Säulen
-- [Hören] 
-- [Riechen / Temperatur] 
-- [Stimmung]
-
+- Offener Pavillon in der mitte von schlanken Säulen umringt
+	- Teilweise von Efeu überwuchert, der violett schimmert
+- In der Mitte des Pavillons steht eine Statue: Eine Elfe, die Harfe spielt
+	- Kopf der Statue fehlt
+	- An der Stelle wo das Herz
 ## POI
 
 Der dichte Wald lichtet sich abrupt. Vor euch liegt ein kreisrundes Plateau, umringt von uralten Eichen, deren Blätter hier nicht herbstlich rot, sondern schneeweiß sind.
