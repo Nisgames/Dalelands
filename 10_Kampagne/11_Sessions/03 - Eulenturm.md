@@ -61,6 +61,7 @@ creatures:
 ###### Karte im Tisch im 1. Stock
 
 - Zeigt Weg zum [[Weißer Hain]] 
+- Müssen jetzt aufbrechen, sonst holen sie den Dieb nicht mehr ein
 
 ## Todo
 
