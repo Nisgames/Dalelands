@@ -33,6 +33,8 @@ Es ist still. Keine Vögel, kein Wind. Nur das Plätschern des Wassers gegen die
 	Ein kleines Boot wurde hier vor kurzem an Land gezogen
 	Es ist ein einfaches Kanu, wie es die Einheimischen nutzen.
 
+> [!check]- Wahrnehmung (DC 15)
+> Wenn erfolgreich: Sie bemerken den leichten Luftzug aus der Geheimtür.
 
 ![[Eulenturm#POI]]
 
