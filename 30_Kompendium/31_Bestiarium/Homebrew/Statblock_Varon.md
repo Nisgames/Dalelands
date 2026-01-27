@@ -13,8 +13,8 @@ type: Humanoider (Elf)
 alignment: neutral böse
 ac: 18
 armor_desc: beschlagene Lederrüstung, Schild
-hp: 71
-hit_dice: 11d8 + 22
+hp: 51
+hit_dice: 6d8 + 22
 speed: 9 m
 stats: [13, 18, 14, 11, 13, 12]
 saves:
@@ -26,7 +26,7 @@ skills:
   - Wahrnehmung: 4
 senses: Dunkelsicht 36 m, passive Wahrnehmung 14
 languages: Elfisch, Gemeinsprache der Unterreiche
-cr: 5
+cr: 4
 traits:
   - name: Feenblut
     desc: "Der Drow hat einen Vorteil bei Rettungswürfen, wenn er bezaubert werden soll, und Magie kann ihn nicht einschläfern."
