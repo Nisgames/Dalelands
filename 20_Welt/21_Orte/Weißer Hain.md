@@ -9,15 +9,18 @@ Region: "[[Cormanthor]]"
 Der weiße Hain war einst ein offener Pavillon der Elfen 
 Ein Ort der Kunst und Musik, bestehend aus weißen Marmorsäulen unter freiem Himmel
 
-- [Sehen / Licht] 
+- 
 - [Hören] 
 - [Riechen / Temperatur] 
 - [Stimmung]
 
 ## POI
 
-- [Interaktives Element 1] 
-- [Interaktives Element 2]
+Der dichte Wald lichtet sich abrupt. Vor euch liegt ein kreisrundes Plateau, umringt von uralten Eichen, deren Blätter hier nicht herbstlich rot, sondern schneeweiß sind.
+
+In der Mitte steht ein offener Pavillon aus weißem Marmor. Schlanke Säulen ragen in den grauen Himmel, teilweise von Efeu überwuchert, der leise violett schimmert.
+
+In der Mitte des Pavillons steht eine Statue: Eine Elfe, die eine Harfe spielt. Doch der Kopf der Statue fehlt. Dort, wo das Herz der Statue wäre, pulsiert ein Licht. Es ist der [[Schattensplitter]]. Er steckt tief im Marmor.
 
 ## DM Wissen
 
