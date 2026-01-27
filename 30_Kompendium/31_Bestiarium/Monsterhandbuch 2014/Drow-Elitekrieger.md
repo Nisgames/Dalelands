@@ -31,7 +31,7 @@ traits:
   - name: Feenblut
     desc: "Der Drow hat einen Vorteil bei Rettungswürfen, wenn er bezaubert werden soll, und Magie kann ihn nicht einschläfern."
   - name: Angeborenes Zauberwirken
-    desc: "Das Attribut zum Wirken angeborener Zauber für den Drow ist Charisma (Zauberrettungswurf-SG 12). Der Drow kann angeboren die folgenden Zauber wirken, wobei keine Materialkomponenten nötig sind:\n\n* **Willentlich:** Tanzende Lichter\n* **Jeweils 1/Tag:** Dunkelheit, Feenfeuer, Schweben (nur selbst)"
+    desc: "Das Attribut zum Wirken angeborener Zauber für den Drow ist Charisma (Zauberrettungswurf-SG 12). Der Drow kann angeboren die folgenden Zauber wirken, wobei keine Materialkomponenten nötig sind:\n\n* **Willentlich:** [Tanzende Lichter](Zauber - Tanzende Lichter)\n* **Jeweils 1/Tag:** Dunkelheit, Feenfeuer, Schweben (nur selbst)"
   - name: Empfindlich gegenüber Sonnenlicht
     desc: "Solange sich der Drow im Sonnenlicht befindet, erleidet er einen Nachteil auf Angriffswürfe, sowie auf Würfe mit Weisheit (Wahrnehmung), die auf Sicht beruhen."
 actions:
@@ -45,3 +45,5 @@ reactions:
   - name: Parade
     desc: "Der Drow addiert 3 auf seine RK gegen einen Nahkampfangriff, der ihn treffen würde. Dazu muss der Drow den Angreifer sehen und eine Nahkampfwaffe führen."
 ```
+
+[Zauber - Tanzende Lichter](s)
