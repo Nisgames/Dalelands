@@ -120,28 +120,41 @@
 
 
 
-
-/* Custom Callout für Skill Checks */
+/* Custom Callout: Check (Ghost Mode) */
 .callout[data-callout="check"] {
-    /* Deine Akzentfarbe: #5CF5CE in RGB */
-    --callout-color: 92, 245, 206 !important;
-    
-    /* Icon: Ein Würfel passt besser als ein Haken für "Checks" */
-    --callout-icon: lucide-dices !important;
+    --callout-color: 92, 245, 206;
+    --callout-icon: lucide-dices;
 
-    /* Hintergrund: Nur 5% Deckkraft (sehr dezent) */
-    background-color: rgba(var(--callout-color), 0.05) !important;
+    /* 1. Hintergrund komplett entfernen (100% transparent) */
+    background-color: transparent !important;
     
-    /* Schriftfarbe des Titels etwas anpassen, damit sie lesbar bleibt */
-    --callout-title-color: rgb(var(--callout-color)) !important;
-    
-    /* Optional: Den linken Rand etwas dünner und feiner machen */
-    border-left: 3px solid rgba(var(--callout-color), 0.6) !important;
+    /* 2. Rahmen dünner und etwas transparenter machen */
+    border-left: 2px solid rgba(var(--callout-color), 0.5);
+    box-shadow: none !important; /* Entfernt eventuelle Schatten vom Theme */
+
+    /* 3. Schmaler machen (Vertikalen Platz sparen) */
+    padding: 0 !important;
+    margin: 4px 0; /* Weniger Abstand nach oben/unten */
 }
 
-/* Optional: Wenn du willst, dass der Text im Callout normaler aussieht (Fancy-a-Story macht oft Kursiv/Fancy Fonts) */
+/* Titelzeile extrem kompakt */
+.callout[data-callout="check"] .callout-title {
+    padding: 2px 0 2px 8px !important; /* Kaum Innenabstand */
+    background-color: transparent !important;
+    font-size: 0.9em; /* Schrift minimal kleiner */
+    opacity: 0.6; /* Text leicht ausblenden, bis man hinschaut */
+    transition: opacity 0.2s;
+}
+
+/* Wenn man mit der Maus drüber fährt, wird der Text deutlicher */
+.callout[data-callout="check"]:hover .callout-title {
+    opacity: 1;
+}
+
+/* Inhalt (wenn aufgeklappt) */
 .callout[data-callout="check"] .callout-content {
-    font-family: var(--font-text);
-    font-style: normal;
+    padding: 0 0 4px 12px !important;
+    margin-top: -4px; /* Zieht den Inhalt näher an den Titel */
+    font-size: 0.9em;
+    color: var(--text-muted); /* Textfarbe etwas abschwächen */
 }
-
