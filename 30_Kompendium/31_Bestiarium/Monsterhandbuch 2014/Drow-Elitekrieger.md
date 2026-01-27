@@ -46,4 +46,4 @@ reactions:
     desc: "Der Drow addiert 3 auf seine RK gegen einen Nahkampfangriff, der ihn treffen würde. Dazu muss der Drow den Angreifer sehen und eine Nahkampfwaffe führen."
 ```
 
-[Zauber - Tanzende Lichter](s)
+[[Zauber - Tanzende Licher | Tanzende Lichter]]
