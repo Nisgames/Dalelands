@@ -51,6 +51,11 @@ Es ist still. Keine Vögel, kein Wind. Nur das Plätschern des Wassers gegen die
 	- Nur den [[Everclean Becher]] auf dem Tisch im 1. Stock
 	- Der Kerl ist "_Wie ein Geist_" (_DM Anspielung, dass der "Geist", den der Bauer in [[01 - Zeitraub]] gesehen hat, vielleicht auch ein Drow gewesen sein könnte_)
 
+```encounter
+creatures:
+  - 
+```
+
 ###### Karte im Tisch im 1. Stock
 
 - Zeigt Weg zum [[Weißer Hain]] 
