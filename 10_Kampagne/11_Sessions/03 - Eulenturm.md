@@ -53,7 +53,8 @@ Es ist still. Keine Vögel, kein Wind. Nur das Plätschern des Wassers gegen die
 
 ```encounter
 creatures:
-  - 2: Aaskriecher
+  - 2: Aaskriecher 
+  - Tom Flinken
   - 
 ```
 
