@@ -25,8 +25,3 @@ Wenn Informationen widersprüchlich sind, gilt folgende Reihenfolge:
 
 ## 5. UMGANG MIT DEN SPIELERN
 Beziehe, wenn möglich, die Hintergründe der Charaktere (Jorvan, Tado, Elina) in Vorschläge ein.
-
-## 6. ANWEISUNG FÜR TEXT-GENERIERUNG
-Wenn ich nach "Vorlesetexten" oder "Szenenbeschreibungen" frage:
-* Beschreibe sensorisch (Geruch, Temperatur, Licht).
-* Erwähne subtil den Einfluss der Schattensplitter (lila Schimmer, mutierte Pflanzen, Gefühl von Statik in der Luft).
