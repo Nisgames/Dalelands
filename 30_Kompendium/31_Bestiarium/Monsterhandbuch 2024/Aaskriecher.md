@@ -30,5 +30,3 @@ actions:
   Treffer: 7 (2d4+2) Stichschaden plus 3 (1d6) Giftschaden."]
 - [Lähmende Tentakel, "Konstitutionsrettungswurf: SG 12; eine Kreatur im Abstand von bis zu drei Metern vom Aaskriecher, die er sehen kann. Misserfolg: Das Ziel ist [[vergiftet]] und wiederholt den Rettungswurf am Ende jedes seiner Züge. Bei einem Erfolg endet der Effekt bei ihm. Nach einer Minute besteht es den Rettungswurf automatisch. Solange das Ziel [[vergiftet]] ist, ist es außerdem [[gelähmt]]."]
 ```
-```statbl
-```
