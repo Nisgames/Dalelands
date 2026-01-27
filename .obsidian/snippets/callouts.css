@@ -124,19 +124,19 @@
 /* Custom Callout für Skill Checks */
 .callout[data-callout="check"] {
     /* Deine Akzentfarbe: #5CF5CE in RGB */
-    --callout-color: 92, 245, 206; 
+    --callout-color: 92, 245, 206 !important;
     
     /* Icon: Ein Würfel passt besser als ein Haken für "Checks" */
-    --callout-icon: lucide-dices; 
+    --callout-icon: lucide-dices !important;
 
     /* Hintergrund: Nur 5% Deckkraft (sehr dezent) */
-    background-color: rgba(var(--callout-color), 0.05);
+    background-color: rgba(var(--callout-color), 0.05) !important;
     
     /* Schriftfarbe des Titels etwas anpassen, damit sie lesbar bleibt */
-    --callout-title-color: rgb(var(--callout-color));
+    --callout-title-color: rgb(var(--callout-color)) !important;
     
     /* Optional: Den linken Rand etwas dünner und feiner machen */
-    border-left: 3px solid rgba(var(--callout-color), 0.6);
+    border-left: 3px solid rgba(var(--callout-color), 0.6) !important;
 }
 
 /* Optional: Wenn du willst, dass der Text im Callout normaler aussieht (Fancy-a-Story macht oft Kursiv/Fancy Fonts) */
