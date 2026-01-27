@@ -11,13 +11,11 @@ ingame_date: 17. Marpenoth 1496
 > Wir schreiben das Jahr 1496 nach der Talrechnung. In den uralten Wäldern und verstreuten Siedlungen der Talländer verblassen die Spuren der Vergangenheit, doch im Verborgenen ziehen bereits neue Gefahren auf. In einer Zeit, in der alte Pakte bröckeln und die Geschichte neu geschrieben wird, liegt es an euch, das Gleichgewicht zu wahren. Willkommen in einer Welt, in der euer Mut über das Schicksal der Talländer entscheidet.
 
 > [!narrator] Recap
-> Was ist passiert?
-
-Wir schreiben den **17. Marpenoth 1496**. Nach dem Diebstahl im [[White Hart Inn]] habt ihr eine Allianz mit dem Händler **[[Gideon Thorne]]** geschlossen. Er hat den violetten Kristall als einen **[[Schattensplitter]]** identifiziert. Da ihr ihm nicht ganz traut, ruht der Splitter nun in einer Kiste, die nur mit zwei Schlüsseln geöffnet werden kann – einen hat Gideon, einen habt ihr.
-
-Am nächsten Morgen seid ihr mit einem Boot aufgebrochen, um den Dieb zu verfolgen. Die Fahrt auf dem [[Ashaba]] war tückisch. Kurz vor dem [[Eulenturm]] gerietet ihr in einen Hinterhalt: In einer engen Schlucht griffen zwei Oger an.
-
-Der Kampf war hart, doch ihr wart siegreich. Nun treibt euer Boot in der stillen Schlucht und ihr habt einen Moment zum Durchatmen.
+> Wir schreiben den **17. Marpenoth 1496**. Nach dem Diebstahl im [[White Hart Inn]] habt ihr eine Allianz mit dem Händler **[[Gideon Thorne]]** geschlossen. Er hat den violetten Kristall als einen **[[Schattensplitter]]** identifiziert. Da ihr ihm nicht ganz traut, ruht der Splitter nun in einer Kiste, die nur mit zwei Schlüsseln geöffnet werden kann – einen hat Gideon, einen habt ihr.
+> 
+  Am nächsten Morgen seid ihr mit einem Boot aufgebrochen, um den Dieb zu verfolgen. Die Fahrt auf dem [[Ashaba]] war tückisch. Kurz vor dem [[Eulenturm]] gerietet ihr in einen Hinterhalt: In einer engen Schlucht griffen zwei Oger an.
+  >
+  Der Kampf war hart, doch ihr wart siegreich. Nun treibt euer Boot in der stillen Schlucht und ihr habt einen Moment zum Durchatmen.
 
 ## Ablauf
 
