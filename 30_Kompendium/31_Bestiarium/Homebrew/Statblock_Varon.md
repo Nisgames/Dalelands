@@ -2,7 +2,7 @@
 tags:
   - Monster
 sourcebook: Homebrew
-CR: "2"
+CR: "4"
 statblock: inline
 ---
 
