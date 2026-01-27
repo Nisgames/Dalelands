@@ -9,7 +9,10 @@ Region: "[[Cormanthor]]"
 Der weiße Hain war einst ein offener Pavillon der Elfen 
 Ein Ort der Kunst und Musik, bestehend aus weißen Marmorsäulen unter freiem Himmel
 
-- 
+- Kreisrundes Plateau aus Marmor
+- Umringt von uralten Eichen
+	- Nicht herbstlich rot, sondern schneeweiß
+- Offener Pavillon in der mitte von schlanken Säulen
 - [Hören] 
 - [Riechen / Temperatur] 
 - [Stimmung]
