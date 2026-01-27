@@ -88,7 +88,7 @@ Jeder, der sich der Statue auf 3 Meter nähert, muss einen **Weisheits-Rettungsw
 
 ###### Beim Splitter
 
-*"Bravo," sagt eine kühle Stimme.*
+*"Bravo," sagt eine kühle Stimme.* - [[Varon]] 
 
 ![[Varon#Erscheinung]]
 
