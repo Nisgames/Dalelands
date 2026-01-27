@@ -15,11 +15,9 @@ ingame_date: 17. Marpenoth 1496
 
 Wir schreiben den **17. Marpenoth 1496**. Nach dem Diebstahl im [[White Hart Inn]] habt ihr eine Allianz mit dem Händler **[[Gideon Thorne]]** geschlossen. Er hat den violetten Kristall als einen **[[Schattensplitter]]** identifiziert. Da ihr ihm nicht ganz traut, ruht der Splitter nun in einer Kiste, die nur mit zwei Schlüsseln geöffnet werden kann – einen hat Gideon, einen habt ihr.
 
-Die letzte Nacht war unruhig. **Elina** wurde von einer Vision heimgesucht: Sie sah den brennenden Himmel über Cormanthor und spürte die Kälte der Zerstörung, die ihre Jahreszeit zum Winter wechselte.
+Am nächsten Morgen seid ihr mit einem Boot aufgebrochen, um den Dieb zu verfolgen. Die Fahrt auf dem [[Ashaba]] war tückisch. Kurz vor dem [[Eulenturm]] gerietet ihr in einen Hinterhalt: In einer engen Schlucht griffen zwei Oger an.
 
-Am nächsten Morgen seid ihr mit einem Boot aufgebrochen, um den Dieb **Varon** zu verfolgen. Die Fahrt auf dem Ashaba war tückisch. Kurz vor dem Eulenturm gerietet ihr in einen Hinterhalt: In einer engen Schlucht versperrte ein Baumstamm den Weg, und zwei Oger griffen an. Doch etwas stimmte nicht – die Oger hatten bereits schwarze Pfeile in ihren Rücken.
-
-Der Kampf war hart, doch ihr wart siegreich. Nun treibt euer Boot in der stillen Schlucht, das Wasser färbt sich langsam rot vom Blut der Riesen, und ihr habt einen Moment zum Durchatmen.
+Der Kampf war hart, doch ihr wart siegreich. Nun treibt euer Boot in der stillen Schlucht und ihr habt einen Moment zum Durchatmen.
 
 ## Ablauf
 
