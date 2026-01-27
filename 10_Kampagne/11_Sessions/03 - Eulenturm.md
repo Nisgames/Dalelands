@@ -29,17 +29,12 @@ Es ist still. Keine Vögel, kein Wind. Nur das Plätschern des Wassers gegen die
 **Situation:** Das Boot muss angelegt werden. Der Steg ist morsch, hält aber das Gewicht der Gruppe.
 
 *Wahrnehmung (DC 12):* 
-	Frische Spuren im Schlamm am Ufer. 
-	Ein kleines Boot wurde hier vor kurzem an Land gezogen
-	Es ist ein einfaches Kanu, wie es die Einheimischen nutzen.
+	Frische Spuren im Schlamm am Ufer. Ein kleines Boot wurde hier vor kurzem an Land gezogen.	Es ist ein einfaches Kanu, wie es die Einheimischen nutzen.
 
 > [!check]- Wahrnehmung (DC 15)
-> Wenn erfolgreich: Sie bemerken den leichten Luftzug aus der Geheimtür.
-
-
-> [!narrator] Title
-> Contents
-
+> Frische Spuren im Schlamm am Ufer. 
+> Ein kleines Boot wurde hier vor kurzem an Land gezogen.	
+> Es ist ein einfaches Kanu, wie es die Einheimischen nutzen.
 
 ![[Eulenturm#POI]]
 
