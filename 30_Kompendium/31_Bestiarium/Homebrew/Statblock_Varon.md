@@ -6,7 +6,7 @@ CR: "2"
 statblock: inline
 ---
 
-```statblock
+```
 name: Varon
 size: Mittelgroß
 type: Elf
