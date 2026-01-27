@@ -67,6 +67,10 @@ creatures:
 
 - Müssen jetzt aufbrechen, sonst holen sie den Dieb nicht mehr ein
 
+#### Reise zum [[Weißer Hain]]
+
+- 
+
 ## Todo
 
 [Konsequenzen für nächste Sessions]
