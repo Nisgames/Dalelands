@@ -255,5 +255,5 @@ _Wenn keine Rast, dann ab hier KON RW gegen SG 15, sonst Erschöpfung Grad 1_
 
 ## Todo
 
-- [ ] Wo ist [[Varon]]?
+- [x] Wo ist [[Varon]]?
 - [ ] Was war noch in der Kiste? (_Spieler vermuten es sind nicht nur [[Schattensplitter]]_)

@@ -225,7 +225,7 @@ creatures:
 ## Todo
 
 - [x] [[2 - Session]] vorbereiten
-- [ ] [[Varon]] Plot weiterdenken (*er ist ja entkommen*)
+- [x] [[Varon]] Plot weiterdenken (*er ist ja entkommen*)
 - [ ] [[Orin]] überlebt oder tot?
 - [x] [[Gideon Thorne]] muss auftrag geben
 - [ ] Sidequest vom alten Mann?
