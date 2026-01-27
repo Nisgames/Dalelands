@@ -92,7 +92,12 @@ Jeder, der sich der Statue auf 3 Meter nähert, muss einen **Weisheits-Rettungsw
 
 ![[Varon#Erscheinung]]
 
-
+```encounter
+creatures:
+  - Varon
+  - Tom Flinken
+  - 
+```
 
 ## Todo
 
