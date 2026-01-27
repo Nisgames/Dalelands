@@ -1,15 +1,19 @@
 ---
 tags:
   - Zauber
-Zeitaufwand:
-Reichweite:
+Zeitaufwand: Aktion
+Reichweite: 36 m
 Komponenten:
   - V
   - G
   - M
+  - Etwas Phosphor
 Wirkungsdauer: Konzentration, bis zu 1 min
-Zaubergrad:
+Zaubergrad: 0
 Klassen:
+  - Barde
+  - Magier
+  - Zauberer
 ---
 ## Allgemeines
 
