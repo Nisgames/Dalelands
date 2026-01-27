@@ -86,6 +86,8 @@ Jeder, der sich der Statue auf 3 Meter nähert, muss einen **Weisheits-Rettungsw
 	- _Effekt:_ Er bleibt stehen, starrt den Splitter an und lächelt zufrieden. Er will den Splitter _beschützen_.
 	- _Reaktion:_ Wenn ein anderer Spieler versucht, den Splitter zu nehmen, wird der bezauberte Charakter versuchen, ihn verbal ("Nein, er muss hier bleiben! Er ist so schön!") oder durch Festhalten (Grapple) zu stoppen. **Keine tödliche Gewalt**, nur Hindern.
 
+###### Wenn
+
 ## Todo
 
 [Konsequenzen für nächste Sessions]
