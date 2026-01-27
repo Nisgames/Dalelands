@@ -15,6 +15,8 @@ ingame_date: 17. Marpenoth 1496
 
 ## Ablauf
 
+
+
 #### [[Eulenturm]]
 
 Nach einer anstrengenden Reise seht ihr endlich euer Ziel. Der [[Eulenturm]] ragt vor euch auf.
