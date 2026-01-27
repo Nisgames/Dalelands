@@ -139,7 +139,7 @@
 
 /* Titelzeile extrem kompakt */
 .callout[data-callout="check"] .callout-title {
-    padding: 5px 0 5px 8px !important; /* Kaum Innenabstand */
+    padding: 7px 0 7px 8px !important; /* Kaum Innenabstand */
     background-color: transparent !important;
     font-size: 0.9em; /* Schrift minimal kleiner */
     opacity: 0.6; /* Text leicht ausblenden, bis man hinschaut */
