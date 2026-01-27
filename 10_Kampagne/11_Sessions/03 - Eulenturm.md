@@ -23,7 +23,10 @@ Ihr steht oben an der Schlucht.
 Das Boot ist unten mit einem Seik festgebunden und die Oger liegen besiegt am Boden.
 
 > [!check]- Wahrnehmung DC 10
-> Nur ein kleines Stück von der Schlucht 
+> Nur ein kleines Stück von der Schlucht entfernt ist eine Feuerstelle zu sehen
+> - Große Felle liegen auf dem Boden drum herum
+> - Scheinbar zwei Schlafplätze
+> - Das ein oder ander Fell könnte noch verkauft werden (1)
 
 > [!narrator] 
 > Die Sonne steht bereits tief und taucht den Cormanthor-Wald in ein blutrotes Licht, als sich der Fluss wieder verbreitert. Vor euch, halb vom Wald verschluckt, ragt eine Ruine aus hellem Stein auf: Der **[[Eulenturm]]**.
