@@ -77,6 +77,7 @@ creatures:
 > In der Mitte des Pavillons steht eine Statue: Eine Elfe, die eine Harfe spielt. Doch der Kopf der Statue fehlt. Dort, wo das Herz der Statue wäre, pulsiert ein Licht. Es ist der [[Schattensplitter]]. Er steckt tief im Marmor.
 
 
+
 ## Todo
 
 [Konsequenzen für nächste Sessions]
