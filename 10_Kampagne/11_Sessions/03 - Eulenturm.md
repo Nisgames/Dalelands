@@ -15,7 +15,13 @@ ingame_date: 17. Marpenoth 1496
 
 ## Ablauf
 
+> ![Die Sonne steht bereits tief und taucht den Cormanthor-Wald in ein blutrotes Zwielicht, als sich der Fluss verbreitert. Vor euch, halb vom Wald verschluckt, ragt eine Ruine aus hellem Stein auf: Der **Eulenturm**.
 
+Es ist still. Zu still. Keine Vögel, kein Wind. Nur das Plätschern des Wassers gegen die modrigen Holzpfähle des Stegs.
+
+**Situation:** Das Boot muss angelegt werden. Der Steg ist morsch, hält aber das Gewicht der Gruppe.
+
+• **Wahrnehmung (DC 12):** Wer genau hinsieht, bemerkt frische Spuren im Schlamm am Ufer. Ein kleines Boot wurde hier vor kurzem an Land gezogen – aber nicht das von Varon. Es ist ein einfaches Kanu, wie es die Einheimischen nutzen.
 
 #### [[Eulenturm]]
 
