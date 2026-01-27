@@ -69,22 +69,11 @@ creatures:
 
 #### Reise zum [[Weißer Hain]]
 
-> [!narrator] Vorlesetext 
-> Der dichte Wald lichtet sich abrupt. Vor euch liegt ein kreisrundes Plateau, umringt von uralten Eichen, deren Blätter hier nicht herbstlich rot, sondern schneeweiß sind.
-> 
-> In der Mitte steht ein offener Pavillon aus weißem Marmor. Schlanke Säulen ragen in den grauen Himmel, teilweise von Efeu überwuchert, der leise violett schimmert.
-> 
-> In der Mitte des Pavillons steht eine Statue: Eine Elfe, die eine Harfe spielt. Doch der Kopf der Statue fehlt. Dort, wo das Herz der Statue wäre, pulsiert ein Licht. Es ist der [[Schattensplitter]]. Er steckt tief im Marmor.
+![[Weißer Hain#Beschreibung]]
 
 ###### Statue
 
-Jeder, der sich der Statue auf 3 Meter nähert, muss einen **Weisheits-Rettungswurf (WIS Save DC 13)** machen.
 
--  **Bei Erfolg:** Der Charakter spürt die Trauer, kann aber handeln. Er kann versuchen, den Splitter mit einem **Stärke-Check (DC 14)** oder Werkzeugen ([[Jorvan]]) aus der Statue zu brechen.
-
--  **Bei Misserfolg ([[Bezaubert]]):** Der Charakter ist **[[Bezaubert]]** 
-	- _Effekt:_ Er bleibt stehen, starrt den Splitter an und lächelt zufrieden. Er will den Splitter _beschützen_.
-	- _Reaktion:_ Wenn ein anderer Spieler versucht, den Splitter zu nehmen, wird der bezauberte Charakter versuchen, ihn verbal ("Nein, er muss hier bleiben! Er ist so schön!") oder durch Festhalten (Grapple) zu stoppen. **Keine tödliche Gewalt**, nur Hindern.
 
 ###### Beim Splitter
 

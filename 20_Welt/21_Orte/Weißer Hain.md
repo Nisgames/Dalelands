@@ -18,9 +18,10 @@ Ein Ort der Kunst und Musik, bestehend aus weißen Marmorsäulen unter freiem Hi
 	- Kopf der Statue fehlt
 	- An der Stelle wo das Herz wäre, pulsiert ein [[Schattensplitter]]
 	- Er steckt tief im Marmor
+
 ## POI
 
-- 
+####
 
 ## DM Wissen
 
