@@ -14,7 +14,7 @@ alignment: neutral böse
 ac: 18
 armor_desc: beschlagene Lederrüstung, Schild
 hp: 71
-hit_dice: 11w8 + 22
+hit_dice: 11d8 + 22
 speed: 9 m
 stats: [13, 18, 14, 11, 13, 12]
 saves:
