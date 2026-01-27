@@ -37,6 +37,8 @@ Es ist still. Keine Vögel, kein Wind. Nur das Plätschern des Wassers gegen die
 
 *Während die Spieler im 2. Stock sind, kommt [[Tom Flinken]] unten durch die Tür in den Turm*
 
+*Geräusch:* Das Klappern von Metall (Kettenhemd) und Schritte auf Stein. Jemand flucht leise, weil er gegen eine Kiste getreten hat.
+
 ![[Tom Flinken#Erscheinung]]
 
 **Gespräch mit Tom**
