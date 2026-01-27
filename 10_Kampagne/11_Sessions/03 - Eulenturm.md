@@ -15,7 +15,8 @@ ingame_date: 17. Marpenoth 1496
 
 ## Ablauf
 
-> ![Die Sonne steht bereits tief und taucht den Cormanthor-Wald in ein blutrotes Zwielicht, als sich der Fluss verbreitert. Vor euch, halb vom Wald verschluckt, ragt eine Ruine aus hellem Stein auf: Der **Eulenturm**.
+> [!narrator] 
+> Die Sonne steht bereits tief und taucht den Cormanthor-Wald in ein blutrotes Licht, als sich der Fluss wieder verbreitert. Vor euch, halb vom Wald verschluckt, ragt eine Ruine aus hellem Stein auf: Der **[[Eulenturm]]**.
 
 Es ist still. Zu still. Keine Vögel, kein Wind. Nur das Plätschern des Wassers gegen die modrigen Holzpfähle des Stegs.
 
@@ -29,8 +30,7 @@ Nach einer anstrengenden Reise seht ihr endlich euer Ziel. Der [[Eulenturm]] rag
 
 ![[Eulenturm#Beschreibung]]
 
-*Wenn Abends:* [[Varon]] befindet sich im 1. Stock und macht sich gerade bereit (wickelt sich Binden)
-*Wenn Tagsüber:* [[Varon]] ruht sich im 2. Stock auf einem Strohbett aus. Die Fenster im 2. Sotck sind von innen mit Fellen zugehangen.
+
 
 ![[Eulenturm#POI]]
 
