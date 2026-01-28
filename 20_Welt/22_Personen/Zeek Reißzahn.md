@@ -36,7 +36,8 @@ statblock: inline
 
 Ork Kleriker [[Lathander]].
 Kindheitsfreund von [[Tado]].
-Als [[Tado]] seinen Pakt mit [[Tados Patron]] geschlossen hat, hat auch [[Zeek Reißzahn]] einen Pakt mit [[Tados Patron]] geschlossen
+Als [[Tado]] seinen Pakt mit [[Tados Patron]] geschlossen hat, hat auch [[Zeek Reißzahn]] einen Pakt mit [[Tados Patron]] geschlossen.
+Auch er hat das Bewusstsein verloren und ist in den [[Dalelands]] aufgewacht.
 
 #### Begegnungen
 ```dataview
