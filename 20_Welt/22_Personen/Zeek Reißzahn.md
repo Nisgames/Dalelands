@@ -35,7 +35,8 @@ statblock: inline
 ## DM Wissen
 
 Ork Kleriker [[Lathander]].
-Kindheitsfreund von [[Tado]] 
+Kindheitsfreund von [[Tado]].
+Als [[Tado]] seinen Pakt mit [[Tados Patron]] geschlossen hat, hat auch [[Zeek Reißzahn]] einen Pakt mit [[Tados Patron]] geschlossen
 
 #### Begegnungen
 ```dataview
