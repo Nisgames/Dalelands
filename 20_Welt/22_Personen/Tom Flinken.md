@@ -41,7 +41,7 @@ statblock: inline
 Ist aufgewachsen in [[Daggerdale]].
 ![[Daggerdale#Zhentarim]]
 
-Er hat sich die [[Zhentarim]] als Vorbild
+Er hat sich die [[Zhentarim]] als Vorbild genommen und will genau wie sie das Tal beschützen.
 
 #### Begegnungen
 ```dataview
