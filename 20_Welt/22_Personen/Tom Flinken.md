@@ -43,7 +43,7 @@ Ist aufgewachsen in [[Daggerdale]].
 
 Er hat sich die [[Zhentarim]] als Vorbild genommen und will genau wie sie das Tal beschützen.
 
-Anfang Marpenoth 1496 wurde er als Fernsp
+Anfang Marpenoth 1496 wurde er als Fernspäher entsandt, um die Drow Aktivitäten von [[Haus Jaelre]] in [[Cormanthor]] zu beobachten und zu berichten. Seitdem lebt er im Wald, schläft im Dreck und isst Eichhörnchen.
 
 #### Begegnungen
 ```dataview
