@@ -7,7 +7,7 @@ Klasse: Kämpfer
 Level: 3
 Ort: "[[Cormanthor]]"
 Fraktionen: "[[Zhentarim]]"
-Rolle: Neuling
+Rolle: Reißzahn
 Relevanz: Niedrig
 statblock: inline
 ---

@@ -7,7 +7,7 @@ Klasse: Händler
 Level:
 Ort: "[[Ashabenford]]"
 Fraktionen: "[[Zhentarim]]"
-Rolle: Händler
+Rolle: Viper
 Relevanz: Hoch
 statblock: inline
 ---

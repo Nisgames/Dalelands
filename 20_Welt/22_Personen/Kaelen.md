@@ -7,7 +7,7 @@ Klasse: Schläger
 Level:
 Ort: "[[Ashabenford]]"
 Fraktionen: "[[Zhentarim]]"
-Rolle: Höherer Schläger
+Rolle: Wolf
 Relevanz: Mittel
 statblock: inline
 ---

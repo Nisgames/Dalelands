@@ -34,7 +34,7 @@ Seit [[Varon]] die Kiste mit [[Schattensplitter]]n von [[Orin]] geklaut hat, sin
 2. Wolf: Truppführer und erfahrene Söldner. Sie befehligen kleine Einheiten.
 3. Viper: Lokale Anführer, die Operationen in einer Stadt oder einem Gebiet leiten.
 4. Ardragon: Hohe Kommandanten, die ganze Regionen kontrollieren (oft Generäle der Zhentilar).
-5. 
+5. Schreckensfürst: Der innere Zirkel
 
 ## DM Wissen
 
