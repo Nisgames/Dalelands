@@ -28,6 +28,11 @@ Die [[Zhentarim]] wollen die [[Schattensplitter]] als Waffen an [[Sembia]] verka
 
 Seit [[Varon]] die Kiste mit [[Schattensplitter]]n von [[Orin]] geklaut hat, sind die [[Zhentarim]] mit [[Haus Jaelre]] im Streit.
 
+## Ränge
+
+1. Reißzahn - Soldaten, Schläger, Neulinge
+2. 
+
 ## DM Wissen
 
 #### Mitglieder
