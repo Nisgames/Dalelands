@@ -30,7 +30,9 @@ Region: "[[Dalelands]]"
 
 ## DM Wissen
 
-#### 
+#### Zhentarim
+
+Die [[Zhentarim]] werden in [[Daggerdale]] meistens als die Guten dargestellt. Es wird Propaganda verbreitet, das die [[Zhentarim]] die Bew
 
 #### Bewohner
 ```dataview
