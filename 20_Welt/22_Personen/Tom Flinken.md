@@ -45,7 +45,7 @@ Er hat sich die [[Zhentarim]] als Vorbild genommen und will genau wie sie das Ta
 
 Anfang Marpenoth 1496 wurde er als Fernspäher entsandt, um die Drow Aktivitäten von [[Haus Jaelre]] in [[Cormanthor]] zu beobachten und zu berichten. Seitdem lebt er im Wald, schläft im Dreck und isst Eichhörnchen.
 
-Er kennt 
+Er kennt die [[Zhentarim]] aus [[Mistledale]] (Gideon Thorne, Kaelen, ...) NICHT.
 
 #### Begegnungen
 ```dataview
