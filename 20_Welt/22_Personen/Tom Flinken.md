@@ -43,6 +43,8 @@ Ist aufgewachsen in [[Daggerdale]].
 
 Er hat sich die [[Zhentarim]] als Vorbild genommen und will genau wie sie das Tal beschützen.
 
+Anfang Marpenoth 1496 wurde er als Fernsp
+
 #### Begegnungen
 ```dataview
 list without id link(file.link, title)
