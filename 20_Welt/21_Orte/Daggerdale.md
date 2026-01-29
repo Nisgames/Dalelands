@@ -32,7 +32,7 @@ Region: "[[Dalelands]]"
 
 #### Zhentarim
 
-Die [[Zhentarim]] werden in [[Daggerdale]] meistens als die Guten dargestellt. Es wird Propaganda verbreitet, das die [[Zhentarim]] die Bew
+Die [[Zhentarim]] werden in [[Daggerdale]] meistens als die Guten dargestellt. Es wird Propaganda verbreitet, das die [[Zhentarim]] die Bewohner vor Orks und Drow verteidigen würden.
 
 #### Bewohner
 ```dataview

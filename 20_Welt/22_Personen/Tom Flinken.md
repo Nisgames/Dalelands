@@ -39,6 +39,9 @@ statblock: inline
 ## DM Wissen
 
 Ist aufgewachsen in [[Daggerdale]].
+![[Daggerdale#Zhentarim]]
+
+Er hat sich die [[Zhentarim]] als Vorbild
 
 #### Begegnungen
 ```dataview
