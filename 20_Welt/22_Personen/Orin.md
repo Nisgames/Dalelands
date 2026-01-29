@@ -7,7 +7,7 @@ Klasse: Schmuggler
 Level:
 Ort: "[[Ashabenford]]"
 Fraktionen: "[[Zhentarim]]"
-Rolle: Handlanger
+Rolle: Reißzahn
 Relevanz: Mittel
 statblock: inline
 ---
