@@ -38,7 +38,7 @@ statblock: inline
 
 ## DM Wissen
 
-[Motivation, Geheimnisse, Lügen]
+Ist aufgewachsen in [[Daggerdale]].
 
 #### Begegnungen
 ```dataview

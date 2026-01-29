@@ -28,13 +28,9 @@ Region: "[[Dalelands]]"
 
 [Raum 1]
 
-## Events
-
-[Was passiert, wenn Bedingung X erfüllt ist?]
-
 ## DM Wissen
 
-[Hintergrund, usw]
+#### 
 
 #### Bewohner
 ```dataview
