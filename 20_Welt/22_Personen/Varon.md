@@ -29,13 +29,6 @@ statblock: inline
 - Seine Stimme ist ruhig, fast gelangweilt, selbst im Kampf.
 - *Zitat:* "Eure Zeit ist abgelaufen, Affen."
 
-> [!quote] Übersicht 
-> [cite_start]- **BEGINN:** [cite: 5] 
-> [cite_start]- **ENDE:** [cite: 6] 
-> [cite_start]- **STRECKE:** [cite: 9] 
-> [cite_start]- **GELÄNDE:** [cite: 10] 
-> [cite_start]- **WETTER:** [cite: 13]
-
 ## Werte & Loot:
 
 > [!statblock]- Statblock
