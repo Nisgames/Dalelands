@@ -50,7 +50,7 @@ tags:
 **VERSTRICHENE ZEIT (TAGE/STD.):** ---
 
 ## ZUSAMMENFASSUNG
-**GESAMTZEIT:** ```
+**GESAMTZEIT:** 
 
 ### Was ich korrigiert habe:
 1.  **Kein Pseudo-Code:** Die Felder (Start/Ziel) nutzen jetzt Standard-Dataview-Syntax (`= this.Start`), die fast jeder Vault hat. Falls du kein Dataview hast, lösche einfach das `= this.Start` und schreibe den Ort direkt hin.
