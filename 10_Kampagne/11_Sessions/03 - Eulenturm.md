@@ -79,7 +79,7 @@ creatures:
 - Zeigt Weg zum [[Weißer Hain]] 
 
 [[Tom Flinken]]:
-> Die alten Geschichten sagen, das war ein heiliger Ort der Elfen. Wenn dieser Drow dorthin unterwegs ist... dann sucht er etwas Mächtiges. Aber der Wald dort ist wild. Er wird Zeit brauchen, um sich durchzuschlagen. Wenn wir den Fluss nehmen und dann querfeldein gehen, könnten wir ihn abschneiden.
+> Die alten Geschichten sagen, das war ein heiliger Ort der Elfen. Wenn dieser Drow dorthin unterwegs ist... dann sucht er etwas Mächtiges. Aber der Wald dort ist wild. Er wird Zeit brauchen, um sich durchzuschlagen. Wenn wir den [[Ashaba]] Fluss nehmen und dann querfeldein gehen, könnten wir ihn abschneiden.
 
 - Müssen jetzt aufbrechen, sonst holen sie den Dieb nicht mehr ein
 
