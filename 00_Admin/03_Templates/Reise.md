@@ -1,48 +1,54 @@
 ---
-Start: 
-Ziel: 
+tags:
+  - reise
+Start: "[[Ort A]]"
+Ziel: "[[Ort B]]"
+Status: Aktiv
 ---
-# [cite_start]REISEPLANER 
+## Reise: `INPUT[Start]` nach `INPUT[Ziel]`
 
-[cite_start]**START:** [cite: 2] `view: Start`
-[cite_start]**ZIEL:** [cite: 3] `view: Ziel`
+> [!abstract] Reise-Daten
+> **START:** `VIEW[{Start}]`
+> **ZIEL:** `VIEW[{Ziel}]`
 
 ---
 
-## [cite_start]ETAPPE 1 [cite: 4]
-> [!quote] Übersicht
-> [cite_start]- **BEGINN:** [cite: 5] 
-> [cite_start]- **ENDE:** [cite: 6] 
-> [cite_start]- **STRECKE:** [cite: 9] 
-> [cite_start]- **GELÄNDE:** [cite: 10] 
-> [cite_start]- **WETTER:** [cite: 13] 
-
-| Tempo | Zeit (Tage/Stunden) |
+## ETAPPE 1
+> [!quote|no-icon] Übersicht
+> **BEGINN:** > **ENDE:** > **STRECKE:** > **GELÄNDE:** > **WETTER:** | Tempo | Zeit (Tage/Stunden) |
 | :--- | :--- |
-| [cite_start]**SCHNELL** [cite: 7] [cite_start]| [cite: 8] |
-| [cite_start]**NORMAL** [cite: 11] [cite_start]| [cite: 12] |
-| [cite_start]**LANGSAM** [cite: 14] [cite_start]| [cite: 15] |
+| **SCHNELL** | |
+| **NORMAL** | |
+| **LANGSAM** | |
 
-### [cite_start]ERZÄHLERISCHE NOTIZEN [cite: 16]
-* [cite_start]### HERAUSFORDERUNGEN [cite: 17]
-* [cite_start]**VERSTRICHENE ZEIT (TAGE/STD.):** [cite: 18] 
+### ERZÄHLERISCHE NOTIZEN
+- 
 
----
+### HERAUSFORDERUNGEN
+- 
 
-## [cite_start]ETAPPE 2 [cite: 19]
-> [!quote] Übersicht
-> [cite_start]- **BEGINN:** [cite: 20] 
-> [cite_start]- **ENDE:** [cite: 21] 
-> [cite_start]- **STRECKE:** [cite: 24] 
-> [cite_start]- **GELÄNDE:** [cite: 25] 
-> [cite_start]- **WETTER:** [cite: 28] 
+**VERSTRICHENE ZEIT (GESAMT):** ---
 
-| Tempo | Zeit (Tage/Stunden) |
+## ETAPPE 2
+> [!quote|no-icon] Übersicht
+> **BEGINN:** > **ENDE:** > **STRECKE:** > **GELÄNDE:** > **WETTER:** | Tempo | Zeit (Tage/Stunden) |
 | :--- | :--- |
-| [cite_start]**SCHNELL** [cite: 22] [cite_start]| [cite: 23] |
-| [cite_start]**NORMAL** [cite: 26] [cite_start]| [cite: 27] |
-| [cite_start]**LANGSAM** [cite: 29] [cite_start]| [cite: 30] |
+| **SCHNELL** | |
+| **NORMAL** | |
+| **LANGSAM** | |
 
-### [cite_start]ERZÄHLERISCHE NOTIZEN [cite: 31]
-* [cite_start]### HERAUSFORDERUNGEN [cite: 32]
-* [cite_start]**VERSTRICHENE ZEIT (TAGE/STD.):** [cite: 33]
+### ERZÄHLERISCHE NOTIZEN
+- 
+
+### HERAUSFORDERUNGEN
+- 
+
+**VERSTRICHENE ZEIT (GESAMT):** ```
+
+### Erklärung der Änderungen
+1.  **Properties (Frontmatter):** Oben zwischen den `---` stehen jetzt echte Metadaten. Wenn du das **Dataview** Plugin installiert hast, kannst du im Text statt `INPUT[...]` auch `` ` = this.Start ` `` schreiben, um es automatisch anzuzeigen.
+2.  **Callouts:** Ich habe `> [!quote|no-icon]` verwendet. [cite_start]Im "fancy-a-story" Theme erzeugt das oft den gewünschten "Box"-Look[cite: 4], wie er im PDF um die Etappen-Details gezogen ist.
+3.  [cite_start]**PDF-Felder:** Alle Felder wie *Beginn* [cite: 5][cite_start], *Ende* [cite: 6][cite_start], *Strecke* [cite: 9][cite_start], *Gelände* [cite: 10] [cite_start]und *Wetter* [cite: 13] sind jetzt als fester Text eingefügt, hinter den du einfach schreiben kannst.
+4.  [cite_start]**Tabelle:** Die Geschwindigkeits-Tabelle [cite: 7, 11, 14] ist als reine Markdown-Tabelle formatiert, was sofort gerendert wird.
+
+Funktioniert das optisch für dich im Theme?
