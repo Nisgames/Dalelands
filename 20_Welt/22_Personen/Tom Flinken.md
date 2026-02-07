@@ -49,7 +49,9 @@ Er kennt die [[Zhentarim]] aus [[Mistledale]] (Gideon Thorne, Kaelen, ...) NICHT
 
 ###### Sein Stand zu [[Schattensplitter]]n
 
-Sind gefährlich. Er soll sie seinem Vorgesetzten in [[Da]]
+Sind gefährlich. Er soll sie seinem Vorgesetzten in [[Daggerdale]] bringen.
+Er denkt die [[Zhentarim]] sammeln sie um sie in Blei-Beschlagenen Kellern wegzuschließen.
+"Lassen Kühen zwei Köpfe wachsen, wenn sie im Gras liegen."
 
 #### Begegnungen
 ```dataview
