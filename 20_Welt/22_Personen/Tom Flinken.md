@@ -47,6 +47,10 @@ Anfang Marpenoth 1496 wurde er als Fernspäher entsandt, um die Drow Aktivitäte
 
 Er kennt die [[Zhentarim]] aus [[Mistledale]] (Gideon Thorne, Kaelen, ...) NICHT.
 
+###### Sein Stand zu [[Schattensplitter]]n
+
+Sind gefährlich. Er soll sie seinem Vorgesetzten in [[Da]]
+
 #### Begegnungen
 ```dataview
 list without id link(file.link, title)
