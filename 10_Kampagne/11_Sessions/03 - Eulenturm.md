@@ -1,7 +1,7 @@
 ---
 tags:
   - Session
-date:
+date: 2026-02-08
 ingame_date: 17. Marpenoth 1496
 ---
 
