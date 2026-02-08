@@ -11,6 +11,7 @@ Spieler: "[[Liam]]"
 Sprachen:
   - "[[Gemeinsprache]]"
   - "[[Zwergisch]]"
+  - "[[Orkisch]]"
 ---
 
 ## Persönlichkeit

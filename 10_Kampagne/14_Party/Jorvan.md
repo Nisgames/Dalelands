@@ -10,6 +10,8 @@ modifier: 0
 Spieler: "[[Mika]]"
 Sprachen:
   - "[[Gemeinsprache]]"
+  - "[[Drakonisch]]"
+  - "[[Zwergisch]]"
 ---
 
 ## Persönlichkeit
