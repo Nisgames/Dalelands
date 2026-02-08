@@ -12,7 +12,7 @@ size: Mittelgroß
 type: Humanoid (Mensch)
 alignment: Neutral
 ac: 16 (Kettenpanzer)
-hp: 28 (3d10 + 9)
+hp: 28
 speed: 9 m
 stats: [19, 14, 16, 10, 12, 8]
 saves:
