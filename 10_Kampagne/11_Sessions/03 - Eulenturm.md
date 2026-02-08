@@ -69,7 +69,7 @@ Es ist still. Keine Vögel, kein Wind. Nur das Plätschern des Wassers gegen die
 
 ```encounter
 creatures:
-  - 8: Goblin
+  - 6: Goblinkrieger
   - Tom Flinken
   - 
 ```
