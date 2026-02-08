@@ -70,7 +70,7 @@ Es ist still. Keine Vögel, kein Wind. Nur das Plätschern des Wassers gegen die
 
 ```encounter
 creatures:
-  - 6: Goblinkrieger
+  - 7: Goblinkrieger
   - 1: Goblin-Boss
     name: Test
   - Tom Flinken
