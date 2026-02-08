@@ -20,7 +20,7 @@ ingame_date: 17. Marpenoth 1496
 ## Ablauf
 
 Ihr steht oben an der Schlucht.
-Das Boot ist unten mit einem Seik festgebunden und die Oger liegen besiegt am Boden.
+Das Boot ist unten mit einem Seil festgebunden und die Oger liegen besiegt am Boden.
 
 > [!check]- Wahrnehmung DC 10
 > Nur ein kleines Stück von der Schlucht entfernt ist eine Feuerstelle zu sehen
