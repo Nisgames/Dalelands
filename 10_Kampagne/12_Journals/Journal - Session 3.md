@@ -7,4 +7,4 @@ session: "[[03 - Eulenturm]]"
 
 ## Log
 
-
+- **Start** nach dem Kampf gegen die Oger aus [[02 - Gideon Thorne]]
