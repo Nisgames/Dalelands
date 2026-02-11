@@ -8,3 +8,5 @@ session: "[[03 - Eulenturm]]"
 ## Log
 
 - **Start** nach dem Kampf gegen die Oger aus [[02 - Gideon Thorne]]
+- [[Tado]] wirft die Keulen der besiegten Oger in den [[Ashaba]] Fluss
+- 
