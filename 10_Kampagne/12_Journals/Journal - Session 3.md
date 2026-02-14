@@ -26,4 +26,6 @@ session: "[[03 - Eulenturm]]"
 - Die anderen beiden betreten den Turm und suchen die Stockwerke ab
 - [[Elina]] findet [[Tom Flinken]]s Boot und daneben Fußspuren, die vom Fluss weg weiter in den Wald führen. Sie folgt den Spuren
 - Unterdessen bricht [[Jorvan]] das Schloss am Schrank im ersten Stock des Turmes auf
-- 
+- Danach entdecken [[Tado]] und er den Verschließmechanismus an der Treppe
+- Plötzlich kommt unten jemand in den Turm ([[Tom Flinken]])
+- [[Tado]] und 
