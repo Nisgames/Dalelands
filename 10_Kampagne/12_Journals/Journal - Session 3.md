@@ -24,4 +24,4 @@ session: "[[03 - Eulenturm]]"
 - Sie finden aber auch nach einigem Suchen nichts
 - Sie gehen zurück zum Haupteingang, [[Elina]] sieht Schleifspuren im Matsch ([[Tom Flinken]]s Boot) und geht rechts um den Turm herum
 - Die anderen beiden betreten den Turm und suchen die Stockwerke ab
-- [[Elina]] findet [[Tom Flinken]]s Boot
+- [[Elina]] findet [[Tom Flinken]]s Boot und dan
