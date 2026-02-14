@@ -12,4 +12,5 @@ session: "[[03 - Eulenturm]]"
 - [[Jorvan]] klettert nach unten und überlegt, wie das Boot an den von den Ogern ins Wasser geworfenen Steinen vorbeikommen kann
 - [[Elina]] entdeckt das Camp der Oger
 - Sie gehen hin und untersuchen die Felle; [[Elina]] findet paar Münzen und zwei Schlafplätze
-- [[Jorvan]] baut einen Seilzug un
+- [[Jorvan]] baut einen Seilzug und bindet ein Ende oben an den Baumstamm, der über der Schlucht liegt. Das andere Ende bindet er unten um einen der großen Steine, die im [[Ashaba]] Fluss den Weg versperren
+- 
