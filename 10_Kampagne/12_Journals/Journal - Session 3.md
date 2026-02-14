@@ -11,4 +11,5 @@ session: "[[03 - Eulenturm]]"
 - [[Tado]] wirft die Keulen der besiegten Oger in den [[Ashaba]] Fluss
 - [[Jorvan]] klettert nach unten und überlegt, wie das Boot an den von den Ogern ins Wasser geworfenen Steinen vorbeikommen kann
 - [[Elina]] entdeckt das Camp der Oger
-- Sie gehen hin und untersuchen die Felle und [[]]
+- Sie gehen hin und untersuchen die Felle; [[Elina]] findet paar Münzen und zwei Schlafplätze
+- [[Jorvan]] baut einen Seilzug un
