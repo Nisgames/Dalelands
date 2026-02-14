@@ -16,4 +16,5 @@ session: "[[03 - Eulenturm]]"
 - [[Elina]] ruft [[Phu]] herbei und alle zusammen ziehen den Stein aus dem Wasser
 - [[Elina]] klettert schnell nach unten und steuert das Boot unter dem riesigen Stein durch
 - Sie lassen den Stein wieder runter ins Wasser und fahren weiter
+- Nach kurzer Weiterfahrt kommen sie am [[Eulenturm]] an
 - 
