@@ -22,4 +22,6 @@ session: "[[03 - Eulenturm]]"
 - Sie laufen um den Turm herum und gucken von außen, weil [[Tado]] denkt, dass es sich eventuell um eine Geheimtür handeln könnte um von außen in den Turm zu kommen
 - [[Elina]] steigt auf [[Tado]]s Schultern, um da oben anzukommen
 - Sie finden aber auch nach einigem Suchen nichts
-- Sie gehen zurück zum Haupteingang, [[El]]
+- Sie gehen zurück zum Haupteingang, [[Elina]] sieht Schleifspuren im Matsch ([[Tom Flinken]]s Boot) und geht rechts um den Turm herum
+- Die anderen beiden betreten den Turm und suchen die Stockwerke ab
+- [[Elina]] findet [[Tom Flinken]]s Boot
