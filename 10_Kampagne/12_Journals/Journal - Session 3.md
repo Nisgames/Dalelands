@@ -18,4 +18,6 @@ session: "[[03 - Eulenturm]]"
 - Sie lassen den Stein wieder runter ins Wasser und fahren weiter
 - Nach kurzer Weiterfahrt kommen sie am [[Eulenturm]] an
 - [[Tado]] setzt seinen "Erschütterungssinn" ein und spürt an der Außenwand des [[Eulenturm]], ob sich Kreaturen oder Bewegbare Objekte im Turm befinden
-- Er spürt den Verschließmechanismus
+- Er spürt den Verschließmechanismus an der Treppe zum ersten Stock
+- Sie laufen um den Turm herum und gucken von außen, weil [[Tado]] denkt, dass es sich eventuell um eine Geheimtür handeln könnte um von außen in den Turm zu kommen
+- 
