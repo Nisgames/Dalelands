@@ -28,4 +28,8 @@ session: "[[03 - Eulenturm]]"
 - Unterdessen bricht [[Jorvan]] das Schloss am Schrank im ersten Stock des Turmes auf
 - Danach entdecken [[Tado]] und er den Verschließmechanismus an der Treppe
 - Plötzlich kommt unten jemand in den Turm ([[Tom Flinken]])
-- [[Tado]] und 
+- [[Tado]] und [[Jorvan]] rennen in den Schrank und verstecken sich
+- [[Jorvan]] ist nicht leise und reißt ausversehen die Schranktür raus
+- Er hält sie per Hand an Ort und Stelle
+- [[Tom Flinken]] kommt in den ersten Stock und entdeckt sie im Schrank
+- Sie kommen raus und [[Tado]] ze
