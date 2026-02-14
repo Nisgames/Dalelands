@@ -32,4 +32,5 @@ session: "[[03 - Eulenturm]]"
 - [[Jorvan]] ist nicht leise und reißt ausversehen die Schranktür raus
 - Er hält sie per Hand an Ort und Stelle
 - [[Tom Flinken]] kommt in den ersten Stock und entdeckt sie im Schrank
-- Sie kommen raus und [[Tado]] ze
+- Sie kommen raus und [[Tado]] zeigt ihm die Anstecknadel von [[Kaelen]] mit [[Zhentarim]] Logo, die er mitgenommen hatte
+- 
