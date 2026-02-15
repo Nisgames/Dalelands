@@ -61,6 +61,8 @@ session: "[[03 - Eulenturm]]"
 
 ## DM-Feedback
 
-
+- Bisher die gelungendste Session
+- Positives Feedback erhalten, dass der Kampf mal variabel nicht am Ende der Session war
+- Spieler
 
 ## Spieler-Feedback
