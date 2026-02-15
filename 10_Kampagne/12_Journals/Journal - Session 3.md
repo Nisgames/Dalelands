@@ -57,3 +57,10 @@ session: "[[03 - Eulenturm]]"
 - Er wird verzaubert und will jetzt den Splitter beschützen
 - Sie diskutieren kurz mit Tom, der den Splitter nach [[Battledale]] bringen will und [[Jorvan]], der jetzt will, dass er an Ort und Stelle bleibt
 - Dann taucht auf einmal der Drow aus dem [[White Hart Inn]] hinter ihnen auf ([[Varon]])
+- **Ende** 
+
+## DM-Feedback
+
+
+
+## Spieler-Feedback
