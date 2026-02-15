@@ -66,7 +66,7 @@ session: "[[03 - Eulenturm]]"
 - Positives Feedback erhalten, dass der Kampf mal variabel nicht am Ende der Session war
 - Ungeplante Elemente durch Spieler-Ideen besser einbinden und flexibler werden
 	- Beispiel: [[Jorvan]]s Zauber auf den Goblin-Boss, dass er vielleicht coole Infos hat oder ein Sideplot aufgemacht wird über ein Goblin Dorf oder ähnliches
-	- Auch das Tremorsense ()
+	- Auch das Tremorsense (Erschütterungssinn) hätte früher unterbunden oder coolere Ergebnisse liefern können
 
 ## Spieler-Feedback
 
