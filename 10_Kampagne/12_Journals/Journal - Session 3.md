@@ -33,4 +33,7 @@ session: "[[03 - Eulenturm]]"
 - Er hält sie per Hand an Ort und Stelle
 - [[Tom Flinken]] kommt in den ersten Stock und entdeckt sie im Schrank
 - Sie kommen raus und [[Tado]] zeigt ihm die Anstecknadel von [[Kaelen]] mit [[Zhentarim]] Logo, die er mitgenommen hatte
+- Währenddessen kommt [[Elina]] wieder in den Turm und schleicht sich unten rein
+- [[Tom Flinken]] glaubt ihm und sie setzen sich an den Tisch
+- [[Elina]] kommt dazu und sie reden
 - 
