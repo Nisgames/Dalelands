@@ -49,4 +49,7 @@ session: "[[03 - Eulenturm]]"
 - Mit [[Tom Flinken]]s Idee machen sie Feuer und erzeugen mit der Kohle eine Karte auf einem Stück Pergament
 - [[Elina]] identifiziert das Ziel als den [[Weißer Hain]] und sie machen sich direkt am Morgen alle gemeinsam auf den Weg dorthin
 - Sie fahren mit ihren Booten auf dem [[Ashaba]] los
-- Nach kurzer Fahrt überholen sie einen Händler, der links am Ufer auf einer Kutsche unterwegs ist und eine 
+- Nach kurzer Fahrt überholen sie einen Händler, der links am Ufer auf einer Kutsche unterwegs ist und eine Ladung nach [[Battledale]] transportiert
+- Sie quatschen kurz und verabschieden sich
+- Dann kommen sie an der Stelle an, wo sie den Fluss verlassen und zu Fuß weiter reisen müssen
+- Sie kommen durch die Zeitersparnis per Fluss vor [[Varon]] am [[Weißer Hain]] a
