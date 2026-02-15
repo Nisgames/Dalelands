@@ -66,10 +66,11 @@ session: "[[03 - Eulenturm]]"
 - Positives Feedback erhalten, dass der Kampf mal variabel nicht am Ende der Session war
 - Ungeplante Elemente durch Spieler-Ideen besser einbinden und flexibler werden
 	- Beispiel: [[Jorvan]]s Zauber auf den Goblin-Boss, dass er vielleicht coole Infos hat oder ein Sideplot aufgemacht wird über ein Goblin Dorf oder ähnliches
+	- Auch das Tremorsense ()
 
 ## Spieler-Feedback
 
-| Zeitstempel         | Session (z.B. "2") | Wie fandest du die Session? | Wie war die Balance? | Hatte dein Charakter genügend Spotlight? | Was hat dir besonders gefallen?                            | Hast du Verbesserungswünsche?                                                                        | **Sonstiges?**                        |
+| Zeitstempel         | Session (z.B. "2") | Wie fandest du die Session? | Wie war die Balance? | Hatte dein Charakter genügend Spotlight? | Was hat dir besonders gefallen?                            | Hast du Verbesserungswünsche?                                                                        | Sonstiges?                            |
 | ------------------- | ------------------ | --------------------------- | -------------------- | ---------------------------------------- | ---------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------- |
 | 08.02.2026 16:22:24 | 3                  | 5                           | Genau richtig        | Ja                                       | Sehr abwechslungsreich                                     | Nö                                                                                                   | Ich liebe dich :)                     |
 | 08.02.2026 16:48:14 | 3                  | 5                           | Genau richtig        | Ja                                       | Es sind viele Verschiedene Spiel mechaniken genutzt worden |                                                                                                      |                                       |
