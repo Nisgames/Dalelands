@@ -44,6 +44,7 @@ session: "[[03 - Eulenturm]]"
 - Die Spieler schlagen sich gut und auch [[Tom Flinken]] wacht auf und springt aus dem ersten Stock, um sie im Kampf zu unterstützen
 - Sie besiegen die Goblins, zwei rennen weg, und nehmen den Goblin-Boss gefangen
 - Dann fragen sie ihn im Turm aus, was er in der Gegend gesehen hat (nichts)
+- [[Jorvan]] bezaubert ihn, dass er ih
 - Sie lassen ihn laufen unter der Abmachung, dass er sie nicht nochmal angreifen wird
 - Unterdessen entdeckt [[Jorvan]] Kratzer im Tisch (die Karte von [[Varon]])
 - Mit [[Tom Flinken]]s Idee machen sie Feuer und erzeugen mit der Kohle eine Karte auf einem Stück Pergament
@@ -63,6 +64,7 @@ session: "[[03 - Eulenturm]]"
 
 - Bisher die gelungendste Session
 - Positives Feedback erhalten, dass der Kampf mal variabel nicht am Ende der Session war
-- Spieler
+- Ungeplante Elemente durch Spieler-Ideen besser einbinden und flexibler werden
+	- Beispiel: 
 
 ## Spieler-Feedback
