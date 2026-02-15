@@ -3,7 +3,8 @@
   "newFileFolderPath": "00_Admin/02_Entwürfe",
   "attachmentFolderPath": "90_Ressourcen",
   "userIgnoreFilters": [
-    "00_Admin/03_Templates/"
+    "00_Admin/03_Templates/",
+    "30_Kompendium/31_Bestiarium/"
   ],
   "showInlineTitle": true,
   "spellcheck": false,
