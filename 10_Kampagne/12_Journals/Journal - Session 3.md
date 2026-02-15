@@ -52,4 +52,7 @@ session: "[[03 - Eulenturm]]"
 - Nach kurzer Fahrt überholen sie einen Händler, der links am Ufer auf einer Kutsche unterwegs ist und eine Ladung nach [[Battledale]] transportiert
 - Sie quatschen kurz und verabschieden sich
 - Dann kommen sie an der Stelle an, wo sie den Fluss verlassen und zu Fuß weiter reisen müssen
-- Sie kommen durch die Zeitersparnis per Fluss vor [[Varon]] am [[Weißer Hain]] a
+- Sie kommen durch die Zeitersparnis per Fluss vor [[Varon]] am [[Weißer Hain]] an
+- [[Jorvan]] will sich den [[Schattensplitter]] in der Elfenstatue anschauen und betritt das Platteau
+- Er wird verzaubert und will jetzt den Splitter beschützen
+- 
