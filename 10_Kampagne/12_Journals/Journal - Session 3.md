@@ -48,4 +48,5 @@ session: "[[03 - Eulenturm]]"
 - Unterdessen entdeckt [[Jorvan]] Kratzer im Tisch (die Karte von [[Varon]])
 - Mit [[Tom Flinken]]s Idee machen sie Feuer und erzeugen mit der Kohle eine Karte auf einem Stück Pergament
 - [[Elina]] identifiziert das Ziel als den [[Weißer Hain]] und sie machen sich direkt am Morgen alle gemeinsam auf den Weg dorthin
-- 
+- Sie fahren mit ihren Booten auf dem [[Ashaba]] los
+- Nach kurzer Fahrt überholen sie einen Händler, der links am Ufer auf einer Kutsche unterwegs ist und eine 
