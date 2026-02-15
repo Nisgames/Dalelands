@@ -36,4 +36,4 @@ session: "[[03 - Eulenturm]]"
 - Währenddessen kommt [[Elina]] wieder in den Turm und schleicht sich unten rein
 - [[Tom Flinken]] glaubt ihm und sie setzen sich an den Tisch
 - [[Elina]] kommt dazu und sie reden
-- 
+- Sie erzählen [[Tom Flinken]], dass sie auch von den 
