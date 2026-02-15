@@ -32,8 +32,9 @@ session: "[[03 - Eulenturm]]"
 - [[Jorvan]] ist nicht leise und reißt ausversehen die Schranktür raus
 - Er hält sie per Hand an Ort und Stelle
 - [[Tom Flinken]] kommt in den ersten Stock und entdeckt sie im Schrank
-- Sie kommen raus und [[Tado]] zeigt ihm die Anstecknadel von [[Kaelen]] mit [[Zhentarim]] Logo, die er mitgenommen hatte
+- Sie kommen raus und [[Tado]] zeigt ihm die Anstecknadel von [[Kaelen]] mit [[Zhentarim]] Logo, die er mitgenommen hatte und gibt sich auch als [[Zhentarim]] aus
 - Währenddessen kommt [[Elina]] wieder in den Turm und schleicht sich unten rein
 - [[Tom Flinken]] glaubt ihm und sie setzen sich an den Tisch
 - [[Elina]] kommt dazu und sie reden
-- Sie erzählen [[Tom Flinken]], dass sie auch von den 
+- Sie erzählen [[Tom Flinken]], dass sie auch von den [[Zhentarim]] sind und geschickt wurden, um ihn zu suchen und ihm zu helfen
+- [[Tom Flinken]] erzählt ihnen daraufhin von seinem Auftrag
