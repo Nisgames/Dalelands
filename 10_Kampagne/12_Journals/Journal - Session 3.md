@@ -40,3 +40,5 @@ session: "[[03 - Eulenturm]]"
 - [[Tom Flinken]] erzählt ihnen daraufhin von seinem Auftrag, den Drow hier in der Gegend ([[Varon]]) zu finden und erzäht ihnen, dass er den Auftrag von [[Alfonso]] erhalten hat und aus [[Battledale]] kommt
 - Spieler geben aus, auch aus [[Battledale]] und von [[Alfonso]] zu kommen
 - Sie schicken Tom im 2. Stock schlafen und gehen selber ins Erdgeschoss
+- Während der ersten Nachtwache kommen eine Gruppe Goblins angeführt von einem Goblin-Boss an den Turm und greifen an
+- Die Spieler schlagen sich gut und auch [[Tom Flinken]] wacht auf und springt aus dem ersten Stock, um 
