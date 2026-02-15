@@ -37,4 +37,6 @@ session: "[[03 - Eulenturm]]"
 - [[Tom Flinken]] glaubt ihm und sie setzen sich an den Tisch
 - [[Elina]] kommt dazu und sie reden
 - Sie erzählen [[Tom Flinken]], dass sie auch von den [[Zhentarim]] sind und geschickt wurden, um ihn zu suchen und ihm zu helfen
-- [[Tom Flinken]] erzählt ihnen daraufhin von seinem Auftrag, den Drow hier in der Gegend ([[Varon]]) zu finden und erzäht ihnen, dass er den Auftrag von [[]]
+- [[Tom Flinken]] erzählt ihnen daraufhin von seinem Auftrag, den Drow hier in der Gegend ([[Varon]]) zu finden und erzäht ihnen, dass er den Auftrag von [[Alfonso]] erhalten hat und aus [[Battledale]] kommt
+- Spieler geben aus, auch aus [[Battledale]] und von [[Alfonso]] zu kommen
+- Sie schicken Tom im 2. Stock schlafen und gehen selber ins Erdgeschoss
