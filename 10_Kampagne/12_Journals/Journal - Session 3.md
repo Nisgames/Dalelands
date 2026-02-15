@@ -41,4 +41,7 @@ session: "[[03 - Eulenturm]]"
 - Spieler geben aus, auch aus [[Battledale]] und von [[Alfonso]] zu kommen
 - Sie schicken Tom im 2. Stock schlafen und gehen selber ins Erdgeschoss
 - Während der ersten Nachtwache kommen eine Gruppe Goblins angeführt von einem Goblin-Boss an den Turm und greifen an
-- Die Spieler schlagen sich gut und auch [[Tom Flinken]] wacht auf und springt aus dem ersten Stock, um 
+- Die Spieler schlagen sich gut und auch [[Tom Flinken]] wacht auf und springt aus dem ersten Stock, um sie im Kampf zu unterstützen
+- Sie besiegen die Goblins, zwei rennen weg, und nehmen den Goblin-Boss gefangen
+- Dann fragen sie ihn im Turm aus, was er in der Gegend gesehen hat (nichts)
+- 
