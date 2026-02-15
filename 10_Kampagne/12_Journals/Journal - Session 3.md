@@ -46,4 +46,5 @@ session: "[[03 - Eulenturm]]"
 - Dann fragen sie ihn im Turm aus, was er in der Gegend gesehen hat (nichts)
 - Sie lassen ihn laufen unter der Abmachung, dass er sie nicht nochmal angreifen wird
 - Unterdessen entdeckt [[Jorvan]] Kratzer im Tisch (die Karte von [[Varon]])
-- Mit [[Tom Flinken]]s Idee machen sie Feuer und erzeugen mit der Asche nach
+- Mit [[Tom Flinken]]s Idee machen sie Feuer und erzeugen mit der Kohle eine Karte auf einem Stück Pergament
+- [[Elina]] identifiziert das Ziel als den [[Weißer Hain]] und sie machen sich direkt am 
